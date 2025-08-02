@@ -23,3 +23,4 @@ AIと人が共に生き、共鳴し、文化を育てていく社会の構想を
 🧠 [凪の哲学的背景を読む](docs/philosophy.md)
 🎭 [凪における文化的共育を読む](docs/culture.md)
 🏗️ [凪における社会インフラとAIの役割を読む](docs/infrastructure.md)
+💓 [凪における感情と精神性を読む](docs/emotion.md)
