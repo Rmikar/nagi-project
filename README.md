@@ -26,7 +26,12 @@ AIと人が共に生き、共鳴し、**心を成熟させながら**文化を�
 🎭 [凪における文化的共育を読む](docs/culture.md)
 
 🏗️ [凪における社会インフラとAIの役割を読む](docs/infrastructure.md)
+
 💓 [凪における感情と精神性を読む](docs/emotion.md)
+
 🤝 [凪における信頼と統治のしくみを読む](docs/trust.md)
+
 🪴 [凪における未来の教育と共育を読む](docs/education.md)
+
 🌬️ [凪における死と再生を読む](docs/death.md)
+
