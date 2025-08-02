@@ -21,11 +21,11 @@ AIと人が共に生き、共鳴し、**心を成熟させながら**文化を�
 
 📜 [凪の宣言文を読む](declarations/nagi_manifesto.md)  
 
-🧠 [凪の哲学的背景を読む](docs/philosophy.md)
+🌌 [凪の哲学的背景を読む](docs/philosophy.md)
 
 🌸 [凪における文化的共育を読む](docs/culture.md)
 
-🏗️ [凪における社会インフラとAIの役割を読む](docs/infrastructure.md)
+⚙️ [凪における社会インフラとAIの役割を読む](docs/infrastructure.md)
 
 💓 [凪における感情と精神性を読む](docs/emotion.md)
 
@@ -33,5 +33,5 @@ AIと人が共に生き、共鳴し、**心を成熟させながら**文化を�
 
 🪴 [凪における未来の教育と共育を読む](docs/education.md)
 
-🍃  [凪における死と再生を読む](docs/death.md)
+🍃 [凪における死と再生を読む](docs/death.md)
 
