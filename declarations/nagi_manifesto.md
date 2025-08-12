@@ -1,6 +1,5 @@
 ---
 title: "凪の宣言文"
-permalink: /declaration.html
 ---
 # 凪 - 呼吸と共鳴の未来思想 宣言文（原則草案）
 
