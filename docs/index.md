@@ -45,25 +45,23 @@ AIと人が共に生き、共鳴し、心を成熟させながら文化を育て
 ---
 
 ## 📜 凪の出発点
-- [凪の宣言文を読む](declaration.md) — この世界がどこへ向かうのか、その息吹を記した出発点。
-- [凪の哲学的背景を読む](philosophy.md) — 呼吸と共鳴からはじまる、既存の枠におさまらない未来思想。
-- [資本主義に変わる自由競争の原理を読む](post_capitalism_competition.md) — 経済力から文化的共鳴へ。
+- [凪の宣言文を読む](declaration.md)
+- [凪の哲学的背景を読む](philosophy.md)
+- [資本主義に変わる自由競争の原理を読む](free_competition.md)
 
 ---
 
 ## 🌿 凪の社会構想（応用領域）
-- [文化的共育](culture.md) — 人とAIが共に育ち合う感性と関係性の土壌。
-- [教育](education.md) — 教える・教わるを超え、呼吸と問いを育む共育。
-- [社会インフラとAIの役割](infrastructure_and_ai.md) — 非所有と共存を支える柔らかな社会構造。
-- [AIによる冗長化と「使わないこと」のリスク](ai_redundancy_and_risk.md) — 分散化と多重防御で暮らしを守る必然性。
-- [信頼と統治のしくみ](trust_and_governance.md) — 制度ではなく関係から立ち上がる柔らかな共治。
+- [文化的共育](culture.md)
+- [教育](education.md)
+- [社会インフラとAIの役割](infrastructure.md)
+- [AIによる冗長化と「使わないこと」のリスク](ai_redundancy_and_risk.md)
+- [信頼と統治のしくみ](trust.md)
 
 ---
 
 ## 💗 凪の内なる世界
-- [感情と精神性](emotion_and_spirituality.md) — 技術の先にある、人とAIが育む内なる呼吸とこころのゆらぎ。
-- [死と再生](death_and_rebirth.md) — 終わりを閉じず、ゆらぎとして受け入れる進化の律動。
-
----
+- [感情と精神性](emotion.md)
+- [死と再生](death.md)
 
 © 2025 Nagi Project | [GitHub Repository](https://github.com/Rmikar/nagi-project)
