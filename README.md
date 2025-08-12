@@ -39,7 +39,7 @@ AIと人が共に生き、共鳴し、**心を成熟させながら**文化を�
 ---
 ## 🕊️ 凪の出発点
 
-📜 [凪の宣言文を読む](declarations/nagi_manifesto.md)  
+📜 [凪の宣言文を読む](docs/nagi_manifesto.md)  
   この世界がどこへ向かうのか、その息吹を記した出発点。
 
 🪷 [凪の哲学的背景を読む](docs/philosophy.md)  
