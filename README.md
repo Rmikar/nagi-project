@@ -1,7 +1,7 @@
 # nagi-project
 
 <section id="compass">
-  <h1>🧭 凪プロジェクト：わたしたちの羅針盤</h1>
+  <h1>🧭 凪プロジェクト：資本主義の時代から未来へ行く羅針盤</h1>
 
 <p class="subtitle">
   資本主義の時代から未来へ行く<strong>羅針盤</strong>。
