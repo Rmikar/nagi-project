@@ -2,12 +2,13 @@ name: Sync README to index
 
 on:
   push:
-    paths:
-      - README.md
+    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: write-all
+
     steps:
       - uses: actions/checkout@v3
       - run: cp README.md docs/index.md
