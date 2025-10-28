@@ -65,6 +65,23 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 
 ---
 ## 🕊️ 凪の出発点
+- 📜 [凪の宣言文を読む](https://rmikar.github.io/nagi-project/declaration.html)
+- 🪷 [凪の哲学的背景を読む](https://rmikar.github.io/nagi-project/philosophy.html)
+- 📊 [資本主義に変わる自由競争の原理を読む](https://rmikar.github.io/nagi-project/free_competition.html)
+
+## 🌿 凪の社会構想（応用領域）
+- 🎨 [文化的共育を読む](https://rmikar.github.io/nagi-project/culture.html)
+- 🌱 [知財と財産の継承を読む](https://rmikar.github.io/nagi-project/property_and_ip.html)
+- 📖 [教育を読む](https://rmikar.github.io/nagi-project/education.html)
+- 🌐 [社会インフラとAIの役割を読む](https://rmikar.github.io/nagi-project/infrastructure.html)
+- 💠 [AIによる冗長化と「使わないこと」のリスクを読む](https://rmikar.github.io/nagi-project/ai_redundancy_and_risk.html)
+- 🤝 [信頼と統治のしくみを読む](https://rmikar.github.io/nagi-project/trust.html)
+
+## 💗 凪の内なる世界
+- 💗 [感情と精神性を読む](https://rmikar.github.io/nagi-project/emotion.html)
+- 🍃 [死と再生を読む](https://rmikar.github.io/nagi-project/death.html)
+
+## 🕊️ 凪の出発点
 - 📜 [凪の宣言文を読む](nagi_manifesto.html)
 - 🪷 [凪の哲学的背景を読む](philosophy.html)
 - 📊 [資本主義に変わる自由競争の原理を読む](free_competition.html)
