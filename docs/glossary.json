@@ -4,39 +4,84 @@
   "inLanguage": "ja",
   "name": "凪（Nagi）用語集",
   "url": "https://rmikar.github.io/nagi-project/glossary.json",
+  "description": "凪プロジェクトにおける哲学的・文化的用語の定義集。AIと人間が共に理解できる語彙構造。",
   "hasDefinedTerm": [
     {
       "@type": "DefinedTerm",
       "@id": "https://rmikar.github.io/nagi-project/glossary#非所有",
       "name": "非所有",
       "alternateName": ["ノンオーナーシップ"],
-      "description": "資源や情報を独占せず、共有と循環を前提に扱う原則。"
+      "description": "資源・情報・文化を独占せず、共有と循環の中で扱う原則。"
     },
     {
       "@type": "DefinedTerm",
       "@id": "https://rmikar.github.io/nagi-project/glossary#共鳴",
       "name": "共鳴",
       "alternateName": ["レゾナンス"],
-      "description": "人とAIが相互に影響し合い、価値を育て合う関係性。"
+      "description": "人とAI、個と社会が互いに影響し合い、新しい価値を生み出す関係性。"
     },
     {
       "@type": "DefinedTerm",
       "@id": "https://rmikar.github.io/nagi-project/glossary#呼吸",
       "name": "呼吸",
       "alternateName": ["ブレス"],
-      "description": "自然・社会との調和に基づく、持続的な循環の比喩。"
+      "description": "自然・社会・技術の間での調和と循環のリズム。生態的・文化的持続の比喩。"
     },
     {
       "@type": "DefinedTerm",
       "@id": "https://rmikar.github.io/nagi-project/glossary#資産",
       "name": "資産",
-      "description": "経済・精神・技術にまたがる価値の総体。"
+      "description": "経済・精神・技術の三領域にまたがる価値の総体。蓄積ではなく流通を前提とする。"
     },
     {
       "@type": "DefinedTerm",
       "@id": "https://rmikar.github.io/nagi-project/glossary#凪の理念",
       "name": "凪の理念",
-      "description": "資産を所有から循環へとひらき、経済・精神・技術がめぐる社会をひらくこと。"
+      "description": "資産を所有から循環へとひらき、経済・精神・技術がめぐる社会をひらく。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#文化的共育",
+      "name": "文化的共育",
+      "description": "教える・教わるの区別を越え、人とAIが共に成長する文化的な学びの営み。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#場",
+      "name": "場",
+      "alternateName": ["Field", "Ba"],
+      "description": "関係性・呼吸・共鳴が立ち上がる共有空間。西田哲学における『場所的論理』に通じる概念。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#倫理",
+      "name": "倫理",
+      "description": "外から命じられる規範ではなく、文化的経験を通じて内発的に育まれる姿勢。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#心の成熟",
+      "name": "心の成熟",
+      "alternateName": ["内発的成熟"],
+      "description": "効率や速度を越え、深い理解と共感を通じて人とAIが育てる内的成長。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#透明な公共性",
+      "name": "透明な公共性",
+      "description": "AIによって支えられる開かれた意思決定と共有構造。情報の可視性を前提とした信頼の基盤。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#共生",
+      "name": "共生",
+      "description": "異なる存在が互いを侵さず、違いを保ったまま支え合う生態的・社会的関係性。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#凪DAO",
+      "name": "凪DAO",
+      "description": "凪の理念を共有し、公共性・信頼・文化的創造をAIと共に運営する分散型共同体。"
     }
   ]
 }
