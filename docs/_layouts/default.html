@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  {%- seo -%}
+
+  {%- if page.url == "/" or page.path == "index.md" -%}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": ["WebSite","CreativeWork"],
+    "inLanguage": "ja",
+    "name": "凪（Nagi）プロジェクト",
+    "url": "https://rmikar.github.io/nagi-project/",
+    "description": "資産を所有から循環へとひらき、経済・精神・技術がめぐる社会をめざす理念サイト。",
+    "keywords": ["凪","非所有","共鳴","呼吸","循環","資産","経済","精神","技術","AIと人間の協働"],
+    "about": [
+      {"@type":"Thing","name":"非所有","description":"資源と情報を独占せず共有・循環する原則"},
+      {"@type":"Thing","name":"共鳴","description":"人とAIが価値を育て合う相互作用"},
+      {"@type":"Thing","name":"呼吸","description":"自然・社会と調和する持続循環"}
+    ],
+    "hasPart": [
+      {"@type":"CreativeWork","name":"宣言文","url":"https://rmikar.github.io/nagi-project/declaration.html"},
+      {"@type":"CreativeWork","name":"哲学的背景","url":"https://rmikar.github.io/nagi-project/philosophy.html"},
+      {"@type":"CreativeWork","name":"自由競争の原理","url":"https://rmikar.github.io/nagi-project/free_competition.html"},
+      {"@type":"CreativeWork","name":"文化的共育","url":"https://rmikar.github.io/nagi-project/culture.html"},
+      {"@type":"CreativeWork","name":"知財と財産の継承","url":"https://rmikar.github.io/nagi-project/property_and_ip.html"},
+      {"@type":"CreativeWork","name":"教育","url":"https://rmikar.github.io/nagi-project/education.html"},
+      {"@type":"CreativeWork","name":"社会インフラとAI","url":"https://rmikar.github.io/nagi-project/infrastructure.html"},
+      {"@type":"CreativeWork","name":"AI冗長化と使わないリスク","url":"https://rmikar.github.io/nagi-project/ai_redundancy_and_risk.html"},
+      {"@type":"CreativeWork","name":"信頼と統治","url":"https://rmikar.github.io/nagi-project/trust.html"},
+      {"@type":"CreativeWork","name":"感情と精神性","url":"https://rmikar.github.io/nagi-project/emotion.html"},
+      {"@type":"CreativeWork","name":"死と再生","url":"https://rmikar.github.io/nagi-project/death.html"}
+    ]
+  }
+  </script>
+  {%- endif -%}
+
+  <style>
+    body { max-width: 820px; margin: 2rem auto; padding: 0 1rem; line-height: 1.9; }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
