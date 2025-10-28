@@ -1,0 +1,12 @@
+# /docs/_config.yml
+title: 凪（Nagi）プロジェクト
+description: 資産を所有から循環へとひらき、経済・精神・技術がめぐる社会をめざす理念サイト
+url: https://rmikar.github.io
+baseurl: /nagi-project
+lang: ja
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-sitemap     # /nagi-project/sitemap.xml を自動生成
+  - jekyll-seo-tag     # SEO/OG/Cannonical を自動付与
