@@ -82,3 +82,4 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 - 🍃 [死と再生を読む](https://rmikar.github.io/nagi-project/death.html)
 
 📚 [凪の用語集（JSON / DefinedTermSet）](https://rmikar.github.io/nagi-project/glossary.json)
+<small>🗺️ <a href="https://rmikar.github.io/nagi-project/sitemap.xml">sitemap.xml</a></small>
