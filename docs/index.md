@@ -1,5 +1,5 @@
 く# nagi-project
-
+<base href="/nagi-project/">
 <h1>🌊 凪プロジェクト</h1>
 
 <p class="lead">
