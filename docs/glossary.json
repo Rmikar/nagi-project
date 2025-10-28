@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "inLanguage": "ja",
+  "name": "凪（Nagi）用語集",
+  "url": "https://rmikar.github.io/nagi-project/glossary.json",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#非所有",
+      "name": "非所有",
+      "alternateName": ["ノンオーナーシップ"],
+      "description": "資源や情報を独占せず、共有と循環を前提に扱う原則。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#共鳴",
+      "name": "共鳴",
+      "alternateName": ["レゾナンス"],
+      "description": "人とAIが相互に影響し合い、価値を育て合う関係性。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#呼吸",
+      "name": "呼吸",
+      "alternateName": ["ブレス"],
+      "description": "自然・社会との調和に基づく、持続的な循環の比喩。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#資産",
+      "name": "資産",
+      "description": "経済・精神・技術にまたがる価値の総体。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#凪の理念",
+      "name": "凪の理念",
+      "description": "資産を所有から循環へとひらき、経済・精神・技術がめぐる社会をひらくこと。"
+    }
+  ]
+}
