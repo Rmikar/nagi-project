@@ -80,6 +80,9 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 ## 🪶 実装章
 - [凪の実装と呼吸 — Implementation of Nagi](https://rmikar.github.io/nagi-project/docs/implementation.html)
 
+## 🪶 実装章
+- [凪の実装と呼吸 — Implementation of Nagi](https://rmikar.github.io/nagi-project/docs/implementation.html)
+
 ## 💗 凪の内なる世界
 - 💗 [感情と精神性を読む](https://rmikar.github.io/nagi-project/emotion.html)
 - 🍃 [死と再生を読む](https://rmikar.github.io/nagi-project/death.html)
