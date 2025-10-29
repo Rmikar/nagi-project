@@ -1,3 +1,8 @@
+---
+title: 凪の実装と呼吸
+layout: default
+---
+
 # 🪶 凪の実装と呼吸 — Implementation of Nagi
 
 ## はじめに：思想を生きるということ
