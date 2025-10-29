@@ -83,6 +83,9 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 ## 🏛 制度設計章
 - [凪思想の制度設計と実践 — Institutional Design of Nagi](https://rmikar.github.io/nagi-project/institutional_design.html)
 
+## 🌿 非所有章
+- [非所有の社会制度化 — Institutional Design for Non-Ownership](https://rmikar.github.io/nagi-project/non_ownership.html)
+
 ## 🧩 Quiet Praxis章
 - [凪思想の実効化と静かな実践技術 — Quiet Praxis of Nagi](https://rmikar.github.io/nagi-project/quiet_praxis.html)
 
