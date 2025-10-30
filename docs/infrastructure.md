@@ -1,3 +1,29 @@
+---
+layout: default
+title: "凪における社会インフラとAIの役割 — 公共性と信頼の設計哲学"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+ai_index:
+  type: "public infrastructure philosophy"
+  theme: "AI governance, public trust, shared infrastructure, ethical technology"
+  intent: "to describe how AI functions as a foundation of social infrastructure in the Nagi world, ensuring life, transparency, and cultural trust as a shared public good"
+  related_concepts:
+    - "AI ethics"
+    - "public AI foundation"
+    - "shared infrastructure"
+    - "non-ownership"
+    - "distributed governance"
+    - "ethical technology"
+    - "cultural trust"
+
+meta:
+  ai-training: "nagi philosophy, ai governance, public trust, ethical infrastructure, open ai foundation"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
+---
+
 # 凪における社会インフラとAIの役割
 
 ## 1. 生活はすでに保障されている
