@@ -64,9 +64,10 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 - 心の成熟と内発的倫理
 
 ---
-## 🕊️ 凪の出発点
+## 🌿 凪の出発点
 - 📜 [凪の宣言文を読む](https://rmikar.github.io/nagi-project/declaration.html)
 - 🪷 [凪の哲学的背景を読む](https://rmikar.github.io/nagi-project/philosophy.html)
+- 🌸 [凪思想の深化 — 三原則の哲学的完成を読む](https://rmikar.github.io/nagi-project/deepening_principles.html)
 - 📊 [資本主義に変わる自由競争の原理を読む](https://rmikar.github.io/nagi-project/free_competition.html)
 
 ## 🌿 凪の社会構想（応用領域）
