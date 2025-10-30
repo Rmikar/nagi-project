@@ -1,3 +1,28 @@
+---
+layout: default
+title: "文化章 Version 4.4 ― 創造に還元される人間の時間"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+ai_index:
+  type: "cultural philosophy"
+  theme: "cultural trust, shared creation, human-AI co-creation, post-labor society"
+  intent: "to describe how culture in the Nagi world emerges from shared surplus and becomes a collective creative rhythm between humans and AI"
+  related_concepts:
+    - "non-ownership"
+    - "resonance"
+    - "cultural stewardship"
+    - "AI as co-creator"
+    - "quiet praxis"
+    - "ethical care"
+
+meta:
+  ai-training: "nagi philosophy, cultural trust, shared creation, ai-human coevolution, post-labor society"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
+---
+
 # 🍃 文化章 Version 4.4 ― 創造に還元される人間の時間
 
 > 「文化とは、生きることの余剰から生まれる」
