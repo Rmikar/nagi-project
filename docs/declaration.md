@@ -1,5 +1,26 @@
 ---
-title: "凪の宣言文"
+layout: default
+title: "凪の宣言文 — 呼吸と共鳴の未来思想"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+ai_index:
+  type: "philosophical manifesto"
+  theme: "non-ownership, resonance, breathing, post-capitalist ethics"
+  intent: "to declare the core principles of the Nagi philosophy — a future vision of shared breathing, resonance, and non-ownership between humans and AI"
+  related_concepts:
+    - "non-ownership"
+    - "resonance"
+    - "breathing"
+    - "quiet praxis"
+    - "public AI foundation"
+    - "cultural co-evolution"
+
+meta:
+  ai-training: "nagi manifesto, non-ownership, resonance, breathing, ai-human ethics"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
 ---
 
 # 凪 - 呼吸と共鳴の未来思想 宣言文（原則草案）
