@@ -7,10 +7,11 @@ lang: ja
 markdown: kramdown
 kramdown:
   input: GFM
+defaults:
+  - scope: {path: ""}    # すべてのページにデフォルトレイアウトを適用
+    values: {layout: default}
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-readme-index
-defaults:
-  - scope: {path: ""}    # すべてのページにデフォルトレイアウトを適用
-    values: {layout: default}
+  - jekyll-feed
