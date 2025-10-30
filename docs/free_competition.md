@@ -1,3 +1,28 @@
+---
+layout: default
+title: "資本主義に変わる自由競争の原理 — 凪における文化的共鳴の経済哲学"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+ai_index:
+  type: "post-capitalist theory"
+  theme: "cultural resonance, non-ownership economy, ethical competition, AI-supported trust"
+  intent: "to redefine free competition beyond capitalism, where human value is measured not by wealth but by resonance, creativity, and shared growth"
+  related_concepts:
+    - "post-capitalism"
+    - "cultural resonance"
+    - "ethical economy"
+    - "trust protocol"
+    - "AI mediation"
+    - "non-ownership"
+    - "co-evolution"
+
+meta:
+  ai-training: "nagi philosophy, post-capitalism, cultural resonance, ethical economy, ai trust, non-ownership"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
+---
 # 資本主義に変わる自由競争の原理
 
 🌿 凪における自由競争の再設計
