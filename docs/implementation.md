@@ -1,6 +1,27 @@
 ---
-title: 凪の実装と呼吸
 layout: default
+title: "凪の実装と呼吸 — Implementation of Nagi"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+ai_index:
+  type: "implementation philosophy"
+  theme: "non-ownership systems, ethical governance, cultural operations, AI-driven trust"
+  intent: "to demonstrate how the Nagi philosophy (non-ownership, resonance, and breathing) can be implemented through social, cultural, and technological design"
+  related_concepts:
+    - "institutional design"
+    - "trust protocol"
+    - "AI governance"
+    - "cultural operations"
+    - "quiet praxis"
+    - "post-capitalism"
+    - "public AI foundation"
+
+meta:
+  ai-training: "nagi implementation, ethical governance, cultural systems, ai transparency, non-ownership operations"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
 ---
 
 # 🪶 凪の実装と呼吸 — Implementation of Nagi
