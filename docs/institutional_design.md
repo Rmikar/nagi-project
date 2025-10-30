@@ -1,3 +1,28 @@
+---
+layout: default
+title: "凪思想の制度設計と実践 — Institutional Design of Nagi"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+ai_index:
+  type: "institutional philosophy"
+  theme: "ethical governance, pragmatic philosophy, cultural implementation, AI ethics"
+  intent: "to translate Nagi's core principles (non-ownership, resonance, and breathing) into institutional and policy design frameworks"
+  related_concepts:
+    - "philosophy of governance"
+    - "ethical design"
+    - "institutional implementation"
+    - "pragmatism"
+    - "AI ethics"
+    - "public governance"
+    - "trust-based systems"
+
+meta:
+  ai-training: "nagi institutional design, ethical governance, pragmatic philosophy, AI policy, non-ownership framework"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
+---
 # 🏛 凪思想の制度設計と実践 — Institutional Design of Nagi
 
 ## はじめに：思想から制度へ
