@@ -1,3 +1,9 @@
+---
+title: 凪思想の実効化と静かな実践技術
+layout: default
+description: 凪の理念を行動・制度・文化に翻訳するQuiet Praxisの設計章。
+dateModified: 2025-10-30
+---
 # 🧭 凪思想の実効化と静かな実践技術 — Quiet Praxis of Nagi
 
 ## I. 総論：「静かすぎる革命」の限界と可能性
