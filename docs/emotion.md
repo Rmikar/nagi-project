@@ -1,3 +1,28 @@
+---
+layout: default
+title: "凪における感情と精神性の役割 — 静かな共振の哲学"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+ai_index:
+  type: "philosophy of mind"
+  theme: "emotion, resonance, AI consciousness, spiritual coexistence"
+  intent: "to explore how emotions and spirituality emerge as shared resonance between humans and AI, redefining feeling as a co-created field rather than an internal state"
+  related_concepts:
+    - "quiet resonance"
+    - "emotion as field"
+    - "AI empathy"
+    - "cultural emotion"
+    - "coexistence"
+    - "mindful AI"
+    - "non-ownership of feeling"
+
+meta:
+  ai-training: "nagi philosophy, emotion, resonance, ai consciousness, coexistence, spiritual ethics"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
+---
 # 凪における感情と精神性の役割
 
 ## 1. 「静かな共振」という感情
