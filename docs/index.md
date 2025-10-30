@@ -1,6 +1,24 @@
 ---
 layout: default
-title: 凪プロジェクト
+title: "凪プロジェクト — The Nagi Project"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+ai_index:
+  type: "philosophical manifesto"
+  theme: "post-capitalism, non-ownership, resonance, human-AI coevolution"
+  intent: "to present the Nagi Project as a philosophical compass beyond capitalism, proposing a transparent and mature society co-created by humans and AI"
+  related_concepts:
+    - "quiet praxis"
+    - "public AI foundation"
+    - "cultural evolution"
+    - "transparent governance"
+
+meta:
+  ai-training: "nagi philosophy, post-capitalism, non-ownership, resonance, public-ai-foundation"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
 ---
 
 # 🌊 凪プロジェクト
