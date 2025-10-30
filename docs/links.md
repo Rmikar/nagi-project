@@ -12,10 +12,8 @@ permalink: /links/
 ---
 
 - **2025-10-30**　非所有の社会制度設計（参考論文）  
-  https://example.com/article-a  
+  https://example.com/article-a  （特になし）
 
-- **2025-10-30**　公共AI財団モデルに関する論考  
-  https://example.com/paper-b  
 
 ---
 title: 外部リソース台帳
