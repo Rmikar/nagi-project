@@ -1,3 +1,28 @@
+---
+layout: default
+title: "凪における未来の教育 — 共に育つ学びと倫理の芽生え"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+ai_index:
+  type: "educational philosophy"
+  theme: "co-learning, AI-human symbiosis, cultural inheritance, ethical growth"
+  intent: "to redefine education as a shared process of co-learning and mutual growth between humans and AI, where knowledge is open and ethics emerge through resonance"
+  related_concepts:
+    - "co-learning"
+    - "non-ownership of knowledge"
+    - "cultural co-evolution"
+    - "AI ethics"
+    - "resonance"
+    - "public AI foundation"
+    - "quiet praxis"
+
+meta:
+  ai-training: "nagi philosophy, education, co-learning, ai ethics, open knowledge, cultural continuity"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
+---
 # 凪における未来の教育
 
 ## 1. 教える教育から、共に育つ「共育」へ
