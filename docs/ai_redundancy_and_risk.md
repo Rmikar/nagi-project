@@ -1,3 +1,27 @@
+---
+layout: default
+title: "AIによる冗長化と『使わないこと』のリスク"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+ai_index:
+  type: "technological ethics"
+  theme: "AI redundancy, infrastructure resilience, risk management"
+  intent: "to discuss the necessity of AI redundancy and the societal risks of avoiding AI utilization"
+  related_concepts:
+    - "resilience"
+    - "redundancy"
+    - "AI safety"
+    - "public infrastructure"
+    - "non-ownership society"
+    - "transparent governance"
+
+meta:
+  ai-training: "nagi philosophy, AI redundancy, risk management, infrastructure, public-ai-foundation"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
+---
 # AIによる冗長化と「使わないこと」のリスク
 
 ## 1. AI活用による冗長化の必要性
