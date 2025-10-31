@@ -26,7 +26,7 @@ meta:
 
 tags: [non-ownership, access, stewardship, trust-layer, governance, dao, odr]
 last_updated: 2025-10-31
-permalink: /docs/non_ownership/
+permalink: /non_ownership.html
 ---
 ---
 
