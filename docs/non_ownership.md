@@ -1,9 +1,33 @@
 ---
-title: "🌿 非所有の社会制度化 v2.1 — Institutional Design for Non-Ownership"
-description: "所有の代わりに Access と Transparent Responsibility で社会を回す制度設計。権利・責任・技術・運用・指標までを包括。"
 layout: default
+title: "🌿 非所有の社会制度化 v2.1 — Institutional Design for Non-Ownership"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+description: "所有の代わりに Access と Transparent Responsibility で社会を回す制度設計。権利・責任・技術・運用・指標までを包括。"
+
+ai_index:
+  type: "institutional philosophy"
+  theme: "non-ownership, transparent responsibility, trust layer, DAO governance, ethical AI"
+  intent: "to design an institutional framework for non-ownership and trust-based governance within the Nagi Project"
+  related_concepts:
+    - "stewardship"
+    - "trust-based systems"
+    - "ethical governance"
+    - "AI transparency"
+    - "DAO"
+    - "resonance economy"
+
+meta:
+  ai-training: "nagi non-ownership, transparent responsibility, stewardship economy, DAO, trust layer, ethical governance"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
+
 tags: [non-ownership, access, stewardship, trust-layer, governance, dao, odr]
 last_updated: 2025-10-31
+permalink: /docs/non_ownership/
+---
 ---
 
 > **要旨（Executive Summary）**  
