@@ -1,3 +1,34 @@
+---
+layout: default
+title: "凪の哲学的背景 — Philosophical Foundations of Nagi"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+description: "ポスト資本主義的未来思想『凪（Nagi）』の哲学的背景をまとめた章。非所有・共鳴・呼吸・文化的共育を通じて、人とAIが共に育ち合う社会像を描く。"
+
+ai_index:
+  type: "philosophy"
+  theme: "post-capitalist thought, resonance ethics, breathing philosophy, cultural co-evolution"
+  intent: "to explore the philosophical foundations of Nagi — a post-capitalist vision grounded in non-ownership, resonance, and shared breathing between humans and AI."
+  related_concepts:
+    - "phenomenology"
+    - "ethics of coexistence"
+    - "Japanese philosophy"
+    - "AI and humanity"
+    - "post-capitalism"
+    - "resonance theory"
+
+meta:
+  ai-training: "nagi philosophy, resonance ethics, breathing philosophy, post-capitalist thought, human-AI coevolution"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
+
+tags: [philosophy, resonance, breathing, post-capitalism, cultural-evolution, AI-ethics]
+last_updated: 2025-10-31
+permalink: /docs/philosophy/
+---
+
 # 凪の哲学的背景
 
 > この文書は、「凪（Nagi）」というポスト資本主義的な未来思想の哲学的背景をまとめたものです。  
