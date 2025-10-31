@@ -26,7 +26,7 @@ meta:
 
 tags: [praxis, quiet-reform, governance, ethics, implementation, resonance, non-ownership]
 last_updated: 2025-10-31
-permalink: /docs/quiet_praxis/
+permalink: /quiet_praxis.html
 ---
 # 🧭 凪思想の実効化と静かな実践技術 — Quiet Praxis of Nagi
 
