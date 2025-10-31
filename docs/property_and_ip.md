@@ -26,7 +26,7 @@ meta:
 
 tags: [inheritance, property, stewardship, non-ownership, resonance, IP]
 last_updated: 2025-10-31
-permalink: /docs/property_and_ip/
+permalink: /property_and_ip.html
 ---
 # 知財と財産の継承
 
