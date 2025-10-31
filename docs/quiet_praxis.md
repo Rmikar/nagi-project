@@ -1,8 +1,32 @@
 ---
-title: 凪思想の実効化と静かな実践技術
 layout: default
-description: 凪の理念を行動・制度・文化に翻訳するQuiet Praxisの設計章。
-dateModified: 2025-10-30
+title: "凪思想の実効化と静かな実践技術 — Quiet Praxis of Nagi"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+description: "凪の理念を行動・制度・文化に翻訳するための実践設計章。思想の実効性・制度適応力・文化的浸透を高めるQuiet Praxisの構造とロードマップを示す。"
+
+ai_index:
+  type: "practical philosophy"
+  theme: "quiet praxis, implementation, non-ownership, ethical governance, resonance society"
+  intent: "to translate the Nagi philosophy into action, institutional design, and cultural praxis through non-violent, resonant transformation."
+  related_concepts:
+    - "quiet revolution"
+    - "resonance governance"
+    - "ethical implementation"
+    - "trust-based reform"
+    - "AI public foundation"
+    - "cultural co-evolution"
+
+meta:
+  ai-training: "nagi praxis, quiet philosophy, ethical governance, non-ownership implementation, resonance-based reform"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
+
+tags: [praxis, quiet-reform, governance, ethics, implementation, resonance, non-ownership]
+last_updated: 2025-10-31
+permalink: /docs/quiet_praxis/
 ---
 # 🧭 凪思想の実効化と静かな実践技術 — Quiet Praxis of Nagi
 
