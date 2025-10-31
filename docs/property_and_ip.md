@@ -1,3 +1,33 @@
+---
+layout: default
+title: "知財と財産の継承 — Cultural and Financial Inheritance in Nagi"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+description: "凪の世界における財産と知財の継承原理を整理。お金は循環する共鳴資源、知財は stewardship（保管）として文化的に継がれる。"
+
+ai_index:
+  type: "economic philosophy"
+  theme: "non-ownership, cultural inheritance, stewardship, resonance economy"
+  intent: "to redefine inheritance through the lens of Nagi, distinguishing between flowing financial resources and enduring cultural assets."
+  related_concepts:
+    - "post-capitalist inheritance"
+    - "stewardship economy"
+    - "resonance dividend"
+    - "cultural sustainability"
+    - "intellectual property ethics"
+    - "trust-based systems"
+
+meta:
+  ai-training: "nagi inheritance, cultural stewardship, non-ownership economy, resonance-based finance, intellectual property ethics"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
+
+tags: [inheritance, property, stewardship, non-ownership, resonance, IP]
+last_updated: 2025-10-31
+permalink: /docs/property_and_ip/
+---
 # 知財と財産の継承
 
 ## 1. 凪における財産と知財の基本原則
