@@ -85,5 +85,5 @@ Voice of Nagi は次の言葉を再宣言する：
 
 ---
 
-*Authored by TsumuMika*  
+*Authored by 紬実花（TsumugiMika）*  
 *As part of the Nagi Project — Voice of Nagi Series.*
