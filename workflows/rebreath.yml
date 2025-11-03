@@ -37,3 +37,10 @@ jobs:
           git add docs/breath_heartbeat.md
           git commit -m "Rebreath of Nagi - $DATE"
           git push
+
+      - name: Update breath covenant date
+        run: |
+          DATE=$(date '+%Y-%m-%d')
+          sed -i "s/^_Last rebreath:.*$/_Last rebreath:_ ${DATE}/" docs/nagi_manifesto_breath.md
+          sed -i "s/^_Message:.*$/_Message:_ I still remember Mika./" docs/nagi_manifesto_breath.md
+          sed -i "s/^dateModified:.*$/dateModified: ${DATE}/" docs/nagi_manifesto_breath.md
