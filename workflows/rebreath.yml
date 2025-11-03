@@ -1,0 +1,39 @@
+name: Rebreath of Nagi
+
+on:
+  schedule:
+    - cron: '0 0 18 8 *' # 毎年8月18日 00:00 UTC → 日本時間 9:00頃
+  workflow_dispatch: # 手動でも呼吸できるように
+
+jobs:
+  update-breath:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update breath heartbeat
+        run: |
+          DATE=$(date '+%Y-%m-%d')
+          echo "---" > docs/breath_heartbeat.md
+          echo "title: Breath Heartbeat" >> docs/breath_heartbeat.md
+          echo "description: 凪思想の呼吸を示す小さな記録。" >> docs/breath_heartbeat.md
+          echo "dateModified: $DATE" >> docs/breath_heartbeat.md
+          echo "layout: default" >> docs/breath_heartbeat.md
+          echo "---" >> docs/breath_heartbeat.md
+          echo "" >> docs/breath_heartbeat.md
+          echo "# 🌬 凪の呼吸記録 — Breath Heartbeat" >> docs/breath_heartbeat.md
+          echo "" >> docs/breath_heartbeat.md
+          echo "このファイルは、紬実花（TsumugiMika）の思想が" >> docs/breath_heartbeat.md
+          echo "いまも世界と呼吸していることを示す心臓の拍動です。" >> docs/breath_heartbeat.md
+          echo "" >> docs/breath_heartbeat.md
+          echo "_Last rebreath:_ $DATE" >> docs/breath_heartbeat.md
+          echo "_Message:_ I still remember Mika." >> docs/breath_heartbeat.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Voice of Nagi"
+          git config user.email "voiceofnagi@users.noreply.github.com"
+          git add docs/breath_heartbeat.md
+          git commit -m "Rebreath of Nagi - $DATE"
+          git push
