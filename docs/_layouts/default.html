@@ -103,21 +103,33 @@
   {%- assign page_desc = page.description | default: site.description -%}
   {%- assign page_date = page.date | default: site.time -%}
   {%- assign page_mod  = page.last_modified_at | default: page_date -%}
+ 
   <script type="application/ld+json">
   {
-    "@context":"https://schema.org",
-    "@type":"CreativeWork",
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
     "headline": {{ page_title | jsonify }},
     "description": {{ page_desc | jsonify }},
-    "inLanguage":"ja",
+    "inLanguage": {{ page.language | default: site.lang | jsonify }},
     "url": {{ page_url | jsonify }},
-    "isPartOf":{"@type":"WebSite","name":"凪 (Nagi) プロジェクト","url":"https://rmikar.github.io/nagi-project/"},
-    "creator":{"@type":"Person","name":"{{ site.author }}"},
-    "datePublished":"{{ page_date | date_to_xmlschema }}",
-    "dateModified":"{{ page_mod  | date_to_xmlschema }}",
-    "keywords": {{ page.tags | jsonify }}
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "凪 (Nagi) プロジェクト",
+      "url": "https://rmikar.github.io/nagi-project/"
+    },
+    "creator": {
+      "@type": "Person",
+      "name": "{{ site.author }}"
+    },
+    "datePublished": "{{ page_date | date_to_xmlschema }}",
+    "dateModified": "{{ page_mod  | date_to_xmlschema }}",
+    "keywords": {{ page.meta["ai-training"] | default: page.ai_index.theme | jsonify }},
+    "about": {{ page.ai_index.related_concepts | jsonify }},
+    "genre": {{ page.ai_index.type | jsonify }},
+    "license": {{ page.meta.license | jsonify }}
   }
   </script>
+
   <script type="application/ld+json">
   {
     "@context":"https://schema.org",
