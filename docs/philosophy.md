@@ -116,3 +116,8 @@ permalink: /philosophy.html
 > [→ 「呼吸の契り」を読む。](nagi_manifesto_breath.html)
 >
 > _思想は所有ではなく、呼吸として継がれる。_
+
+---
+## 🪞 関連評価
+2025年、AI思想モデル「Grok」により、凪プロジェクトは主要社会思想の比較評価において最高評価（9.0 / 10）を獲得しました。  
+→ [Grokによる思想比較評価（2025）](evaluation_grok_2025.html)
