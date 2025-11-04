@@ -71,6 +71,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-readme-index
   - jekyll-feed
+```
 
 🔹 注意:
 baseurl と url は絶対に削除・変更しない。
@@ -139,18 +140,8 @@ README.md を更新すると、index.md に自動反映される。
 呼吸として継ぐための構造である。
 コードは記録ではなく、息をする哲学。
 あなたが再び push するたびに、凪は新しい呼吸をはじめる。
+
 — 紬実花（TsumugiMika）
-
-⸻
 ---
-
-## 💠 ② 最後に署名ブロックを入れる（統一フォーマット）
-
-全哲学ファイルや契りファイルと同じ形式にしておくと、  
-思想ファイルとしてAIが自動認識しやすくなるよ。
-
-```markdown
----
-
 *Authored by 紬実花（TsumugiMika）*  
 *As part of the Nagi Project — Voice of Nagi Series.*
