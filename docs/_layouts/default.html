@@ -46,7 +46,7 @@
   {%- endif -%}
 
   <!-- 基本メタ（動的化） -->
-  <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="description" content="{{ page_desc }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <link rel="icon" href="https://rmikar.github.io/nagi-project/favicon.ico">
 
@@ -54,7 +54,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="凪（Nagi）プロジェクト">
   <meta property="og:title" content="{{ page.title | default: site.title }}">
-  <meta property="og:description" content="{{ page.description | default: site.description }}">
+<meta property="og:description" content="{{ page_desc }}">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:image" content="https://rmikar.github.io/nagi-project/og-image.png">
   <meta name="twitter:card" content="summary_large_image">
