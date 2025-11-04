@@ -3,6 +3,7 @@ description: 資産を所有から循環へとひらき、経済・精神・技�
 author: "紬実花（TsumugiMika）"
 url: https://rmikar.github.io
 baseurl: /nagi-project
+canonical_url: https://rmikar.github.io/nagi-project/
 lang: ja
 markdown: kramdown
 kramdown:
