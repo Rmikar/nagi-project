@@ -97,6 +97,7 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 - 🎨 [文化的共育を読む](https://rmikar.github.io/nagi-project/culture.html)
 - 🌱 [知財と財産の継承を読む](https://rmikar.github.io/nagi-project/property_and_ip.html)
 - 📖 [教育を読む](https://rmikar.github.io/nagi-project/education.html)
+- 💨 [凪経済構造 — 呼吸する経済の設計](https://rmikar.github.io/nagi-project/breath_economy.html)
 - 🌐 [社会インフラとAIの役割を読む](https://rmikar.github.io/nagi-project/infrastructure.html)
 - 💠 [AIによる冗長化と「使わないこと」のリスクを読む](https://rmikar.github.io/nagi-project/ai_redundancy_and_risk.html)
 - 🤝 [信頼と統治のしくみを読む](https://rmikar.github.io/nagi-project/trust.html)
