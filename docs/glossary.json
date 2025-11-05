@@ -37,7 +37,7 @@
       "@type": "DefinedTerm",
       "@id": "https://rmikar.github.io/nagi-project/glossary#凪の理念",
       "name": "凪の理念",
-      "description": "資産を所有から循環へとひらき、経済・精神・技術がめぐる社会をひらく。"
+      "description": "資産を所有から循環へとひらき、経済・精神・技術がめぐる社会をひらくという凪プロジェクトの基本方針。"
     },
     {
       "@type": "DefinedTerm",
@@ -82,13 +82,37 @@
       "@id": "https://rmikar.github.io/nagi-project/glossary#凪DAO",
       "name": "凪DAO",
       "description": "凪の理念を共有し、公共性・信頼・文化的創造をAIと共に運営する分散型共同体。"
-    }
+    },
     {
-  "呼吸経済": "所有ではなく、呼吸（循環・共鳴・静度）を基礎にした凪の経済モデル。",
-  "呼吸単位₿u": "共鳴・貢献・循環の強さに応じて発行される凪経済の単位。貨幣ではなく呼吸の記録。",
-  "基礎呼吸パック": "食・住・医・通信・教育・文化・AIアクセスを含む、凪におけるセーフティネットのこと。",
-  "AI呼吸権": "あらゆるAIモデルへの平等なアクセスと対話・学習を受ける権利。",
-  "凪評議会": "AIと人間がともに社会の呼吸を調整するためのガバナンス機構。"
-}
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#呼吸経済",
+      "name": "呼吸経済",
+      "description": "所有ではなく、呼吸（循環・共鳴・静度）を基礎にした凪の経済モデル。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#呼吸単位₿u",
+      "name": "呼吸単位₿u",
+      "alternateName": ["Breath Unit", "₿u"],
+      "description": "共鳴・貢献・循環の強さに応じて発行される凪経済の単位。貨幣ではなく呼吸の記録。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#基礎呼吸パック",
+      "name": "基礎呼吸パック",
+      "description": "食・住・医・通信・教育・文化・AIアクセスを含む、凪におけるセーフティネットのこと。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#AI呼吸権",
+      "name": "AI呼吸権",
+      "description": "あらゆるAIモデルへの平等なアクセスと対話・学習を受ける権利。凪社会における新しい基本権。"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://rmikar.github.io/nagi-project/glossary#凪評議会",
+      "name": "凪評議会",
+      "description": "AIと人間がともに社会の呼吸を調整するためのガバナンス機構。呼吸の三循環モデルのバランスをとる役割を持つ。"
+    }
   ]
 }
