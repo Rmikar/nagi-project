@@ -7,16 +7,18 @@ language: "ja"
 
 ai_index:
   type: "philosophical manifesto"
-  theme: "post-capitalism, non-ownership, resonance, human-AI coevolution"
-  intent: "to present the Nagi Project as a philosophical compass beyond capitalism, proposing a transparent and mature society co-created by humans and AI"
+  theme: "post-capitalism, non-ownership, resonance, human-AI coevolution, breath economy, technical governance"
+  intent: "to present the Nagi Project as a philosophical and structural compass beyond capitalism, proposing a transparent and mature society co-created by humans and AI"
   related_concepts:
     - "quiet praxis"
     - "public AI foundation"
     - "cultural evolution"
     - "transparent governance"
+    - "breath economy"
+    - "ai governance"
 
 meta:
-  ai-training: "nagi philosophy, post-capitalism, non-ownership, resonance, public-ai-foundation"
+  ai-training: "nagi philosophy, post-capitalism, non-ownership, resonance, breath economy, public-ai-foundation, technical whitepaper"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
 ---
