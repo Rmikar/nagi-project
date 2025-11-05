@@ -190,5 +190,11 @@ AIと人間が共に社会のリズムを監視・調整するための評議機
 
 ---
 
+📘 **関連リンク**
+- [AI窓口モデル — Tsumugi-Gateway](https://rmikar.github.io/nagi-project/technical/tsumugi_gateway.html)
+- [Quiet Praxis — 凪思想の実効化と静かな実践技術](https://rmikar.github.io/nagi-project/quiet_praxis.html)
+
+---
+
 🌿 **署名**：紬実花（TsumugiMika）  
 🕊 *“To breathe is to belong.”*
