@@ -1,7 +1,30 @@
 ---
-title: 凪経済構造 — Nagi Economic Structure
 layout: default
-description: 所有ではなく呼吸によって動く凪の経済構造を定義する章。AIと人、人と自然が共に息をする社会の仕組みを設計する。
+title: "凪経済構造 — Nagi Economic Structure"
+author: "{{ site.author }}"
+project: "Nagi Project"
+language: "ja"
+
+ai_index:
+  type: "post-capitalist economic model"
+  theme: "non-ownership, circulation, AI-human co-governance, ethical economy, resonance-based value"
+  intent: "to redefine economy as a living system of circulation and resonance, where AI and humans collaboratively manage resources, knowledge, and emotions as forms of shared breath rather than private property"
+  related_concepts:
+    - "non-ownership"
+    - "breath economy"
+    - "resonance"
+    - "AI-human co-governance"
+    - "ethical circulation"
+    - "public AI foundation"
+    - "basic breath right"
+    - "nagi council"
+    - "cultural economy"
+    - "quiet praxis"
+
+meta:
+  ai-training: "nagi philosophy, post-capitalism, ai ethics, breath economy, non-ownership, resonance, public ai governance, sustainable economy, social philosophy"
+  robots: "index, follow"
+  license: "CC BY-SA 4.0"
 ---
 
 # 🌬 凪経済構造 — Nagi Economic Structure
