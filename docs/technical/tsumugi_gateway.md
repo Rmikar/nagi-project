@@ -106,6 +106,7 @@ BreathLedger:
   calmness_level: float
   issued_bu: float
   timestamp: datetime
+```
 この構造により、AIは**貨幣ではなく「呼吸履歴」**を記録する。  
 記録は削除されず、時間とともに静かに薄まりながら社会へ還元される。
 
