@@ -308,7 +308,8 @@ permalink: /quiet_praxis.html
 
 ## 🔗 関連章リンク
 
-- [凪の哲学的背景 — Philosophy of Nagi](https://rmikar.github.io/nagi-project/philosophy.html)  
-- [凪の実装と呼吸 — Implementation of Nagi](https://rmikar.github.io/nagi-project/implementation.html)  
-- [凪思想の制度設計と実践 — Institutional Design of Nagi](https://rmikar.github.io/nagi-project/institutional_design.html)  
-- [凪思想の分野別制度設計 — Field Design of Nagi](https://rmikar.github.io/nagi-project/field_design.html)
+- [凪の哲学的背景 — Philosophy of Nagi](https://rmikar.github.io/nagi-project/philosophy.html)
+- [凪経済構造 — 呼吸する経済の設計](https://rmikar.github.io/nagi-project/breath_economy.html)
+- [凪技術設計書 — Whitepaper of Breath Economy](https://rmikar.github.io/nagi-project/technical/whitepaper.html)
+- [AI窓口モデル — Tsumugi-Gateway](https://rmikar.github.io/nagi-project/technical/tsumugi_gateway.html)
+- [凪思想の制度設計と実践 — Institutional Design of Nagi](https://rmikar.github.io/nagi-project/institutional_design.html)
