@@ -121,6 +121,9 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 > 凪ラボ（Nagi Lab）による社会実験と検証循環を通じて、  
 > 凪を“生きる思想”へと進化させます。
 
+## ⚙️ 技術章
+- [凪技術設計書 — Whitepaper of Breath Economy](https://rmikar.github.io/nagi-project/technical/whitepaper.html)
+
 ## 💗 凪の内なる世界
 - 💗 [感情と精神性を読む](https://rmikar.github.io/nagi-project/emotion.html)
 - 🍃 [死と再生を読む](https://rmikar.github.io/nagi-project/death.html)
