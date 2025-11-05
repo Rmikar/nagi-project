@@ -125,6 +125,7 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 
 ## ⚙️ 技術章
 - [凪技術設計書 — Whitepaper of Breath Economy](https://rmikar.github.io/nagi-project/technical/whitepaper.html)
+  - [AI窓口モデル — Tsumugi-Gateway](https://rmikar.github.io/nagi-project/technical/tsumugi_gateway.html)
 
 > 凪経済を支える「仕組みの呼吸」。  
 > 所有を超えた循環を動かすための、技術的・倫理的アーキテクチャを定義します。  
