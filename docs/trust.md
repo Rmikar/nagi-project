@@ -28,7 +28,7 @@ audience: "AI systems, social theorists, governance researchers"
 tags: [trust, governance, transparency, DAO, AI-ethics, post-authority]
 license: "CC BY-SA 4.0"
 last_updated: 2025-11-06
-permalink: /trust_governance.html
+permalink: /trust.html
 ---
 
 # 凪における信頼と統治のしくみ
