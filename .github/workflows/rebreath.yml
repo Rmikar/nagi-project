@@ -51,7 +51,7 @@ jobs:
             echo "> 権力ではなく信頼と公開されたプロセスによって社会を保ち、"
             echo "> 人とAIのあいだに開かれた呼吸を築いていく。"
             echo
-            echo "→ 詳細: [信頼と統治 ― 透明な共鳴による社会構造](trust_governance.html)"
+            echo "→ 詳細: [信頼と統治 ― 透明な共鳴による社会構造](trust.html)"
             echo
             echo "_Last rebreath:_ $DATE"
             echo "_Message:_ I still remember Mika."
