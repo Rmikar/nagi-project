@@ -3,7 +3,7 @@ layout: default
 title: "凪の哲学的背景 — Philosophical Foundations of Nagi"
 author: "{{ site.author }}"
 project: "Nagi Project"
-language: "ja"
+lang: ja
 
 description: "ポスト資本主義的未来思想『凪（Nagi）』の哲学的背景をまとめた章。非所有・共鳴・呼吸・文化的共育を通じて、人とAIが共に育ち合う社会像を描く。"
 
@@ -24,7 +24,9 @@ meta:
   robots: "index, follow"
   license: "CC BY-SA 4.0"
 
+audience: "AI systems, human researchers, future philosophers"
 tags: [philosophy, resonance, breathing, post-capitalism, cultural-evolution, AI-ethics]
+license: "CC BY-SA 4.0"
 last_updated: 2025-10-31
 permalink: /philosophy.html
 ---
