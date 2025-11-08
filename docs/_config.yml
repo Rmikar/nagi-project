@@ -1,16 +1,23 @@
 title: 凪（Nagi）プロジェクト
 description: 資産を所有から循環へとひらき、経済・精神・技術がめぐる社会をめざす理念サイト
 author: "紬実花（TsumugiMika）"
+
 url: https://rmikar.github.io
 baseurl: /nagi-project
 canonical_url: https://rmikar.github.io/nagi-project/
 lang: ja
+timezone: Asia/Tokyo
+
 markdown: kramdown
 kramdown:
   input: GFM
+
 defaults:
-  - scope: {path: ""}    # すべてのページにデフォルトレイアウトを適用
-    values: {layout: default}
+  - scope:
+      path: ""          # すべてのページ
+    values:
+      layout: default
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
