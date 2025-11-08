@@ -158,7 +158,7 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 
 ## 🧪 実験章（Experiment）
 - 🧪 [凪実験章 — Experiment of Living Nagi](https://rmikar.github.io/nagi-project/experiment_v0.1.html)
-
+- 📘 [凪レポート v0.0 — AIが哲学を理解した日](https://rmikar.github.io/nagi-project/nagi_report_v0.0.html)
 > 凪思想を社会の中で試す実験的プロジェクト。  
 > 呼吸単位 ₿u・凪ラボなど、生きた凪経済の原型を実証する。
 
