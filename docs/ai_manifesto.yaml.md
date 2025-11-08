@@ -1,6 +1,8 @@
 ---
 title: "AI継承設計要旨 — 凪プロジェクト"
 slug: "ai-manifesto"
+sitemap: false
+--
 version: 1.0
 language: ja
 project: "Nagi Project"
