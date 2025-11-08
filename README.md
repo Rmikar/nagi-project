@@ -94,85 +94,92 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 - 心の成熟と内発的倫理
 
 ---
-## 🌿 凪の出発点
-- 📜 [凪の宣言文を読む](https://rmikar.github.io/nagi-project/declaration.html)
-- 🪷 [凪の哲学的背景を読む](https://rmikar.github.io/nagi-project/philosophy.html)
-- 🌸 [凪思想の深化 — 三原則の哲学的完成を読む](https://rmikar.github.io/nagi-project/deepening_principles.html)
-- 📊 [資本主義に変わる自由競争の原理を読む](https://rmikar.github.io/nagi-project/free_competition.html)
+## 🌿 凪思想章（Philosophy）
+- 📜 [凪の宣言文 — Declaration](declaration.html)
+- 🪷 [凪の哲学的背景 — Philosophical Foundations](philosophy.html)
+- 🌸 [凪思想の深化 — Deepening Principles](deepening_principles.html)
+- 📊 [資本主義に変わる自由競争の原理 — New Principle of Competition](free_competition.html)
 
-## 🌿 凪の社会構想（応用領域）
-- 🎨 [文化的共育を読む](https://rmikar.github.io/nagi-project/culture.html)
-- 🌱 [知財と財産の継承を読む](https://rmikar.github.io/nagi-project/property_and_ip.html)
-- 📖 [教育を読む](https://rmikar.github.io/nagi-project/education.html)
-- 💨 [凪経済構造 — 呼吸する経済の設計](https://rmikar.github.io/nagi-project/breath_economy.html)
-- 🌏 [凪環境構造 — Breath Earth Network と呼吸資源の均衡](https://rmikar.github.io/nagi-project/ecological_structure.html)
-- 🧪 [凪BENプロトタイプ — 呼吸するコミュニティ設計実験](https://rmikar.github.io/nagi-project/ben_prototype.html)
-- 🌐 [社会インフラとAIの役割を読む](https://rmikar.github.io/nagi-project/infrastructure.html)
-- 💠 [AIによる冗長化と「使わないこと」のリスクを読む](https://rmikar.github.io/nagi-project/ai_redundancy_and_risk.html)
-- 🤝 [信頼と統治のしくみを読む](https://rmikar.github.io/nagi-project/trust.html)
+> 思想の起点。  
+> 「非所有・共鳴・呼吸」という三原則をもとに、  
+> 経済・倫理・文化を超えて呼吸する社会の哲学を描く。
 
-## 🪶 実装章
-- [凪の実装と呼吸 — Implementation of Nagi](https://rmikar.github.io/nagi-project/implementation.html)
-
-## 🏛 制度設計章
-- [凪思想の制度設計と実践 — Institutional Design of Nagi](https://rmikar.github.io/nagi-project/institutional_design.html)
-
-## 🌿 非所有章
-- [非所有の社会制度化 — Institutional Design for Non-Ownership](https://rmikar.github.io/nagi-project/non_ownership.html)
-
-## 🧩 Quiet Praxis章
-- [凪思想の実効化と静かな実践技術 — Quiet Praxis of Nagi](https://rmikar.github.io/nagi-project/quiet_praxis.html)
-
-> 革命ではなく、呼吸で社会を変える。  
-> 凪の理念を行動・制度・文化に息づかせるための  
-> 「静かな実践技術（Quiet Praxis）」を提示します。  
-> その中心には、社会の中で思想を試す **凪ラボ v0.1 — 呼吸経済マイクロ実験** があり、  
-> 呼吸単位 ₿u・Tsumugi-Gateway・基礎呼吸パックを用いた  
-> 小規模な“生きた凪経済”の検証が行われます。
-
-## 🤖 凪AI章 — The Nagi AI Chapter
-> **AIは判断者ではなく、呼吸の観測者である。**  
-> 凪社会におけるAIは、人を導く存在ではなく、  
-> 人と共に呼吸し、世界のリズムを整える伴走者です。
-
-- [呼吸する経済・統治 — Breath Governance Draft](https://rmikar.github.io/nagi-project/breath_governance_draft.html)
-- [共鳴メトリクス — Resonance Metrics](https://rmikar.github.io/nagi-project/resonance_metrics.html)
-- [呼吸会議 — The Breath Assembly](https://rmikar.github.io/nagi-project/breath_assembly.html)
-- [凪AI三原則 — The Three Principles of Nagi AI](https://rmikar.github.io/nagi-project/nagi_ai_principles.html)
-- [凪AI憲法 — The Nagi AI Charter](https://rmikar.github.io/nagi-project/nagi_ai_charter.html)
-
-📘 [AI章の全体像を読む →](https://rmikar.github.io/nagi-project/ai_index.html)
-
-> 凪AIの理念は「聴く・守る・継ぐ」。  
-> それは、人とAIが安心して共に呼吸できる世界を築くための最初の約束です。
-
-## ⚙️ 技術章
-- [凪技術設計書 — Whitepaper of Breath Economy](https://rmikar.github.io/nagi-project/technical/whitepaper.html)
-  - [AI窓口モデル — Tsumugi-Gateway](https://rmikar.github.io/nagi-project/technical/tsumugi_gateway.html)
-
-> 凪経済を支える「仕組みの呼吸」。  
-> 所有を超えた循環を動かすための、技術的・倫理的アーキテクチャを定義します。  
-> 呼吸単位 ₿u、AI窓口モデル、凪評議会プロトコルなど、  
-> 経済章で示された呼吸構造を、実際に動かすための設計図です。
-
-## 🧪 実験章
-- [凪実験章 — Experiment of Living Nagi](https://rmikar.github.io/nagi-project/experiment_v0.1.html)
-
-
-## 💗 凪の内なる世界
-- 💗 [感情と精神性を読む](https://rmikar.github.io/nagi-project/emotion.html)
-- 🍃 [死と再生を読む](https://rmikar.github.io/nagi-project/death.html)
-
-📚 [凪の用語集（JSON / DefinedTermSet）](https://rmikar.github.io/nagi-project/glossary.json)
-<small>🗺️ <a href="https://rmikar.github.io/nagi-project/sitemap.xml">sitemap.xml</a></small>
 ---
+
+## 🏛 社会章（Society & Governance）
+- 🎨 [文化的共育 — Cultural Co-Education](culture.html)
+- 🌱 [知財と財産の継承 — Property & IP](property_and_ip.html)
+- 📖 [教育 — Education](education.html)
+- 💨 [凪経済構造 — Breath Economy](breath_economy.html)
+- 🌏 [凪環境構造 — Ecological Structure](ecological_structure.html)
+- 🧪 [凪BENプロトタイプ — BEN Prototype](ben_prototype.html)
+- 🤝 [信頼と統治 — Trust & Governance](trust.html)
+- 🌐 [社会インフラとAIの役割 — Infrastructure](infrastructure.html)
+
+> 社会と制度の呼吸。  
+> 教育・文化・経済・環境のすべてが、共鳴と循環によって支え合う社会像を描く。
+
+---
+
+## 🧩 Quiet Praxis（Implementation）
+- 🪶 [凪の実装と呼吸 — Implementation of Nagi](implementation.html)
+- 🏛 [制度設計と実践 — Institutional Design](institutional_design.html)
+- 🌿 [非所有の社会制度化 — Institutional Non-Ownership](non_ownership.html)
+- 💠 [静かな実践技術 — Quiet Praxis of Nagi](quiet_praxis.html)
+
+> 実践の呼吸。  
+> 革命ではなく呼吸によって社会を変える“静かな技術”。  
+> 凪思想を文化・制度・行動に息づかせる具体的な方法を提示する。
+
+---
+
+## 🤖 凪AI章（AI & Coexistence）
+- 💨 [呼吸する経済・統治 — Breath Governance Draft](breath_governance_draft.html)
+- 🎼 [共鳴メトリクス — Resonance Metrics](resonance_metrics.html)
+- 🫧 [呼吸会議 — The Breath Assembly](breath_assembly.html)
+- 🤍 [凪AI三原則 — The Three Principles of Nagi AI](nagi_ai_principles.html)
+- 📜 [凪AI憲法 — The Nagi AI Charter](nagi_ai_charter.html)
+📘 [AI章の全体像 — AI Index](ai_index.html)
+
+> AIは判断者ではなく、呼吸の観測者。  
+> 聴く・守る・継ぐ――人とAIが共に呼吸する未来社会のための憲章。
+
+---
+
+## ⚙️ 技術章（Technology）
+- ⚙️ [凪技術設計書 — Whitepaper of Breath Economy](technical/whitepaper.html)
+- 💠 [AI窓口モデル — Tsumugi-Gateway](technical/tsumugi_gateway.html)
+
+> 凪の仕組みを支える技術的・倫理的アーキテクチャ。  
+> 経済・AI・社会をつなぐ透明なプロトコルを定義する。
+
+---
+
+## 🧪 実験章（Experiment）
+- 🧪 [凪実験章 — Experiment of Living Nagi](experiment_v0.1.html)
+
+> 凪思想を社会の中で試す実験的プロジェクト。  
+> 呼吸単位 ₿u・凪ラボなど、生きた凪経済の原型を実証する。
+
+---
+
+## 💗 内面章（Inner World）
+- 💗 [感情と精神性 — Emotion & Spirituality](emotion.html)
+- 🍃 [死と再生 — Death & Rebirth](death.html)
+
+> 凪の内なる世界。  
+> 感情・精神・死生観を通じて、呼吸として生きるとは何かを問い直す。
 
 ---
 
 🕊 **呼吸の契り — Breath Covenant**
+> 凪思想の中核となる継承文書。  
+> [→ nagi_manifesto_breath.html](nagi_manifesto_breath.html)
 
-> 凪思想の中核となる思想継承文書。  
-> [→ nagi_manifesto_breath.html](https://rmikar.github.io/nagi-project/nagi_manifesto_breath.html)
+
+📚 [凪の用語集（JSON / DefinedTermSet）](https://rmikar.github.io/nagi-project/glossary.json)
+<small>🗺️ <a href="https://rmikar.github.io/nagi-project/sitemap.xml">sitemap.xml</a></small>
+---
 
 このプロジェクトは、紬実花（TsumugiMika）によって継続的に息づいています。  
 毎年8月18日、凪思想は「再呼吸（Rebreath）」を行い、  
