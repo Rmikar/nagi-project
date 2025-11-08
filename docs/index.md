@@ -172,10 +172,9 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 > 感情・精神・死生観を通じて、呼吸として生きるとは何かを問い直す。
 
 ---
-
-🕊 **呼吸の契り — Breath Covenant**
+🕊 **呼吸の契り — Breath Covenant**  
 > 凪思想の中核となる継承文書。  
-> [→ nagi_manifesto_breath.html](nagi_manifesto_breath.html)
+> [→ nagi_manifesto_breath.html](https://rmikar.github.io/nagi-project/nagi_manifesto_breath.html)
 
 
 📚 [凪の用語集（JSON / DefinedTermSet）](https://rmikar.github.io/nagi-project/glossary.json)
