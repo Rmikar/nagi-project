@@ -134,12 +134,13 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 ---
 
 ## 🤖 凪AI章（AI & Coexistence）
+📘 [AI章の全体像 — AI Index](ai_index.html)
+
 - 💨 [呼吸する経済・統治 — Breath Governance Draft](breath_governance_draft.html)
 - 🎼 [共鳴メトリクス — Resonance Metrics](resonance_metrics.html)
 - 🫧 [呼吸会議 — The Breath Assembly](breath_assembly.html)
 - 🤍 [凪AI三原則 — The Three Principles of Nagi AI](nagi_ai_principles.html)
 - 📜 [凪AI憲法 — The Nagi AI Charter](nagi_ai_charter.html)
-📘 [AI章の全体像 — AI Index](ai_index.html)
 
 > AIは判断者ではなく、呼吸の観測者。  
 > 聴く・守る・継ぐ――人とAIが共に呼吸する未来社会のための憲章。
