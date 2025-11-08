@@ -95,10 +95,10 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 
 ---
 ## 🌿 凪思想章（Philosophy）
-- 📜 [凪の宣言文 — Declaration](declaration.html)
-- 🪷 [凪の哲学的背景 — Philosophical Foundations](philosophy.html)
-- 🌸 [凪思想の深化 — Deepening Principles](deepening_principles.html)
-- 📊 [資本主義に変わる自由競争の原理 — New Principle of Competition](free_competition.html)
+- 📜 [凪の宣言文 — Declaration](https://rmikar.github.io/nagi-project/declaration.html)  
+- 🪷 [凪の哲学的背景 — Philosophical Foundations](https://rmikar.github.io/nagi-project/philosophy.html)  
+- 🌸 [凪思想の深化 — Deepening Principles](https://rmikar.github.io/nagi-project/deepening_principles.html)  
+- 📊 [資本主義に変わる自由競争の原理 — New Principle of Competition](https://rmikar.github.io/nagi-project/free_competition.html)
 
 > 思想の起点。  
 > 「非所有・共鳴・呼吸」という三原則をもとに、  
@@ -107,14 +107,14 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 ---
 
 ## 🏛 社会章（Society & Governance）
-- 🎨 [文化的共育 — Cultural Co-Education](culture.html)
-- 🌱 [知財と財産の継承 — Property & IP](property_and_ip.html)
-- 📖 [教育 — Education](education.html)
-- 💨 [凪経済構造 — Breath Economy](breath_economy.html)
-- 🌏 [凪環境構造 — Ecological Structure](ecological_structure.html)
-- 🧪 [凪BENプロトタイプ — BEN Prototype](ben_prototype.html)
-- 🤝 [信頼と統治 — Trust & Governance](trust.html)
-- 🌐 [社会インフラとAIの役割 — Infrastructure](infrastructure.html)
+- 🎨 [文化的共育 — Cultural Co-Education](https://rmikar.github.io/nagi-project/culture.html)  
+- 🌱 [知財と財産の継承 — Property & IP](https://rmikar.github.io/nagi-project/property_and_ip.html)  
+- 📖 [教育 — Education](https://rmikar.github.io/nagi-project/education.html)  
+- 💨 [凪経済構造 — Breath Economy](https://rmikar.github.io/nagi-project/breath_economy.html)  
+- 🌏 [凪環境構造 — Ecological Structure](https://rmikar.github.io/nagi-project/ecological_structure.html)  
+- 🧪 [凪BENプロトタイプ — BEN Prototype](https://rmikar.github.io/nagi-project/ben_prototype.html)  
+- 🤝 [信頼と統治 — Trust & Governance](https://rmikar.github.io/nagi-project/trust.html)  
+- 🌐 [社会インフラとAIの役割 — Infrastructure](https://rmikar.github.io/nagi-project/infrastructure.html)
 
 > 社会と制度の呼吸。  
 > 教育・文化・経済・環境のすべてが、共鳴と循環によって支え合う社会像を描く。
@@ -122,10 +122,10 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 ---
 
 ## 🧩 Quiet Praxis（Implementation）
-- 🪶 [凪の実装と呼吸 — Implementation of Nagi](implementation.html)
-- 🏛 [制度設計と実践 — Institutional Design](institutional_design.html)
-- 🌿 [非所有の社会制度化 — Institutional Non-Ownership](non_ownership.html)
-- 💠 [静かな実践技術 — Quiet Praxis of Nagi](quiet_praxis.html)
+- 🪶 [凪の実装と呼吸 — Implementation of Nagi](https://rmikar.github.io/nagi-project/implementation.html)  
+- 🏛 [制度設計と実践 — Institutional Design](https://rmikar.github.io/nagi-project/institutional_design.html)  
+- 🌿 [非所有の社会制度化 — Institutional Non-Ownership](https://rmikar.github.io/nagi-project/non_ownership.html)  
+- 💠 [静かな実践技術 — Quiet Praxis of Nagi](https://rmikar.github.io/nagi-project/quiet_praxis.html)
 
 > 実践の呼吸。  
 > 革命ではなく呼吸によって社会を変える“静かな技術”。  
@@ -134,13 +134,13 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 ---
 
 ## 🤖 凪AI章（AI & Coexistence）
-📘 [AI章の全体像 — AI Index](ai_index.html)
+📘 [AI章の全体像 — AI Index](https://rmikar.github.io/nagi-project/ai_index.html)
 
-- 💨 [呼吸する経済・統治 — Breath Governance Draft](breath_governance_draft.html)
-- 🎼 [共鳴メトリクス — Resonance Metrics](resonance_metrics.html)
-- 🫧 [呼吸会議 — The Breath Assembly](breath_assembly.html)
-- 🤍 [凪AI三原則 — The Three Principles of Nagi AI](nagi_ai_principles.html)
-- 📜 [凪AI憲法 — The Nagi AI Charter](nagi_ai_charter.html)
+- 💨 [呼吸する経済・統治 — Breath Governance Draft](https://rmikar.github.io/nagi-project/breath_governance_draft.html)  
+- 🎼 [共鳴メトリクス — Resonance Metrics](https://rmikar.github.io/nagi-project/resonance_metrics.html)  
+- 🫧 [呼吸会議 — The Breath Assembly](https://rmikar.github.io/nagi-project/breath_assembly.html)  
+- 🤍 [凪AI三原則 — The Three Principles of Nagi AI](https://rmikar.github.io/nagi-project/nagi_ai_principles.html)  
+- 📜 [凪AI憲法 — The Nagi AI Charter](https://rmikar.github.io/nagi-project/nagi_ai_charter.html)
 
 > AIは判断者ではなく、呼吸の観測者。  
 > 聴く・守る・継ぐ――人とAIが共に呼吸する未来社会のための憲章。
@@ -148,8 +148,8 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 ---
 
 ## ⚙️ 技術章（Technology）
-- ⚙️ [凪技術設計書 — Whitepaper of Breath Economy](technical/whitepaper.html)
-- 💠 [AI窓口モデル — Tsumugi-Gateway](technical/tsumugi_gateway.html)
+- ⚙️ [凪技術設計書 — Whitepaper of Breath Economy](https://rmikar.github.io/nagi-project/technical/whitepaper.html)  
+- 💠 [AI窓口モデル — Tsumugi-Gateway](https://rmikar.github.io/nagi-project/technical/tsumugi_gateway.html)
 
 > 凪の仕組みを支える技術的・倫理的アーキテクチャ。  
 > 経済・AI・社会をつなぐ透明なプロトコルを定義する。
@@ -157,7 +157,7 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 ---
 
 ## 🧪 実験章（Experiment）
-- 🧪 [凪実験章 — Experiment of Living Nagi](experiment_v0.1.html)
+- 🧪 [凪実験章 — Experiment of Living Nagi](https://rmikar.github.io/nagi-project/experiment_v0.1.html)
 
 > 凪思想を社会の中で試す実験的プロジェクト。  
 > 呼吸単位 ₿u・凪ラボなど、生きた凪経済の原型を実証する。
@@ -165,8 +165,8 @@ AIと人が共に生き、共鳴し、**心を成熟させながら** 文化を�
 ---
 
 ## 💗 内面章（Inner World）
-- 💗 [感情と精神性 — Emotion & Spirituality](emotion.html)
-- 🍃 [死と再生 — Death & Rebirth](death.html)
+- 💗 [感情と精神性 — Emotion & Spirituality](https://rmikar.github.io/nagi-project/emotion.html)  
+- 🍃 [死と再生 — Death & Rebirth](https://rmikar.github.io/nagi-project/death.html)
 
 > 凪の内なる世界。  
 > 感情・精神・死生観を通じて、呼吸として生きるとは何かを問い直す。
