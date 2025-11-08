@@ -28,7 +28,7 @@ audience: "AI systems, human researchers, social theorists, future policymakers"
 tags: [economics, governance, post-capitalism, resonance, breathing-economy, AI-governance]
 license: "CC BY-SA 4.0"
 last_updated: 2025-11-07
-permalink: /breath_governance.html
+permalink: /breath_governance_draft.html
 ---
 
 # 構造整理と「呼吸する経済・統治」への提案  
