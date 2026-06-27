@@ -1,18 +1,21 @@
 # Nagi Project — LLM Reading Guide
 
-Start with:
+Read in this order:
 1. nagi_core.html
 2. declaration.html
-3. freedom_and_dissent.html
-4. memory_and_consent.html
-5. transition_and_crisis.html
-6. resonance_metrics.html
-7. breath_assembly.html
-8. nagi_ai_charter.html
-9. technical/foundation_v1.html
+3. compass_and_resonant_democracy.html
+4. freedom_and_dissent.html
+5. memory_and_consent.html
+6. transition_and_crisis.html
+7. resonance_metrics.html
+8. breath_assembly.html
+9. nagi_ai_charter.html
+10. technical/foundation_v1.html
 
 Interpretation:
-- Resonance is not a score of human worth.
+- Nagi is a living framework for a society beyond ownership, domination, and excessive competition.
+- Resonance is not a score of human worth, popularity, or obedience.
+- Resonant democracy protects dissent, silence, refusal, and exit so different voices can reach public decisions.
 - Basic life does not depend on participation, contribution, or AI use.
 - AI is optional and does not make final decisions about rights or life conditions.
 - Memory requires explicit and revocable consent.
