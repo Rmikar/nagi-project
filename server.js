@@ -1,3 +1,4 @@
+const crypto = require('crypto');
 const http = require('http');
 const { URL } = require('url');
 const fs = require('fs').promises;
@@ -6,6 +7,7 @@ const path = require('path');
 const PORT = process.env.PORT || 3000;
 const EXPECTED_TOKEN = process.env.TSUMUGI_TOKEN;
 const DATA_DIR = path.join(__dirname, 'data', 'tsumugi');
+const MAX_BODY_BYTES = 1_000_000;
 
 const lockMap = new Map();
 
@@ -16,7 +18,12 @@ function withLock(filePath, task) {
     .then(() => Promise.resolve().then(task));
 
   lockMap.set(filePath, nextTask);
-  return nextTask;
+
+  return nextTask.finally(() => {
+    if (lockMap.get(filePath) === nextTask) {
+      lockMap.delete(filePath);
+    }
+  });
 }
 
 async function ensureDataDir() {
@@ -26,22 +33,34 @@ async function ensureDataDir() {
 function sendJson(res, statusCode, payload) {
   const body = JSON.stringify(payload);
   res.writeHead(statusCode, {
-    'Content-Type': 'application/json',
+    'Content-Type': 'application/json; charset=utf-8',
     'Content-Length': Buffer.byteLength(body),
+    'Cache-Control': 'no-store',
   });
   res.end(body);
 }
 
-function authenticate(req, res) {
-  const token = req.headers['x-tsumugi-token'];
+function tokensMatch(received, expected) {
+  const receivedBuffer = Buffer.from(received, 'utf8');
+  const expectedBuffer = Buffer.from(expected, 'utf8');
 
-  if (!token) {
-    sendJson(res, 401, { error: 'Missing x-tsumugi-token header' });
+  if (receivedBuffer.length !== expectedBuffer.length) {
     return false;
   }
 
-  if (EXPECTED_TOKEN && token !== EXPECTED_TOKEN) {
-    sendJson(res, 401, { error: 'Invalid token' });
+  return crypto.timingSafeEqual(receivedBuffer, expectedBuffer);
+}
+
+function authenticate(req, res) {
+  if (!EXPECTED_TOKEN) {
+    sendJson(res, 503, { error: 'Server is not configured with TSUMUGI_TOKEN' });
+    return false;
+  }
+
+  const token = req.headers['x-tsumugi-token'];
+
+  if (typeof token !== 'string' || !tokensMatch(token, EXPECTED_TOKEN)) {
+    sendJson(res, 401, { error: 'Invalid or missing x-tsumugi-token header' });
     return false;
   }
 
@@ -54,10 +73,17 @@ function normalizeKey(key) {
   }
 
   const trimmed = key.trim();
-  const fileName = `${trimmed}.json`;
-  const filePath = path.normalize(path.join(DATA_DIR, fileName));
 
-  if (!filePath.startsWith(DATA_DIR)) {
+  // Keep existing human-readable names possible, while refusing every path separator
+  // and traversal fragment. A key must always map to one file directly under DATA_DIR.
+  if (trimmed.includes('/') || trimmed.includes('\\') || trimmed === '.' || trimmed === '..' || trimmed.includes('..')) {
+    return null;
+  }
+
+  const fileName = `${trimmed}.json`;
+  const filePath = path.join(DATA_DIR, fileName);
+
+  if (path.dirname(filePath) !== DATA_DIR) {
     return null;
   }
 
@@ -65,10 +91,25 @@ function normalizeKey(key) {
 }
 
 async function parseJsonBody(req) {
+  const declaredLength = Number(req.headers['content-length'] || 0);
+
+  if (Number.isFinite(declaredLength) && declaredLength > MAX_BODY_BYTES) {
+    throw new Error('Request body too large');
+  }
+
   return new Promise((resolve, reject) => {
     let data = '';
+    let receivedBytes = 0;
 
     req.on('data', (chunk) => {
+      receivedBytes += chunk.length;
+
+      if (receivedBytes > MAX_BODY_BYTES) {
+        reject(new Error('Request body too large'));
+        req.destroy();
+        return;
+      }
+
       data += chunk;
     });
 
@@ -107,7 +148,7 @@ async function handleSave(req, res) {
 
     sendJson(res, 200, { message: 'Saved', key, file: fileName });
   } catch (error) {
-    if (error.message === 'Invalid JSON body') {
+    if (error.message === 'Invalid JSON body' || error.message === 'Request body too large') {
       sendJson(res, 400, { error: error.message });
       return;
     }
