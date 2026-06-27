@@ -1,0 +1,371 @@
+/* Nagi Project — readable, calm, responsive site design */
+
+:root {
+  color-scheme: light dark;
+  --bg: #f4f5f1;
+  --surface: #ffffff;
+  --surface-soft: #edf4f2;
+  --ink: #1f2a2b;
+  --muted: #5c6969;
+  --line: #cad5d2;
+  --sea: #176b76;
+  --sea-deep: #0e4b54;
+  --accent: #aa6d37;
+  --focus: #b4521d;
+  --quote: #e0eeea;
+  --code-bg: #eef1ef;
+  --shadow: 0 10px 28px rgba(22, 49, 47, 0.08);
+  --radius: 16px;
+  --content-width: 760px;
+  --shell-width: 980px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  min-width: 320px;
+  color: var(--ink);
+  background:
+    linear-gradient(180deg, rgba(221, 239, 234, 0.58) 0, rgba(244, 245, 241, 0) 17rem),
+    var(--bg);
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+  font-size: clamp(16px, 1rem + 0.1vw, 18px);
+  line-height: 1.95;
+  letter-spacing: 0.015em;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  color: #fff;
+  background: var(--sea);
+}
+
+a {
+  color: var(--sea-deep);
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+  text-decoration-color: color-mix(in srgb, var(--sea) 52%, transparent);
+}
+
+a:hover {
+  color: var(--accent);
+  text-decoration-color: currentColor;
+}
+
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+
+.skip-link {
+  position: fixed;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 30;
+  padding: 0.55rem 0.85rem;
+  color: #fff;
+  background: var(--sea-deep);
+  border-radius: 0.5rem;
+  transform: translateY(-180%);
+  transition: transform 160ms ease;
+}
+
+.skip-link:focus { transform: translateY(0); }
+
+.site-shell {
+  width: min(100% - 2rem, var(--shell-width));
+  margin: 0 auto;
+}
+
+.site-header {
+  padding: 1.1rem 0 0.9rem;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.55rem;
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.brand-mark {
+  color: var(--sea);
+  font-size: 1.35em;
+  line-height: 1;
+}
+
+.brand-subtitle {
+  color: var(--muted);
+  font-size: 0.78em;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+}
+
+.nagi-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.6rem;
+  margin-top: 0.9rem;
+  padding: 0.75rem;
+  background: color-mix(in srgb, var(--surface) 88%, transparent);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: 0 4px 16px rgba(22, 49, 47, 0.04);
+}
+
+.nagi-nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.35rem;
+  padding: 0.3rem 0.65rem;
+  color: var(--ink);
+  text-decoration: none;
+  border-radius: 0.6rem;
+  font-size: 0.9rem;
+  font-weight: 650;
+  letter-spacing: 0.01em;
+}
+
+.nagi-nav a:hover,
+.nagi-nav a:focus-visible {
+  color: var(--sea-deep);
+  background: var(--surface-soft);
+}
+
+main.prose {
+  width: min(100%, var(--content-width));
+  margin: 1.35rem auto 0;
+  padding: clamp(1.25rem, 3vw, 2.5rem);
+  background: var(--surface);
+  border: 1px solid color-mix(in srgb, var(--line) 85%, transparent);
+  border-radius: clamp(12px, 2vw, 22px);
+  box-shadow: var(--shadow);
+}
+
+.prose > :first-child { margin-top: 0; }
+.prose > :last-child { margin-bottom: 0; }
+
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4 {
+  color: var(--ink);
+  line-height: 1.42;
+  scroll-margin-top: 1.5rem;
+}
+
+.prose h1 {
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.9rem;
+  border-bottom: 2px solid var(--sea);
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", "Hiragino Sans", serif;
+  font-size: clamp(1.85rem, 6vw, 2.65rem);
+  letter-spacing: 0.05em;
+  font-weight: 700;
+}
+
+.prose h2 {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding-left: 0.85rem;
+  border-left: 5px solid var(--sea);
+  font-size: clamp(1.3rem, 3.5vw, 1.65rem);
+}
+
+.prose h3 {
+  margin-top: 2.2rem;
+  margin-bottom: 0.65rem;
+  font-size: 1.16rem;
+}
+
+.prose h4 {
+  margin-top: 1.6rem;
+  margin-bottom: 0.5rem;
+  color: var(--sea-deep);
+  font-size: 1rem;
+}
+
+.prose p,
+.prose li {
+  overflow-wrap: anywhere;
+}
+
+.prose p { margin: 1.1rem 0; }
+
+.prose ul,
+.prose ol {
+  margin: 1rem 0 1.35rem;
+  padding-left: 1.55rem;
+}
+
+.prose li + li { margin-top: 0.42rem; }
+.prose li::marker { color: var(--sea); }
+
+.prose blockquote {
+  margin: 1.7rem 0;
+  padding: 1.05rem 1.2rem 1.05rem 1.3rem;
+  color: color-mix(in srgb, var(--ink) 84%, var(--sea));
+  background: var(--quote);
+  border: 0;
+  border-left: 5px solid var(--sea);
+  border-radius: 0 0.85rem 0.85rem 0;
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  font-size: 1.04em;
+}
+
+.prose blockquote > :first-child { margin-top: 0; }
+.prose blockquote > :last-child { margin-bottom: 0; }
+
+.prose hr {
+  height: 1px;
+  margin: 3rem 0;
+  border: 0;
+  background: var(--line);
+}
+
+.prose strong {
+  color: var(--sea-deep);
+  font-weight: 750;
+}
+
+.prose code {
+  padding: 0.12em 0.35em;
+  color: color-mix(in srgb, var(--ink) 90%, var(--accent));
+  background: var(--code-bg);
+  border-radius: 0.32rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.88em;
+}
+
+.prose pre {
+  overflow-x: auto;
+  margin: 1.4rem 0;
+  padding: 1rem 1.1rem;
+  color: var(--ink);
+  background: var(--code-bg);
+  border: 1px solid var(--line);
+  border-radius: 0.85rem;
+}
+
+.prose pre code {
+  padding: 0;
+  color: inherit;
+  background: transparent;
+}
+
+.prose table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  border-spacing: 0;
+  border-collapse: separate;
+  border: 1px solid var(--line);
+  border-radius: 0.85rem;
+  white-space: nowrap;
+}
+
+.prose th,
+.prose td {
+  padding: 0.7rem 0.82rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--line);
+}
+
+.prose th {
+  color: var(--sea-deep);
+  background: var(--surface-soft);
+  font-weight: 750;
+}
+
+.prose tr:last-child td { border-bottom: 0; }
+.prose img { max-width: 100%; height: auto; border-radius: 0.85rem; }
+
+.prose details {
+  margin: 1.2rem 0;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 0.8rem;
+  background: color-mix(in srgb, var(--surface-soft) 68%, var(--surface));
+}
+
+.prose summary {
+  cursor: pointer;
+  color: var(--sea-deep);
+  font-weight: 700;
+}
+
+.site-footer {
+  width: min(100%, var(--content-width));
+  margin: 1.25rem auto 3rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.nagi-note {
+  margin: 1.5rem 0 1rem;
+  padding: 1rem 1.1rem;
+  background: color-mix(in srgb, var(--surface-soft) 70%, var(--surface));
+  border: 1px solid var(--line);
+  border-radius: 0.85rem;
+}
+
+.site-footer ul {
+  display: grid;
+  gap: 0.38rem;
+  padding-left: 1.2rem;
+}
+
+.site-footer p { margin-top: 1.2rem; }
+
+@media (max-width: 640px) {
+  .site-shell { width: min(100% - 1rem, var(--shell-width)); }
+  .site-header { padding-top: 0.75rem; }
+  .brand-subtitle { display: none; }
+  .nagi-nav { gap: 0.28rem; padding: 0.45rem; }
+  .nagi-nav a { min-height: 2.15rem; padding: 0.28rem 0.48rem; font-size: 0.82rem; }
+  main.prose { margin-top: 0.75rem; padding: 1.15rem; border-radius: 12px; }
+  .prose h2 { margin-top: 2.35rem; }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #101817;
+    --surface: #172220;
+    --surface-soft: #1c322e;
+    --ink: #edf4f0;
+    --muted: #b2c2bd;
+    --line: #36504a;
+    --sea: #74c5c4;
+    --sea-deep: #9fe1dc;
+    --accent: #e4b47e;
+    --focus: #ffba63;
+    --quote: #1b3731;
+    --code-bg: #142b27;
+    --shadow: 0 10px 28px rgba(0, 0, 0, 0.25);
+  }
+
+  body {
+    background:
+      linear-gradient(180deg, rgba(21, 68, 61, 0.52) 0, rgba(16, 24, 23, 0) 17rem),
+      var(--bg);
+  }
+
+  a { text-decoration-color: color-mix(in srgb, var(--sea) 66%, transparent); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
+}

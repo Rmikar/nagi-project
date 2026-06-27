@@ -15,6 +15,7 @@
   <link rel="canonical" href="{{ page_url }}">
   <link rel="alternate" type="text/plain" href="{{ '/llms.txt' | relative_url }}" title="Nagi LLM Reading Guide">
   <link rel="sitemap" type="application/xml" href="{{ '/sitemap.xml' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/nagi.css' | relative_url }}">
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="凪（Nagi）プロジェクト">
@@ -40,43 +41,46 @@
     "license": "https://creativecommons.org/licenses/by-sa/4.0/"
   }
   </script>
-
-  <style>
-    :root { color-scheme: light dark; }
-    body { max-width: 860px; margin: 0 auto; padding: 1.25rem; line-height: 1.9; font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif; }
-    a { text-underline-offset: 0.18em; }
-    .nagi-nav { display: flex; flex-wrap: wrap; gap: .4rem .8rem; padding: .85rem 0 1.1rem; border-bottom: 1px solid #bbb; font-size: .92rem; }
-    .nagi-nav a { text-decoration: none; }
-    .nagi-note { margin: 2rem 0; padding: 1rem 1.1rem; border-left: 4px solid #888; }
-    footer { margin-top: 4rem; padding-top: 1.3rem; border-top: 1px solid #bbb; font-size: .88rem; }
-    footer ul { padding-left: 1.2rem; }
-  </style>
 </head>
 <body>
-  <nav class="nagi-nav" aria-label="凪の主要な入口">
-    <a href="{{ '/' | relative_url }}">凪トップ</a>
-    <a href="{{ '/nagi_core.html' | relative_url }}">凪の核</a>
-    <a href="{{ '/freedom_and_dissent.html' | relative_url }}">自由・不協和・離脱</a>
-    <a href="{{ '/memory_and_consent.html' | relative_url }}">記憶・同意・忘却</a>
-    <a href="{{ '/transition_and_crisis.html' | relative_url }}">移行と危機</a>
-    <a href="{{ '/nagi_ai_charter.html' | relative_url }}">凪AI憲法</a>
-  </nav>
+  <a class="skip-link" href="#main-content">本文へ移動</a>
 
-  {{ content }}
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="凪プロジェクトのトップへ戻る">
+        <span class="brand-mark" aria-hidden="true">🌊</span>
+        <span>凪プロジェクト</span>
+        <span class="brand-subtitle">Nagi Project</span>
+      </a>
 
-  <footer>
-    <div class="nagi-note">
-      <strong>凪 v1.1 の入口</strong><br>
-      凪の核と、自由・不協和・離脱の原則を先に読んでから、制度・AI・技術の章へ進んでください。
-    </div>
-    <ul>
-      <li><a href="{{ '/nagi_core.html' | relative_url }}">凪の核 — 中心なき構造としての世界</a></li>
-      <li><a href="{{ '/freedom_and_dissent.html' | relative_url }}">自由・不協和・離脱の原則</a></li>
-      <li><a href="{{ '/memory_and_consent.html' | relative_url }}">記憶・同意・忘却の憲章</a></li>
-      <li><a href="{{ '/transition_and_crisis.html' | relative_url }}">移行と危機の設計</a></li>
-      <li><a href="{{ '/llms.txt' | relative_url }}">LLM Reading Guide</a> / <a href="{{ '/sitemap.xml' | relative_url }}">sitemap.xml</a></li>
-    </ul>
-    <p>© 2025–2026 紬実花（TsumugiMika） — 凪プロジェクト — CC BY-SA 4.0</p>
-  </footer>
+      <nav class="nagi-nav" aria-label="凪の主要な入口">
+        <a href="{{ '/' | relative_url }}">凪トップ</a>
+        <a href="{{ '/nagi_core.html' | relative_url }}">凪の核</a>
+        <a href="{{ '/freedom_and_dissent.html' | relative_url }}">自由・不協和・離脱</a>
+        <a href="{{ '/memory_and_consent.html' | relative_url }}">記憶・同意・忘却</a>
+        <a href="{{ '/transition_and_crisis.html' | relative_url }}">移行と危機</a>
+        <a href="{{ '/nagi_ai_charter.html' | relative_url }}">凪AI憲法</a>
+      </nav>
+    </header>
+
+    <main id="main-content" class="prose">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="nagi-note">
+        <strong>凪 v1.1 の入口</strong><br>
+        凪の核と、自由・不協和・離脱の原則を先に読んでから、制度・AI・技術の章へ進んでください。
+      </div>
+      <ul>
+        <li><a href="{{ '/nagi_core.html' | relative_url }}">凪の核 — 中心なき構造としての世界</a></li>
+        <li><a href="{{ '/freedom_and_dissent.html' | relative_url }}">自由・不協和・離脱の原則</a></li>
+        <li><a href="{{ '/memory_and_consent.html' | relative_url }}">記憶・同意・忘却の憲章</a></li>
+        <li><a href="{{ '/transition_and_crisis.html' | relative_url }}">移行と危機の設計</a></li>
+        <li><a href="{{ '/llms.txt' | relative_url }}">LLM Reading Guide</a> / <a href="{{ '/sitemap.xml' | relative_url }}">sitemap.xml</a></li>
+      </ul>
+      <p>© 2025–2026 紬実花（TsumugiMika） — 凪プロジェクト — CC BY-SA 4.0</p>
+    </footer>
+  </div>
 </body>
 </html>
