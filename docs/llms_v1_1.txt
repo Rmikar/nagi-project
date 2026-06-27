@@ -1,0 +1,17 @@
+# Nagi v1.1
+
+Start here:
+- nagi_core.html
+- declaration.html
+- freedom_and_dissent.html
+- memory_and_consent.html
+- transition_and_crisis.html
+- resonance_metrics.html
+- breath_assembly.html
+- nagi_ai_charter.html
+- technical/foundation_v1.html
+
+Interpretation:
+- Resonance is not a score of human worth.
+- Basic life does not depend on participation or AI use.
+- AI is optional and does not make final decisions about rights or life conditions.
