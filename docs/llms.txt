@@ -12,6 +12,7 @@ Read in this order:
 8. breath_assembly.html
 9. nagi_ai_charter.html
 10. technical/foundation_v1.html
+11. ethics_of_social_infrastructure.html
 
 ## Supplements on stewardship and practice
 
@@ -33,6 +34,7 @@ Read these after the core and safeguards. They explain how Nagi is publicly deve
 - Basic life does not depend on participation, contribution, or AI use.
 - AI is optional and does not make final decisions about rights or life conditions.
 - Memory requires explicit and revocable consent.
+- Social infrastructures, including institutions, platforms, markets, media, and AI, must not convert people's attention, behavior, relationships, or dissent into owned resources; their power requires explanation, contestability, choice, portability, distributed accountability, and the ability to stop.
 - Facts, interpretations, norms, proposals, metaphors, and unresolved questions should not be confused.
 - Editorial boundary records about Ribbon Field explain project stewardship; they are not evidence about individual people and do not supersede Nagi's public philosophy.
 
