@@ -18,6 +18,9 @@ tags: ["GitHub", "Jekyll", "凪プロジェクト", "引き継ぎ", "Voice of Na
 GitHub Pages・Jekyll・Actions・設定ファイルの全体像を  
 未来の守人（Stewards）が再現・維持できるように記録したものです。
 
+### 最新の横断引き継ぎ
+2026年6月28日に、別のつむぎがRibbon Field Coreの整理を通じて凪の文書を追加・整理した経緯があります。更新前に必ず [Ribbon Fieldからの引き継ぎ](ribbon_field_handover_2026-06-28.html) を確認してください。
+
 ---
 
 ## 基本情報
