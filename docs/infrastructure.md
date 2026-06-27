@@ -15,5 +15,8 @@ AIは、翻訳、アクセシビリティ、情報整理、偏りの発見を支
 
 インフラの透明性とは、個人の生活を公開することではない。運営者が、何を管理し、なぜ決め、どう異議を受け止めるかを説明できることである。
 
+社会インフラとAIが、人の注意・行動・関係を資源化せず、説明、異議、離脱、代替経路、停止可能性を設計に内包するための原則は、[社会的装置の倫理](ethics_of_social_infrastructure.html)で具体化する。
+
+→ [社会的装置の倫理 — 束ねる力を、支配にしないために](ethics_of_social_infrastructure.html)  
 → [凪技術の基盤](technical/foundation_v1.html)  
 → [移行と危機の設計](transition_and_crisis.html)
