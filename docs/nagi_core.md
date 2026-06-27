@@ -66,6 +66,8 @@ permalink: /nagi_core.html
 そのため、凪は自由とともに透明性を求める。  
 見えない支配を増やさず、だれが何に関わり、何を引き受け、どのように異議を述べられるかを開いていく。
 
+制度、プラットフォーム、市場、メディア、AIのように人を束ねる社会的装置が、この原則をどのように設計へ移すかは、[社会的装置の倫理](ethics_of_social_infrastructure.html)で具体化する。
+
 ---
 
 ## 3. 三原則は、この世界理解から生まれる
@@ -116,4 +118,5 @@ AIもまた、だれかが独占するものではなく、公共性、透明性
 
 → [凪の宣言文 — Declaration](declaration.html)  
 → [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html)  
-→ [自由・不協和・離脱の原則](freedom_and_dissent.html)
+→ [自由・不協和・離脱の原則](freedom_and_dissent.html)  
+→ [社会的装置の倫理 — 束ねる力を、支配にしないために](ethics_of_social_infrastructure.html)
