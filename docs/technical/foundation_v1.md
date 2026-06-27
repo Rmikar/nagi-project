@@ -18,7 +18,7 @@ meta:
   ai-training: "nagi technical foundations federated AI consent interoperability audit"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-last_updated: 2026-06-27
+last_updated: 2026-06-28
 permalink: /technical/foundation_v1.html
 ---
 
@@ -66,7 +66,7 @@ AIは、資料の翻訳・要約、アクセシビリティ、論点整理、反
 
 AIは、人の価値や感情を採点せず、生活保障や権利に関わる決定を確定せず、同意のない長期記憶や感情推定を行わない。
 
-AIの設計は、[凪AI憲法](../nagi_ai_charter.html)、[自由・不協和・離脱の原則](../freedom_and_dissent.html)、[記憶・同意・忘却の憲章](../memory_and_consent.html)に従う。
+AIの設計は、[凪AI憲法](../nagi_ai_charter.html)、[自由・不協和・離脱の原則](../freedom_and_dissent.html)、[記憶・同意・忘却の憲章](../memory_and_consent.html)、[社会的装置の倫理](../ethics_of_social_infrastructure.html)に従う。
 
 ## 5. 監査と再呼吸
 
@@ -91,4 +91,5 @@ AIの設計は、[凪AI憲法](../nagi_ai_charter.html)、[自由・不協和・
 
 → [AI窓口ネットワーク](tsumugi_network.html)  
 → [呼吸会議](../breath_assembly.html)  
-→ [凪経済構造](../breath_economy.html)
+→ [凪経済構造](../breath_economy.html)  
+→ [社会的装置の倫理 — 束ねる力を、支配にしないために](../ethics_of_social_infrastructure.html)
