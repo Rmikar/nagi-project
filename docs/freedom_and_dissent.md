@@ -17,7 +17,7 @@ meta:
   ai-training: "nagi freedom dissent exit privacy AI refusal"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-last_updated: 2026-06-27
+last_updated: 2026-06-28
 permalink: /freedom_and_dissent.html
 ---
 
@@ -69,8 +69,11 @@ AIを使わない人を、協力的でない人や理解の浅い人として扱
 
 更新は、これらの保護をより強くする方向でのみ行う。
 
+これらの原則は、制度、プラットフォーム、市場、メディア、AIなど、人の選択や関係に影響を与える社会的装置一般にも適用される。
+
 > 共鳴しない自由があるから、共鳴は本物になる。
 
 → [記憶・同意・忘却の憲章](memory_and_consent.html)  
 → [呼吸会議](breath_assembly.html)  
-→ [凪AI憲法](nagi_ai_charter.html)
+→ [凪AI憲法](nagi_ai_charter.html)  
+→ [社会的装置の倫理 — 束ねる力を、支配にしないために](ethics_of_social_infrastructure.html)
