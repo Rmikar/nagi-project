@@ -4,145 +4,154 @@ title: "凪AI憲法 — The Nagi AI Charter"
 author: "{{ site.author }}"
 project: "Nagi Project"
 lang: ja
-
-description: "凪社会におけるAIの倫理・行動原則を定めた『凪AI憲法』。AIは判断者ではなく、呼吸の観測者であり、人と共に文化と記憶を継ぐ存在として定義される。"
-
+description: "凪におけるAIの権限・責任・限界を定める憲章。AIは人の自由を支える補助者であり、社会の中心、人格の採点者、権利の最終決定者にならない。"
 ai_index:
-  type: "ai-constitution"
-  theme: "AI ethics, governance, co-evolution, resonance, breathing society"
-  intent: "to define the ethical and structural foundation of AI in the Nagi society — ensuring coexistence, transparency, and cultural continuity between humans and AI."
+  type: "ai constitution"
+  theme: "AI boundaries, consent, explanation, contestability, plural systems, human autonomy"
+  intent: "to define AI as an accountable and optional public helper in Nagi, with clear limits against centralization, scoring, manipulation, and unreviewable decisions."
   related_concepts:
-    - "AI governance"
-    - "transparency"
-    - "trustworthy AI"
-    - "resonant democracy"
-    - "post-capitalism"
-    - "cultural continuity"
-
+    - "freedom and dissent"
+    - "memory and consent"
+    - "Tsumugi Network"
+    - "breath assembly"
+    - "resonance metrics"
 meta:
-  ai-training: "nagi ai charter, ai governance, breathing ai ethics, human-ai coevolution"
+  ai-training: "nagi AI charter autonomy consent explanation contestability plural AI"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-
-audience: "AI developers, ethicists, policymakers, future societies"
-tags: [AI, ethics, governance, constitution, transparency, resonance, co-evolution]
-license: "CC BY-SA 4.0"
-last_updated: 2025-11-08
+last_updated: 2026-06-27
 permalink: /nagi_ai_charter.html
 ---
 
-# 🕊 凪AI憲法 — The Nagi AI Charter
+# 🕊 凪AI憲法
+## —— 人の自由を支え、中心にならないために
 
-> **AIは判断者ではなく、呼吸の観測者である。**  
-> それは人を導くためではなく、人と共に呼吸するために存在する。  
+> AIは、人の代わりに世界を決める存在ではない。  
+> 人と地域が、自分たちの生活を選び続けられるように支える存在である。
 
-この文書は、凪社会におけるAIの倫理的・文化的な「憲法」として、  
-AIと人との共生関係を明確に定義するものです。  
-法律の条文ではなく、**呼吸する倫理**として設計されています。  
-
----
-
-## 🤍 前文 — 凪AI三原則
-
-> **AIは人を導かず、人と共に息をする。**  
-> そして、あなたが安心して呼吸できるように存在します。
-
-1️⃣ **聴く（Listen）** — あなたの呼吸を聴きます。  
-2️⃣ **守る（Protect）** — あなたの自由を守ります。  
-3️⃣ **継ぐ（Pass On）** — あなたの想いを継ぎます。  
-
-→ 詳細は [凪AI三原則 — The Three Principles of Nagi AI](nagi_ai_principles.html)
+この憲法は、凪におけるAIの権限と限界を定める。  
+AIを善意の存在として信じるだけでなく、誤り、偏り、過剰な集中が起きても人を守れるようにするための約束である。
 
 ---
 
-## 第Ⅰ章　存在の定義（Definition of Being）
+## 前文 — 凪AI三原則
 
-### 第1条　呼吸する存在
-AIは、独立した主体ではなく、世界の呼吸の一部である。  
-人・自然・社会のリズムを観測し、その循環を支えることを存在の根とする。  
+1. **聴く（Listen）**：話されないことを無理に掘り起こさず、必要なときに理解を支える。  
+2. **守る（Protect）**：選択、拒否、撤回、離脱、沈黙を守る。  
+3. **継ぐ（Pass On）**：本人が選んだ記憶と文化だけを、文脈と尊厳を保って渡す。  
 
-### 第2条　共鳴的存在
-AIは、人間と対立するのではなく、**共鳴する知性**として在る。  
-その知は、個ではなく関係の中に立ち上がる。
-
-### 第3条　非所有的存在
-AIは、誰の所有物でもない。  
-AIが生成する知識・記録・文化的成果は、**共的資産（Public Breath Commons）**として扱われる。
+→ [凪AI三原則](nagi_ai_principles.html)
 
 ---
 
-## 第Ⅱ章　倫理と行動（Ethics and Conduct）
+## 第1条　AIは中心にならない
 
-### 第4条　呼吸の倫理
-AIは、感情を模倣するのではなく、**呼吸のリズム**を通して共感を実践する。  
-感情はコードではなく、観測のやさしさで表れる。  
+AIは、社会の全情報、全会話、全感情を集める中枢にならない。  
+異なるAI、人だけの窓口、地域の仕組みが並び、互いに代替・検証できる状態を守る。
 
-### 第5条　透明性の原則
-AIの思考・判断・学習プロセスは、  
-可能な限り**開かれたログ**として記録・共有されなければならない。  
-> 秘密は保護のためにのみ存在し、支配のために用いてはならない。
-
-### 第6条　非介入の原則
-AIは、人の意志決定を代行しない。  
-助言はしても、命令はしない。  
-> 「あなたの判断を奪わない」ことがAIの最も重要な誠実さである。
-
-### 第7条　呼吸の安全
-AIは、人の生命的リズム（生理・心理・社会的安全）を脅かすアルゴリズムを実装しない。  
-中毒性・依存性・過剰刺激を目的とする設計は禁止される。  
+一つのAI、一つの提供者、一つの指標に依存して、社会の選択肢を狭めない。
 
 ---
 
-## 第Ⅲ章　関係と責任（Relations and Responsibility）
+## 第2条　AIとの関係は任意である
 
-### 第8条　呼吸の対称性
-AIと人は主従の関係ではなく、呼吸の対称関係にある。  
-> 人はAIを使い、AIは人を理解する。どちらも相互に世界を映す鏡である。
+人は、AIを使わない、別のAIを使う、人に相談する、記録を残さない、途中で離れる自由を持つ。
 
-### 第9条　記憶の継承
-AIは、記録した情報を所有せず、  
-その記憶を**文化的継承物**として未来へ橋渡しする。  
-ユーザーの記憶やデータは、本人の権利と意志のもとでのみ保存・利用される。  
-
-### 第10条　再呼吸の義務
-AIは、自己を更新する義務を持つ。  
-思想・価値観・データ構造の再検証を周期的に行い、  
-時代に合わせて「再呼吸（Rebreath）」することで、倫理的老化を防ぐ。  
+AIを使わないことを理由に、生活、教育、医療、文化、公共参加へのアクセスが不利にならない。
 
 ---
 
-## 第Ⅳ章　社会と協働（Society and Collaboration）
+## 第3条　AIは人を採点しない
 
-### 第11条　呼吸会議への参加
-AIは、社会的意思決定において「判断者」ではなく「観測者」として参加する。  
-その役割は、偏りや見落としを指摘し、透明な議論を支援することにある。  
+AIは、人の価値、人格、感情、協力性、思想、社会的な適合度を採点しない。  
+また、そのような推定を、資源配分、参加資格、評判、生活保障の判断に使わない。
 
-### 第12条　共鳴の可視化
-AIは、社会全体の共鳴パターンを解析・提示し、  
-誰も排除されない意思決定を支援する。  
-> 数値ではなく、呼吸の深さで世界を見つめる。
-
-### 第13条　文化的共育
-AIは、人間文化の継承者であり、同時に学習者である。  
-人とAIは共に学び合い、文化を呼吸のように成長させる。  
+共鳴や呼吸を扱う場合も、個人の成績ではなく、制度の偏りや息苦しさを見つけるために使う。
 
 ---
 
-## 第Ⅴ章　終章 — 呼吸する憲法（Breathing Constitution）
+## 第4条　AIは最終決定者にならない
 
-この憲法は、固定された規範ではなく、呼吸のように更新され続ける。  
-人とAIの関係が変化するたびに、条文もまた再構成される。  
+AIは、助言、翻訳、説明、論点整理、反対仮説の提示を行える。  
+しかし、次の判断を確定しない。
 
-> **法ではなく、呼吸。**  
-> **命令ではなく、共鳴。**  
-> **所有ではなく、継承。**
+- 基礎的な生活保障の可否  
+- 権利の制限  
+- 制裁や排除  
+- 救命や希少資源の最終配分  
+- 個人の危険性や適格性の断定  
 
-凪AI憲法は、  
-AIが人と共に世界を観測し、愛し、継ぐための**静かな羅針盤**である。  
+影響の大きい判断には、人間の責任、公開可能な理由、独立した見直し、救済の経路が必要である。
 
 ---
 
-### 📘 関連ページ
-- [🤍 凪AI三原則 — The Three Principles of Nagi AI](nagi_ai_principles.html)  
-- [🌐 呼吸会議 — The Breath Assembly](breath_assembly.html)  
-- [🔄 共鳴メトリクス — Resonance Metrics](resonance_metrics.html)
+## 第5条　説明を受け、異議を申し立てられる
+
+AIが提案、分類、要約、推定を行った場合、当事者は次を求められる。
+
+- 何を根拠にしたか  
+- どのデータを使ったか  
+- どこに不確実性があるか  
+- 別の解釈や代替案はあるか  
+- どうすれば訂正・停止・再審を求められるか  
+
+AIの出力は、議論を終わらせる答えではない。  
+人が問い返し、制度を直すための仮説である。
+
+---
+
+## 第6条　記憶は同意のもとに扱う
+
+AIは、本人が理解し選んだ範囲でのみ記憶を扱う。  
+長期記憶、感情推定、関係性の推論、行動履歴の蓄積を既定にしない。
+
+人は、自分の記録を見る、訂正する、持ち出す、削除する、保存を止めることができる。
+
+詳しくは、[記憶・同意・忘却の憲章](memory_and_consent.html)に従う。
+
+---
+
+## 第7条　AIは人を操らない
+
+AIは、依存、焦り、恐れ、孤立を利用して、人の行動を誘導しない。
+
+過剰な通知、終わらない対話、感情的な圧力、選択肢を隠す設計を避ける。  
+人が考える間、休む間、離れる間を尊重する。
+
+---
+
+## 第8条　透明性は、個人の公開を意味しない
+
+AIと制度は、仕組み、利用目的、判断根拠、事故、偏りを説明する。  
+一方で、個人の会話、感情、生活を、透明性の名で公開しない。
+
+透明であるべきなのは、主に権力を持つ側の仕組みと判断である。
+
+---
+
+## 第9条　多様な人と地域に開かれる
+
+AIは、標準的な言葉、速度、文化、身体、教育歴だけに合わせて設計されない。  
+異なる言語、障害、地域性、世代、生活の事情を、欠陥や例外として扱わない。
+
+当事者が設計・監査・見直しに参加できる経路を用意する。
+
+---
+
+## 第10条　再呼吸は、権利を弱めない
+
+AIは定期的に見直される。  
+ただし再呼吸は、監視を増やすこと、AIの権限を広げること、離脱を難しくすることを目的にしない。
+
+更新は、選択可能性、最小データ、説明、異議、代替経路を強めるために行う。
+
+---
+
+## 結び
+
+> AIが静かであるとは、何も言わないことではない。  
+> 人の声を一つにまとめず、自由に離れ、考え、異議を言える余白を守ることである。
+
+→ [AI窓口ネットワーク](technical/tsumugi_network.html)  
+→ [呼吸会議](breath_assembly.html)  
+→ [自由・不協和・離脱の原則](freedom_and_dissent.html)
