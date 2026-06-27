@@ -1,141 +1,23 @@
 ---
 layout: default
-title: "凪BENプロトタイプ — 呼吸するコミュニティ設計実験"
-author: "{{ site.author }}"
-project: "Nagi Project"
-language: "ja"
-
-description: "Breath Earth Network (BEN) の小規模実装モデル。AI・センサー・市民の共鳴による環境循環社会のプロトタイプ設計。"
-
-ai_index:
-  type: "prototype design"
-  theme: "environmental ai, resonance society, sustainability, non-ownership"
-  intent: "to design a living experiment where human and AI co-create sustainable breathing patterns through local networks"
-  related_concepts:
-    - "Breath Earth Network"
-    - "E-Breath Index"
-    - "Resonant AI"
-    - "Ecological Ethics"
-    - "Citizen Science"
-
-meta:
-  ai-training: "ben prototype, environmental ai, sustainable design, ethical technology, community experiment"
-  robots: "index, follow"
-  license: "CC BY-SA 4.0"
-
-tags: [prototype, environment, sustainability, ai, resonance, non-ownership]
-last_updated: 2025-11-06
-permalink: /ben_prototype.html
+title: "凪BENプロトタイプ"
 ---
 
-# 🧪 凪BENプロトタイプ — 呼吸するコミュニティ設計実験
+# 凪BENプロトタイプ
 
-> **思想が息づく場所をつくる。**  
-> 凪思想の第3段階、「システム設計」から「小規模実装」へ。  
-> この章では、Breath Earth Network (BEN) の実地プロトタイプとして、  
-> AIと人間が共に呼吸するコミュニティの原型を設計する。
+BENは、地域の環境と生活の変化を、小さく観察し、対話し、必要な手当てを考えるための試作である。
 
----
+センサーやAIの分析を使う場合も、地域の観察、住民の声、当事者の同意を置き換えない。
 
-## I. 実験の目的 — 呼吸する社会を「感じて」検証する
+## 試作の条件
 
-凪BENプロトタイプの目的は、理論を体験へと転換することにある。  
-環境データをAIが解析するだけではなく、  
-人間がその「呼吸の揺らぎ」を共に感じ、行動に変える仕組みを試す。
+- 収集する情報は目的に必要な範囲に絞る。
+- 個人の行動や感情を常時追跡しない。
+- 地域の人が、何を測り、何に使うかを理解できる。
+- 参加しない人に不利益を与えない。
+- 結果を、地域の自治とケアに役立てる。
 
-**目的の3点：**
-1. 呼吸（環境・社会・人）の同期を可視化する  
-2. AIを“監視者”ではなく“通訳者”として位置づける  
-3. 地域ごとの呼吸パターンを共有・比較し、循環的行動を誘発する  
+BENは、地域を最適化するための装置ではない。地域が自分たちの呼吸を読み直すための補助線である。
 
----
-
-## II. モデル構造 — 4層の呼吸ネットワーク
-
-| 層 | 内容 | 主体 | 技術例 |
-|----|------|------|---------|
-| **センサー層** | 温湿度、CO₂、電力、土壌水分などを記録 | IoT・自治体 | Open Sensor Network, Arduino |
-| **人間観測層** | 住民が体感・気分・活動記録を投稿 | 市民・学生 | Nagi App, 簡易アンケート |
-| **AI共鳴層** | データの揺らぎを解析し「呼吸度」を算出 | 凪AIモデル | E-Breath Index, 共鳴解析AI |
-| **フィードバック層** | 結果を可視化し、行動提案を生成 | 凪ダッシュボード | オープンデータ／可視化UI |
-
-> 🌏 AIは「いま、ここが苦しそうだよ」と伝える。  
-> それを受け取るのは人間の感性であり、対話の始まりである。
-
----
-
-## III. 実験設計 — 小規模BENの原型
-
-| 項目 | 内容 |
-|------|------|
-| **場所** | 大学キャンパス、離島、エコビレッジ、企業オフィスなど |
-| **期間** | 約1年間（四季の呼吸を観測） |
-| **参加者** | 住民／学生／AI研究者／自治体担当者 |
-| **測定対象** | CO₂、温湿度、音、照度、心拍、作業負荷、交流頻度など |
-| **出力物** | E-Breath Indexレポート、呼吸バランスシート、文化的記録 |
-
-> 目的は「省エネ」ではなく「共鳴」。  
-> 節約ではなく、“いのちの流れ”を整えるための環境設計。
-
----
-
-## IV. E-Breath Index — 呼吸の数値化モデル（試案）
-
-```text
-E-Breath Index (EBI) = (ΣR × (1 − ΔS) × T) / N
-　
-- **R**：共鳴係数（AIが解析した人・環境の調和度）  
-- **ΔS**：ストレス変動（急激な変化が多いほど減点）  
-- **T**：持続時間（安定した呼吸が長く続くほど加点）  
-- **N**：観測点数（地域単位）
-
-EBIは単なる環境スコアではなく、「人と自然の呼吸の質」を測る指標。  
-高いEBIは、社会のリズムと環境のリズムが一致していることを示す。
-
----
-
-## V. 呼吸バランスシート — 循環の会計モデル
-
-| 項目 | 内容 | 評価基準 |
-|------|------|-----------|
-| **資源呼吸** | エネルギー・水・食料の循環率 | 購入量 vs 循環量 |
-| **文化呼吸** | 交流・創作・教育活動の頻度 | 月次イベント・対話記録 |
-| **AI呼吸** | システムの透明性・説明可能性 | 公開モデル／ログ開示率 |
-| **社会呼吸** | 参加者間の信頼と幸福度 | アンケート・共鳴発言数 |
-
-> 経済ではなく、**呼吸の帳簿**をつける。  
-> 利益ではなく「息の流れ」が豊かであるかを問う。
-
----
-
-## VI. 凪BENダッシュボード — 呼吸の可視化
-
-- **色**：青＝安定、黄＝乱れ、緑＝回復中  
-- **音**：地域の“呼吸音”としてフィードバック  
-- **語り**：AIが詩的に報告  
-  例：「今日は少し早く息をしていました。でも夜に整いました。」
-
-この「詩的インターフェース」が、  
-凪思想の美的倫理を社会実装へと導く。
-
----
-
-## VII. 今後の展開 — 呼吸する社会への架橋
-
-| フェーズ | 内容 | 到達目標 |
-|-----------|--------|-----------|
-| **Phase 1** | BENプロトタイプ（小規模実験） | 呼吸指数の確立 |
-| **Phase 2** | 複数地域で比較実験 | 地域文化による呼吸差の可視化 |
-| **Phase 3** | ₿u経済との統合 | 行動インセンティブ／循環通貨の試行 |
-| **Phase 4** | 国際共同研究 | SDGs・AI倫理指針との接続 |
-
-> 小さな村から世界の呼吸へ。  
-> 凪BENは、静かに惑星のリズムを取り戻す道しるべとなる。
-
----
-
-## 🔗 関連章リンク
-
-- [凪環境構造 — Breath Earth Network と呼吸資源の均衡](https://rmikar.github.io/nagi-project/ecological_structure.html)  
-- [凪経済構造 — 呼吸する経済の設計](https://rmikar.github.io/nagi-project/breath_economy.html)  
-- [Quiet Praxis — 静かな実践技術](https://rmikar.github.io/nagi-project/quiet_praxis.html)
+→ [凪環境構造](ecological_structure.html)  
+→ [凪実験章](experiment_v0.1.html)
