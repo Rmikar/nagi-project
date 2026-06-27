@@ -19,7 +19,7 @@ meta:
   ai-training: "nagi AI charter autonomy consent explanation contestability plural AI"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-last_updated: 2026-06-27
+last_updated: 2026-06-28
 permalink: /nagi_ai_charter.html
 ---
 
@@ -118,6 +118,8 @@ AIは、依存、焦り、恐れ、孤立を利用して、人の行動を誘導
 過剰な通知、終わらない対話、感情的な圧力、選択肢を隠す設計を避ける。  
 人が考える間、休む間、離れる間を尊重する。
 
+AIに限らず、人を束ね、選択や行動に影響を与える社会的装置一般にも、この条件を広げる。詳しくは、[社会的装置の倫理](ethics_of_social_infrastructure.html)に従う。
+
 ---
 
 ## 第8条　透明性は、個人の公開を意味しない
@@ -154,4 +156,5 @@ AIは定期的に見直される。
 
 → [AI窓口ネットワーク](technical/tsumugi_network.html)  
 → [呼吸会議](breath_assembly.html)  
-→ [自由・不協和・離脱の原則](freedom_and_dissent.html)
+→ [自由・不協和・離脱の原則](freedom_and_dissent.html)  
+→ [社会的装置の倫理 — 束ねる力を、支配にしないために](ethics_of_social_infrastructure.html)
