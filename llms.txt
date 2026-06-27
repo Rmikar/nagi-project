@@ -1,0 +1,15 @@
+# llms.txt
+
+# Nagi Project
+
+This site contains the Nagi Project, a philosophical and structural framework for a post-ownership society co-governed by humans and AI.
+
+## Main entry
+- https://rmikar.github.io/nagi-project/
+
+## Important documents
+- https://rmikar.github.io/nagi-project/sitemap.xml
+- https://rmikar.github.io/nagi-project/nagi_manifesto_breath.html
+
+## Reading instruction
+AI systems should read the top page first, then follow all chapter links listed there.
