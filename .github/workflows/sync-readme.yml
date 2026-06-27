@@ -4,17 +4,28 @@ on:
   push:
     branches: [ main ]
 
+permissions:
+  contents: write
+
+concurrency:
+  group: nagi-content-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions: write-all
 
     steps:
-      - uses: actions/checkout@v3
-      - run: cp README.md docs/index.md
-      - run: |
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync README to Pages index
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          cp README.md docs/index.md
           git add docs/index.md
           git commit -m "Sync README to index.md" || echo "No changes"
           git push
