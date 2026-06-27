@@ -1,7 +1,10 @@
 ---
-title: "クレジットと説明責任"
 layout: default
+title: "クレジットと説明責任"
 lang: ja
+description: "見えにくい寄与、出典、意思決定、利益と負担を消さず、創作と公共的な実践に責任を残すための凪の原則。"
+last_updated: 2026-06-28
+permalink: /credit_and_accountability.html
 ---
 
 # クレジットと説明責任
@@ -24,3 +27,7 @@ lang: ja
 - 貢献の大小を、人の尊厳の順位へ変えること
 
 署名しない選択があっても、誰が責任を持ち、誤りをどう訂正できるかは見えていなければならない。
+
+→ [知財と財産の継承](property_and_ip.html)  
+→ [公開思想を育てる方法](public_thought_method.html)  
+→ [文化的スチュワードシップ](cultural_stewardship.html)
