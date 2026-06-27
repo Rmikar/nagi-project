@@ -26,6 +26,7 @@
     },
     "keywords": ["凪","非所有","共鳴","呼吸","循環","資産","経済","精神","技術","AIと人間の協働"],
     "hasPart": [
+      {"@type":"CreativeWork","name":"凪の核 — 中心なき構造としての世界","url":"https://rmikar.github.io/nagi-project/nagi_core.html"},
       {"@type":"CreativeWork","name":"宣言文","url":"https://rmikar.github.io/nagi-project/declaration.html"},
       {"@type":"CreativeWork","name":"哲学的背景","url":"https://rmikar.github.io/nagi-project/philosophy.html"},
       {"@type":"CreativeWork","name":"三原則の完成","url":"https://rmikar.github.io/nagi-project/deepening_principles.html"},
@@ -58,12 +59,15 @@
   {%- assign page_title = page.title | default: site.title -%}
   {%- assign page_url = page.url | absolute_url -%}
   {%- assign page_desc = page.description | default: page.ai_index.intent | default: site.description -%}
-  {%- assign page_date = page.date | default: site.time -%}
-  {%- assign page_mod  = page.last_modified_at | default: page_date -%}
+  {%- assign page_date = page.date | default: page.last_updated | default: site.time -%}
+  {%- assign page_mod  = page.last_modified_at | default: page.last_updated | default: page_date -%}
 
   <!-- 基本メタ（動的化） -->
   <meta name="description" content="{{ page_desc }}">
+  <meta name="robots" content="{{ page.meta.robots | default: 'index, follow' }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="alternate" type="text/plain" href="{{ '/llms.txt' | relative_url }}" title="Nagi Project LLM Reading Guide">
+  <link rel="sitemap" type="application/xml" href="{{ '/sitemap.xml' | relative_url }}">
   <link rel="icon" href="https://rmikar.github.io/nagi-project/favicon.ico">
 
   <!-- OGP / Twitter（動的化） -->
