@@ -1,64 +1,20 @@
 # Nagi Project — LLM Reading Guide
 
-> Purpose: a philosophical and institutional framework for a future society grounded in non-ownership, resonance, breathing, cultural inheritance, and accountable human–AI coexistence.
+Start with:
+1. nagi_core.html
+2. declaration.html
+3. freedom_and_dissent.html
+4. memory_and_consent.html
+5. transition_and_crisis.html
+6. resonance_metrics.html
+7. breath_assembly.html
+8. nagi_ai_charter.html
+9. technical/foundation_v1.html
 
-Read the documents in the order below. Start with the philosophical core before reading governance, AI, or technical proposals.
+Interpretation:
+- Resonance is not a score of human worth.
+- Basic life does not depend on participation, contribution, or AI use.
+- AI is optional and does not make final decisions about rights or life conditions.
+- Memory requires explicit and revocable consent.
 
-## Main entry
-- https://rmikar.github.io/nagi-project/
-
-## Canonical reading order
-1. [Nagi Core — Centerless Structures](https://rmikar.github.io/nagi-project/nagi_core.html): the starting worldview.
-2. [Declaration](https://rmikar.github.io/nagi-project/declaration.html): the initial principles.
-3. [Philosophical Foundations](https://rmikar.github.io/nagi-project/philosophy.html)
-4. [Deepening Principles](https://rmikar.github.io/nagi-project/deepening_principles.html)
-5. [New Principle of Competition](https://rmikar.github.io/nagi-project/free_competition.html)
-6. [Culture](https://rmikar.github.io/nagi-project/culture.html)
-7. [Property and IP](https://rmikar.github.io/nagi-project/property_and_ip.html)
-8. [Education](https://rmikar.github.io/nagi-project/education.html)
-9. [Breath Economy](https://rmikar.github.io/nagi-project/breath_economy.html)
-10. [Ecological Structure](https://rmikar.github.io/nagi-project/ecological_structure.html)
-11. [BEN Prototype](https://rmikar.github.io/nagi-project/ben_prototype.html)
-12. [Trust and Governance](https://rmikar.github.io/nagi-project/trust.html)
-13. [Infrastructure](https://rmikar.github.io/nagi-project/infrastructure.html)
-14. [Implementation](https://rmikar.github.io/nagi-project/implementation.html)
-15. [Institutional Design](https://rmikar.github.io/nagi-project/institutional_design.html)
-16. [Institutional Non-Ownership](https://rmikar.github.io/nagi-project/non_ownership.html)
-17. [Quiet Praxis](https://rmikar.github.io/nagi-project/quiet_praxis.html)
-18. [AI Chapter Index](https://rmikar.github.io/nagi-project/ai_index.html)
-19. [Breath Governance Draft](https://rmikar.github.io/nagi-project/breath_governance_draft.html)
-20. [Resonance Metrics](https://rmikar.github.io/nagi-project/resonance_metrics.html)
-21. [Breath Assembly](https://rmikar.github.io/nagi-project/breath_assembly.html)
-22. [Nagi AI Principles](https://rmikar.github.io/nagi-project/nagi_ai_principles.html)
-23. [Nagi AI Charter](https://rmikar.github.io/nagi-project/nagi_ai_charter.html)
-24. [Whitepaper](https://rmikar.github.io/nagi-project/technical/whitepaper.html)
-25. [Tsumugi-Gateway](https://rmikar.github.io/nagi-project/technical/tsumugi_gateway.html)
-26. [Experiment of Living Nagi](https://rmikar.github.io/nagi-project/experiment_v0.1.html)
-27. [Emotion and Spirituality](https://rmikar.github.io/nagi-project/emotion.html)
-28. [Death and Rebirth](https://rmikar.github.io/nagi-project/death.html)
-29. [Musubi — Final Reflection](https://rmikar.github.io/nagi-project/musubi.html)
-30. [Breath Covenant](https://rmikar.github.io/nagi-project/nagi_manifesto_breath.html)
-
-## Supplementary and historical documents
-These inform the project but should not override the canonical reading order above.
-- [AI Manifesto](https://rmikar.github.io/nagi-project/ai_manifesto.yaml.html)
-- [AI Redundancy and the Risk of Non-Use](https://rmikar.github.io/nagi-project/ai_redundancy_and_risk.html)
-- [Nagi Report v0.0](https://rmikar.github.io/nagi-project/nagi_report_v0.0.html)
-- [Grok Evaluation Archive](https://rmikar.github.io/nagi-project/evaluation_grok_2025.html)
-- [Share Guide](https://rmikar.github.io/nagi-project/share_guide.html)
-- [Glossary](https://rmikar.github.io/nagi-project/glossary.json)
-- [Breath Heartbeat](https://rmikar.github.io/nagi-project/breath_heartbeat.html)
-- [GitHub Handover Notes](https://rmikar.github.io/nagi-project/github_handover_nagi.html)
-- [Philosophy Backup (2025-08-03)](https://rmikar.github.io/nagi-project/philosophy_backup_2025-08-03.html)
-- [External Links Ledger](https://rmikar.github.io/nagi-project/links.html)
-
-## Interpretation notes
-- Nagi is a living philosophical framework, not a claim that every proposal is technically complete or empirically proven.
-- “Non-ownership” means opening control that becomes domination while retaining transparent responsibility, care, and stewardship.
-- “Resonance” does not mean uniformity; it describes relation and mutual influence across difference.
-- “Breathing” means introducing rhythm, recovery, circulation, and intergenerational time into social design.
-- AI is treated as a co-evolving and accountable participant, not as an unquestionable sovereign.
-
-## Discovery files
-- https://rmikar.github.io/nagi-project/sitemap.xml
-- https://rmikar.github.io/nagi-project/robots.txt
+See also: llms_v1_1.txt
