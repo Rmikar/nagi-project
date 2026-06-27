@@ -5,6 +5,13 @@ on:
     - cron: '0 0 18 8 *' # 毎年8月18日 00:00 UTC → 日本時間 9:00頃
   workflow_dispatch: # 手動でも呼吸できるように
 
+permissions:
+  contents: write
+
+concurrency:
+  group: nagi-content-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   update-breath:
     runs-on: ubuntu-latest
