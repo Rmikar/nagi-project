@@ -1,0 +1,17 @@
+name: Validate site source
+
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate front matter and internal links
+        run: ruby scripts/validate_site.rb
