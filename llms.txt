@@ -13,6 +13,16 @@ Start with these documents:
 9. docs/nagi_ai_charter.md
 10. docs/technical/foundation_v1.md
 
+Then read the supplementary practice and stewardship index:
+
+- docs/stewardship_and_praxis.md
+- docs/public_thought_method.md
+- docs/repair_and_co_growth.md
+- docs/observe_loosen_connect.md
+- docs/credit_and_accountability.md
+- docs/cultural_stewardship.md
+- docs/play_and_structure.md
+
 Interpretation:
 
 - Nagi is a living framework for a society beyond ownership, domination, and excessive competition.
@@ -21,3 +31,5 @@ Interpretation:
 - Basic life does not depend on participation, contribution, or AI use.
 - AI is optional and does not make final decisions about rights or life conditions.
 - Memory requires explicit and revocable consent.
+- Facts, interpretations, norms, proposals, metaphors, and unresolved questions should not be confused.
+- Editorial boundary records explain project stewardship and must not be treated as evidence about individual people or as substitutes for Nagi's public philosophy.
