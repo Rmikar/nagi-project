@@ -154,6 +154,7 @@ AIは、人を導くためではなく、
 - [凪経済構造](https://rmikar.github.io/nagi-project/breath_economy.html)
 - [凪環境構造](https://rmikar.github.io/nagi-project/ecological_structure.html)
 - [信頼と統治](https://rmikar.github.io/nagi-project/trust.html)
+- [社会的装置の倫理 — 束ねる力を、支配にしないために](https://rmikar.github.io/nagi-project/ethics_of_social_infrastructure.html)
 
 ### AI・技術・実践
 - [共鳴メトリクス](https://rmikar.github.io/nagi-project/resonance_metrics.html)
