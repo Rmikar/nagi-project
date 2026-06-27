@@ -142,6 +142,7 @@ AIは、人を導くためではなく、
 ### はじめに読む
 - [凪の核 — 中心なき構造としての世界](https://rmikar.github.io/nagi-project/nagi_core.html)
 - [凪の宣言文](https://rmikar.github.io/nagi-project/declaration.html)
+- [羅針盤と共鳴民主主義](https://rmikar.github.io/nagi-project/compass_and_resonant_democracy.html)
 - [自由・不協和・離脱の原則](https://rmikar.github.io/nagi-project/freedom_and_dissent.html)
 - [記憶・同意・忘却の憲章](https://rmikar.github.io/nagi-project/memory_and_consent.html)
 - [移行と危機の設計](https://rmikar.github.io/nagi-project/transition_and_crisis.html)
@@ -161,6 +162,7 @@ AIは、人を導くためではなく、
 - [凪技術の基盤](https://rmikar.github.io/nagi-project/technical/foundation_v1.html)
 - [AI窓口ネットワーク](https://rmikar.github.io/nagi-project/technical/tsumugi_network.html)
 - [凪実験章](https://rmikar.github.io/nagi-project/experiment_v0.1.html)
+- [補遺 — 思想を育てる方法と実践](https://rmikar.github.io/nagi-project/stewardship_and_praxis.html)
 
 ### 内面と結び
 - [感情と精神性](https://rmikar.github.io/nagi-project/emotion.html)

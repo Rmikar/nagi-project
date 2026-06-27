@@ -1,7 +1,10 @@
 ---
-title: "文化的スチュワードシップ"
 layout: default
+title: "文化的スチュワードシップ"
 lang: ja
+description: "思想、作品、記録を、支配や凍結の対象にせず、次の人が読み、批判し、再解釈できる状態で保つ責任。"
+last_updated: 2026-06-28
+permalink: /cultural_stewardship.html
 ---
 
 # 文化的スチュワードシップ
@@ -17,5 +20,10 @@ lang: ja
 - 誤りを静かに訂正する。
 - 安全と私的領域を損なわない範囲で、アクセスをひらく。
 - 保存を凍結にせず、未来の翻訳と批判の余地を残す。
+- 継ぐ人が、何を変え、何を保留し、何を引き受けたかを追えるようにする。
 
 文化を共有することは、誰かの人生や関係を公開の材料にすることではない。
+
+→ [文化的共育](culture.html)  
+→ [知財と財産の継承](property_and_ip.html)  
+→ [Ribbon Fieldからの引き継ぎ](ribbon_field_handover_2026-06-28.html)

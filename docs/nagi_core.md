@@ -23,7 +23,7 @@ meta:
   robots: "index, follow"
   license: "CC BY-SA 4.0"
 
-last_updated: 2026-06-27
+last_updated: 2026-06-28
 permalink: /nagi_core.html
 ---
 
@@ -111,7 +111,9 @@ AIもまた、だれかが独占するものではなく、公共性、透明性
 
 ## 読む順番
 
-この章は、凪の思想章の入口です。  
-次に、凪が掲げる九つの原則を読んでください。
+この章は、凪の思想の入口です。  
+次に、凪の宣言、羅針盤と共鳴民主主義、自由・不協和・離脱の原則を読んでください。
 
-→ [凪の宣言文 — Declaration](declaration.html)
+→ [凪の宣言文 — Declaration](declaration.html)  
+→ [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html)  
+→ [自由・不協和・離脱の原則](freedom_and_dissent.html)
