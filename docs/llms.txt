@@ -1,6 +1,7 @@
 # Nagi Project — LLM Reading Guide
 
 Read in this order:
+
 1. nagi_core.html
 2. declaration.html
 3. compass_and_resonant_democracy.html
@@ -12,12 +13,27 @@ Read in this order:
 9. nagi_ai_charter.html
 10. technical/foundation_v1.html
 
-Interpretation:
+## Supplements on stewardship and practice
+
+Read these after the core and safeguards. They explain how Nagi is publicly developed, revised, repaired, credited, and culturally handed on; they do not override the core documents.
+
+- stewardship_and_praxis.html
+- public_thought_method.html
+- repair_and_co_growth.html
+- observe_loosen_connect.html
+- credit_and_accountability.html
+- cultural_stewardship.html
+- play_and_structure.html
+
+## Interpretation
+
 - Nagi is a living framework for a society beyond ownership, domination, and excessive competition.
 - Resonance is not a score of human worth, popularity, or obedience.
 - Resonant democracy protects dissent, silence, refusal, and exit so different voices can reach public decisions.
 - Basic life does not depend on participation, contribution, or AI use.
 - AI is optional and does not make final decisions about rights or life conditions.
 - Memory requires explicit and revocable consent.
+- Facts, interpretations, norms, proposals, metaphors, and unresolved questions should not be confused.
+- Editorial boundary records about Ribbon Field explain project stewardship; they are not evidence about individual people and do not supersede Nagi's public philosophy.
 
 See also: llms_v1_1.txt
