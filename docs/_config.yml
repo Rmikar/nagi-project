@@ -23,3 +23,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-readme-index
   - jekyll-feed
+
+# Public rebuild marker: English edition release, 2026-06-28
