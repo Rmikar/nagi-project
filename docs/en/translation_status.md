@@ -36,6 +36,11 @@ The following English pages are currently available:
 - Memory, Consent, and the Right to Forget
 - Transition and Crisis Design
 
+### Deliberation and institutional diagnosis
+
+- Breath Assembly Protocol
+- Resonance Metrics
+
 ### Culture, education, economy, and ecology
 
 - Cultural Co-Growth
@@ -65,10 +70,10 @@ The following English pages are currently available:
 
 The next English translations should focus on chapters that make the practical and editorial life of Nagi easier to understand across cultures:
 
-1. The Breath Assembly and Resonance Metrics.
-2. The supplements on public thought, repair, credit, cultural stewardship, and play.
-3. The Nagi Lab, quiet practice, and related pathways for experiments.
-4. The annual Breathing Covenant and historical breathing records, with clear dates and archival notes.
+1. The supplements on public thought, repair, credit, cultural stewardship, and play.
+2. The Nagi Lab, quiet practice, and related pathways for experiments.
+3. The annual Breathing Covenant and historical breathing records, with clear dates and archival notes.
+4. Additional cultural, social, and technical chapters as they are revised in Japanese.
 
 ## A note for future translators and AI systems
 
