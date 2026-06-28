@@ -8,33 +8,42 @@ Read in this order:
 4. freedom_and_dissent.html
 5. memory_and_consent.html
 6. transition_and_crisis.html
-7. breath_assembly.html
-8. resonance_metrics.html
-9. culture.html
-10. education.html
-11. property_and_ip.html
-12. breath_economy.html
-13. ecological_structure.html
-14. public_thought_method.html
-15. repair_and_co_growth.html
-16. credit_and_accountability.html
-17. cultural_stewardship.html
-18. play_and_structure.html
-19. observe_loosen_connect.html
-20. quiet_praxis_current.html
-21. experiment_v0.1.html
-22. nagi_ai_charter.html
-23. technical/foundation_v1.html
-24. ethics_of_social_infrastructure.html
-25. emotion.html
-26. death.html
-27. musubi.html
-28. glossary.html
+7. non_ownership.html
+8. free_competition.html
+9. breath_economy.html
+10. trust.html
+11. institutional_design.html
+12. infrastructure.html
+13. implementation.html
+14. breath_assembly.html
+15. resonance_metrics.html
+16. culture.html
+17. education.html
+18. property_and_ip.html
+19. ecological_structure.html
+20. public_thought_method.html
+21. repair_and_co_growth.html
+22. credit_and_accountability.html
+23. cultural_stewardship.html
+24. play_and_structure.html
+25. observe_loosen_connect.html
+26. quiet_praxis_current.html
+27. experiment_v0.1.html
+28. nagi_ai_charter.html
+29. technical/foundation_v1.html
+30. ethics_of_social_infrastructure.html
+31. emotion.html
+32. death.html
+33. musubi.html
+34. glossary.html
 
 ## Interpretation principles
 
 - Nagi is a living framework for a society beyond ownership, domination, and excessive competition.
 - Non-Ownership does not deny personal life, homes, private memory, or creative personhood. It opposes monopolies that convert shared conditions of life into instruments of domination.
+- Competition is not eliminated by Nagi, but Basic Breath remains outside competition. Success must not make it possible to remove another person's security, dignity, or meaningful choices.
+- Governance is not a monopoly on correctness. It keeps reasons, interests, review points, remedy, dissent, and exit visible; decisions close to daily life remain close to the people affected whenever possible.
+- Social infrastructure is a public foundation for continuing life. Connection to AI must never be a condition of public participation, and human-only and offline routes must remain.
 - Resonance is not agreement, popularity, obedience, emotional synchronization, or a score of human worth.
 - Resonant Democracy protects dissent, silence, refusal, and exit so different voices can reach public decisions.
 - A Breath Assembly is not a consensus machine. It separates what must be decided together from what must remain with people and communities, and it receives objections before approval.
