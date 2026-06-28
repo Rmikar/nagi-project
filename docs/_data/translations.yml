@@ -27,6 +27,10 @@ pages:
     en: "/en/transition_and_crisis.html"
   "/en/transition_and_crisis.html":
     ja: "/transition_and_crisis.html"
+  "/v1_1_overview.html":
+    en: "/en/v1_1_overview.html"
+  "/en/v1_1_overview.html":
+    ja: "/v1_1_overview.html"
   "/nagi_ai_charter.html":
     en: "/en/nagi_ai_charter.html"
   "/en/nagi_ai_charter.html":
@@ -39,6 +43,10 @@ pages:
     en: "/en/ai_index.html"
   "/en/ai_index.html":
     ja: "/ai_index.html"
+  "/ai_manifesto.yaml.html":
+    en: "/en/ai_manifesto.yaml.html"
+  "/en/ai_manifesto.yaml.html":
+    ja: "/ai_manifesto.yaml.html"
   "/technical/foundation_v1.html":
     en: "/en/technical/foundation_v1.html"
   "/en/technical/foundation_v1.html":
