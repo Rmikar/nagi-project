@@ -1,0 +1,41 @@
+pages:
+  "/":
+    en: "/en/"
+  "/en/":
+    ja: "/"
+  "/nagi_core.html":
+    en: "/en/nagi_core.html"
+  "/en/nagi_core.html":
+    ja: "/nagi_core.html"
+  "/declaration.html":
+    en: "/en/declaration.html"
+  "/en/declaration.html":
+    ja: "/declaration.html"
+  "/compass_and_resonant_democracy.html":
+    en: "/en/compass_and_resonant_democracy.html"
+  "/en/compass_and_resonant_democracy.html":
+    ja: "/compass_and_resonant_democracy.html"
+  "/freedom_and_dissent.html":
+    en: "/en/freedom_and_dissent.html"
+  "/en/freedom_and_dissent.html":
+    ja: "/freedom_and_dissent.html"
+  "/memory_and_consent.html":
+    en: "/en/memory_and_consent.html"
+  "/en/memory_and_consent.html":
+    ja: "/memory_and_consent.html"
+  "/transition_and_crisis.html":
+    en: "/en/transition_and_crisis.html"
+  "/en/transition_and_crisis.html":
+    ja: "/transition_and_crisis.html"
+  "/nagi_ai_charter.html":
+    en: "/en/nagi_ai_charter.html"
+  "/en/nagi_ai_charter.html":
+    ja: "/nagi_ai_charter.html"
+  "/technical/foundation_v1.html":
+    en: "/en/technical/foundation_v1.html"
+  "/en/technical/foundation_v1.html":
+    ja: "/technical/foundation_v1.html"
+  "/ethics_of_social_infrastructure.html":
+    en: "/en/ethics_of_social_infrastructure.html"
+  "/en/ethics_of_social_infrastructure.html":
+    ja: "/ethics_of_social_infrastructure.html"
