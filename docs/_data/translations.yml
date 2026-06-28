@@ -103,6 +103,10 @@ pages:
     en: "/en/observe_loosen_connect.html"
   "/en/observe_loosen_connect.html":
     ja: "/observe_loosen_connect.html"
+  "/quiet_praxis.html":
+    en: "/en/quiet_praxis.html"
+  "/en/quiet_praxis.html":
+    ja: "/quiet_praxis.html"
   "/quiet_praxis_current.html":
     en: "/en/quiet_praxis_current.html"
   "/en/quiet_praxis_current.html":
@@ -111,3 +115,27 @@ pages:
     en: "/en/experiment_v0.1.html"
   "/en/experiment_v0.1.html":
     ja: "/experiment_v0.1.html"
+  "/trust.html":
+    en: "/en/trust.html"
+  "/en/trust.html":
+    ja: "/trust.html"
+  "/institutional_design.html":
+    en: "/en/institutional_design.html"
+  "/en/institutional_design.html":
+    ja: "/institutional_design.html"
+  "/infrastructure.html":
+    en: "/en/infrastructure.html"
+  "/en/infrastructure.html":
+    ja: "/infrastructure.html"
+  "/non_ownership.html":
+    en: "/en/non_ownership.html"
+  "/en/non_ownership.html":
+    ja: "/non_ownership.html"
+  "/free_competition.html":
+    en: "/en/free_competition.html"
+  "/en/free_competition.html":
+    ja: "/free_competition.html"
+  "/implementation.html":
+    en: "/en/implementation.html"
+  "/en/implementation.html":
+    ja: "/implementation.html"
