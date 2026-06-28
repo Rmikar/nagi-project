@@ -31,10 +31,26 @@ pages:
     en: "/en/nagi_ai_charter.html"
   "/en/nagi_ai_charter.html":
     ja: "/nagi_ai_charter.html"
+  "/nagi_ai_principles.html":
+    en: "/en/nagi_ai_principles.html"
+  "/en/nagi_ai_principles.html":
+    ja: "/nagi_ai_principles.html"
+  "/ai_index.html":
+    en: "/en/ai_index.html"
+  "/en/ai_index.html":
+    ja: "/ai_index.html"
   "/technical/foundation_v1.html":
     en: "/en/technical/foundation_v1.html"
   "/en/technical/foundation_v1.html":
     ja: "/technical/foundation_v1.html"
+  "/technical/tsumugi_network.html":
+    en: "/en/technical/tsumugi_network.html"
+  "/en/technical/tsumugi_network.html":
+    ja: "/technical/tsumugi_network.html"
+  "/technical/whitepaper.html":
+    en: "/en/technical/whitepaper.html"
+  "/en/technical/whitepaper.html":
+    ja: "/technical/whitepaper.html"
   "/ethics_of_social_infrastructure.html":
     en: "/en/ethics_of_social_infrastructure.html"
   "/en/ethics_of_social_infrastructure.html":
@@ -71,6 +87,14 @@ pages:
     en: "/en/musubi.html"
   "/en/musubi.html":
     ja: "/musubi.html"
+  "/philosophy.html":
+    en: "/en/philosophy.html"
+  "/en/philosophy.html":
+    ja: "/philosophy.html"
+  "/deepening_principles.html":
+    en: "/en/deepening_principles.html"
+  "/en/deepening_principles.html":
+    ja: "/deepening_principles.html"
   "/breath_assembly.html":
     en: "/en/breath_assembly.html"
   "/en/breath_assembly.html":
