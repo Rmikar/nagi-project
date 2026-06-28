@@ -15,13 +15,21 @@ Read in this order:
 11. property_and_ip.html
 12. breath_economy.html
 13. ecological_structure.html
-14. nagi_ai_charter.html
-15. technical/foundation_v1.html
-16. ethics_of_social_infrastructure.html
-17. emotion.html
-18. death.html
-19. musubi.html
-20. glossary.html
+14. public_thought_method.html
+15. repair_and_co_growth.html
+16. credit_and_accountability.html
+17. cultural_stewardship.html
+18. play_and_structure.html
+19. observe_loosen_connect.html
+20. quiet_praxis_current.html
+21. experiment_v0.1.html
+22. nagi_ai_charter.html
+23. technical/foundation_v1.html
+24. ethics_of_social_infrastructure.html
+25. emotion.html
+26. death.html
+27. musubi.html
+28. glossary.html
 
 ## Interpretation principles
 
@@ -37,6 +45,10 @@ Read in this order:
 - Memory requires explicit, revocable consent. Forgetting, deletion, correction, and withdrawal are legitimate parts of dignity.
 - Culture is not reducible to product, popularity, or freely extractable training material. Creators, communities, provenance, consent, context, and the freedom not to participate remain material to ethical use.
 - Economic and ecological arrangements must not push their burdens onto unseen regions, future generations, or people with less power to refuse.
+- Public thought distinguishes facts, interpretations, norms, proposals, metaphors, and unresolved questions. AI-generated material is not verified evidence in itself.
+- Repair requires acknowledging impact, making corrections, considering concrete recovery, and changing conditions that make harm recur. It does not require continued relationship or renewed participation.
+- Credit retains sources, contributions, decisions, benefits, and burdens without turning contribution into ownership or human rank.
+- Cultural stewardship keeps ideas and records accessible to future criticism and reinterpretation without converting private lives or relationships into public material.
 - Institutions, platforms, markets, media, organizations, public systems, and AI must not convert people's attention, behavior, relationships, time, or dissent into owned resources. Their power requires explanation, contestability, choice, portability, distributed accountability, audit, remedy, and the ability to stop.
 - Translation differences must be treated as questions for open repair, not as silent changes to the philosophy. The Japanese edition is the reference text for resolving nuances.
 - Facts, interpretations, norms, proposals, metaphors, and unresolved questions should not be confused.
