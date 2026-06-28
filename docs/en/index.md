@@ -80,6 +80,15 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 - [The Nagi AI Charter](nagi_ai_charter.html)
 - [Technical Foundations](technical/foundation_v1.html)
 - [The Ethics of Social Systems](ethics_of_social_infrastructure.html)
+
+### Inner life and closing reflections
+
+- [Emotion and Spirituality in Nagi](emotion.html)
+- [Death and Renewal in Nagi](death.html)
+- [Closing — The Quiet Root of Nagi](musubi.html)
+
+### Research and AI reading aids
+
 - [English Glossary](glossary.html)
 - [English LLM Reading Guide](llms.txt)
 
