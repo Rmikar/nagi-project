@@ -49,6 +49,17 @@ The following English pages are currently available:
 - Nagi Economic Structure
 - Nagi Ecological Structure
 
+### Public thought, practice, repair, and stewardship
+
+- How to Cultivate Public Thought
+- Nagi Experiments
+- Observe, Loosen, Connect
+- Quiet Practice
+- Repair and Cultural Co-Growth
+- Credit and Accountability
+- Cultural Stewardship
+- Play and Structure
+
 ### Institutions, technology, and AI
 
 - The Nagi AI Charter
@@ -68,12 +79,12 @@ The following English pages are currently available:
 
 ## Translation priorities still ahead
 
-The next English translations should focus on chapters that make the practical and editorial life of Nagi easier to understand across cultures:
+The next English translations should focus on:
 
-1. The supplements on public thought, repair, credit, cultural stewardship, and play.
-2. The Nagi Lab, quiet practice, and related pathways for experiments.
-3. The annual Breathing Covenant and historical breathing records, with clear dates and archival notes.
-4. Additional cultural, social, and technical chapters as they are revised in Japanese.
+1. The annual Breathing Covenant and historical breathing records, with clear dates and archival notes.
+2. The remaining implementation, infrastructure, trust, and institutional-design chapters.
+3. Additional cultural, social, and technical chapters as they are revised in Japanese.
+4. A later editorial pass that reviews terminology, cross-links, and reader-facing summaries across the English edition as a whole.
 
 ## A note for future translators and AI systems
 
