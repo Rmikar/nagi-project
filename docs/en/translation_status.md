@@ -36,17 +36,26 @@ The following English pages are currently available:
 - Memory, Consent, and the Right to Forget
 - Transition and Crisis Design
 
+### Ownership, competition, governance, and infrastructure
+
+- Institutionalizing Non-Ownership
+- Principles of Free Competition Beyond Capitalism
+- Nagi Economic Structure
+- Trust and Governance
+- Institutional Design and Practice
+- Social Infrastructure and the Role of AI in Nagi
+- Implementation and Breathing in Nagi
+
 ### Deliberation and institutional diagnosis
 
 - Breath Assembly Protocol
 - Resonance Metrics
 
-### Culture, education, economy, and ecology
+### Culture, education, and ecology
 
 - Cultural Co-Growth
 - Education for a Future in Nagi
 - Inheritance of Intellectual Property and Assets
-- Nagi Economic Structure
 - Nagi Ecological Structure
 
 ### Public thought, practice, repair, and stewardship
@@ -79,12 +88,12 @@ The following English pages are currently available:
 
 ## Translation priorities still ahead
 
-The next English translations should focus on:
+The next English work should focus on:
 
-1. The annual Breathing Covenant and historical breathing records, with clear dates and archival notes.
-2. The remaining implementation, infrastructure, trust, and institutional-design chapters.
-3. Additional cultural, social, and technical chapters as they are revised in Japanese.
-4. A later editorial pass that reviews terminology, cross-links, and reader-facing summaries across the English edition as a whole.
+1. Remaining institutional, practical, and technical chapters as they are revised in Japanese.
+2. The annual Breath Covenant and historical breathing records, with clear dates and archival notes. Because some ritual and archival passages contain individually identifying relational material, they should receive a separate editorial boundary review before being translated for a wider public.
+3. A later editorial pass that reviews terminology, cross-links, metadata, and reader-facing summaries across the English edition as a whole.
+4. Translation of additional chapters only when their public purpose, source status, and relationship to private or stewarding records are clear.
 
 ## A note for future translators and AI systems
 
