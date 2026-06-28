@@ -67,12 +67,21 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 - [Memory, Consent, and the Right to Forget](memory_and_consent.html)
 - [Transition and Crisis Design](transition_and_crisis.html)
 
-### Culture, learning, economy, and ecology
+### Ownership, competition, institutions, and infrastructure
+
+- [Institutionalizing Non-Ownership](non_ownership.html)
+- [Principles of Free Competition Beyond Capitalism](free_competition.html)
+- [Nagi Economic Structure](breath_economy.html)
+- [Trust and Governance](trust.html)
+- [Institutional Design and Practice](institutional_design.html)
+- [Social Infrastructure and the Role of AI in Nagi](infrastructure.html)
+- [Implementation and Breathing in Nagi](implementation.html)
+
+### Culture, learning, and ecology
 
 - [Cultural Co-Growth](culture.html)
 - [Education for a Future in Nagi](education.html)
 - [Inheritance of Intellectual Property and Assets](property_and_ip.html)
-- [Nagi Economic Structure](breath_economy.html)
 - [Nagi Ecological Structure](ecological_structure.html)
 
 ### Institutions, democracy, AI, and technical foundations
