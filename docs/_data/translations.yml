@@ -71,3 +71,11 @@ pages:
     en: "/en/musubi.html"
   "/en/musubi.html":
     ja: "/musubi.html"
+  "/breath_assembly.html":
+    en: "/en/breath_assembly.html"
+  "/en/breath_assembly.html":
+    ja: "/breath_assembly.html"
+  "/resonance_metrics.html":
+    en: "/en/resonance_metrics.html"
+  "/en/resonance_metrics.html":
+    ja: "/resonance_metrics.html"
