@@ -61,6 +61,8 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 ### Start here
 
 - [Nagi Core — A World of Centerless Structures](nagi_core.html)
+- [The Philosophical Background of Nagi](philosophy.html)
+- [Deepening the Principles of Nagi](deepening_principles.html)
 - [Nagi Declaration](declaration.html)
 - [Compass and Resonant Democracy](compass_and_resonant_democracy.html)
 - [Freedom, Dissent, and Exit](freedom_and_dissent.html)
@@ -86,10 +88,14 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 
 ### Institutions, democracy, AI, and technical foundations
 
+- [The Nagi AI Chapter](ai_index.html)
+- [The Three Principles for Nagi AI](nagi_ai_principles.html)
 - [Breath Assembly Protocol](breath_assembly.html)
 - [Resonance Metrics](resonance_metrics.html)
 - [The Nagi AI Charter](nagi_ai_charter.html)
 - [Technical Foundations](technical/foundation_v1.html)
+- [Tsumugi Network](technical/tsumugi_network.html)
+- [Nagi Technical Design](technical/whitepaper.html)
 - [The Ethics of Social Systems](ethics_of_social_infrastructure.html)
 
 ### Practice, repair, and stewardship
@@ -113,6 +119,7 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 
 - [English Glossary](glossary.html)
 - [English LLM Reading Guide](llms.txt)
+- [Re-breathing and Public Continuity](rebreathing_and_public_continuity.html)
 - [Translation Status and Governance](translation_status.html)
 
 ## Japanese original
