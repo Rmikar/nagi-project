@@ -27,9 +27,11 @@ It is not meant to replace the Japanese edition or to smooth away the concepts t
 
 The following English pages are currently available:
 
-### Foundations and safeguards
+### Philosophical orientation and safeguards
 
+- The Philosophical Background of Nagi
 - Nagi Core
+- Deepening the Principles of Nagi
 - Nagi Declaration
 - Compass and Resonant Democracy
 - Freedom, Dissent, and Exit
@@ -71,8 +73,12 @@ The following English pages are currently available:
 
 ### Institutions, technology, and AI
 
+- The Nagi AI Chapter
+- The Three Principles for Nagi AI
 - The Nagi AI Charter
 - Technical Foundations
+- Tsumugi Network
+- Nagi Technical Design
 - The Ethics of Social Systems
 
 ### Inner life and closing reflections
@@ -81,10 +87,11 @@ The following English pages are currently available:
 - Death and Renewal in Nagi
 - Closing — The Quiet Root of Nagi
 
-### Reading aids
+### Reading aids and continuity
 
 - Nagi Glossary
 - English LLM Reading Guide
+- Re-breathing and Public Continuity
 
 ## Translation priorities still ahead
 
