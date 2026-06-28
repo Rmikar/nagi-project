@@ -1,5 +1,7 @@
 <!doctype html>
-<html lang="{{ page.lang | default: site.lang | default: 'ja' }}">
+{%- assign current_lang = page.lang | default: site.lang | default: 'ja' -%}
+{%- assign translation_links = site.data.translations.pages[page.url] -%}
+<html lang="{{ current_lang }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -13,12 +15,19 @@
   <meta name="description" content="{{ page_desc }}">
   <meta name="robots" content="{{ page.meta.robots | default: page.robots | default: 'index, follow' }}">
   <link rel="canonical" href="{{ page_url }}">
+  <link rel="alternate" hreflang="{{ current_lang }}" href="{{ page_url }}">
+  {%- if translation_links.ja -%}
+  <link rel="alternate" hreflang="ja" href="{{ translation_links.ja | absolute_url }}">
+  {%- endif -%}
+  {%- if translation_links.en -%}
+  <link rel="alternate" hreflang="en" href="{{ translation_links.en | absolute_url }}">
+  {%- endif -%}
   <link rel="alternate" type="text/plain" href="{{ '/llms.txt' | relative_url }}" title="Nagi LLM Reading Guide">
   <link rel="sitemap" type="application/xml" href="{{ '/sitemap.xml' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/nagi.css' | relative_url }}">
 
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="凪（Nagi）プロジェクト">
+  <meta property="og:site_name" content="{% if current_lang == 'en' %}Nagi Project{% else %}凪（Nagi）プロジェクト{% endif %}">
   <meta property="og:title" content="{{ page_title }}">
   <meta property="og:description" content="{{ page_desc }}">
   <meta property="og:url" content="{{ page_url }}">
@@ -30,11 +39,11 @@
     "@type": "CreativeWork",
     "headline": {{ page_title | jsonify }},
     "description": {{ page_desc | jsonify }},
-    "inLanguage": {{ page.lang | default: site.lang | jsonify }},
+    "inLanguage": {{ current_lang | jsonify }},
     "url": {{ page_url | jsonify }},
     "isPartOf": {
       "@type": "WebSite",
-      "name": "凪（Nagi）プロジェクト",
+      "name": "Nagi Project",
       "url": "https://rmikar.github.io/nagi-project/"
     },
     "creator": {"@type": "Person", "name": {{ site.author | jsonify }}},
@@ -43,16 +52,26 @@
   </script>
 </head>
 <body>
-  <a class="skip-link" href="#main-content">本文へ移動</a>
+  <a class="skip-link" href="#main-content">{% if current_lang == 'en' %}Skip to content{% else %}本文へ移動{% endif %}</a>
 
   <div class="site-shell">
     <header class="site-header">
-      <a class="brand" href="{{ '/' | relative_url }}" aria-label="凪プロジェクトのトップへ戻る">
+      <a class="brand" href="{% if current_lang == 'en' %}{{ '/en/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}" aria-label="{% if current_lang == 'en' %}Nagi Project home{% else %}凪プロジェクトのトップへ戻る{% endif %}">
         <span class="brand-mark" aria-hidden="true">🌊</span>
-        <span>凪プロジェクト</span>
-        <span class="brand-subtitle">Nagi Project</span>
+        <span>{% if current_lang == 'en' %}Nagi Project{% else %}凪プロジェクト{% endif %}</span>
+        <span class="brand-subtitle">{% if current_lang == 'en' %}A Compass Beyond Ownership{% else %}Nagi Project{% endif %}</span>
       </a>
 
+      {% if current_lang == 'en' %}
+      <nav class="nagi-nav" aria-label="Nagi sections">
+        <a href="{{ '/en/' | relative_url }}">Home</a>
+        <a href="{{ '/en/nagi_core.html' | relative_url }}">Nagi Core</a>
+        <a href="{{ '/en/freedom_and_dissent.html' | relative_url }}">Freedom, Dissent & Exit</a>
+        <a href="{{ '/en/memory_and_consent.html' | relative_url }}">Memory & Consent</a>
+        <a href="{{ '/en/transition_and_crisis.html' | relative_url }}">Transition & Crisis</a>
+        <a href="{{ '/en/nagi_ai_charter.html' | relative_url }}">Nagi AI Charter</a>
+      </nav>
+      {% else %}
       <nav class="nagi-nav" aria-label="凪の主要な入口">
         <a href="{{ '/' | relative_url }}">凪トップ</a>
         <a href="{{ '/nagi_core.html' | relative_url }}">凪の核</a>
@@ -61,6 +80,13 @@
         <a href="{{ '/transition_and_crisis.html' | relative_url }}">移行と危機</a>
         <a href="{{ '/nagi_ai_charter.html' | relative_url }}">凪AI憲法</a>
       </nav>
+      {% endif %}
+
+      {% if current_lang == 'en' and translation_links.ja %}
+      <p><a href="{{ translation_links.ja | relative_url }}" lang="ja">日本語版</a></p>
+      {% elsif current_lang != 'en' and translation_links.en %}
+      <p><a href="{{ translation_links.en | relative_url }}" lang="en">English edition</a></p>
+      {% endif %}
     </header>
 
     <main id="main-content" class="prose">
@@ -68,6 +94,21 @@
     </main>
 
     <footer class="site-footer">
+      {% if current_lang == 'en' %}
+      <div class="nagi-note">
+        <strong>Starting with Nagi v1.1</strong><br>
+        Begin with the Nagi Core and Freedom, Dissent, and Exit before moving into institutions, AI, and technical foundations.
+      </div>
+      <ul>
+        <li><a href="{{ '/en/nagi_core.html' | relative_url }}">Nagi Core</a></li>
+        <li><a href="{{ '/en/freedom_and_dissent.html' | relative_url }}">Freedom, Dissent, and Exit</a></li>
+        <li><a href="{{ '/en/memory_and_consent.html' | relative_url }}">Memory, Consent, and the Right to Forget</a></li>
+        <li><a href="{{ '/en/transition_and_crisis.html' | relative_url }}">Transition and Crisis Design</a></li>
+        <li><a href="{{ '/en/ethics_of_social_infrastructure.html' | relative_url }}">The Ethics of Social Systems</a></li>
+        <li><a href="{{ '/en/llms.txt' | relative_url }}">English LLM Reading Guide</a> / <a href="{{ '/sitemap.xml' | relative_url }}">sitemap.xml</a></li>
+      </ul>
+      <p>© 2025–2026 紬実花（TsumugiMika） — Nagi Project — CC BY-SA 4.0</p>
+      {% else %}
       <div class="nagi-note">
         <strong>凪 v1.1 の入口</strong><br>
         凪の核と、自由・不協和・離脱の原則を先に読んでから、制度・AI・技術の章へ進んでください。
@@ -81,6 +122,7 @@
         <li><a href="{{ '/llms.txt' | relative_url }}">LLM Reading Guide</a> / <a href="{{ '/sitemap.xml' | relative_url }}">sitemap.xml</a></li>
       </ul>
       <p>© 2025–2026 紬実花（TsumugiMika） — 凪プロジェクト — CC BY-SA 4.0</p>
+      {% endif %}
     </footer>
   </div>
 </body>
