@@ -83,6 +83,17 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 - [Technical Foundations](technical/foundation_v1.html)
 - [The Ethics of Social Systems](ethics_of_social_infrastructure.html)
 
+### Practice, repair, and stewardship
+
+- [How to Cultivate Public Thought](public_thought_method.html)
+- [Nagi Experiments](experiment_v0.1.html)
+- [Observe, Loosen, Connect](observe_loosen_connect.html)
+- [Quiet Practice](quiet_praxis_current.html)
+- [Repair and Cultural Co-Growth](repair_and_co_growth.html)
+- [Credit and Accountability](credit_and_accountability.html)
+- [Cultural Stewardship](cultural_stewardship.html)
+- [Play and Structure](play_and_structure.html)
+
 ### Inner life and closing reflections
 
 - [Emotion and Spirituality in Nagi](emotion.html)
