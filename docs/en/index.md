@@ -67,6 +67,14 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 - [Memory, Consent, and the Right to Forget](memory_and_consent.html)
 - [Transition and Crisis Design](transition_and_crisis.html)
 
+### Culture, learning, economy, and ecology
+
+- [Cultural Co-Growth](culture.html)
+- [Education for a Future in Nagi](education.html)
+- [Inheritance of Intellectual Property and Assets](property_and_ip.html)
+- [Nagi Economic Structure](breath_economy.html)
+- [Nagi Ecological Structure](ecological_structure.html)
+
 ### Institutions, AI, and technical foundations
 
 - [The Nagi AI Charter](nagi_ai_charter.html)
