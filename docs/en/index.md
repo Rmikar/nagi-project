@@ -60,6 +60,7 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 
 ### Start here
 
+- [Nagi v1.1 Overview](v1_1_overview.html)
 - [Nagi Core — A World of Centerless Structures](nagi_core.html)
 - [The Philosophical Background of Nagi](philosophy.html)
 - [Deepening the Principles of Nagi](deepening_principles.html)
@@ -117,6 +118,8 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 
 ### Research, AI, and translation aids
 
+- [Introducing Nagi Across Languages and Contexts](introducing_nagi.html)
+- [AI Legibility and Continuity Design](ai_manifesto.yaml.html)
 - [English Glossary](glossary.html)
 - [English LLM Reading Guide](llms.txt)
 - [Re-breathing and Public Continuity](rebreathing_and_public_continuity.html)
