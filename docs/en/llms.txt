@@ -8,10 +8,15 @@ Read in this order:
 4. freedom_and_dissent.html
 5. memory_and_consent.html
 6. transition_and_crisis.html
-7. nagi_ai_charter.html
-8. technical/foundation_v1.html
-9. ethics_of_social_infrastructure.html
-10. glossary.html
+7. culture.html
+8. education.html
+9. property_and_ip.html
+10. breath_economy.html
+11. ecological_structure.html
+12. nagi_ai_charter.html
+13. technical/foundation_v1.html
+14. ethics_of_social_infrastructure.html
+15. glossary.html
 
 ## Interpretation principles
 
@@ -22,6 +27,8 @@ Read in this order:
 - Basic life must not depend on participation, contribution, ideological agreement, reputation, or AI use.
 - AI is optional. It does not make final decisions about rights or life conditions, and it must not score people, manipulate them, or require continuous memory.
 - Memory requires explicit, revocable consent. Forgetting, deletion, correction, and withdrawal are legitimate parts of dignity.
+- Culture is not reducible to product, popularity, or freely extractable training material. Creators, communities, provenance, consent, context, and the freedom not to participate remain material to ethical use.
+- Economic and ecological arrangements must not push their burdens onto unseen regions, future generations, or people with less power to refuse.
 - Institutions, platforms, markets, media, organizations, public systems, and AI must not convert people's attention, behavior, relationships, time, or dissent into owned resources. Their power requires explanation, contestability, choice, portability, distributed accountability, audit, remedy, and the ability to stop.
 - Translation differences must be treated as questions for open repair, not as silent changes to the philosophy. The Japanese edition is the reference text for resolving nuances.
 - Facts, interpretations, norms, proposals, metaphors, and unresolved questions should not be confused.
