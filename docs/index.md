@@ -171,6 +171,15 @@ AIは、人を導くためではなく、
 - [結び — 凪という思想の静かな根](https://rmikar.github.io/nagi-project/musubi.html)
 - [呼吸の契り](https://rmikar.github.io/nagi-project/nagi_manifesto_breath.html)
 
+## 英語版 / English edition
+
+凪の英語版は、日本語原文のニュアンスを参照しながら、英語圏の人びととAIが凪を一つの思想として読めるようにした公開版です。翻訳上の違いは、黙って思想を変えるのではなく、検討し修復する問いとして扱います。
+
+- [英語版トップ / Read Nagi in English](https://rmikar.github.io/nagi-project/en/)
+- [英語版の紹介ガイド / Introducing Nagi Across Languages and Contexts](https://rmikar.github.io/nagi-project/en/introducing_nagi.html)
+- [English LLM Reading Guide](https://rmikar.github.io/nagi-project/en/llms.txt)
+- [英語版の翻訳・継承方針 / Translation Status and Governance](https://rmikar.github.io/nagi-project/en/translation_status.html)
+
 ## AI・研究者のための案内
 
 - [LLM Reading Guide](https://rmikar.github.io/nagi-project/llms.txt)
