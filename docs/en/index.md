@@ -75,8 +75,10 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 - [Nagi Economic Structure](breath_economy.html)
 - [Nagi Ecological Structure](ecological_structure.html)
 
-### Institutions, AI, and technical foundations
+### Institutions, democracy, AI, and technical foundations
 
+- [Breath Assembly Protocol](breath_assembly.html)
+- [Resonance Metrics](resonance_metrics.html)
 - [The Nagi AI Charter](nagi_ai_charter.html)
 - [Technical Foundations](technical/foundation_v1.html)
 - [The Ethics of Social Systems](ethics_of_social_infrastructure.html)
