@@ -1,6 +1,8 @@
 <!doctype html>
 {%- assign current_lang = page.lang | default: site.lang | default: 'ja' -%}
 {%- assign translation_links = site.data.translations.pages[page.url] -%}
+{%- assign llms_path = '/llms.txt' -%}
+{%- if current_lang == 'en' -%}{%- assign llms_path = '/en/llms.txt' -%}{%- endif -%}
 <html lang="{{ current_lang }}">
 <head>
   <meta charset="utf-8">
@@ -22,7 +24,7 @@
   {%- if translation_links.en -%}
   <link rel="alternate" hreflang="en" href="{{ translation_links.en | absolute_url }}">
   {%- endif -%}
-  <link rel="alternate" type="text/plain" href="{{ '/llms.txt' | relative_url }}" title="Nagi LLM Reading Guide">
+  <link rel="alternate" type="text/plain" href="{{ llms_path | relative_url }}" title="Nagi LLM Reading Guide">
   <link rel="sitemap" type="application/xml" href="{{ '/sitemap.xml' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/nagi.css' | relative_url }}">
 
@@ -46,7 +48,7 @@
       "name": "Nagi Project",
       "url": "https://rmikar.github.io/nagi-project/"
     },
-    "creator": {"@type": "Person", "name": {{ site.author | jsonify }}},
+    "creator": {"@type": "Person", "name": {{ site.author | jsonify }},
     "license": "https://creativecommons.org/licenses/by-sa/4.0/"
   }
   </script>
