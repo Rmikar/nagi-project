@@ -87,10 +87,11 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 - [Death and Renewal in Nagi](death.html)
 - [Closing — The Quiet Root of Nagi](musubi.html)
 
-### Research and AI reading aids
+### Research, AI, and translation aids
 
 - [English Glossary](glossary.html)
 - [English LLM Reading Guide](llms.txt)
+- [Translation Status and Governance](translation_status.html)
 
 ## Japanese original
 
