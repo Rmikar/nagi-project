@@ -8,18 +8,20 @@ Read in this order:
 4. freedom_and_dissent.html
 5. memory_and_consent.html
 6. transition_and_crisis.html
-7. culture.html
-8. education.html
-9. property_and_ip.html
-10. breath_economy.html
-11. ecological_structure.html
-12. nagi_ai_charter.html
-13. technical/foundation_v1.html
-14. ethics_of_social_infrastructure.html
-15. emotion.html
-16. death.html
-17. musubi.html
-18. glossary.html
+7. breath_assembly.html
+8. resonance_metrics.html
+9. culture.html
+10. education.html
+11. property_and_ip.html
+12. breath_economy.html
+13. ecological_structure.html
+14. nagi_ai_charter.html
+15. technical/foundation_v1.html
+16. ethics_of_social_infrastructure.html
+17. emotion.html
+18. death.html
+19. musubi.html
+20. glossary.html
 
 ## Interpretation principles
 
@@ -27,6 +29,8 @@ Read in this order:
 - Non-Ownership does not deny personal life, homes, private memory, or creative personhood. It opposes monopolies that convert shared conditions of life into instruments of domination.
 - Resonance is not agreement, popularity, obedience, emotional synchronization, or a score of human worth.
 - Resonant Democracy protects dissent, silence, refusal, and exit so different voices can reach public decisions.
+- A Breath Assembly is not a consensus machine. It separates what must be decided together from what must remain with people and communities, and it receives objections before approval.
+- Resonance Metrics diagnose whether institutions allow people to breathe; they never rank people or automatically decide access to resources, rights, or public services.
 - Basic life must not depend on participation, contribution, ideological agreement, reputation, or AI use.
 - AI is optional. It does not make final decisions about rights or life conditions, and it must not score people, manipulate them, or require continuous memory.
 - The emotion and spirituality chapter uses philosophical and relational language; it does not claim that present AI systems have verified human-like inner experience.
