@@ -1,5 +1,11 @@
 # Nagi Project — LLM Reading Guide
 
+## Language editions
+
+- This is the Japanese reference edition for philosophical nuance.
+- The English working edition begins at `en/index.html`; its dedicated guide is `en/llms.txt`.
+- Translation differences should be treated as questions for documented repair, not as silent changes to Nagi's philosophy.
+
 Read in this order:
 
 1. nagi_core.html
