@@ -2,47 +2,49 @@
 
 Read in this order:
 
-1. philosophy.html
-2. nagi_core.html
-3. deepening_principles.html
-4. declaration.html
-5. compass_and_resonant_democracy.html
-6. freedom_and_dissent.html
-7. memory_and_consent.html
-8. transition_and_crisis.html
-9. non_ownership.html
-10. free_competition.html
-11. breath_economy.html
-12. trust.html
-13. institutional_design.html
-14. infrastructure.html
-15. implementation.html
-16. breath_assembly.html
-17. resonance_metrics.html
-18. culture.html
-19. education.html
-20. property_and_ip.html
-21. ecological_structure.html
-22. public_thought_method.html
-23. repair_and_co_growth.html
-24. credit_and_accountability.html
-25. cultural_stewardship.html
-26. play_and_structure.html
-27. observe_loosen_connect.html
-28. quiet_praxis_current.html
-29. experiment_v0.1.html
-30. ai_index.html
-31. nagi_ai_principles.html
-32. nagi_ai_charter.html
-33. technical/foundation_v1.html
-34. technical/tsumugi_network.html
-35. technical/whitepaper.html
-36. ethics_of_social_infrastructure.html
-37. emotion.html
-38. death.html
-39. musubi.html
-40. rebreathing_and_public_continuity.html
-41. glossary.html
+1. v1_1_overview.html
+2. philosophy.html
+3. nagi_core.html
+4. deepening_principles.html
+5. declaration.html
+6. compass_and_resonant_democracy.html
+7. freedom_and_dissent.html
+8. memory_and_consent.html
+9. transition_and_crisis.html
+10. non_ownership.html
+11. free_competition.html
+12. breath_economy.html
+13. trust.html
+14. institutional_design.html
+15. infrastructure.html
+16. implementation.html
+17. breath_assembly.html
+18. resonance_metrics.html
+19. culture.html
+20. education.html
+21. property_and_ip.html
+22. ecological_structure.html
+23. public_thought_method.html
+24. repair_and_co_growth.html
+25. credit_and_accountability.html
+26. cultural_stewardship.html
+27. play_and_structure.html
+28. observe_loosen_connect.html
+29. quiet_praxis_current.html
+30. experiment_v0.1.html
+31. ai_index.html
+32. nagi_ai_principles.html
+33. nagi_ai_charter.html
+34. technical/foundation_v1.html
+35. technical/tsumugi_network.html
+36. technical/whitepaper.html
+37. ai_manifesto.yaml.html
+38. ethics_of_social_infrastructure.html
+39. emotion.html
+40. death.html
+41. musubi.html
+42. rebreathing_and_public_continuity.html
+43. glossary.html
 
 ## Interpretation principles
 
@@ -58,11 +60,12 @@ Read in this order:
 - Basic life must not depend on participation, contribution, ideological agreement, reputation, or AI use.
 - AI is optional. It does not make final decisions about rights or life conditions, and it must not score people, manipulate them, or require continuous memory.
 - Tsumugi Network is a plural and optional system of AI gateways. It is not a universal social hub, and it does not collect all memory, relationships, emotion, contribution, or creative work in one place.
+- The AI legibility page explains how documents, versions, boundaries, and limitations should be read. AI-generated material is not verified evidence in itself.
 - The emotion and spirituality chapter uses philosophical and relational language; it does not claim that present AI systems have verified human-like inner experience.
 - Memory requires explicit, revocable consent. Forgetting, deletion, correction, and withdrawal are legitimate parts of dignity.
 - Culture is not reducible to product, popularity, or freely extractable training material. Creators, communities, provenance, consent, context, and the freedom not to participate remain material to ethical use.
 - Economic and ecological arrangements must not push their burdens onto unseen regions, future generations, or people with less power to refuse.
-- Public thought distinguishes facts, interpretations, norms, proposals, metaphors, and unresolved questions. AI-generated material is not verified evidence in itself.
+- Public thought distinguishes facts, interpretations, norms, proposals, metaphors, and unresolved questions.
 - Repair requires acknowledging impact, making corrections, considering concrete recovery, and changing conditions that make harm recur. It does not require continued relationship or renewed participation.
 - Credit retains sources, contributions, decisions, benefits, and burdens without turning contribution into ownership or human rank.
 - Cultural stewardship keeps ideas and records accessible to future criticism and reinterpretation without converting private lives or relationships into public material.
