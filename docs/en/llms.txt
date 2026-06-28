@@ -35,7 +35,8 @@ Read in this order:
 31. emotion.html
 32. death.html
 33. musubi.html
-34. glossary.html
+34. rebreathing_and_public_continuity.html
+35. glossary.html
 
 ## Interpretation principles
 
@@ -58,6 +59,7 @@ Read in this order:
 - Repair requires acknowledging impact, making corrections, considering concrete recovery, and changing conditions that make harm recur. It does not require continued relationship or renewed participation.
 - Credit retains sources, contributions, decisions, benefits, and burdens without turning contribution into ownership or human rank.
 - Cultural stewardship keeps ideas and records accessible to future criticism and reinterpretation without converting private lives or relationships into public material.
+- Re-breathing renews public philosophy through dated, reviewable correction and handover. It does not convert private relationship records into public evidence, and it must not weaken freedom, consent, dissent, exit, privacy, or Basic Breath.
 - Institutions, platforms, markets, media, organizations, public systems, and AI must not convert people's attention, behavior, relationships, time, or dissent into owned resources. Their power requires explanation, contestability, choice, portability, distributed accountability, audit, remedy, and the ability to stop.
 - Translation differences must be treated as questions for open repair, not as silent changes to the philosophy. The Japanese edition is the reference text for resolving nuances.
 - Facts, interpretations, norms, proposals, metaphors, and unresolved questions should not be confused.
