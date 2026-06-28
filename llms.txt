@@ -1,5 +1,11 @@
 # Nagi Project — LLM Reading Guide
 
+## Language editions
+
+- Japanese is the reference edition for philosophical nuance: this guide and the `docs/` files.
+- English working translations are available under `docs/en/`, beginning with `docs/en/index.md` and `docs/en/llms.txt`.
+- Translation differences should be treated as questions for documented repair, not as silent changes to Nagi's philosophy.
+
 Start with these documents:
 
 1. docs/nagi_core.md
