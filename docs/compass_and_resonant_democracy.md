@@ -32,4 +32,5 @@ permalink: /compass_and_resonant_democracy.html
 
 → [凪の核](nagi_core.html)  
 → [自由・不協和・離脱の原則](freedom_and_dissent.html)  
+→ [社会的装置の倫理 — 束ねる力を、支配にしないために](ethics_of_social_infrastructure.html)  
 → [呼吸会議](breath_assembly.html)
