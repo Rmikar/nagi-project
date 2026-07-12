@@ -1,0 +1,81 @@
+{% assign profile = include.profile %}
+{% if profile %}
+  {% if profile.level == "full" %}
+  <details class="institutional-immunity-profile immunity-profile-full">
+    <summary>
+      <span aria-hidden="true">🛡️</span>
+      制度免疫プロファイル
+      <span class="immunity-profile-summary">— この章の壊れ方と守り方</span>
+    </summary>
+    <div class="immunity-profile-body">
+      <p class="immunity-profile-intro">{{ profile.summary }}</p>
+
+      <h2>守るもの</h2>
+      <ul>
+        {% for item in profile.protects %}
+        <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+
+      <h2>想定する反転</h2>
+      {% for reversal in profile.reversals %}
+      <h3>{{ reversal.label }}</h3>
+      <p>{{ reversal.text }}</p>
+      {% endfor %}
+
+      <h2>早期兆候</h2>
+      <ul>
+        {% for item in profile.early_signs %}
+        <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+
+      <h2>保護と暫定停止</h2>
+      <p>{{ profile.protection_and_pause }}</p>
+
+      <h2>救済・退出・終了</h2>
+      <p>{{ profile.remedy_exit_end }}</p>
+
+      <h2>制度免疫費</h2>
+      <ul>
+        {% for item in profile.immunity_costs %}
+        <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+
+      <h2>検証状態</h2>
+      <p>{{ profile.verification_status }}</p>
+
+      <h2>残された問い</h2>
+      <p>{{ profile.open_question }}</p>
+
+      <p class="immunity-profile-link"><a href="{{ '/institutional_immunity.html' | relative_url }}">制度免疫の正典章を読む</a></p>
+    </div>
+  </details>
+  {% elsif profile.level == "brief" %}
+  <aside class="nagi-note institutional-immunity-profile immunity-profile-brief" aria-labelledby="immunity-profile-{{ profile.id }}">
+    <h2 id="immunity-profile-{{ profile.id }}"><span aria-hidden="true">🛡️</span> 制度免疫との接続</h2>
+    <p>{{ profile.summary }}</p>
+
+    <h3>守るもの</h3>
+    <ul>
+      {% for item in profile.protects %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+
+    <h3>反転の危険</h3>
+    {% for reversal in profile.reversals %}
+    <p><strong>{{ reversal.label }}</strong><br>{{ reversal.text }}</p>
+    {% endfor %}
+
+    <p><strong>残された問い</strong><br>{{ profile.open_question }}</p>
+    <p class="immunity-profile-link"><a href="{{ '/institutional_immunity.html' | relative_url }}">監査・停止・救済の共通原則を見る</a></p>
+  </aside>
+  {% elsif profile.level == "link" %}
+  <aside class="nagi-note institutional-immunity-profile immunity-profile-link-only" aria-label="制度免疫との接続">
+    <p><strong><span aria-hidden="true">🛡️</span> 制度免疫との接続</strong><br>{{ profile.connection }}</p>
+    <p class="immunity-profile-link"><a href="{{ '/institutional_immunity.html' | relative_url }}">制度免疫の正典章を読む</a></p>
+  </aside>
+  {% endif %}
+{% endif %}
