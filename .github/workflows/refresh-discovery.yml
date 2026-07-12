@@ -1,0 +1,60 @@
+name: Refresh discovery artifacts
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "docs/**/*.md"
+      - "docs/_data/*.json"
+      - "docs/_includes/**"
+      - "docs/_layouts/**"
+      - "scripts/build_discovery.mjs"
+      - "scripts/validate_site.mjs"
+      - "package.json"
+      - ".github/workflows/refresh-discovery.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate discovery artifacts
+        run: npm run build:discovery
+
+      - name: Validate source and generated files
+        run: npm run validate
+
+      - name: Commit refreshed artifacts
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            docs/index.md \
+            docs/llms.txt \
+            llms.txt \
+            docs/llms-full.txt \
+            docs/corpus.json \
+            docs/knowledge_graph.json
+          if git diff --cached --quiet; then
+            echo "Discovery artifacts are already current."
+          else
+            git commit -m "Refresh discovery artifacts"
+            git push
+          fi
