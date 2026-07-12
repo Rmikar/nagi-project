@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Tsumugi Network — A Plural Network of AI Gateways"
 description: "A technical design for Nagi's distributed AI gateways: people, communities, and organizations choose interoperable AI and human routes without creating a single social AI center."
 permalink: /en/technical/tsumugi_network.html

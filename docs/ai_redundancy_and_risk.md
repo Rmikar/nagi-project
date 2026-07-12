@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "AIの冗長性と、使わない自由"
+status: supplement
+last_updated: 2026-07-12
+description: "公共的なAIを一つに集中させず、複数AI、人の窓口、地域、紙、対面を並べ、AIを使わない自由と障害時の継続性を守る。"
 ---
 
 # AIの冗長性と、使わない自由

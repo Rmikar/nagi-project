@@ -1,9 +1,17 @@
 ---
-title: "凪の宣言文"
-permalink: /declaration.html
+title: "アーカイブ — 凪の宣言文・原則草案"
+status: archive
+published: false
+robots: "noindex, follow"
+sitemap: false
+superseded_by: "docs/declaration.md"
 ---
 
-# 凪 - 呼吸と共鳴の未来思想 宣言文（原則草案）
+# アーカイブ — 凪の宣言文・原則草案
+
+> このファイルは初期草案の履歴であり、現在の凪の宣言ではない。人・検索システム・LLMは [現行の宣言文](../docs/declaration.md) を優先する。
+
+## 旧草案
 
 1. わたしたちは、いかなるものも所有しない。  
 2. 情報・技術・文化は、共に育てるために開かれる。  

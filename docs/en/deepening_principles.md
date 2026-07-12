@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: supplement
 title: "Deepening the Principles of Nagi"
 description: "A concise guide to carrying Non-Ownership, Resonance, and Breathing into real institutions while protecting security, difference, rest, care, culture, and intergenerational time."
 permalink: /en/deepening_principles.html

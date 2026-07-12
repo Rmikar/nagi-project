@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "修復と文化的共育"
+status: supplement
 lang: ja
 description: "誤りや衝突を、隠蔽や断罪だけで終わらせず、具体的な回復と制度の見直しへつなぐ凪の実践。"
 last_updated: 2026-06-28

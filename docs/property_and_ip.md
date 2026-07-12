@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "知財と財産の継承"
+status: current
+last_updated: 2026-07-12
 ---
 
 # 知財と財産の継承

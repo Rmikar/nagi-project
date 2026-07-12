@@ -7,6 +7,10 @@ permalink: /en/nagi_ai_principles.html
 source_language: ja
 source_url: /nagi_ai_principles.html
 translation_status: "current edition link"
+status: superseded
+robots: "noindex, follow"
+sitemap: false
+archive_note: "These principles are integrated into the Nagi AI Charter, which is the current source."
 ---
 
 # The Three Principles for Nagi AI

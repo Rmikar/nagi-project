@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "静かな実践技術"
+status: current
 lang: ja
 description: "凪を日常、組織、創作、技術設計に置くための実践。観察し、ほどき、結び直す。"
 last_updated: 2026-06-28

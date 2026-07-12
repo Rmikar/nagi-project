@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "非所有の社会制度化"
+status: current
+last_updated: 2026-07-12
 ---
 
 # 非所有の社会制度化

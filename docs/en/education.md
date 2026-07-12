@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Education for a Future in Nagi"
 description: "Nagi's approach to education: not ranking people, but cultivating questions, recovery, relations, local knowledge, and exploratory play."
 permalink: /en/education.html

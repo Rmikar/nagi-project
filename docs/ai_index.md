@@ -1,11 +1,12 @@
 ---
 layout: default
 title: "凪AI章 — The Nagi AI Chapter"
-author: "{{ site.author }}"
+status: current
+author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "凪におけるAIの位置づけを案内する章。AIは任意で、分散的で、説明と異議を支え、人の価値や権利を最終判断しない。"
-last_updated: 2026-06-27
+last_updated: 2026-07-12
 permalink: /ai_index.html
 ---
 

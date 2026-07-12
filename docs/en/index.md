@@ -1,9 +1,10 @@
 ---
 layout: default
 lang: en
-title: "Nagi Project — A Compass Beyond Ownership"
-description: "Nagi is a living philosophical framework for a society beyond ownership, domination, and excessive competition: a society where people, culture, nature, and technology can live without taking one another's breath away."
-last_updated: 2026-06-28
+status: current
+title: "Nagi Project — A Future Social Philosophy Beyond Ownership"
+description: "Nagi is a Japanese future social philosophy connecting post-capitalism, Non-Ownership, Resonant Democracy, basic social guarantees, culture, ecology, and AI ethics."
+last_updated: 2026-07-12
 permalink: /en/
 source_language: ja
 source_url: /
@@ -16,7 +17,7 @@ translation_status: "working translation"
 > A compass for moving from the age of capitalism toward another future.  
 > Its bearings are **Non-Ownership, Resonance, and Breathing**—so that people, culture, nature, and technology may live without taking one another's breath away.
 
-Nagi is not a blueprint for a finished society, nor a doctrine that asks everyone to agree. It is a living framework for loosening forms of monopoly, domination, surveillance, excessive competition, and abandonment that have grown too strong within modern life—while preserving freedom, technology, creativity, and the protections people already depend on.
+Nagi is a Japanese **future social philosophy** that connects questions of post-capitalism, commons, democracy, basic social guarantees, culture, ecology, and AI ethics. It is not a blueprint for a finished society, nor a doctrine that asks everyone to agree. It is a living framework for loosening forms of monopoly, domination, surveillance, excessive competition, and abandonment that have grown too strong within modern life—while preserving freedom, technology, creativity, and the protections people already depend on.
 
 Nagi begins from a simple view: the world is not a machine directed from one center. It emerges from layered lives, memories, lands, cultures, relationships, nature, and time.
 
@@ -78,7 +79,6 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 - [Trust and Governance](trust.html)
 - [Institutional Design and Practice](institutional_design.html)
 - [Social Infrastructure and the Role of AI in Nagi](infrastructure.html)
-- [Implementation and Breathing in Nagi](implementation.html)
 
 ### Culture, learning, and ecology
 
@@ -90,13 +90,11 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 ### Institutions, democracy, AI, and technical foundations
 
 - [The Nagi AI Chapter](ai_index.html)
-- [The Three Principles for Nagi AI](nagi_ai_principles.html)
 - [Breath Assembly Protocol](breath_assembly.html)
 - [Resonance Metrics](resonance_metrics.html)
 - [The Nagi AI Charter](nagi_ai_charter.html)
 - [Technical Foundations](technical/foundation_v1.html)
 - [Tsumugi Network](technical/tsumugi_network.html)
-- [Nagi Technical Design](technical/whitepaper.html)
 - [The Ethics of Social Systems](ethics_of_social_infrastructure.html)
 
 ### Practice, repair, and stewardship

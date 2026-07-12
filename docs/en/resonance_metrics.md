@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Resonance Metrics — Finding Institutional Suffocation Without Scoring People"
 description: "Nagi's Resonance Metrics redefine measurement as a voluntary, contestable public diagnosis of whether institutions allow people to breathe, never as a score of personal worth or contribution."
 permalink: /en/resonance_metrics.html

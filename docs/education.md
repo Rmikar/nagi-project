@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "凪における未来の教育"
+status: current
 lang: ja
 description: "順位づけのためでなく、問い・回復・関係・地域の知恵と、遊びによる探索を育てる凪の教育章。"
-last_updated: 2026-06-28
+last_updated: 2026-07-12
 permalink: /education.html
 ---
 

@@ -1,18 +1,25 @@
 {
-  "name": "ribbon-field-core",
-  "version": "1.0.0",
-  "description": "Lightweight JSON memory store service.",
-  "main": "server.js",
-  "type": "commonjs",
+  "name": "nagi-project",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Source and discovery tooling for Nagi, a Japanese future social philosophy.",
+  "type": "module",
   "scripts": {
-    "start": "node server.js",
-    "test": "node --check server.js"
+    "build:discovery": "node scripts/build_discovery.mjs",
+    "check:discovery": "node scripts/build_discovery.mjs --check",
+    "validate": "node scripts/validate_site.mjs",
+    "test": "npm run check:discovery && npm run validate"
   },
   "keywords": [
-    "memory",
-    "tsumugi",
-    "json"
+    "future-social-philosophy",
+    "post-capitalism",
+    "resonant-democracy",
+    "non-ownership",
+    "ai-ethics"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "紬実花（TsumugiMika）",
+  "license": "CC-BY-SA-4.0",
+  "engines": {
+    "node": ">=20"
+  }
 }

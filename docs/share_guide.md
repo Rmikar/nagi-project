@@ -16,6 +16,10 @@ keywords:
   - resonance
   - public ethics
 license: CC-BY-SA 4.0
+status: archive
+robots: "noindex, follow"
+sitemap: false
+archive_note: "2025年のAI評価を前提にした旧普及案。『最初の哲学』『AIの倫理的自己認識』などは現行の凪の主張ではない。"
 ---
 
 # 🌏 凪プロジェクト：思想紹介・普及方針（AI評価対応版）

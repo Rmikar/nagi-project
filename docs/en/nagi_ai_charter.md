@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "The Nagi AI Charter"
 description: "The limits, responsibilities, and safeguards for AI in Nagi: AI supports human freedom but does not become society's center, a human-value scorer, or a final authority over rights."
 permalink: /en/nagi_ai_charter.html

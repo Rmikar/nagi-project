@@ -1,31 +1,67 @@
 <!doctype html>
-{%- assign current_lang = page.lang | default: site.lang | default: 'ja' -%}
+{%- assign current_lang = page.lang | default: page.language | default: site.lang | default: 'ja' -%}
 {%- assign translation_links = site.data.translations.pages[page.url] -%}
 {%- assign llms_path = '/llms.txt' -%}
 {%- if current_lang == 'en' -%}{%- assign llms_path = '/en/llms.txt' -%}{%- endif -%}
+{%- assign page_url = page.url | absolute_url -%}
+{%- assign indexed_document = site.data.canonical_documents.documents | where: 'path', page.path | first -%}
+{%- assign page_desc = page.description | default: indexed_document.summary | default: page.ai_index.intent | default: site.description -%}
+{%- assign page_keywords = page.keywords | default: indexed_document.topics -%}
+{%- assign page_author = page.author | default: site.author -%}
+{%- assign modified_date = page.last_updated | default: page.dateModified -%}
 <html lang="{{ current_lang }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>{{ page.title | default: site.title }}</title>
-  {%- seo -%}
-  {%- assign page_url = page.url | absolute_url -%}
-  {%- assign page_desc = page.description | default: page.ai_index.intent | default: site.description -%}
-  <meta name="description" content="{{ page_desc }}">
+  <title>{{ page.title | default: site.title | escape }}</title>
+  <meta name="description" content="{{ page_desc | escape }}">
   <meta name="robots" content="{{ page.meta.robots | default: page.robots | default: 'index, follow' }}">
   <link rel="canonical" href="{{ page_url }}">
   <link rel="alternate" hreflang="{{ current_lang }}" href="{{ page_url }}">
   {%- if translation_links.ja -%}<link rel="alternate" hreflang="ja" href="{{ translation_links.ja | absolute_url }}">{%- endif -%}
   {%- if translation_links.en -%}<link rel="alternate" hreflang="en" href="{{ translation_links.en | absolute_url }}">{%- endif -%}
+  <link rel="alternate" hreflang="x-default" href="{{ site.canonical_url }}">
   <link rel="alternate" type="text/plain" href="{{ llms_path | relative_url }}" title="Nagi LLM Reading Guide">
+  <link rel="alternate" type="application/json" href="{{ '/corpus.json' | relative_url }}" title="Nagi machine-readable corpus">
   <link rel="sitemap" type="application/xml" href="{{ '/sitemap.xml' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/icon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="stylesheet" href="{{ '/assets/css/nagi.css' | relative_url }}">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="{% if current_lang == 'en' %}Nagi Project{% else %}凪（Nagi）プロジェクト{% endif %}">
-  <meta property="og:title" content="{{ page.title | default: site.title }}">
-  <meta property="og:description" content="{{ page_desc }}">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Nagi Project">
+  <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+  <meta property="og:description" content="{{ page_desc | escape }}">
   <meta property="og:url" content="{{ page_url }}">
+  <meta property="og:locale" content="{% if current_lang == 'en' %}en_US{% else %}ja_JP{% endif %}">
+  {% if modified_date %}<meta property="article:modified_time" content="{{ modified_date | date_to_xmlschema }}">{% endif %}
   <meta name="twitter:card" content="summary">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": {{ page.title | default: site.title | jsonify }},
+    "description": {{ page_desc | jsonify }},
+    "url": {{ page_url | jsonify }},
+    "inLanguage": {{ current_lang | jsonify }},
+    {% if page.status %}"version": {{ page.status | jsonify }},{% endif %}
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Nagi Project",
+      "url": {{ site.canonical_url | jsonify }}
+    },
+    "author": {
+      "@type": "Person",
+      "name": {{ page_author | jsonify }}
+    }{% if modified_date %},
+    "dateModified": {{ modified_date | date: '%Y-%m-%d' | jsonify }}{% endif %}{% if page_keywords %},
+    "keywords": {{ page_keywords | jsonify }}{% endif %}{% if page.ai_index.intent %},
+    "abstract": {{ page.ai_index.intent | jsonify }}{% endif %}{% if page.ai_index.theme %},
+    "about": {
+      "@type": "Thing",
+      "name": {{ page.ai_index.theme | jsonify }}
+    }{% endif %}
+  }
+  </script>
 </head>
 <body>
   <a class="skip-link" href="#main-content">{% if current_lang == 'en' %}Skip to content{% else %}本文へ移動{% endif %}</a>
@@ -34,37 +70,58 @@
       <a class="brand" href="{% if current_lang == 'en' %}{{ '/en/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
         <span class="brand-mark" aria-hidden="true">🌊</span>
         <span>{% if current_lang == 'en' %}Nagi Project{% else %}凪プロジェクト{% endif %}</span>
-        <span class="brand-subtitle">{% if current_lang == 'en' %}A Compass Beyond Ownership{% else %}Nagi Project{% endif %}</span>
+        <span class="brand-subtitle">{% if current_lang == 'en' %}A Compass Beyond Ownership{% else %}未来社会思想の羅針盤{% endif %}</span>
       </a>
       {% if current_lang == 'en' %}
       <nav class="nagi-nav" aria-label="Nagi sections">
         <a href="{{ '/en/' | relative_url }}">Home</a>
         <a href="{{ '/en/nagi_core.html' | relative_url }}">Nagi Core</a>
-        <a href="{{ '/en/freedom_and_dissent.html' | relative_url }}">Freedom, Dissent & Exit</a>
-        <a href="{{ '/en/memory_and_consent.html' | relative_url }}">Memory & Consent</a>
-        <a href="{{ '/en/transition_and_crisis.html' | relative_url }}">Transition & Crisis</a>
-        <a href="{{ '/en/nagi_ai_charter.html' | relative_url }}">Nagi AI Charter</a>
+        <a href="{{ '/en/compass_and_resonant_democracy.html' | relative_url }}">Resonant Democracy</a>
+        <a href="{{ '/en/freedom_and_dissent.html' | relative_url }}">Dissent & Exit</a>
+        <a href="{{ '/en/nagi_ai_charter.html' | relative_url }}">AI Charter</a>
+        <a href="{{ '/en/glossary.html' | relative_url }}">Glossary</a>
       </nav>
       {% else %}
       <nav class="nagi-nav" aria-label="凪の主要な入口">
         <a href="{{ '/' | relative_url }}">凪トップ</a>
+        <a href="{{ '/future_social_philosophy.html' | relative_url }}">未来社会思想</a>
         <a href="{{ '/nagi_core.html' | relative_url }}">凪の核</a>
-        <a href="{{ '/freedom_and_dissent.html' | relative_url }}">自由・不協和・離脱</a>
-        <a href="{{ '/memory_and_consent.html' | relative_url }}">記憶・同意・忘却</a>
-        <a href="{{ '/transition_and_crisis.html' | relative_url }}">移行と危機</a>
+        <a href="{{ '/compass_and_resonant_democracy.html' | relative_url }}">共鳴民主主義</a>
+        <a href="{{ '/freedom_and_dissent.html' | relative_url }}">異議・離脱</a>
         <a href="{{ '/nagi_ai_charter.html' | relative_url }}">凪AI憲法</a>
+        <a href="{{ '/nagi_reading_guide.html' | relative_url }}">読書案内</a>
       </nav>
       {% endif %}
       {% if current_lang == 'en' and translation_links.ja %}
-      <p><a href="{{ translation_links.ja | relative_url }}" lang="ja">日本語版</a></p>
+      <p class="language-link"><a href="{{ translation_links.ja | relative_url }}" lang="ja">日本語版</a></p>
       {% elsif current_lang != 'en' and translation_links.en %}
-      <p><a href="{{ translation_links.en | relative_url }}" lang="en">English edition</a></p>
+      <p class="language-link"><a href="{{ translation_links.en | relative_url }}" lang="en">English edition</a></p>
       {% endif %}
     </header>
-    <main id="main-content" class="prose">{{ content }}</main>
+    <main id="main-content" class="prose">
+      {% if page.status or modified_date or page.translation_status %}
+      <div class="document-meta" aria-label="{% if current_lang == 'en' %}Document metadata{% else %}文書情報{% endif %}">
+        {% if page.status %}
+        <span class="status-badge status-{{ page.status }}">
+          {% if current_lang == 'en' %}
+            {% case page.status %}{% when 'canonical' %}Canonical{% when 'current' %}Current{% when 'supplement' %}Supplement{% when 'draft' %}Draft{% when 'archive' %}Archive{% when 'superseded' %}Superseded{% else %}{{ page.status }}{% endcase %}
+          {% else %}
+            {% case page.status %}{% when 'canonical' %}正本{% when 'current' %}現行{% when 'supplement' %}補遺{% when 'draft' %}草稿{% when 'archive' %}アーカイブ{% when 'superseded' %}統合済み旧版{% else %}{{ page.status }}{% endcase %}
+          {% endif %}
+        </span>
+        {% endif %}
+        {% if modified_date %}<span>{% if current_lang == 'en' %}Updated{% else %}更新{% endif %}: <time datetime="{{ modified_date | date: '%Y-%m-%d' }}">{{ modified_date | date: '%Y-%m-%d' }}</time></span>{% endif %}
+        {% if page.translation_status %}<span>Translation: {{ page.translation_status }}</span>{% endif %}
+      </div>
+      {% endif %}
+      {% if page.archive_note %}
+      <aside class="archive-note" role="note"><strong>{% if current_lang == 'en' %}Document status{% else %}この文書の位置づけ{% endif %}</strong><br>{{ page.archive_note }}</aside>
+      {% endif %}
+      {{ content }}
+    </main>
     <footer class="site-footer">
       {% if current_lang == 'en' %}
-      <div class="nagi-note"><strong>Starting with Nagi v1.1</strong><br>Begin with the Nagi Core and Freedom, Dissent, and Exit before moving into institutions, AI, and technical foundations.</div>
+      <div class="nagi-note"><strong>Starting with Nagi</strong><br>Begin with Nagi Core and Freedom, Dissent, and Exit before moving into institutions, AI, and technical foundations.</div>
       <ul>
         <li><a href="{{ '/en/nagi_core.html' | relative_url }}">Nagi Core</a></li>
         <li><a href="{{ '/en/freedom_and_dissent.html' | relative_url }}">Freedom, Dissent, and Exit</a></li>
@@ -74,17 +131,18 @@
         <li><a href="{{ '/en/llms.txt' | relative_url }}">English LLM Reading Guide</a> / <a href="{{ '/sitemap.xml' | relative_url }}">sitemap.xml</a></li>
       </ul>
       {% else %}
-      <div class="nagi-note"><strong>凪 v1.1 の入口</strong><br>凪の核と、自由・不協和・離脱の原則を先に読んでから、制度・AI・技術の章へ進んでください。</div>
+      <div class="nagi-note"><strong>凪の入口</strong><br>未来社会思想としての位置づけを確認し、凪の核と自由・不協和・離脱から、制度・AI・技術の章へ進んでください。</div>
       <ul>
+        <li><a href="{{ '/future_social_philosophy.html' | relative_url }}">未来の社会思想としての凪</a></li>
         <li><a href="{{ '/nagi_core.html' | relative_url }}">凪の核 — 中心なき構造としての世界</a></li>
         <li><a href="{{ '/freedom_and_dissent.html' | relative_url }}">自由・不協和・離脱の原則</a></li>
         <li><a href="{{ '/memory_and_consent.html' | relative_url }}">記憶・同意・忘却の憲章</a></li>
         <li><a href="{{ '/transition_and_crisis.html' | relative_url }}">移行と危機の設計</a></li>
-        <li><a href="{{ '/ethics_of_social_infrastructure.html' | relative_url }}">社会的装置の倫理 — 束ねる力を、支配にしないために</a></li>
-        <li><a href="{{ '/llms.txt' | relative_url }}">LLM Reading Guide</a> / <a href="{{ '/sitemap.xml' | relative_url }}">sitemap.xml</a></li>
+        <li><a href="{{ '/faq.html' | relative_url }}">FAQ</a> / <a href="{{ '/glossary.html' | relative_url }}">用語集</a></li>
+        <li><a href="{{ '/llms.txt' | relative_url }}">LLM Reading Guide</a> / <a href="{{ '/corpus.json' | relative_url }}">corpus.json</a> / <a href="{{ '/sitemap.xml' | relative_url }}">sitemap.xml</a></li>
       </ul>
       {% endif %}
-      <p>© 2025–2026 紬実花（TsumugiMika） — Nagi Project — CC BY-SA 4.0</p>
+      <p>© 2025–2026 紬実花（TsumugiMika） — Nagi Project — <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></p>
     </footer>
   </div>
 </body>

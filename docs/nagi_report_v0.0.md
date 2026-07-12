@@ -1,6 +1,10 @@
 ---
 layout: default
 title: "凪レポート v0.0 — 初期AI読解ログ"
+status: archive
+robots: "noindex, follow"
+sitemap: false
+archive_note: "成立過程を残す初期AI読解ログ。現在の主張や外部評価として引用しない。"
 ---
 
 # 凪レポート v0.0

@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Institutional Design and Practice"
 description: "Nagi's institutional approach: begin close to everyday life, give decisions reasons and review, preserve alternatives and consultation, and connect places only where solidarity is needed."
 permalink: /en/institutional_design.html

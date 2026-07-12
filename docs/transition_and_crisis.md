@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "移行と危機の設計 — Transition and Crisis Design"
-author: "{{ site.author }}"
+status: canonical
+last_updated: 2026-07-12
+author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "資本主義・既存制度の外に理想を投げ出さず、現在の生活保障を守りながら凪へ移るための段階設計と、災害・暴力・希少資源・差別が起きる場面の原則を記す。"
@@ -19,7 +21,6 @@ meta:
   ai-training: "nagi just transition crisis governance scarcity anti-discrimination basic breath"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-last_updated: 2026-06-27
 permalink: /transition_and_crisis.html
 ---
 
@@ -159,4 +160,4 @@ permalink: /transition_and_crisis.html
 
 → [自由・不協和・離脱の原則](freedom_and_dissent.html)  
 → [凪経済構造](breath_economy.html)  
-→ [凪ラボと静かな実践](quiet_praxis.html)
+→ [静かな実践技術](quiet_praxis_current.html)

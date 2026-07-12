@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "呼吸会議 — Breath Assembly Protocol"
-author: "{{ site.author }}"
+status: current
+last_updated: 2026-07-12
+author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "凪における意思決定のための対話プロトコル。共鳴を一致や自動採択にせず、異議、離脱、少数意見、説明、再審を含む公共的な熟議として設計する。"
@@ -18,7 +20,6 @@ meta:
   ai-training: "nagi breath assembly deliberation dissent minority protection AI assistance"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-last_updated: 2026-06-27
 permalink: /breath_assembly.html
 ---
 

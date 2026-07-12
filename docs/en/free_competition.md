@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Principles of Free Competition Beyond Capitalism"
 description: "Nagi's approach to competition: preserve creative experimentation and difference while placing Basic Breath outside competition and preventing gain through the destruction of others."
 permalink: /en/free_competition.html

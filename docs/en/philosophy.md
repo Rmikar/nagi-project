@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "The Philosophical Background of Nagi"
 description: "A concise introduction to Nagi's world view: no state, market, company, or AI is the center; society arises from layered lives, memory, land, culture, relationships, and nature."
 permalink: /en/philosophy.html

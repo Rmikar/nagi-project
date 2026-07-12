@@ -7,6 +7,10 @@ permalink: /en/technical/whitepaper.html
 source_language: ja
 source_url: /technical/whitepaper.html
 translation_status: "current edition link"
+status: superseded
+robots: "noindex, follow"
+sitemap: false
+archive_note: "Entry page retained for old links. Use Technical Foundations and Tsumugi Network as the current sources."
 ---
 
 # Nagi Technical Design

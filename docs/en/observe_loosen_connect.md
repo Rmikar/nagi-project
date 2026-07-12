@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: supplement
 title: "Observe, Loosen, Connect"
 description: "Nagi's minimal practice method: do not rush to conclusion; observe conditions and effects, loosen fixed assumptions, and prepare conditions for the next relation or collaboration."
 permalink: /en/observe_loosen_connect.html

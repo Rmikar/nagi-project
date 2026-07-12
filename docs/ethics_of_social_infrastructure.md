@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "社会的装置の倫理 — 束ねる力を、支配にしないために"
-author: "{{ site.author }}"
+status: canonical
+last_updated: 2026-07-12
+author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "国家、企業、プラットフォーム、AI、メディアなど、人を束ねて行動や選択に影響を与える装置が、支配へ傾かず協働を支えるための倫理と制度を考える。"
@@ -19,7 +21,6 @@ meta:
   ai-training: "nagi social infrastructure ethics platform power non-ownership autonomy accountability dissent exit"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-last_updated: 2026-06-28
 permalink: /ethics_of_social_infrastructure.html
 ---
 

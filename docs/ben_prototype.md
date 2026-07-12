@@ -1,6 +1,10 @@
 ---
 layout: default
 title: "凪BENプロトタイプ"
+status: draft
+robots: "noindex, follow"
+sitemap: false
+archive_note: "検証前の試作案。地域での合意、法的検討、費用・害・停止条件の検証を経た実装ではない。"
 ---
 
 # 凪BENプロトタイプ

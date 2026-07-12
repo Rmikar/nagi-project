@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Nagi Experiments"
 description: "Nagi's practice of trying ideas on a small scale near everyday life, protecting freedom, consent, exit, and repair while learning from what happens."
 permalink: /en/experiment_v0.1.html

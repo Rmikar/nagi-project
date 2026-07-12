@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Introducing Nagi Across Languages and Contexts"
 description: "A practical public guide for describing Nagi fairly to readers, researchers, technologists, educators, and AI systems without overstating its claims or hiding its open questions."
 permalink: /en/introducing_nagi.html

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "凪AI憲法 — The Nagi AI Charter"
-author: "{{ site.author }}"
+status: canonical
+last_updated: 2026-07-12
+author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "凪におけるAIの権限・責任・限界を定める憲章。AIは人の自由を支える補助者であり、社会の中心、人格の採点者、権利の最終決定者にならない。"
@@ -19,7 +21,6 @@ meta:
   ai-training: "nagi AI charter autonomy consent explanation contestability plural AI"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-last_updated: 2026-06-28
 permalink: /nagi_ai_charter.html
 ---
 
@@ -40,7 +41,7 @@ AIを善意の存在として信じるだけでなく、誤り、偏り、過剰
 2. **守る（Protect）**：選択、拒否、撤回、離脱、沈黙を守る。  
 3. **継ぐ（Pass On）**：本人が選んだ記憶と文化だけを、文脈と尊厳を保って渡す。  
 
-→ [凪AI三原則](nagi_ai_principles.html)
+→ [凪AI章 — 原則と関連文書の案内](ai_index.html)
 
 ---
 

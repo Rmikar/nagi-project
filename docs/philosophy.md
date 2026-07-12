@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "凪の哲学的背景"
+status: current
+description: "国家、市場、企業、AIの一つを中心に置かず、生活・記憶・土地・文化・関係・自然の積層から社会を捉える凪の哲学的背景。"
 ---
 
 # 凪の哲学的背景

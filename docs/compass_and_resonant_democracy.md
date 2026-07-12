@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "羅針盤と共鳴民主主義"
+status: canonical
 lang: ja
 description: "凪が資本主義を経たその先に目指す社会像と、異議・沈黙・離脱を守る共鳴民主主義の要点。"
-last_updated: 2026-06-28
+last_updated: 2026-07-12
 permalink: /compass_and_resonant_democracy.html
 ---
 

@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "AI可読性と継承の設計要旨"
+status: supplement
+last_updated: 2026-07-12
+description: "凪を人とAIが誤読しにくい形で公開するための設計要旨。用語、版、正本と旧稿、比喩と制度、AI評価の限界を区別する。"
 ---
 
 # AI可読性と継承の設計要旨

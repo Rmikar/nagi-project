@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "遊びと構造"
+status: supplement
 lang: ja
 description: "探索の余白としての遊びと、可能性を共有・批判・保守できる形へ渡す構造を往復させる凪の創造論。"
 last_updated: 2026-06-28

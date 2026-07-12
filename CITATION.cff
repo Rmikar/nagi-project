@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you discuss or reuse the Nagi Project, please cite the public reference edition."
+title: "Nagi Project: A Future Social Philosophy of Non-Ownership, Resonant Democracy, and AI Ethics"
+type: dataset
+authors:
+  - name: "紬実花（TsumugiMika）"
+version: 1.1.0
+date-released: 2026-07-12
+url: "https://rmikar.github.io/nagi-project/"
+repository-code: "https://github.com/Rmikar/nagi-project"
+license: CC-BY-SA-4.0
+abstract: >-
+  Nagi is a Japanese future social philosophy organized around Non-Ownership,
+  Resonance, and Breathing. It explores post-capitalism, resonant democracy,
+  basic social guarantees, culture, ecology, memory and consent, and AI ethics.
+keywords:
+  - future social philosophy
+  - post-capitalism
+  - non-ownership
+  - resonant democracy
+  - commons
+  - AI ethics

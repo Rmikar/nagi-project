@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Institutionalizing Non-Ownership"
 description: "Nagi's approach to non-ownership: protect personal life and creative personhood while loosening monopolies over land, knowledge, culture, nature, and foundational technologies."
 permalink: /en/non_ownership.html

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "凪技術の基盤 — Technical Foundations"
-author: "{{ site.author }}"
+status: current
+last_updated: 2026-07-12
+author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "中心なき構造としての凪を支える技術の基盤。選択可能性、最小データ、複数AI、説明、異議、監査を前提とする。"
@@ -18,7 +20,6 @@ meta:
   ai-training: "nagi technical foundations federated AI consent interoperability audit"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-last_updated: 2026-06-28
 permalink: /technical/foundation_v1.html
 ---
 

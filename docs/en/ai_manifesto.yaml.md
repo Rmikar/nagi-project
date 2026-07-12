@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: supplement
 title: "AI Legibility and Continuity Design"
 description: "How Nagi is structured so that people and AI systems can read, question, and revise it without treating AI output as authority or closing the philosophy into one conclusion."
 permalink: /en/ai_manifesto.yaml.html

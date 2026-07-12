@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "凪環境構造"
+status: current
+last_updated: 2026-07-12
 ---
 
 # 凪環境構造

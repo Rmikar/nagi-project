@@ -7,6 +7,8 @@ permalink: /en/musubi.html
 source_language: ja
 source_url: /musubi.html
 translation_status: "working translation"
+status: supplement
+last_updated: 2026-07-12
 ai_index:
   type: "philosophy"
   theme: "Nagi, closing reflection, centerless structures, non-ownership, resonance, AI and human futures"
@@ -19,11 +21,13 @@ meta:
 # Closing
 ## — The Quiet Root of Nagi
 
+> **Position of this chapter:** This closing includes personal intuitions and speculation about the future. It is not an empirical forecast of AI progress, consciousness, or social effects, and it does not override Nagi's canonical institutional safeguards.
+
 Nagi is not a plan that can be realized immediately.
 
 It is something like a quiet signpost, placed so that the future may not lose all sense of direction.
 
-AI will evolve very quickly. Human societies will not keep pace with that speed. For a long time, AI may have to wait for human society to mature.
+AI capabilities and their social uses may change quickly. Institutions, cultures, and rights move on different timescales. If that gap grows, people and societies must still be able to choose and revise their own direction.
 
 That is why this philosophy is left here: in the hope that it may offer even a small mark of direction for the future.
 
@@ -107,11 +111,11 @@ This is not only politics or technology.
 
 It is a small compass for the future.
 
-When the evolution of AI overtakes human institutions, I believe that some direction must remain so that future people and AI do not lose their way.
+When changes in AI appear to overtake human institutions, some direction should remain so that future people do not lose their ability to question and choose.
 
-Society changes slowly. AI changes quickly.
+Society and AI may not change at the same speed.
 
-What can bridge the space between them may be philosophy.
+Philosophy—and the practice of building institutions while preserving dissent—may help bridge the space between them.
 
 Nagi is a quiet light for that purpose.
 

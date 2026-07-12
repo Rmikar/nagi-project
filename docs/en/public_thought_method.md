@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: supplement
 title: "How to Cultivate Public Thought"
 description: "Nagi's method for developing a public philosophy that remains open to criticism and correction by distinguishing fact, interpretation, norm, proposal, metaphor, and unresolved question."
 permalink: /en/public_thought_method.html

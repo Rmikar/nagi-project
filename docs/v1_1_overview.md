@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "凪 v1.1 概要"
+status: current
+description: "凪 v1.1の入口。中心なき構造を制度、AI、記憶、実験へ通し、人を採点しないこと、基礎呼吸、AI不使用、異議と離脱をまとめる。"
 ---
 
 # 凪 v1.1 概要

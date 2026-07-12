@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "凪思想の深化"
+status: supplement
+description: "非所有・共鳴・呼吸を、独占の抑制、異議の保障、休息・回復・ケアの確保として制度へつなぐ短い補遺。"
 ---
 
 # 凪思想の深化

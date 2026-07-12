@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Nagi Ecological Structure"
 description: "Nagi's ecological orientation: the environment is a shared condition of life, not a background for human use or a field for invisible burdens."
 permalink: /en/ecological_structure.html
