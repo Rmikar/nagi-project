@@ -8,6 +8,7 @@ const root = resolve(import.meta.dirname, "..");
 const docsDir = resolve(root, "docs");
 const validStatuses = new Set(["canonical", "current", "supplement", "draft", "archive", "superseded"]);
 const nonIndexedStatuses = new Set(["draft", "archive", "superseded"]);
+const validImmunityLevels = new Set(["full", "brief", "link"]);
 const errors = [];
 
 async function exists(path) {
@@ -111,7 +112,10 @@ const requiredFiles = [
   "faq.md",
   "future_social_philosophy.md",
   "nagi_reading_guide.md",
-  "_data/canonical_documents.json"
+  "institutional_immunity.md",
+  "_data/canonical_documents.json",
+  "_data/institutional_immunity_profiles.json",
+  "_includes/institutional_immunity_profile.html"
 ];
 
 for (const file of requiredFiles) {
@@ -120,6 +124,7 @@ for (const file of requiredFiles) {
 
 const jsonFiles = [
   "docs/_data/canonical_documents.json",
+  "docs/_data/institutional_immunity_profiles.json",
   "docs/glossary.json",
   "docs/corpus.json",
   "docs/knowledge_graph.json"
@@ -133,8 +138,9 @@ for (const file of jsonFiles) {
   }
 }
 
+let manifest;
 try {
-  const manifest = JSON.parse(await readFile(resolve(docsDir, "_data/canonical_documents.json"), "utf8"));
+  manifest = JSON.parse(await readFile(resolve(docsDir, "_data/canonical_documents.json"), "utf8"));
   const ids = new Set();
   for (const document of manifest.documents ?? []) {
     if (ids.has(document.id)) errors.push(`canonical document index: duplicate id ${document.id}`);
@@ -149,6 +155,72 @@ try {
     }
     for (const related of document.related ?? []) {
       if (!ids.has(related)) errors.push(`canonical document index: unknown related id ${related} in ${document.id}`);
+    }
+  }
+} catch {
+  // The JSON error is already reported above.
+}
+
+try {
+  const immunityData = JSON.parse(await readFile(resolve(docsDir, "_data/institutional_immunity_profiles.json"), "utf8"));
+  const manifestById = new Map((manifest?.documents ?? []).map((document) => [document.id, document]));
+  const profileIds = new Set();
+  const profilePaths = new Set();
+
+  for (const profile of immunityData.profiles ?? []) {
+    if (!profile.id) errors.push("institutional immunity profiles: profile without id");
+    if (profileIds.has(profile.id)) errors.push(`institutional immunity profiles: duplicate id ${profile.id}`);
+    profileIds.add(profile.id);
+
+    if (!profile.path) errors.push(`institutional immunity profiles: missing path for ${profile.id}`);
+    if (profilePaths.has(profile.path)) errors.push(`institutional immunity profiles: duplicate path ${profile.path}`);
+    profilePaths.add(profile.path);
+
+    if (!validImmunityLevels.has(profile.level)) {
+      errors.push(`institutional immunity profiles: invalid level ${profile.level} for ${profile.id}`);
+    }
+
+    if (profile.path && !(await exists(resolve(docsDir, profile.path)))) {
+      errors.push(`institutional immunity profiles: missing docs/${profile.path}`);
+    }
+
+    if (profile.document_id) {
+      const document = manifestById.get(profile.document_id);
+      if (!document) {
+        errors.push(`institutional immunity profiles: unknown document_id ${profile.document_id} for ${profile.id}`);
+      } else if (document.path !== profile.path) {
+        errors.push(`institutional immunity profiles: path mismatch for ${profile.id}; expected ${document.path}, found ${profile.path}`);
+      }
+    }
+
+    if (profile.level === "full") {
+      for (const field of [
+        "summary",
+        "protects",
+        "reversals",
+        "early_signs",
+        "protection_and_pause",
+        "remedy_exit_end",
+        "immunity_costs",
+        "verification_status",
+        "open_question"
+      ]) {
+        if (profile[field] === undefined || profile[field] === null || profile[field].length === 0) {
+          errors.push(`institutional immunity profiles: full profile ${profile.id} missing ${field}`);
+        }
+      }
+    }
+
+    if (profile.level === "brief") {
+      for (const field of ["summary", "protects", "reversals", "open_question"]) {
+        if (profile[field] === undefined || profile[field] === null || profile[field].length === 0) {
+          errors.push(`institutional immunity profiles: brief profile ${profile.id} missing ${field}`);
+        }
+      }
+    }
+
+    if (profile.level === "link" && !profile.connection) {
+      errors.push(`institutional immunity profiles: link profile ${profile.id} missing connection`);
     }
   }
 } catch {
@@ -185,9 +257,18 @@ for (const path of markdownFiles) {
   }
 }
 
+const liquidTemplates = [
+  ["docs/_layouts/default.html", resolve(docsDir, "_layouts/default.html")],
+  ["docs/_includes/institutional_immunity_profile.html", resolve(docsDir, "_includes/institutional_immunity_profile.html")]
+];
+
+for (const [file, path] of liquidTemplates) {
+  const source = await readFile(path, "utf8");
+  validateLiquidTemplate(source, file);
+}
+
 const layoutPath = resolve(docsDir, "_layouts/default.html");
 const layout = await readFile(layoutPath, "utf8");
-validateLiquidTemplate(layout, "docs/_layouts/default.html");
 for (const [label, pattern] of [
   ["title", /<title>/g],
   ["meta description", /<meta name="description"/g],
