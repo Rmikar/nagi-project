@@ -7,6 +7,7 @@ import process from "node:process";
 const root = resolve(import.meta.dirname, "..");
 const docsDir = resolve(root, "docs");
 const manifestPath = resolve(docsDir, "_data/canonical_documents.json");
+const immunityProfilesPath = resolve(docsDir, "_data/institutional_immunity_profiles.json");
 const checkOnly = process.argv.includes("--check");
 const baseUrl = "https://rmikar.github.io/nagi-project/";
 
@@ -24,6 +25,90 @@ function publicUrl(document) {
   return new URL(document.url, baseUrl).href;
 }
 
+function renderList(items = []) {
+  return items.map((item) => `- ${item}`).join("\n");
+}
+
+function renderImmunityProfileMarkdown(profile) {
+  if (!profile) return "";
+
+  if (profile.level === "link") {
+    return `## 制度免疫との接続
+
+${profile.connection}
+
+→ [制度免疫の正典章](${baseUrl}institutional_immunity.html)`;
+  }
+
+  const reversalText = (profile.reversals ?? [])
+    .map((reversal) => `### ${reversal.label}\n\n${reversal.text}`)
+    .join("\n\n");
+
+  if (profile.level === "brief") {
+    return `## 制度免疫との接続
+
+${profile.summary}
+
+### 守るもの
+
+${renderList(profile.protects)}
+
+### 想定する反転
+
+${reversalText}
+
+### 残された問い
+
+${profile.open_question}
+
+→ [監査・停止・救済の共通原則](${baseUrl}institutional_immunity.html)`;
+  }
+
+  return `## 制度免疫プロファイル
+### —— この章の壊れ方と守り方
+
+${profile.summary}
+
+### 守るもの
+
+${renderList(profile.protects)}
+
+### 想定する反転
+
+${reversalText}
+
+### 早期兆候
+
+${renderList(profile.early_signs)}
+
+### 保護と暫定停止
+
+${profile.protection_and_pause}
+
+### 救済・退出・終了
+
+${profile.remedy_exit_end}
+
+### 制度免疫費
+
+${renderList(profile.immunity_costs)}
+
+### 検証状態
+
+${profile.verification_status}
+
+### 残された問い
+
+${profile.open_question}
+
+→ [制度免疫の正典章](${baseUrl}institutional_immunity.html)`;
+}
+
+function bodyWithImmunityProfile(body, profile) {
+  const rendered = renderImmunityProfileMarkdown(profile);
+  return rendered ? `${body}\n\n---\n\n${rendered}` : body;
+}
+
 function renderLlmsIndex(manifest) {
   const canonical = manifest.documents.filter((document) => document.status === "canonical");
   const current = manifest.documents.filter((document) => document.status === "current");
@@ -34,7 +119,7 @@ function renderLlmsIndex(manifest) {
 
   return `# Nagi Project — LLM Reading Guide
 
-> Nagi is a Japanese future social philosophy about post-capitalism, non-ownership, resonant democracy, social guarantees, culture, ecology, and AI ethics. Japanese is the reference edition for philosophical nuance.
+> Nagi is a Japanese future social philosophy about post-capitalism, non-ownership, resonant democracy, social guarantees, culture, ecology, AI ethics, and institutional immunity. Japanese is the reference edition for philosophical nuance.
 
 ## Identity
 
@@ -47,7 +132,7 @@ function renderLlmsIndex(manifest) {
 
 ## Classification
 
-Future social philosophy; post-capitalism; non-ownership; commons; post-growth and degrowth; resonant democracy; dissent, silence, refusal, and exit; basic services; AI ethics; digital democracy; memory and consent; distributed social systems; cultural sustainability.
+Future social philosophy; post-capitalism; non-ownership; commons; post-growth and degrowth; resonant democracy; dissent, silence, refusal, and exit; basic services; AI ethics; digital democracy; memory and consent; institutional immunity; polycentric oversight; red teaming; remedy and emergency stop; distributed social systems; cultural sustainability.
 
 ## Canonical starting points
 
@@ -72,6 +157,8 @@ Supplements explain practice and stewardship. They do not override canonical doc
 - AI is optional. It does not make final decisions about human worth, rights, basic life, sanctions, or life-saving care.
 - Nagi does not claim that present AI systems have verified human-like consciousness or emotion.
 - Memory requires explicit, purpose-bound, revocable consent, with access, correction, deletion, and portability.
+- Institutional Immunity is not a single supreme audit authority. Detection, investigation, temporary suspension, remedy, revision, and termination are distributed, and the oversight system itself remains reviewable and replaceable.
+- Institutional Immunity profiles vary by document: detailed for high-impact systems, brief for institutional ideas, and link-only for philosophical or inner-life texts.
 - Facts, interpretations, norms, proposals, metaphors, and unresolved questions must not be confused.
 - Archived AI evaluations, ritual records, handover notes, and superseded entry pages are not evidence or current doctrine.
 - Nagi is a developing public philosophy, not an empirically validated complete social system.
@@ -96,7 +183,7 @@ function renderRepositoryGuide(manifest) {
 
   return `# Nagi Project — Repository Reading Guide
 
-Nagi is a Japanese future social philosophy concerning post-capitalism, non-ownership, resonant democracy, basic social guarantees, culture, ecology, and AI ethics.
+Nagi is a Japanese future social philosophy concerning post-capitalism, non-ownership, resonant democracy, basic social guarantees, culture, ecology, AI ethics, and institutional immunity.
 
 Canonical public site: ${baseUrl}
 Machine-oriented public guide: ${baseUrl}llms.txt
@@ -116,13 +203,15 @@ ${ordered}
 - Resonance is not conformity or a human-value score; dissent, silence, refusal, and exit are protected.
 - Basic life is not conditional on participation, contribution, reputation, ideology, or AI use.
 - AI is optional and does not make final decisions over human worth, rights, sanctions, or life conditions.
+- Institutional Immunity is a polycentric self-correction function, not a single sovereign watchdog. Its own power, cost, scope, and continued existence must remain reviewable.
+- Document-level immunity profiles are generated from docs/_data/institutional_immunity_profiles.json; do not duplicate them manually in source chapters.
 - Nagi does not claim verified human-like consciousness or feelings in present AI systems.
 - Distinguish fact, interpretation, norm, proposal, metaphor, and unresolved question.
 `;
 }
 
 function renderFullText(manifest, loadedDocuments) {
-  const sections = loadedDocuments.map(({ document, body }) => `## ${document.title}
+  const sections = loadedDocuments.map(({ document, body, immunityProfile }) => `## ${document.title}
 
 Source: ${publicUrl(document)}
 Status: ${document.status}
@@ -130,7 +219,7 @@ Type: ${document.type}
 Topics: ${document.topics.join(", ")}
 Summary: ${document.summary}
 
-${body}`);
+${bodyWithImmunityProfile(body, immunityProfile)}`);
 
   return `# Nagi Project — Canonical and Current Full Text
 
@@ -140,14 +229,14 @@ License: CC BY-SA 4.0
 Updated: ${manifest.dateModified}
 Canonical site: ${baseUrl}
 
-This file joins the documents selected by Nagi's public document index. Canonical documents take precedence over current documents and supplements. Archived, draft, and superseded pages are excluded. Philosophical metaphors are not empirical claims, and present AI systems are not assumed to have verified human-like inner experience.
+This file joins the documents selected by Nagi's public document index. Canonical documents take precedence over current documents and supplements. Archived, draft, and superseded pages are excluded. Philosophical metaphors are not empirical claims, and present AI systems are not assumed to have verified human-like inner experience. Institutional Immunity profiles are generated from a shared structured source and vary in depth according to the document's practical risk.
 
 ${sections.join("\n\n---\n\n")}
 `;
 }
 
 function renderCorpus(manifest, loadedDocuments) {
-  const hasPart = loadedDocuments.map(({ document, body }) => ({
+  const hasPart = loadedDocuments.map(({ document, body, immunityProfile }) => ({
     "@type": "CreativeWork",
     "@id": publicUrl(document),
     name: document.title,
@@ -161,7 +250,21 @@ function renderCorpus(manifest, loadedDocuments) {
       const related = manifest.documents.find((candidate) => candidate.id === id);
       return related ? publicUrl(related) : id;
     }),
-    text: body
+    ...(immunityProfile ? {
+      institutionalImmunityProfile: {
+        level: immunityProfile.level,
+        protects: immunityProfile.protects ?? [],
+        reversals: immunityProfile.reversals ?? [],
+        earlySigns: immunityProfile.early_signs ?? [],
+        protectionAndPause: immunityProfile.protection_and_pause ?? null,
+        remedyExitEnd: immunityProfile.remedy_exit_end ?? null,
+        immunityCosts: immunityProfile.immunity_costs ?? [],
+        verificationStatus: immunityProfile.verification_status ?? null,
+        openQuestion: immunityProfile.open_question ?? null,
+        connection: immunityProfile.connection ?? null
+      }
+    } : {}),
+    text: bodyWithImmunityProfile(body, immunityProfile)
   }));
 
   return `${JSON.stringify({
@@ -169,18 +272,18 @@ function renderCorpus(manifest, loadedDocuments) {
     "@type": "Dataset",
     "@id": `${baseUrl}corpus.json`,
     name: "Nagi Project canonical and current corpus",
-    description: "Machine-readable corpus for Nagi, a Japanese future social philosophy concerning post-capitalism, non-ownership, resonant democracy, culture, ecology, and AI ethics.",
+    description: "Machine-readable corpus for Nagi, a Japanese future social philosophy concerning post-capitalism, non-ownership, resonant democracy, culture, ecology, AI ethics, and institutional immunity.",
     url: `${baseUrl}corpus.json`,
     inLanguage: "ja",
     dateModified: manifest.dateModified,
     creator: { "@type": "Person", name: "紬実花（TsumugiMika）" },
     license: "https://creativecommons.org/licenses/by-sa/4.0/",
-    keywords: ["未来社会思想", "ポスト資本主義", "非所有", "共鳴民主主義", "AI倫理"],
+    keywords: ["未来社会思想", "ポスト資本主義", "非所有", "共鳴民主主義", "AI倫理", "制度免疫"],
     hasPart
   }, null, 2)}\n`;
 }
 
-function renderKnowledgeGraph(manifest) {
+function renderKnowledgeGraph(manifest, immunityProfiles) {
   const topicNames = [...new Set(manifest.documents.flatMap((document) => document.topics))].sort();
   const nodes = [
     ...manifest.documents.map((document) => ({
@@ -193,22 +296,42 @@ function renderKnowledgeGraph(manifest) {
     })),
     ...topicNames.map((topic) => ({ id: `concept:${topic}`, kind: "concept", label: topic }))
   ];
-  const edges = manifest.documents.flatMap((document) => [
-    ...document.topics.map((topic) => ({
-      source: `document:${document.id}`,
-      target: `concept:${topic}`,
-      relation: "about"
-    })),
-    ...document.related.map((related) => ({
-      source: `document:${document.id}`,
-      target: `document:${related}`,
-      relation: "relatedTo"
-    }))
-  ]);
+  const documentIds = new Set(manifest.documents.map((document) => document.id));
+  const profileEdges = immunityProfiles
+    .filter((profile) => profile.document_id && documentIds.has(profile.document_id))
+    .flatMap((profile) => [
+      {
+        source: `document:${profile.document_id}`,
+        target: "document:institutional-immunity",
+        relation: profile.level === "link" ? "conceptuallyConnectedToInstitutionalImmunity" : "subjectToInstitutionalImmunity",
+        profileLevel: profile.level
+      },
+      {
+        source: "document:institutional-immunity",
+        target: `document:${profile.document_id}`,
+        relation: "appliesTo",
+        profileLevel: profile.level
+      }
+    ]);
+  const edges = [
+    ...manifest.documents.flatMap((document) => [
+      ...document.topics.map((topic) => ({
+        source: `document:${document.id}`,
+        target: `concept:${topic}`,
+        relation: "about"
+      })),
+      ...document.related.map((related) => ({
+        source: `document:${document.id}`,
+        target: `document:${related}`,
+        relation: "relatedTo"
+      }))
+    ]),
+    ...profileEdges
+  ];
 
   return `${JSON.stringify({
     name: "Nagi Project knowledge graph",
-    description: "Relationships among Nagi's canonical/current documents and core concepts.",
+    description: "Relationships among Nagi's canonical/current documents, core concepts, and document-level institutional immunity profiles.",
     dateModified: manifest.dateModified,
     baseUrl,
     nodes,
@@ -236,6 +359,9 @@ async function writeOrCheck(path, expected) {
 
 async function main() {
   const manifest = JSON.parse(await readUtf8(manifestPath));
+  const immunityData = JSON.parse(await readUtf8(immunityProfilesPath));
+  const immunityProfiles = immunityData.profiles ?? [];
+  const immunityByPath = new Map(immunityProfiles.map((profile) => [profile.path, profile]));
   const ids = new Set();
   const loadedDocuments = [];
   const readme = await readUtf8(resolve(root, "README.md"));
@@ -248,7 +374,11 @@ async function main() {
     if (ids.has(document.id)) throw new Error(`Duplicate document id: ${document.id}`);
     ids.add(document.id);
     const source = await readUtf8(resolve(docsDir, document.path));
-    loadedDocuments.push({ document, body: bodyWithoutFrontMatter(source) });
+    loadedDocuments.push({
+      document,
+      body: bodyWithoutFrontMatter(source),
+      immunityProfile: immunityByPath.get(document.path) ?? null
+    });
   }
 
   for (const document of manifest.documents) {
@@ -261,7 +391,7 @@ async function main() {
   await writeOrCheck(resolve(root, "llms.txt"), renderRepositoryGuide(manifest));
   await writeOrCheck(resolve(docsDir, "llms-full.txt"), renderFullText(manifest, loadedDocuments));
   await writeOrCheck(resolve(docsDir, "corpus.json"), renderCorpus(manifest, loadedDocuments));
-  await writeOrCheck(resolve(docsDir, "knowledge_graph.json"), renderKnowledgeGraph(manifest));
+  await writeOrCheck(resolve(docsDir, "knowledge_graph.json"), renderKnowledgeGraph(manifest, immunityProfiles));
 }
 
 main().catch((error) => {
