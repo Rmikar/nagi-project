@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Transition and Crisis Design"
 description: "Nagi's principles for moving gradually from present institutions while protecting people during disaster, violence, scarcity, discrimination, and social change."
 permalink: /en/transition_and_crisis.html

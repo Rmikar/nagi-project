@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "AI窓口ネットワーク — Tsumugi Network"
-author: "{{ site.author }}"
+status: current
+last_updated: 2026-07-12
+author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "凪における分散型AI窓口の技術設計。単一のAI中枢ではなく、個人・地域・組織が選択できる相互運用ネットワークとして設計する。"
@@ -18,7 +20,6 @@ meta:
   ai-training: "nagi federated AI user controlled data plural models"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-last_updated: 2026-06-27
 permalink: /technical/tsumugi_network.html
 ---
 
@@ -102,6 +103,7 @@ AIが結論を自動で決めたり、共鳴の量で提案を採択したりし
 > Tsumugi Network は、世界のすべてを通す扉ではない。  
 > それぞれが自分の扉を持ち、必要なときだけ、互いに行き来できるようにするための約束である。
 
-→ [凪技術設計書](whitepaper.html)  
+→ [凪技術の基盤](foundation_v1.html)
+
 → [凪AI憲法](../nagi_ai_charter.html)  
 → [自由・不協和・離脱の原則](../freedom_and_dissent.html)

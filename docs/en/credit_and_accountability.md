@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: supplement
 title: "Credit and Accountability"
 description: "Nagi's principle for retaining visible contributions, sources, decisions, benefits, and burdens without turning credit into a claim of ownership or human rank."
 permalink: /en/credit_and_accountability.html

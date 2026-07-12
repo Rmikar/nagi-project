@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "凪実験章"
+status: current
 lang: ja
 description: "凪を生活の近くで小さく試し、自由・同意・離脱・修復を守りながら学ぶための実験章。"
-last_updated: 2026-06-28
+last_updated: 2026-07-12
 permalink: /experiment_v0.1.html
 ---
 

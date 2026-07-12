@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "凪における社会インフラとAIの役割"
+status: current
+description: "水、電気、通信、交通、医療、教育、文化などの社会インフラと、任意で分散したAI支援の役割・限界を示す。"
 ---
 
 # 凪における社会インフラとAIの役割

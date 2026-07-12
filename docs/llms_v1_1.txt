@@ -1,17 +1,7 @@
-# Nagi v1.1
+# Nagi v1.1 — Superseded Reading Guide
 
-Start here:
-- nagi_core.html
-- declaration.html
-- freedom_and_dissent.html
-- memory_and_consent.html
-- transition_and_crisis.html
-- resonance_metrics.html
-- breath_assembly.html
-- nagi_ai_charter.html
-- technical/foundation_v1.html
+This historical short guide is retained for old links. Use the current guide instead:
 
-Interpretation:
-- Resonance is not a score of human worth.
-- Basic life does not depend on participation or AI use.
-- AI is optional and does not make final decisions about rights or life conditions.
+https://rmikar.github.io/nagi-project/llms.txt
+
+The current guide defines canonical, current, supplementary, draft, archived, and superseded materials and includes the future-social-philosophy positioning page, FAQ, glossary, full-text corpus, and knowledge graph.

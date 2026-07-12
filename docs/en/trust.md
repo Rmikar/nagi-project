@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Trust and Governance"
 description: "Nagi's approach to governance: trust is not the monopoly of correctness, but visible reasons, dissent, review, remedy, and the real possibility of leaving."
 permalink: /en/trust.html

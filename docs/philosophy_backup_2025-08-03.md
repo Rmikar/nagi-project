@@ -1,7 +1,10 @@
 ---
 layout: default
 title: "哲学バックアップ 2025-08-03"
+status: archive
+robots: "noindex, follow"
 sitemap: false
+archive_note: "2025年8月3日の旧稿。現行の定義は凪の核、未来社会思想の入口、用語集を優先する。"
 ---
 
 # 凪における哲学的背景

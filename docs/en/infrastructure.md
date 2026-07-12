@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Social Infrastructure and the Role of AI in Nagi"
 description: "Nagi's account of infrastructure as quiet public support for continuing life, with AI as an optional and accountable helper rather than a condition of public participation."
 permalink: /en/infrastructure.html

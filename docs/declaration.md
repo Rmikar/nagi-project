@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "凪の宣言文"
+status: canonical
+last_updated: 2026-07-12
 ---
 
 # 凪の宣言文

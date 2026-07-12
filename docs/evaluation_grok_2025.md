@@ -1,6 +1,10 @@
 ---
 layout: default
 title: "Grok評価記録（2025）"
+status: archive
+robots: "noindex, follow"
+sitemap: false
+archive_note: "2025年時点のAI対話記録。独立した評価でも、現在の凪の正本でもない。"
 ---
 
 # Grok評価記録（2025）

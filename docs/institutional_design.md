@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "制度設計と実践"
+status: current
+last_updated: 2026-07-12
 ---
 
 # 制度設計と実践

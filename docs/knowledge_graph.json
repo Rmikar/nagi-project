@@ -1,0 +1,1773 @@
+{
+  "name": "Nagi Project knowledge graph",
+  "description": "Relationships among Nagi's canonical/current documents and core concepts.",
+  "dateModified": "2026-07-12",
+  "baseUrl": "https://rmikar.github.io/nagi-project/",
+  "nodes": [
+    {
+      "id": "document:home",
+      "kind": "document",
+      "label": "凪プロジェクト — 未来社会思想・共鳴民主主義・AI倫理",
+      "url": "https://rmikar.github.io/nagi-project/",
+      "status": "canonical",
+      "documentType": "overview"
+    },
+    {
+      "id": "document:future-social-philosophy",
+      "kind": "document",
+      "label": "未来の社会思想としての凪",
+      "url": "https://rmikar.github.io/nagi-project/future_social_philosophy.html",
+      "status": "canonical",
+      "documentType": "positioning"
+    },
+    {
+      "id": "document:nagi-core",
+      "kind": "document",
+      "label": "凪の核 — 中心なき構造としての世界",
+      "url": "https://rmikar.github.io/nagi-project/nagi_core.html",
+      "status": "canonical",
+      "documentType": "philosophical-core"
+    },
+    {
+      "id": "document:declaration",
+      "kind": "document",
+      "label": "凪の宣言文",
+      "url": "https://rmikar.github.io/nagi-project/declaration.html",
+      "status": "canonical",
+      "documentType": "declaration"
+    },
+    {
+      "id": "document:resonant-democracy",
+      "kind": "document",
+      "label": "羅針盤と共鳴民主主義",
+      "url": "https://rmikar.github.io/nagi-project/compass_and_resonant_democracy.html",
+      "status": "canonical",
+      "documentType": "political-philosophy"
+    },
+    {
+      "id": "document:freedom-dissent-exit",
+      "kind": "document",
+      "label": "自由・不協和・離脱の原則",
+      "url": "https://rmikar.github.io/nagi-project/freedom_and_dissent.html",
+      "status": "canonical",
+      "documentType": "rights-charter"
+    },
+    {
+      "id": "document:memory-consent",
+      "kind": "document",
+      "label": "記憶・同意・忘却の憲章",
+      "url": "https://rmikar.github.io/nagi-project/memory_and_consent.html",
+      "status": "canonical",
+      "documentType": "rights-charter"
+    },
+    {
+      "id": "document:transition-crisis",
+      "kind": "document",
+      "label": "移行と危機の設計",
+      "url": "https://rmikar.github.io/nagi-project/transition_and_crisis.html",
+      "status": "canonical",
+      "documentType": "transition-design"
+    },
+    {
+      "id": "document:social-infrastructure-ethics",
+      "kind": "document",
+      "label": "社会的装置の倫理",
+      "url": "https://rmikar.github.io/nagi-project/ethics_of_social_infrastructure.html",
+      "status": "canonical",
+      "documentType": "institutional-ethics"
+    },
+    {
+      "id": "document:non-ownership",
+      "kind": "document",
+      "label": "非所有の制度化",
+      "url": "https://rmikar.github.io/nagi-project/non_ownership.html",
+      "status": "current",
+      "documentType": "institutional-proposal"
+    },
+    {
+      "id": "document:free-competition",
+      "kind": "document",
+      "label": "資本主義以後の自由競争原理",
+      "url": "https://rmikar.github.io/nagi-project/free_competition.html",
+      "status": "current",
+      "documentType": "economic-philosophy"
+    },
+    {
+      "id": "document:breath-economy",
+      "kind": "document",
+      "label": "凪経済構造",
+      "url": "https://rmikar.github.io/nagi-project/breath_economy.html",
+      "status": "current",
+      "documentType": "economic-proposal"
+    },
+    {
+      "id": "document:culture",
+      "kind": "document",
+      "label": "文化的共育",
+      "url": "https://rmikar.github.io/nagi-project/culture.html",
+      "status": "current",
+      "documentType": "cultural-philosophy"
+    },
+    {
+      "id": "document:education",
+      "kind": "document",
+      "label": "凪における未来の教育",
+      "url": "https://rmikar.github.io/nagi-project/education.html",
+      "status": "current",
+      "documentType": "education-philosophy"
+    },
+    {
+      "id": "document:property-ip",
+      "kind": "document",
+      "label": "知財と財産の継承",
+      "url": "https://rmikar.github.io/nagi-project/property_and_ip.html",
+      "status": "current",
+      "documentType": "institutional-proposal"
+    },
+    {
+      "id": "document:ecology",
+      "kind": "document",
+      "label": "凪環境構造",
+      "url": "https://rmikar.github.io/nagi-project/ecological_structure.html",
+      "status": "current",
+      "documentType": "ecological-philosophy"
+    },
+    {
+      "id": "document:resonance-metrics",
+      "kind": "document",
+      "label": "共鳴メトリクス",
+      "url": "https://rmikar.github.io/nagi-project/resonance_metrics.html",
+      "status": "current",
+      "documentType": "measurement-safeguards"
+    },
+    {
+      "id": "document:breath-assembly",
+      "kind": "document",
+      "label": "呼吸会議",
+      "url": "https://rmikar.github.io/nagi-project/breath_assembly.html",
+      "status": "current",
+      "documentType": "governance-protocol"
+    },
+    {
+      "id": "document:ai-index",
+      "kind": "document",
+      "label": "凪AI章",
+      "url": "https://rmikar.github.io/nagi-project/ai_index.html",
+      "status": "current",
+      "documentType": "topic-index"
+    },
+    {
+      "id": "document:ai-charter",
+      "kind": "document",
+      "label": "凪AI憲法",
+      "url": "https://rmikar.github.io/nagi-project/nagi_ai_charter.html",
+      "status": "canonical",
+      "documentType": "ai-charter"
+    },
+    {
+      "id": "document:technical-foundation",
+      "kind": "document",
+      "label": "凪技術の基盤",
+      "url": "https://rmikar.github.io/nagi-project/technical/foundation_v1.html",
+      "status": "current",
+      "documentType": "technical-foundation"
+    },
+    {
+      "id": "document:tsumugi-network",
+      "kind": "document",
+      "label": "AI窓口ネットワーク",
+      "url": "https://rmikar.github.io/nagi-project/technical/tsumugi_network.html",
+      "status": "current",
+      "documentType": "technical-proposal"
+    },
+    {
+      "id": "document:institutional-design",
+      "kind": "document",
+      "label": "凪社会の制度設計と実践",
+      "url": "https://rmikar.github.io/nagi-project/institutional_design.html",
+      "status": "current",
+      "documentType": "institutional-proposal"
+    },
+    {
+      "id": "document:experiment",
+      "kind": "document",
+      "label": "凪実験章",
+      "url": "https://rmikar.github.io/nagi-project/experiment_v0.1.html",
+      "status": "current",
+      "documentType": "experiment-guide"
+    },
+    {
+      "id": "document:public-thought-method",
+      "kind": "document",
+      "label": "公開思想を育てる方法",
+      "url": "https://rmikar.github.io/nagi-project/public_thought_method.html",
+      "status": "supplement",
+      "documentType": "editorial-method"
+    },
+    {
+      "id": "document:cultural-stewardship",
+      "kind": "document",
+      "label": "文化的スチュワードシップ",
+      "url": "https://rmikar.github.io/nagi-project/cultural_stewardship.html",
+      "status": "supplement",
+      "documentType": "stewardship-method"
+    },
+    {
+      "id": "document:rebreathing",
+      "kind": "document",
+      "label": "再呼吸と公開継承",
+      "url": "https://rmikar.github.io/nagi-project/rebreathing_and_public_continuity.html",
+      "status": "current",
+      "documentType": "continuity-method"
+    },
+    {
+      "id": "document:reading-guide",
+      "kind": "document",
+      "label": "凪の読書案内",
+      "url": "https://rmikar.github.io/nagi-project/nagi_reading_guide.html",
+      "status": "current",
+      "documentType": "reading-guide"
+    },
+    {
+      "id": "document:faq",
+      "kind": "document",
+      "label": "凪プロジェクト FAQ",
+      "url": "https://rmikar.github.io/nagi-project/faq.html",
+      "status": "current",
+      "documentType": "faq"
+    },
+    {
+      "id": "document:research-links",
+      "kind": "document",
+      "label": "外部リソース台帳",
+      "url": "https://rmikar.github.io/nagi-project/links.html",
+      "status": "supplement",
+      "documentType": "research-context"
+    },
+    {
+      "id": "document:glossary",
+      "kind": "document",
+      "label": "凪用語集",
+      "url": "https://rmikar.github.io/nagi-project/glossary.html",
+      "status": "canonical",
+      "documentType": "glossary"
+    },
+    {
+      "id": "concept:AIの任意性",
+      "kind": "concept",
+      "label": "AIの任意性"
+    },
+    {
+      "id": "concept:AI倫理",
+      "kind": "concept",
+      "label": "AI倫理"
+    },
+    {
+      "id": "concept:AI支援",
+      "kind": "concept",
+      "label": "AI支援"
+    },
+    {
+      "id": "concept:FAQ",
+      "kind": "concept",
+      "label": "FAQ"
+    },
+    {
+      "id": "concept:コモンズ",
+      "kind": "concept",
+      "label": "コモンズ"
+    },
+    {
+      "id": "concept:スチュワードシップ",
+      "kind": "concept",
+      "label": "スチュワードシップ"
+    },
+    {
+      "id": "concept:データ保護",
+      "kind": "concept",
+      "label": "データ保護"
+    },
+    {
+      "id": "concept:プライバシー",
+      "kind": "concept",
+      "label": "プライバシー"
+    },
+    {
+      "id": "concept:ポスト成長",
+      "kind": "concept",
+      "label": "ポスト成長"
+    },
+    {
+      "id": "concept:ポスト資本主義",
+      "kind": "concept",
+      "label": "ポスト資本主義"
+    },
+    {
+      "id": "concept:世代間倫理",
+      "kind": "concept",
+      "label": "世代間倫理"
+    },
+    {
+      "id": "concept:中心なき構造",
+      "kind": "concept",
+      "label": "中心なき構造"
+    },
+    {
+      "id": "concept:人間による監督",
+      "kind": "concept",
+      "label": "人間による監督"
+    },
+    {
+      "id": "concept:人間による相談",
+      "kind": "concept",
+      "label": "人間による相談"
+    },
+    {
+      "id": "concept:人間の尊厳",
+      "kind": "concept",
+      "label": "人間の尊厳"
+    },
+    {
+      "id": "concept:会議",
+      "kind": "concept",
+      "label": "会議"
+    },
+    {
+      "id": "concept:修復",
+      "kind": "concept",
+      "label": "修復"
+    },
+    {
+      "id": "concept:停止可能性",
+      "kind": "concept",
+      "label": "停止可能性"
+    },
+    {
+      "id": "concept:停止条件",
+      "kind": "concept",
+      "label": "停止条件"
+    },
+    {
+      "id": "concept:公開思想",
+      "kind": "concept",
+      "label": "公開思想"
+    },
+    {
+      "id": "concept:共鳴",
+      "kind": "concept",
+      "label": "共鳴"
+    },
+    {
+      "id": "concept:共鳴民主主義",
+      "kind": "concept",
+      "label": "共鳴民主主義"
+    },
+    {
+      "id": "concept:再呼吸",
+      "kind": "concept",
+      "label": "再呼吸"
+    },
+    {
+      "id": "concept:分散",
+      "kind": "concept",
+      "label": "分散"
+    },
+    {
+      "id": "concept:分散AI",
+      "kind": "concept",
+      "label": "分散AI"
+    },
+    {
+      "id": "concept:分散システム",
+      "kind": "concept",
+      "label": "分散システム"
+    },
+    {
+      "id": "concept:利用権",
+      "kind": "concept",
+      "label": "利用権"
+    },
+    {
+      "id": "concept:制度設計",
+      "kind": "concept",
+      "label": "制度設計"
+    },
+    {
+      "id": "concept:創造",
+      "kind": "concept",
+      "label": "創造"
+    },
+    {
+      "id": "concept:危機統治",
+      "kind": "concept",
+      "label": "危機統治"
+    },
+    {
+      "id": "concept:反独占",
+      "kind": "concept",
+      "label": "反独占"
+    },
+    {
+      "id": "concept:同意",
+      "kind": "concept",
+      "label": "同意"
+    },
+    {
+      "id": "concept:呼吸",
+      "kind": "concept",
+      "label": "呼吸"
+    },
+    {
+      "id": "concept:呼吸経済",
+      "kind": "concept",
+      "label": "呼吸経済"
+    },
+    {
+      "id": "concept:基礎サービス",
+      "kind": "concept",
+      "label": "基礎サービス"
+    },
+    {
+      "id": "concept:基礎呼吸",
+      "kind": "concept",
+      "label": "基礎呼吸"
+    },
+    {
+      "id": "concept:学び直し",
+      "kind": "concept",
+      "label": "学び直し"
+    },
+    {
+      "id": "concept:実践",
+      "kind": "concept",
+      "label": "実践"
+    },
+    {
+      "id": "concept:実験",
+      "kind": "concept",
+      "label": "実験"
+    },
+    {
+      "id": "concept:忘れられる権利",
+      "kind": "concept",
+      "label": "忘れられる権利"
+    },
+    {
+      "id": "concept:批判",
+      "kind": "concept",
+      "label": "批判"
+    },
+    {
+      "id": "concept:拒否",
+      "kind": "concept",
+      "label": "拒否"
+    },
+    {
+      "id": "concept:持続可能性",
+      "kind": "concept",
+      "label": "持続可能性"
+    },
+    {
+      "id": "concept:教育",
+      "kind": "concept",
+      "label": "教育"
+    },
+    {
+      "id": "concept:文化",
+      "kind": "concept",
+      "label": "文化"
+    },
+    {
+      "id": "concept:文化的共育",
+      "kind": "concept",
+      "label": "文化的共育"
+    },
+    {
+      "id": "concept:未来社会思想",
+      "kind": "concept",
+      "label": "未来社会思想"
+    },
+    {
+      "id": "concept:検証",
+      "kind": "concept",
+      "label": "検証"
+    },
+    {
+      "id": "concept:権利",
+      "kind": "concept",
+      "label": "権利"
+    },
+    {
+      "id": "concept:民主主義",
+      "kind": "concept",
+      "label": "民主主義"
+    },
+    {
+      "id": "concept:気候正義",
+      "kind": "concept",
+      "label": "気候正義"
+    },
+    {
+      "id": "concept:沈黙",
+      "kind": "concept",
+      "label": "沈黙"
+    },
+    {
+      "id": "concept:測定",
+      "kind": "concept",
+      "label": "測定"
+    },
+    {
+      "id": "concept:生態系",
+      "kind": "concept",
+      "label": "生態系"
+    },
+    {
+      "id": "concept:生活保障",
+      "kind": "concept",
+      "label": "生活保障"
+    },
+    {
+      "id": "concept:用語集",
+      "kind": "concept",
+      "label": "用語集"
+    },
+    {
+      "id": "concept:異議",
+      "kind": "concept",
+      "label": "異議"
+    },
+    {
+      "id": "concept:異議申立て",
+      "kind": "concept",
+      "label": "異議申立て"
+    },
+    {
+      "id": "concept:相互運用性",
+      "kind": "concept",
+      "label": "相互運用性"
+    },
+    {
+      "id": "concept:知的財産",
+      "kind": "concept",
+      "label": "知的財産"
+    },
+    {
+      "id": "concept:研究",
+      "kind": "concept",
+      "label": "研究"
+    },
+    {
+      "id": "concept:研究資料",
+      "kind": "concept",
+      "label": "研究資料"
+    },
+    {
+      "id": "concept:社会実験",
+      "kind": "concept",
+      "label": "社会実験"
+    },
+    {
+      "id": "concept:社会的装置",
+      "kind": "concept",
+      "label": "社会的装置"
+    },
+    {
+      "id": "concept:移行",
+      "kind": "concept",
+      "label": "移行"
+    },
+    {
+      "id": "concept:競争",
+      "kind": "concept",
+      "label": "競争"
+    },
+    {
+      "id": "concept:継承",
+      "kind": "concept",
+      "label": "継承"
+    },
+    {
+      "id": "concept:継承責任",
+      "kind": "concept",
+      "label": "継承責任"
+    },
+    {
+      "id": "concept:編集",
+      "kind": "concept",
+      "label": "編集"
+    },
+    {
+      "id": "concept:脱成長",
+      "kind": "concept",
+      "label": "脱成長"
+    },
+    {
+      "id": "concept:自治",
+      "kind": "concept",
+      "label": "自治"
+    },
+    {
+      "id": "concept:自由",
+      "kind": "concept",
+      "label": "自由"
+    },
+    {
+      "id": "concept:記憶",
+      "kind": "concept",
+      "label": "記憶"
+    },
+    {
+      "id": "concept:評価倫理",
+      "kind": "concept",
+      "label": "評価倫理"
+    },
+    {
+      "id": "concept:説明可能性",
+      "kind": "concept",
+      "label": "説明可能性"
+    },
+    {
+      "id": "concept:説明責任",
+      "kind": "concept",
+      "label": "説明責任"
+    },
+    {
+      "id": "concept:読書案内",
+      "kind": "concept",
+      "label": "読書案内"
+    },
+    {
+      "id": "concept:離脱",
+      "kind": "concept",
+      "label": "離脱"
+    },
+    {
+      "id": "concept:非所有",
+      "kind": "concept",
+      "label": "非所有"
+    }
+  ],
+  "edges": [
+    {
+      "source": "document:home",
+      "target": "concept:未来社会思想",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:ポスト資本主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:共鳴",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:呼吸",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "document:future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:nagi-core",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:reading-guide",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:未来社会思想",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:ポスト資本主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:共鳴民主主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:コモンズ",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:脱成長",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:AI倫理",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:nagi-core",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:faq",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:glossary",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:research-links",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-core",
+      "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-core",
+      "target": "concept:共鳴",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-core",
+      "target": "concept:呼吸",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-core",
+      "target": "concept:中心なき構造",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-core",
+      "target": "document:declaration",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-core",
+      "target": "document:resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-core",
+      "target": "document:freedom-dissent-exit",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:declaration",
+      "target": "concept:未来社会思想",
+      "relation": "about"
+    },
+    {
+      "source": "document:declaration",
+      "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:declaration",
+      "target": "concept:共鳴",
+      "relation": "about"
+    },
+    {
+      "source": "document:declaration",
+      "target": "concept:呼吸",
+      "relation": "about"
+    },
+    {
+      "source": "document:declaration",
+      "target": "document:nagi-core",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:declaration",
+      "target": "document:resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:resonant-democracy",
+      "target": "concept:共鳴民主主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:resonant-democracy",
+      "target": "concept:民主主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:resonant-democracy",
+      "target": "concept:異議",
+      "relation": "about"
+    },
+    {
+      "source": "document:resonant-democracy",
+      "target": "concept:離脱",
+      "relation": "about"
+    },
+    {
+      "source": "document:resonant-democracy",
+      "target": "document:freedom-dissent-exit",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:resonant-democracy",
+      "target": "document:breath-assembly",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:resonant-democracy",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
+      "target": "concept:自由",
+      "relation": "about"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
+      "target": "concept:異議",
+      "relation": "about"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
+      "target": "concept:沈黙",
+      "relation": "about"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
+      "target": "concept:拒否",
+      "relation": "about"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
+      "target": "concept:離脱",
+      "relation": "about"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
+      "target": "document:resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
+      "target": "document:memory-consent",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:memory-consent",
+      "target": "concept:記憶",
+      "relation": "about"
+    },
+    {
+      "source": "document:memory-consent",
+      "target": "concept:同意",
+      "relation": "about"
+    },
+    {
+      "source": "document:memory-consent",
+      "target": "concept:プライバシー",
+      "relation": "about"
+    },
+    {
+      "source": "document:memory-consent",
+      "target": "concept:忘れられる権利",
+      "relation": "about"
+    },
+    {
+      "source": "document:memory-consent",
+      "target": "concept:AI倫理",
+      "relation": "about"
+    },
+    {
+      "source": "document:memory-consent",
+      "target": "document:freedom-dissent-exit",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:memory-consent",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:memory-consent",
+      "target": "document:rebreathing",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:transition-crisis",
+      "target": "concept:移行",
+      "relation": "about"
+    },
+    {
+      "source": "document:transition-crisis",
+      "target": "concept:危機統治",
+      "relation": "about"
+    },
+    {
+      "source": "document:transition-crisis",
+      "target": "concept:実験",
+      "relation": "about"
+    },
+    {
+      "source": "document:transition-crisis",
+      "target": "concept:停止可能性",
+      "relation": "about"
+    },
+    {
+      "source": "document:transition-crisis",
+      "target": "document:resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:transition-crisis",
+      "target": "document:social-infrastructure-ethics",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:transition-crisis",
+      "target": "document:experiment",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:social-infrastructure-ethics",
+      "target": "concept:社会的装置",
+      "relation": "about"
+    },
+    {
+      "source": "document:social-infrastructure-ethics",
+      "target": "concept:説明責任",
+      "relation": "about"
+    },
+    {
+      "source": "document:social-infrastructure-ethics",
+      "target": "concept:異議申立て",
+      "relation": "about"
+    },
+    {
+      "source": "document:social-infrastructure-ethics",
+      "target": "concept:停止可能性",
+      "relation": "about"
+    },
+    {
+      "source": "document:social-infrastructure-ethics",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:social-infrastructure-ethics",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:social-infrastructure-ethics",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:non-ownership",
+      "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:non-ownership",
+      "target": "concept:コモンズ",
+      "relation": "about"
+    },
+    {
+      "source": "document:non-ownership",
+      "target": "concept:利用権",
+      "relation": "about"
+    },
+    {
+      "source": "document:non-ownership",
+      "target": "concept:継承責任",
+      "relation": "about"
+    },
+    {
+      "source": "document:non-ownership",
+      "target": "document:nagi-core",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:non-ownership",
+      "target": "document:property-ip",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:non-ownership",
+      "target": "document:breath-economy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:free-competition",
+      "target": "concept:ポスト資本主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:free-competition",
+      "target": "concept:競争",
+      "relation": "about"
+    },
+    {
+      "source": "document:free-competition",
+      "target": "concept:自由",
+      "relation": "about"
+    },
+    {
+      "source": "document:free-competition",
+      "target": "concept:反独占",
+      "relation": "about"
+    },
+    {
+      "source": "document:free-competition",
+      "target": "document:non-ownership",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:free-competition",
+      "target": "document:breath-economy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:free-competition",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:breath-economy",
+      "target": "concept:呼吸経済",
+      "relation": "about"
+    },
+    {
+      "source": "document:breath-economy",
+      "target": "concept:基礎呼吸",
+      "relation": "about"
+    },
+    {
+      "source": "document:breath-economy",
+      "target": "concept:生活保障",
+      "relation": "about"
+    },
+    {
+      "source": "document:breath-economy",
+      "target": "concept:ポスト成長",
+      "relation": "about"
+    },
+    {
+      "source": "document:breath-economy",
+      "target": "document:non-ownership",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:breath-economy",
+      "target": "document:free-competition",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:breath-economy",
+      "target": "document:ecology",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:culture",
+      "target": "concept:文化的共育",
+      "relation": "about"
+    },
+    {
+      "source": "document:culture",
+      "target": "concept:文化",
+      "relation": "about"
+    },
+    {
+      "source": "document:culture",
+      "target": "concept:創造",
+      "relation": "about"
+    },
+    {
+      "source": "document:culture",
+      "target": "concept:継承",
+      "relation": "about"
+    },
+    {
+      "source": "document:culture",
+      "target": "document:education",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:culture",
+      "target": "document:property-ip",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:culture",
+      "target": "document:cultural-stewardship",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
+      "target": "concept:教育",
+      "relation": "about"
+    },
+    {
+      "source": "document:education",
+      "target": "concept:学び直し",
+      "relation": "about"
+    },
+    {
+      "source": "document:education",
+      "target": "concept:文化的共育",
+      "relation": "about"
+    },
+    {
+      "source": "document:education",
+      "target": "document:culture",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
+      "target": "document:breath-economy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:property-ip",
+      "target": "concept:知的財産",
+      "relation": "about"
+    },
+    {
+      "source": "document:property-ip",
+      "target": "concept:文化",
+      "relation": "about"
+    },
+    {
+      "source": "document:property-ip",
+      "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:property-ip",
+      "target": "concept:継承",
+      "relation": "about"
+    },
+    {
+      "source": "document:property-ip",
+      "target": "document:non-ownership",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:property-ip",
+      "target": "document:culture",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:property-ip",
+      "target": "document:cultural-stewardship",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:ecology",
+      "target": "concept:生態系",
+      "relation": "about"
+    },
+    {
+      "source": "document:ecology",
+      "target": "concept:持続可能性",
+      "relation": "about"
+    },
+    {
+      "source": "document:ecology",
+      "target": "concept:世代間倫理",
+      "relation": "about"
+    },
+    {
+      "source": "document:ecology",
+      "target": "concept:呼吸",
+      "relation": "about"
+    },
+    {
+      "source": "document:ecology",
+      "target": "document:breath-economy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:ecology",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:resonance-metrics",
+      "target": "concept:共鳴",
+      "relation": "about"
+    },
+    {
+      "source": "document:resonance-metrics",
+      "target": "concept:測定",
+      "relation": "about"
+    },
+    {
+      "source": "document:resonance-metrics",
+      "target": "concept:評価倫理",
+      "relation": "about"
+    },
+    {
+      "source": "document:resonance-metrics",
+      "target": "concept:人間の尊厳",
+      "relation": "about"
+    },
+    {
+      "source": "document:resonance-metrics",
+      "target": "document:resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:resonance-metrics",
+      "target": "document:breath-assembly",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:resonance-metrics",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:breath-assembly",
+      "target": "concept:共鳴民主主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:breath-assembly",
+      "target": "concept:会議",
+      "relation": "about"
+    },
+    {
+      "source": "document:breath-assembly",
+      "target": "concept:異議",
+      "relation": "about"
+    },
+    {
+      "source": "document:breath-assembly",
+      "target": "concept:AI支援",
+      "relation": "about"
+    },
+    {
+      "source": "document:breath-assembly",
+      "target": "document:resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:breath-assembly",
+      "target": "document:resonance-metrics",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:breath-assembly",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:ai-index",
+      "target": "concept:AI倫理",
+      "relation": "about"
+    },
+    {
+      "source": "document:ai-index",
+      "target": "concept:AIの任意性",
+      "relation": "about"
+    },
+    {
+      "source": "document:ai-index",
+      "target": "concept:説明可能性",
+      "relation": "about"
+    },
+    {
+      "source": "document:ai-index",
+      "target": "concept:人間による監督",
+      "relation": "about"
+    },
+    {
+      "source": "document:ai-index",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:ai-index",
+      "target": "document:memory-consent",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:ai-index",
+      "target": "document:technical-foundation",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:ai-charter",
+      "target": "concept:AI倫理",
+      "relation": "about"
+    },
+    {
+      "source": "document:ai-charter",
+      "target": "concept:AIの任意性",
+      "relation": "about"
+    },
+    {
+      "source": "document:ai-charter",
+      "target": "concept:権利",
+      "relation": "about"
+    },
+    {
+      "source": "document:ai-charter",
+      "target": "concept:説明責任",
+      "relation": "about"
+    },
+    {
+      "source": "document:ai-charter",
+      "target": "concept:分散",
+      "relation": "about"
+    },
+    {
+      "source": "document:ai-charter",
+      "target": "document:ai-index",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:ai-charter",
+      "target": "document:memory-consent",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:ai-charter",
+      "target": "document:technical-foundation",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:technical-foundation",
+      "target": "concept:分散システム",
+      "relation": "about"
+    },
+    {
+      "source": "document:technical-foundation",
+      "target": "concept:AI倫理",
+      "relation": "about"
+    },
+    {
+      "source": "document:technical-foundation",
+      "target": "concept:プライバシー",
+      "relation": "about"
+    },
+    {
+      "source": "document:technical-foundation",
+      "target": "concept:相互運用性",
+      "relation": "about"
+    },
+    {
+      "source": "document:technical-foundation",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:technical-foundation",
+      "target": "document:tsumugi-network",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:technical-foundation",
+      "target": "document:social-infrastructure-ethics",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:tsumugi-network",
+      "target": "concept:分散AI",
+      "relation": "about"
+    },
+    {
+      "source": "document:tsumugi-network",
+      "target": "concept:AIの任意性",
+      "relation": "about"
+    },
+    {
+      "source": "document:tsumugi-network",
+      "target": "concept:相互運用性",
+      "relation": "about"
+    },
+    {
+      "source": "document:tsumugi-network",
+      "target": "concept:人間による相談",
+      "relation": "about"
+    },
+    {
+      "source": "document:tsumugi-network",
+      "target": "document:technical-foundation",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:tsumugi-network",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-design",
+      "target": "concept:制度設計",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-design",
+      "target": "concept:自治",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-design",
+      "target": "concept:説明責任",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-design",
+      "target": "concept:実践",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-design",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-design",
+      "target": "document:social-infrastructure-ethics",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-design",
+      "target": "document:experiment",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:experiment",
+      "target": "concept:社会実験",
+      "relation": "about"
+    },
+    {
+      "source": "document:experiment",
+      "target": "concept:検証",
+      "relation": "about"
+    },
+    {
+      "source": "document:experiment",
+      "target": "concept:停止条件",
+      "relation": "about"
+    },
+    {
+      "source": "document:experiment",
+      "target": "concept:修復",
+      "relation": "about"
+    },
+    {
+      "source": "document:experiment",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:experiment",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:experiment",
+      "target": "document:public-thought-method",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:public-thought-method",
+      "target": "concept:公開思想",
+      "relation": "about"
+    },
+    {
+      "source": "document:public-thought-method",
+      "target": "concept:説明責任",
+      "relation": "about"
+    },
+    {
+      "source": "document:public-thought-method",
+      "target": "concept:批判",
+      "relation": "about"
+    },
+    {
+      "source": "document:public-thought-method",
+      "target": "concept:編集",
+      "relation": "about"
+    },
+    {
+      "source": "document:public-thought-method",
+      "target": "document:rebreathing",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:public-thought-method",
+      "target": "document:cultural-stewardship",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:public-thought-method",
+      "target": "document:experiment",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:cultural-stewardship",
+      "target": "concept:文化",
+      "relation": "about"
+    },
+    {
+      "source": "document:cultural-stewardship",
+      "target": "concept:継承",
+      "relation": "about"
+    },
+    {
+      "source": "document:cultural-stewardship",
+      "target": "concept:スチュワードシップ",
+      "relation": "about"
+    },
+    {
+      "source": "document:cultural-stewardship",
+      "target": "concept:説明責任",
+      "relation": "about"
+    },
+    {
+      "source": "document:cultural-stewardship",
+      "target": "document:culture",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:cultural-stewardship",
+      "target": "document:public-thought-method",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:cultural-stewardship",
+      "target": "document:rebreathing",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:rebreathing",
+      "target": "concept:再呼吸",
+      "relation": "about"
+    },
+    {
+      "source": "document:rebreathing",
+      "target": "concept:継承",
+      "relation": "about"
+    },
+    {
+      "source": "document:rebreathing",
+      "target": "concept:同意",
+      "relation": "about"
+    },
+    {
+      "source": "document:rebreathing",
+      "target": "concept:プライバシー",
+      "relation": "about"
+    },
+    {
+      "source": "document:rebreathing",
+      "target": "concept:修復",
+      "relation": "about"
+    },
+    {
+      "source": "document:rebreathing",
+      "target": "document:memory-consent",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:rebreathing",
+      "target": "document:public-thought-method",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:rebreathing",
+      "target": "document:cultural-stewardship",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:reading-guide",
+      "target": "concept:読書案内",
+      "relation": "about"
+    },
+    {
+      "source": "document:reading-guide",
+      "target": "concept:未来社会思想",
+      "relation": "about"
+    },
+    {
+      "source": "document:reading-guide",
+      "target": "concept:研究",
+      "relation": "about"
+    },
+    {
+      "source": "document:reading-guide",
+      "target": "document:future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:reading-guide",
+      "target": "document:faq",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:reading-guide",
+      "target": "document:glossary",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:faq",
+      "target": "concept:FAQ",
+      "relation": "about"
+    },
+    {
+      "source": "document:faq",
+      "target": "concept:未来社会思想",
+      "relation": "about"
+    },
+    {
+      "source": "document:faq",
+      "target": "concept:AI倫理",
+      "relation": "about"
+    },
+    {
+      "source": "document:faq",
+      "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:faq",
+      "target": "document:future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:faq",
+      "target": "document:reading-guide",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:faq",
+      "target": "document:glossary",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:research-links",
+      "target": "concept:研究資料",
+      "relation": "about"
+    },
+    {
+      "source": "document:research-links",
+      "target": "concept:コモンズ",
+      "relation": "about"
+    },
+    {
+      "source": "document:research-links",
+      "target": "concept:基礎サービス",
+      "relation": "about"
+    },
+    {
+      "source": "document:research-links",
+      "target": "concept:AI倫理",
+      "relation": "about"
+    },
+    {
+      "source": "document:research-links",
+      "target": "concept:データ保護",
+      "relation": "about"
+    },
+    {
+      "source": "document:research-links",
+      "target": "concept:気候正義",
+      "relation": "about"
+    },
+    {
+      "source": "document:research-links",
+      "target": "document:future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:research-links",
+      "target": "document:public-thought-method",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:research-links",
+      "target": "document:ecology",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:research-links",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:glossary",
+      "target": "concept:用語集",
+      "relation": "about"
+    },
+    {
+      "source": "document:glossary",
+      "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:glossary",
+      "target": "concept:共鳴",
+      "relation": "about"
+    },
+    {
+      "source": "document:glossary",
+      "target": "concept:呼吸",
+      "relation": "about"
+    },
+    {
+      "source": "document:glossary",
+      "target": "concept:共鳴民主主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:glossary",
+      "target": "document:future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:glossary",
+      "target": "document:faq",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:glossary",
+      "target": "document:nagi-core",
+      "relation": "relatedTo"
+    }
+  ]
+}

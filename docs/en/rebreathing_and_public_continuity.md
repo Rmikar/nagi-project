@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Re-breathing and Public Continuity"
 description: "A public companion to Nagi's annual re-breathing practice: how a living philosophy can be renewed, corrected, and handed on without turning personal memory into public evidence."
 permalink: /en/rebreathing_and_public_continuity.html

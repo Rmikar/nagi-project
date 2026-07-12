@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Nagi Core — A World of Centerless Structures"
 description: "The philosophical starting point of Nagi: society, culture, cities, states, and AI are layered and distributed structures rather than objects owned or directed from a single center."
 permalink: /en/nagi_core.html

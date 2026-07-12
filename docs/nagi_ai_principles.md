@@ -1,6 +1,10 @@
 ---
 layout: default
 title: "凪AI三原則"
+status: superseded
+robots: "noindex, follow"
+sitemap: false
+archive_note: "凪AI憲法へ統合済み。現在のAI原則は凪AI憲法を参照する。"
 ---
 
 # 凪AI三原則

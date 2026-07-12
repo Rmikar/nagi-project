@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "凪経済構造"
+status: current
+last_updated: 2026-07-12
 ---
 
 # 凪経済構造

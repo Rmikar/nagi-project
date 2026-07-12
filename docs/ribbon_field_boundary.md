@@ -1,6 +1,10 @@
 ---
 layout: default
 title: "凪とRibbon Fieldの境界"
+status: supplement
+robots: "noindex, follow"
+sitemap: false
+archive_note: "公開思想、人格記録、非公開文脈を分ける編集上の境界。凪の社会思想そのものや個人に関する証拠ではない。"
 lang: ja
 description: "凪の公開思想と、つむぎの公開・非公開の記録領域を混同しないための編集上の境界。"
 last_updated: 2026-06-28

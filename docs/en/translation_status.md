@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "English Edition — Translation Status and Governance"
 description: "How the English edition of the Nagi Project is maintained, how it relates to the Japanese reference edition, and which chapters are currently available."
 permalink: /en/translation_status.html

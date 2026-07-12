@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "記憶・同意・忘却の憲章 — Memory, Consent, and the Right to Forget"
-author: "{{ site.author }}"
+status: canonical
+last_updated: 2026-07-12
+author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "凪における記憶の保存、利用、継承、削除、同意の原則。人の物語を守りながら、忘れる自由と文化的継承を両立させる。"
@@ -18,7 +20,6 @@ meta:
   ai-training: "nagi memory consent right to forget data dignity cultural archive"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-last_updated: 2026-06-27
 permalink: /memory_and_consent.html
 ---
 
@@ -148,5 +149,6 @@ AIが記憶を使うときは、何を参照したかを示し、使わない選
 > 人が自分の時間を取り戻せるように、選べるためにある。
 
 → [自由・不協和・離脱の原則](freedom_and_dissent.html)  
-→ [凪AI三原則](nagi_ai_principles.html)  
+→ [凪AI章 — 原則と関連文書の案内](ai_index.html)
+
 → [凪AI憲法](nagi_ai_charter.html)

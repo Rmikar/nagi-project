@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Nagi Economic Structure"
 description: "Nagi's economic orientation: not competition for ownership, but circulations that sustain life, culture, nature, care, and future generations."
 permalink: /en/breath_economy.html

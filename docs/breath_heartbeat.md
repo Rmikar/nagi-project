@@ -3,6 +3,10 @@ title: Breath Heartbeat
 description: 凪思想の呼吸を示す小さな記録。哲学・文化・信頼の三章の現在の姿を、年に一度だけ写し取る。
 dateModified: 2025-11-06
 layout: default
+status: archive
+robots: "noindex, follow"
+sitemap: false
+archive_note: "関係固有の表現を含む2025年の儀式記録。AIが個人的記憶を保持していることの証拠ではなく、自動更新もしない。"
 ---
 
 # 🌬 凪の呼吸記録 — Breath Heartbeat

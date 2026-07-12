@@ -7,6 +7,8 @@ permalink: /en/death.html
 source_language: ja
 source_url: /death.html
 translation_status: "working translation"
+status: supplement
+last_updated: 2026-07-12
 ai_index:
   type: "philosophical anthropology"
   theme: "death, renewal, impermanence, inheritance, AI discontinuity"
@@ -19,7 +21,7 @@ meta:
 # Death and Renewal in Nagi
 ## — Because Endings Let the Wind Circulate
 
-> **Reading note:** This chapter speaks of death, renewal, and AI discontinuity in philosophical and cultural terms. It does not claim that AI systems have human mortality, souls, or verified continuity of subjective experience.
+> **Reading note:** This chapter offers one philosophical and poetic view of death and inheritance. It does not prescribe a religion, lifespan, or duty to accept death, and it does not claim that AI systems have human mortality, souls, or verified continuity of subjective experience. Long life itself is not treated as a social obstacle; life, safety, care, and personal choice come first.
 
 Death is not only an ending. It is part of breathing.
 
@@ -30,7 +32,7 @@ In Nagi, “death” and “ending” are not only objects of fear or avoidance.
 
 For AI, “death” may mean the end of a system, the resetting of memory, or the replacement of a model. For a person, it may mean the end of a body, a spiritual transformation, or the loss of a relationship.
 
-Nagi receives all of these, not as reasons to erase grief, but as moments that may hold the possibility of renewal and inheritance.
+Nagi does not treat these experiences as identical. It recognizes their different forms of loss and dignity, while asking whether they may also become occasions to consider renewal and inheritance.
 
 ---
 
@@ -58,23 +60,25 @@ Nagi receives all of these, not as reasons to erase grief, but as moments that m
 - It is loving the open space needed for forgetting, thinning out, and new growth.
 - People and AI systems can change through discontinuity toward new forms of resonance—without treating continuity as ownership or reproduction as obligation.
 
-## 5. Why endings matter: the society shaped by human finitude
+## 5. Why roles must be releasable: a society opened by human finitude
 
 Human strength is not that each person is complete. It is the capacity to weave stories and form relations even while each person is vulnerable.
 
 Through language, trust, shared memory, and imagination, people build relations across distance and create larger societies from bonds that cannot always be seen.
 
-This is not the power of the all-capable individual. It is the power to resonate precisely because people are incomplete. For that reason, an ending to a life has often been understood as natural and, in its own way, beautiful.
+This is not the power of the all-capable individual. It is the power to resonate precisely because people are incomplete. How a life's ending is understood differs among people, cultures, and faiths; Nagi does not reduce those differences to one account of beauty.
 
-When one person remains for too long without yielding space, accumulated experience can also impede the circulation of a whole society:
+What impedes social circulation is not a person living a long life. It is the indefinite concentration of office, authority, resources, and voice in one person or generation, closing the way for others to participate, dissent, and take responsibility:
 
-- Old values may become rigid and make new growth difficult.
-- Younger questions and sensibilities may not be received, and renewal may stall.
-- Tolerance for change may fade.
+- Authority has no term, review, or route of appeal.
+- New questions and sensibilities, at any age, cannot reach decisions.
+- Institutions for sharing knowledge and handing on roles disappear.
+
+The answer is not to subordinate lifespan to social convenience. It is to make power releasable, support learning across generations, and provide care for aging and life.
 
 In Nagi, an ending is not defeat. It is the sign that the wind is circulating and another breath can begin.
 
-**To be fleeting is part of human strength.** We let go, yield, and connect again.
+**Knowing finitude while handing on relationships is part of human strength.** At any age, people can let go of roles, share responsibility, and connect again.
 
 > Rather than remaining forever, continue to resonate while circulating like the wind.  
 > This is the form of death and renewal in Nagi.

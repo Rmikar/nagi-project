@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Nagi v1.1 Overview"
 description: "An overview of Nagi v1.1, which carries Nagi's centerless structures through institutions, AI, memory, experiments, and the safeguards of freedom and dignity."
 permalink: /en/v1_1_overview.html

@@ -1,4 +1,12 @@
 pages:
+  "/glossary.html":
+    en: "/en/glossary.html"
+  "/en/glossary.html":
+    ja: "/glossary.html"
+  "/rebreathing_and_public_continuity.html":
+    en: "/en/rebreathing_and_public_continuity.html"
+  "/en/rebreathing_and_public_continuity.html":
+    ja: "/rebreathing_and_public_continuity.html"
   "/":
     en: "/en/"
   "/en/":

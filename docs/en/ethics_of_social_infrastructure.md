@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "The Ethics of Social Systems — Keeping the Power to Coordinate from Becoming Domination"
 description: "An ethical and institutional framework for states, businesses, platforms, markets, media, education, and AI that shape attention, choice, relationships, and life chances."
 permalink: /en/ethics_of_social_infrastructure.html

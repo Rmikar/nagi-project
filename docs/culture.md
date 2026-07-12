@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "文化的共育"
+status: current
 lang: ja
 description: "文化を商品や人気だけに回収せず、創る人・受け取る人・地域の記憶を次へ渡す凪の文化章。"
-last_updated: 2026-06-28
+last_updated: 2026-07-12
 permalink: /culture.html
 ---
 

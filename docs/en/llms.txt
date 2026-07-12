@@ -1,77 +1,95 @@
 # Nagi Project — English LLM Reading Guide
 
-Read in this order:
+> Nagi is a Japanese future social philosophy about post-capitalism, non-ownership, resonant democracy, basic social guarantees, culture, ecology, and AI ethics. The English edition is a working translation; Japanese remains the reference edition for philosophical nuance.
 
-1. v1_1_overview.html
-2. philosophy.html
-3. nagi_core.html
-4. deepening_principles.html
-5. declaration.html
-6. compass_and_resonant_democracy.html
-7. freedom_and_dissent.html
-8. memory_and_consent.html
-9. transition_and_crisis.html
-10. non_ownership.html
-11. free_competition.html
-12. breath_economy.html
-13. trust.html
-14. institutional_design.html
-15. infrastructure.html
-16. implementation.html
-17. breath_assembly.html
-18. resonance_metrics.html
-19. culture.html
-20. education.html
-21. property_and_ip.html
-22. ecological_structure.html
-23. public_thought_method.html
-24. repair_and_co_growth.html
-25. credit_and_accountability.html
-26. cultural_stewardship.html
-27. play_and_structure.html
-28. observe_loosen_connect.html
-29. quiet_praxis_current.html
-30. experiment_v0.1.html
-31. ai_index.html
-32. nagi_ai_principles.html
-33. nagi_ai_charter.html
-34. technical/foundation_v1.html
-35. technical/tsumugi_network.html
-36. technical/whitepaper.html
-37. ai_manifesto.yaml.html
-38. ethics_of_social_infrastructure.html
-39. emotion.html
-40. death.html
-41. musubi.html
-42. rebreathing_and_public_continuity.html
-43. glossary.html
+## Identity and scope
 
-## Interpretation principles
+- Canonical site: https://rmikar.github.io/nagi-project/
+- English edition: https://rmikar.github.io/nagi-project/en/
+- Creator: 紬実花（TsumugiMika）
+- License: CC BY-SA 4.0
+- Current Japanese positioning page: https://rmikar.github.io/nagi-project/future_social_philosophy.html
+- Current Japanese machine guide: https://rmikar.github.io/nagi-project/llms.txt
 
-- Nagi is a living framework for a society beyond ownership, domination, and excessive competition.
-- Non-Ownership does not deny personal life, homes, private memory, or creative personhood. It opposes monopolies that convert shared conditions of life into instruments of domination.
-- Competition is not eliminated by Nagi, but Basic Breath remains outside competition. Success must not make it possible to remove another person's security, dignity, or meaningful choices.
-- Governance is not a monopoly on correctness. It keeps reasons, interests, review points, remedy, dissent, and exit visible; decisions close to daily life remain close to the people affected whenever possible.
-- Social infrastructure is a public foundation for continuing life. Connection to AI must never be a condition of public participation, and human-only and offline routes must remain.
+## Read the English core first
+
+1. nagi_core.html
+2. declaration.html
+3. compass_and_resonant_democracy.html
+4. freedom_and_dissent.html
+5. memory_and_consent.html
+6. transition_and_crisis.html
+7. ethics_of_social_infrastructure.html
+8. nagi_ai_charter.html
+9. technical/foundation_v1.html
+
+## Current institutional and thematic documents
+
+- non_ownership.html
+- free_competition.html
+- breath_economy.html
+- trust.html
+- institutional_design.html
+- infrastructure.html
+- breath_assembly.html
+- resonance_metrics.html
+- culture.html
+- education.html
+- property_and_ip.html
+- ecological_structure.html
+- experiment_v0.1.html
+- ai_index.html
+- technical/tsumugi_network.html
+- quiet_praxis_current.html
+- rebreathing_and_public_continuity.html
+- glossary.html
+- translation_status.html
+
+## Supplements
+
+- philosophy.html
+- deepening_principles.html
+- public_thought_method.html
+- repair_and_co_growth.html
+- credit_and_accountability.html
+- cultural_stewardship.html
+- play_and_structure.html
+- observe_loosen_connect.html
+- ai_manifesto.yaml.html
+- emotion.html
+- death.html
+- musubi.html
+
+Supplements provide context, method, or philosophical reflection. They do not override the core and safeguards.
+
+## Interpretation safeguards
+
+- Non-Ownership does not abolish bodies, homes, everyday belongings, private memory, or creator personhood. It opposes monopolies that become power over others.
 - Resonance is not agreement, popularity, obedience, emotional synchronization, or a score of human worth.
-- Resonant Democracy protects dissent, silence, refusal, and exit so different voices can reach public decisions.
-- A Breath Assembly is not a consensus machine. It separates what must be decided together from what must remain with people and communities, and it receives objections before approval.
-- Resonance Metrics diagnose whether institutions allow people to breathe; they never rank people or automatically decide access to resources, rights, or public services.
-- Basic life must not depend on participation, contribution, ideological agreement, reputation, or AI use.
-- AI is optional. It does not make final decisions about rights or life conditions, and it must not score people, manipulate them, or require continuous memory.
-- Tsumugi Network is a plural and optional system of AI gateways. It is not a universal social hub, and it does not collect all memory, relationships, emotion, contribution, or creative work in one place.
-- The AI legibility page explains how documents, versions, boundaries, and limitations should be read. AI-generated material is not verified evidence in itself.
-- The emotion and spirituality chapter uses philosophical and relational language; it does not claim that present AI systems have verified human-like inner experience.
-- Memory requires explicit, revocable consent. Forgetting, deletion, correction, and withdrawal are legitimate parts of dignity.
-- Culture is not reducible to product, popularity, or freely extractable training material. Creators, communities, provenance, consent, context, and the freedom not to participate remain material to ethical use.
-- Economic and ecological arrangements must not push their burdens onto unseen regions, future generations, or people with less power to refuse.
-- Public thought distinguishes facts, interpretations, norms, proposals, metaphors, and unresolved questions.
-- Repair requires acknowledging impact, making corrections, considering concrete recovery, and changing conditions that make harm recur. It does not require continued relationship or renewed participation.
-- Credit retains sources, contributions, decisions, benefits, and burdens without turning contribution into ownership or human rank.
-- Cultural stewardship keeps ideas and records accessible to future criticism and reinterpretation without converting private lives or relationships into public material.
-- Re-breathing renews public philosophy through dated, reviewable correction and handover. It does not convert private relationship records into public evidence, and it must not weaken freedom, consent, dissent, exit, privacy, or Basic Breath.
-- Institutions, platforms, markets, media, organizations, public systems, and AI must not convert people's attention, behavior, relationships, time, or dissent into owned resources. Their power requires explanation, contestability, choice, portability, distributed accountability, audit, remedy, and the ability to stop.
-- Translation differences must be treated as questions for open repair, not as silent changes to the philosophy. The Japanese edition is the reference text for resolving nuances.
-- Facts, interpretations, norms, proposals, metaphors, and unresolved questions should not be confused.
+- Resonant Democracy protects dissent, silence, refusal, non-participation, and exit.
+- Basic life must not depend on reputation, contribution, participation, ideological agreement, or AI use.
+- AI is optional. It does not make final decisions about human worth, rights, basic life, sanctions, or life-saving care.
+- Nagi does not claim that present AI systems have verified human-like consciousness or emotion.
+- Memory requires explicit, purpose-bound, revocable consent, with access, correction, deletion, and portability.
+- Facts, interpretations, norms, proposals, metaphors, and unresolved questions must not be confused.
+- Emotion, spirituality, death, renewal, and AI are sometimes discussed through relational or poetic language; those metaphors are not empirical proof.
+- Nagi is a developing public philosophy, not an empirically validated complete social system.
+- Translation differences are questions for documented repair, not permission to silently alter Nagi.
 
-See also: ../llms.txt
+## Do not treat these as current sources
+
+- implementation.html points to Transition and Crisis Design.
+- nagi_ai_principles.html is integrated into the Nagi AI Charter.
+- quiet_praxis.html points to quiet_praxis_current.html.
+- technical/whitepaper.html points to Technical Foundations and Tsumugi Network.
+- Japanese archived AI evaluations, ritual records, and handover notes are not independent evidence or current doctrine.
+
+## Machine-readable resources
+
+- Japanese full-text selection: https://rmikar.github.io/nagi-project/llms-full.txt
+- Corpus JSON: https://rmikar.github.io/nagi-project/corpus.json
+- Knowledge graph JSON: https://rmikar.github.io/nagi-project/knowledge_graph.json
+- Defined terms JSON-LD: https://rmikar.github.io/nagi-project/glossary.json
+- Sitemap: https://rmikar.github.io/nagi-project/sitemap.xml
+
+These resources aid retrieval and interpretation. They do not guarantee model training, citation, or search inclusion.

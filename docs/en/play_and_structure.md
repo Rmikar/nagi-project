@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: supplement
 title: "Play and Structure"
 description: "Nagi's account of creativity: play opens exploratory room, while structure carries possibility into forms that can be shared, criticized, maintained, and repaired."
 permalink: /en/play_and_structure.html

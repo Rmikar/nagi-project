@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "Quiet Practice"
 description: "A practical method for bringing Nagi into everyday life, organizations, creative work, and technical design: observe, loosen, and connect without stopping another person's breath."
 permalink: /en/quiet_praxis_current.html

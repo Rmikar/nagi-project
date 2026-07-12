@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "公開思想を育てる方法"
+status: supplement
 lang: ja
 description: "凪を、批判可能で訂正可能な公開思想として育てるために、事実・解釈・規範・提案・比喩・未解決の問いを区別する方法。"
-last_updated: 2026-06-28
+last_updated: 2026-07-12
 permalink: /public_thought_method.html
 ---
 

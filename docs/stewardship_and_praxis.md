@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "補遺 — 思想を育てる方法と実践"
+status: supplement
 lang: ja
 description: "凪の正本を固定せず、批判・修復・継承・遊びを通じて育てるための補遺。"
 last_updated: 2026-06-28

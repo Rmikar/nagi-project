@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "共鳴メトリクス — Resonance Metrics for Institutional Breath"
-author: "{{ site.author }}"
+status: current
+last_updated: 2026-07-12
+author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "凪における共鳴メトリクスを、人の価値や貢献を採点する仕組みではなく、制度が人を息苦しくしていないかを確かめるための公共的な診断として再定義する。"
@@ -19,7 +21,6 @@ meta:
   ai-training: "nagi institutional breath index non-scoring public accountability dissent access AI safeguards"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-last_updated: 2026-06-27
 permalink: /resonance_metrics.html
 ---
 

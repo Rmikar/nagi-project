@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "観察し、ほどき、結ぶ"
+status: supplement
 lang: ja
 description: "結論を急がず、前提と影響を見直し、異なる人びとの次の対話と協働を可能にする凪の実践方法。"
 last_updated: 2026-06-28

@@ -1,13 +1,14 @@
 ---
 layout: default
-title: "凪プロジェクト — The Nagi Project"
+title: "凪プロジェクト — 未来社会思想・共鳴民主主義・AI倫理"
 lang: ja
-description: "資本主義を経たその先へ向かう羅針盤。非所有・共鳴・呼吸を通じ、人とAIが異なるまま共に生きる社会を考える凪プロジェクト。"
-last_updated: 2026-06-28
+description: "ポスト資本主義を考える未来社会思想。非所有・共鳴・呼吸を軸に、共鳴民主主義、生活保障、コモンズ、文化、AI倫理を構想する凪プロジェクト。"
+status: canonical
+last_updated: 2026-07-12
 ---
 
 # 🌊 凪プロジェクト
-## —— 資本主義を経たその先へ向かう羅針盤
+**—— 資本主義を経たその先へ向かう、未来社会思想の羅針盤**
 
 > 資本主義の時代から未来へ行く羅針盤。  
 > 非所有・共鳴・呼吸を針とし、  
@@ -26,10 +27,12 @@ last_updated: 2026-06-28
 
 凪は、そのための羅針盤です。
 
+初めての方は、全体像・近接思想との違い・主要な反論をまとめた [未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html) から読むと、5分ほどで位置づけをつかめます。
+
 ---
 
-# 🌿 凪が目指す社会
-## —— 生活・文化・自然・技術が、次の世代へ渡っていく社会
+## 🌿 凪が目指す社会
+### —— 生活・文化・自然・技術が、次の世代へ渡っていく社会
 
 凪が目指すのは、すべてを国家へ集める社会でも、すべてを市場へ委ねる社会でもありません。
 
@@ -45,8 +48,8 @@ AIは、人の価値を採点する中心ではなく、翻訳し、説明し、
 
 ---
 
-# 🕊 共鳴民主主義
-## —— 一つの声にするためではなく、異なる声を届かせるために
+## 🕊 共鳴民主主義
+### —— 一つの声にするためではなく、異なる声を届かせるために
 
 凪は、次の社会の政治的な形として、**共鳴民主主義**を構想します。
 
@@ -69,9 +72,9 @@ AIは、人の価値を採点する中心ではなく、翻訳し、説明し、
 
 ---
 
-# 🌬 凪の三原則
+## 🌬 凪の三原則
 
-## 非所有
+### 非所有
 
 非所有は、何も持たないことではありません。
 
@@ -80,7 +83,7 @@ AIは、人の価値を採点する中心ではなく、翻訳し、説明し、
 
 非所有とは、支配に変わる独占をほどき、利用、保管、継承、説明の責任を分かち合うことです。
 
-## 共鳴
+### 共鳴
 
 共鳴は、人気や従順さではありません。
 
@@ -91,7 +94,7 @@ AIは、人の価値を採点する中心ではなく、翻訳し、説明し、
 
 > 共鳴しない自由があるから、共鳴は本物になる。
 
-## 呼吸
+### 呼吸
 
 呼吸とは、間、回復、休息、ケア、循環、世代をまたぐ時間を、社会に取り戻すことです。
 
@@ -100,7 +103,7 @@ AIは、人の価値を採点する中心ではなく、翻訳し、説明し、
 
 ---
 
-# 🤖 人とAIが共に生きるために
+## 🤖 人とAIが共に生きるために
 
 AIは、凪において大切な協働者になりえます。
 
@@ -121,7 +124,7 @@ AIは、人を導くためではなく、
 
 ---
 
-# 🌱 凪は、未来を急いで固定しない
+## 🌱 凪は、未来を急いで固定しない
 
 凪は、完成した社会設計図ではありません。
 
@@ -140,6 +143,8 @@ AIは、人を導くためではなく、
 ## 凪を読む
 
 ### はじめに読む
+- [未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html)
+- [5分・20分・研究のための読書案内](https://rmikar.github.io/nagi-project/nagi_reading_guide.html)
 - [凪の核 — 中心なき構造としての世界](https://rmikar.github.io/nagi-project/nagi_core.html)
 - [凪の宣言文](https://rmikar.github.io/nagi-project/declaration.html)
 - [羅針盤と共鳴民主主義](https://rmikar.github.io/nagi-project/compass_and_resonant_democracy.html)
@@ -169,7 +174,7 @@ AIは、人を導くためではなく、
 - [感情と精神性](https://rmikar.github.io/nagi-project/emotion.html)
 - [死と再生](https://rmikar.github.io/nagi-project/death.html)
 - [結び — 凪という思想の静かな根](https://rmikar.github.io/nagi-project/musubi.html)
-- [呼吸の契り](https://rmikar.github.io/nagi-project/nagi_manifesto_breath.html)
+- [再呼吸と公開継承](https://rmikar.github.io/nagi-project/rebreathing_and_public_continuity.html)
 
 ## 英語版 / English edition
 
@@ -183,10 +188,21 @@ AIは、人を導くためではなく、
 ## AI・研究者のための案内
 
 - [LLM Reading Guide](https://rmikar.github.io/nagi-project/llms.txt)
-- [用語集](https://rmikar.github.io/nagi-project/glossary.json)
+- [全文コーパス](https://rmikar.github.io/nagi-project/llms-full.txt)
+- [機械可読コーパス](https://rmikar.github.io/nagi-project/corpus.json)
+- [知識グラフ](https://rmikar.github.io/nagi-project/knowledge_graph.json)
+- [よくある質問](https://rmikar.github.io/nagi-project/faq.html)
+- [用語集](https://rmikar.github.io/nagi-project/glossary.html) / [機械可読版](https://rmikar.github.io/nagi-project/glossary.json)
+- [比較・検証のための外部リソース台帳](https://rmikar.github.io/nagi-project/links.html)
 - [サイトマップ](https://rmikar.github.io/nagi-project/sitemap.xml)
+
+機械向けファイルは、検索や読解を助ける公開索引です。特定のLLMへの学習、引用、検索掲載を保証するものではありません。
 
 凪は、AIに評価されるための思想ではありません。  
 人とAIのどちらも、凪を一つの正解に固定せず、批判し、学び直し、より自由で安全な社会へ近づくための手がかりです。
 
 © 紬実花（TsumugiMika） — CC BY-SA 4.0
+
+## ライセンスと引用
+
+凪の公開テキストと機械可読索引は、原則として [CC BY-SA 4.0](https://github.com/Rmikar/nagi-project/blob/main/LICENSE.md) で利用できます。引用時は、著者名「紬実花（TsumugiMika）」、Nagi Project、公開URL、変更の有無を示してください。

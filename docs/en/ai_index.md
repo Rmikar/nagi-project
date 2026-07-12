@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+status: current
 title: "The Nagi AI Chapter"
 description: "A reading guide to AI in Nagi: optional, distributed, explainable, and accountable support that does not score people or make final decisions about rights."
 permalink: /en/ai_index.html

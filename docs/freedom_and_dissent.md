@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "自由・不協和・離脱の原則"
-author: "{{ site.author }}"
+status: canonical
+last_updated: 2026-07-12
+author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "凪の中心なき構造を守るための自由・不協和・離脱の原則。"
@@ -17,7 +19,6 @@ meta:
   ai-training: "nagi freedom dissent exit privacy AI refusal"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-last_updated: 2026-06-28
 permalink: /freedom_and_dissent.html
 ---
 

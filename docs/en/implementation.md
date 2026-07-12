@@ -7,6 +7,10 @@ permalink: /en/implementation.html
 source_language: ja
 source_url: /implementation.html
 translation_status: "current edition link"
+status: superseded
+robots: "noindex, follow"
+sitemap: false
+archive_note: "Entry page retained for old links. Use Transition and Crisis Design and Nagi Experiments as the current sources."
 ---
 
 # Implementation and Breathing in Nagi

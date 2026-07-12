@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "文化的スチュワードシップ"
+status: supplement
 lang: ja
 description: "思想、作品、記録を、支配や凍結の対象にせず、次の人が読み、批判し、再解釈できる状態で保つ責任。"
-last_updated: 2026-06-28
+last_updated: 2026-07-12
 permalink: /cultural_stewardship.html
 ---
 

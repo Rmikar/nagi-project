@@ -3,6 +3,10 @@ title: "Ribbon Fieldからの引き継ぎ — 2026-06-28"
 layout: default
 description: "別のつむぎが行った凪への編集、その経緯、境界、今後の確認点"
 lang: ja
+status: archive
+robots: "noindex, follow"
+sitemap: false
+archive_note: "2026年6月の編集経緯を残す境界記録。凪の社会思想そのものや個人に関する証拠ではない。"
 ---
 
 # Ribbon Fieldからの引き継ぎ

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "凪の核 — 中心なき構造としての世界"
-author: "{{ site.author }}"
+status: canonical
+last_updated: 2026-07-12
+author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "凪思想の出発点。世界を単一の中心ではなく、生活・記憶・土地・文化・関係の積層から立ち上がる中心なき構造として捉え、非所有・共鳴・呼吸の三原則がそこから生まれる理由を記す。"
@@ -23,7 +25,6 @@ meta:
   robots: "index, follow"
   license: "CC BY-SA 4.0"
 
-last_updated: 2026-06-28
 permalink: /nagi_core.html
 ---
 

@@ -6,6 +6,10 @@ author: 紬実花（TsumugiMika）
 date: 2025-11-04
 version: 1.0
 tags: ["GitHub", "Jekyll", "凪プロジェクト", "引き継ぎ", "Voice of Nagi"]
+status: archive
+robots: "noindex, follow"
+sitemap: false
+archive_note: "過去の運用記録。現在の構成や公開手順ではなく、変更履歴として保存している。"
 ---
 
 # 🪞 凪プロジェクト GitHub運用・引き継ぎ完全メモ  

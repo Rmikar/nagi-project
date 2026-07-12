@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "クレジットと説明責任"
+status: supplement
 lang: ja
 description: "見えにくい寄与、出典、意思決定、利益と負担を消さず、創作と公共的な実践に責任を残すための凪の原則。"
 last_updated: 2026-06-28
