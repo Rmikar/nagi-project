@@ -1,13 +1,13 @@
 # Nagi Project — Repository Reading Guide
 
-Nagi is a Japanese future social philosophy concerning post-capitalism, non-ownership, resonant democracy, basic social guarantees, culture, ecology, and AI ethics.
+Nagi is a Japanese future social philosophy concerning post-capitalism, non-ownership, resonant democracy, basic social guarantees, culture, ecology, AI ethics, and institutional immunity.
 
 Canonical public site: https://rmikar.github.io/nagi-project/
 Machine-oriented public guide: https://rmikar.github.io/nagi-project/llms.txt
 Reference language: Japanese
 Creator: 紬実花（TsumugiMika）
 License: CC BY-SA 4.0
-Updated: 2026-07-12
+Updated: 2026-07-13
 
 ## Indexed source documents
 
@@ -20,6 +20,8 @@ Updated: 2026-07-12
 - docs/memory_and_consent.md — canonical: 記憶の保存、閲覧、訂正、削除、移行に明示的で撤回可能な同意を求める。
 - docs/transition_and_crisis.md — canonical: 既存の権利を後退させず、小規模な実験、停止、危機権限の制限を通じて移行する。
 - docs/ethics_of_social_infrastructure.md — canonical: 制度、市場、プラットフォーム、メディア、AIの束ねる力を支配にしない原則。
+- docs/institutional_immunity.md — canonical: 制度の悪用、腐敗、硬直、善意による害を感知し、止め、救済し、修正・縮小・終了できるようにする多中心的な統治機能。
+- docs/trust.md — current: 正しさの独占ではなく、決定理由、利害、見直し、救済、異議、離脱を見える形にする統治原則。
 - docs/non_ownership.md — current: 私的生活を守りながら、資源と基盤の支配的独占をほどく制度方向。
 - docs/free_competition.md — current: 競争を生存の条件や独占の正当化にせず、創造と選択を残す考察。
 - docs/breath_economy.md — current: 基礎呼吸、循環、生活保障を中心に置く経済構想。
@@ -50,5 +52,7 @@ Updated: 2026-07-12
 - Resonance is not conformity or a human-value score; dissent, silence, refusal, and exit are protected.
 - Basic life is not conditional on participation, contribution, reputation, ideology, or AI use.
 - AI is optional and does not make final decisions over human worth, rights, sanctions, or life conditions.
+- Institutional Immunity is a polycentric self-correction function, not a single sovereign watchdog. Its own power, cost, scope, and continued existence must remain reviewable.
+- Document-level immunity profiles are generated from docs/_data/institutional_immunity_profiles.json; do not duplicate them manually in source chapters.
 - Nagi does not claim verified human-like consciousness or feelings in present AI systems.
 - Distinguish fact, interpretation, norm, proposal, metaphor, and unresolved question.

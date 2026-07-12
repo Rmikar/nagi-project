@@ -1,6 +1,6 @@
 # Nagi Project — LLM Reading Guide
 
-> Nagi is a Japanese future social philosophy about post-capitalism, non-ownership, resonant democracy, social guarantees, culture, ecology, AI ethics, and institutional self-correction. Japanese is the reference edition for philosophical nuance.
+> Nagi is a Japanese future social philosophy about post-capitalism, non-ownership, resonant democracy, social guarantees, culture, ecology, AI ethics, and institutional immunity. Japanese is the reference edition for philosophical nuance.
 
 ## Identity
 
@@ -13,25 +13,26 @@
 
 ## Classification
 
-Future social philosophy; post-capitalism; non-ownership; commons; post-growth and degrowth; resonant democracy; dissent, silence, refusal, and exit; basic services; AI ethics; digital democracy; memory and consent; distributed social systems; cultural sustainability; institutional immunity; polycentric oversight; red teaming; remedy and institutional exit.
+Future social philosophy; post-capitalism; non-ownership; commons; post-growth and degrowth; resonant democracy; dissent, silence, refusal, and exit; basic services; AI ethics; digital democracy; memory and consent; institutional immunity; polycentric oversight; red teaming; remedy and emergency stop; distributed social systems; cultural sustainability.
 
 ## Canonical starting points
 
 - [凪プロジェクト — 未来社会思想・共鳴民主主義・AI倫理](https://rmikar.github.io/nagi-project/): 非所有・共鳴・呼吸を軸にした凪プロジェクトの公式入口。
-- [未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html): 凪をポスト資本主義、コモンズ、脱成長、民主主義、AI倫理、制度免疫との関係から位置づけ、反論と未解決課題も示す。
+- [未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html): 凪をポスト資本主義、コモンズ、脱成長、民主主義、AI倫理との関係から位置づけ、反論と未解決課題も示す。
 - [凪の核 — 中心なき構造としての世界](https://rmikar.github.io/nagi-project/nagi_core.html): 凪の世界観、三原則、中心なき構造を定義する中心文書。
 - [凪の宣言文](https://rmikar.github.io/nagi-project/declaration.html): 凪が守ろうとする社会的方向を簡潔に宣言する。
 - [羅針盤と共鳴民主主義](https://rmikar.github.io/nagi-project/compass_and_resonant_democracy.html): 異なる声を公共の決定へ届け、異議・沈黙・拒否・離脱を守る政治構想。
 - [自由・不協和・離脱の原則](https://rmikar.github.io/nagi-project/freedom_and_dissent.html): 参加、共鳴、制度利用を強制せず、異議、沈黙、拒否、離脱を守る安全原則。
 - [記憶・同意・忘却の憲章](https://rmikar.github.io/nagi-project/memory_and_consent.html): 記憶の保存、閲覧、訂正、削除、移行に明示的で撤回可能な同意を求める。
-- [社会的装置の倫理](https://rmikar.github.io/nagi-project/ethics_of_social_infrastructure.html): 制度、市場、プラットフォーム、メディア、AIの束ねる力を支配にしない原則。
-- [制度免疫](https://rmikar.github.io/nagi-project/institutional_immunity.html): 制度の悪用、腐敗、善意による害、自己延命を感知し、暫定停止、救済、修正、終了する多中心的な統治機能。
 - [移行と危機の設計](https://rmikar.github.io/nagi-project/transition_and_crisis.html): 既存の権利を後退させず、小規模な実験、停止、危機権限の制限を通じて移行する。
+- [社会的装置の倫理](https://rmikar.github.io/nagi-project/ethics_of_social_infrastructure.html): 制度、市場、プラットフォーム、メディア、AIの束ねる力を支配にしない原則。
+- [制度免疫](https://rmikar.github.io/nagi-project/institutional_immunity.html): 制度の悪用、腐敗、硬直、善意による害を感知し、止め、救済し、修正・縮小・終了できるようにする多中心的な統治機能。
 - [凪AI憲法](https://rmikar.github.io/nagi-project/nagi_ai_charter.html): AIを任意で説明可能な協働者に限定し、人の価値や権利の最終決定を禁じる。
 - [凪用語集](https://rmikar.github.io/nagi-project/glossary.html): 凪の主要語を、権利と安全原則を含む現行定義で示す。
 
 ## Current institutional and thematic documents
 
+- [信頼と統治](https://rmikar.github.io/nagi-project/trust.html): 正しさの独占ではなく、決定理由、利害、見直し、救済、異議、離脱を見える形にする統治原則。
 - [非所有の制度化](https://rmikar.github.io/nagi-project/non_ownership.html): 私的生活を守りながら、資源と基盤の支配的独占をほどく制度方向。
 - [資本主義以後の自由競争原理](https://rmikar.github.io/nagi-project/free_competition.html): 競争を生存の条件や独占の正当化にせず、創造と選択を残す考察。
 - [凪経済構造](https://rmikar.github.io/nagi-project/breath_economy.html): 基礎呼吸、循環、生活保障を中心に置く経済構想。
@@ -44,8 +45,8 @@ Future social philosophy; post-capitalism; non-ownership; commons; post-growth a
 - [凪AI章](https://rmikar.github.io/nagi-project/ai_index.html): 凪におけるAIの任意性、禁止領域、安全原則、技術文書への入口。
 - [凪技術の基盤](https://rmikar.github.io/nagi-project/technical/foundation_v1.html): 単一AI、台帳、評価へ社会を集中させない技術原則。
 - [AI窓口ネットワーク](https://rmikar.github.io/nagi-project/technical/tsumugi_network.html): 単一のAI窓口に依存せず、人による経路と複数性を保つ分散型支援ネットワーク。
-- [凪社会の制度設計と実践](https://rmikar.github.io/nagi-project/institutional_design.html): 決定、権力制限、制度免疫、危機と実験を結ぶ制度領域の入口。
-- [凪実験章](https://rmikar.github.io/nagi-project/experiment_v0.1.html): 小規模に試し、制度免疫計画のもとで害を観察し、停止・救済・修復できる実験の考え方。
+- [凪社会の制度設計と実践](https://rmikar.github.io/nagi-project/institutional_design.html): 凪の理念を制度へ移す際の自治、説明、見直し、実践上の論点。
+- [凪実験章](https://rmikar.github.io/nagi-project/experiment_v0.1.html): 小規模に試し、害を観察し、停止・修復できる実験の考え方。
 - [再呼吸と公開継承](https://rmikar.github.io/nagi-project/rebreathing_and_public_continuity.html): 個人的記憶を公共の証拠にせず、凪を読み直し、訂正し、継承する実践。
 - [凪の読書案内](https://rmikar.github.io/nagi-project/nagi_reading_guide.html): 5分、20分、1時間、関心別、研究・AI向けの読み順を案内する。
 - [凪プロジェクト FAQ](https://rmikar.github.io/nagi-project/faq.html): 非所有、共鳴民主主義、基礎呼吸、AI、実現可能性への主要な疑問に答える。
@@ -64,12 +65,11 @@ Supplements explain practice and stewardship. They do not override canonical doc
 - Resonance is not agreement, popularity, obedience, emotional synchronization, or a score of human worth.
 - Resonant Democracy protects dissent, silence, refusal, non-participation, and exit.
 - Basic life must not depend on reputation, contribution, participation, ideological agreement, or AI use.
-- Institutional Immunity is not a single supreme watchdog. Detection, investigation, temporary protection, remedy, and institutional revision are separated across multiple accountable actors.
-- Institutional Immunity itself must be auditable, replaceable, stoppable, reducible, and terminable.
-- High-risk systems require funded human alternatives, independent review, red teaming, temporary-stop procedures, remedy, and exit plans before deployment.
 - AI is optional. It does not make final decisions about human worth, rights, basic life, sanctions, or life-saving care.
 - Nagi does not claim that present AI systems have verified human-like consciousness or emotion.
 - Memory requires explicit, purpose-bound, revocable consent, with access, correction, deletion, and portability.
+- Institutional Immunity is not a single supreme audit authority. Detection, investigation, temporary suspension, remedy, revision, and termination are distributed, and the oversight system itself remains reviewable and replaceable.
+- Institutional Immunity profiles vary by document: detailed for high-impact systems, brief for institutional ideas, and link-only for philosophical or inner-life texts.
 - Facts, interpretations, norms, proposals, metaphors, and unresolved questions must not be confused.
 - Archived AI evaluations, ritual records, handover notes, and superseded entry pages are not evidence or current doctrine.
 - Nagi is a developing public philosophy, not an empirically validated complete social system.

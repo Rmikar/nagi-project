@@ -1,7 +1,7 @@
 {
   "name": "Nagi Project knowledge graph",
-  "description": "Relationships among Nagi's canonical/current documents and core concepts.",
-  "dateModified": "2026-07-12",
+  "description": "Relationships among Nagi's canonical/current documents, core concepts, and document-level institutional immunity profiles.",
+  "dateModified": "2026-07-13",
   "baseUrl": "https://rmikar.github.io/nagi-project/",
   "nodes": [
     {
@@ -75,6 +75,22 @@
       "url": "https://rmikar.github.io/nagi-project/ethics_of_social_infrastructure.html",
       "status": "canonical",
       "documentType": "institutional-ethics"
+    },
+    {
+      "id": "document:institutional-immunity",
+      "kind": "document",
+      "label": "制度免疫",
+      "url": "https://rmikar.github.io/nagi-project/institutional_immunity.html",
+      "status": "canonical",
+      "documentType": "institutional-safeguards"
+    },
+    {
+      "id": "document:trust",
+      "kind": "document",
+      "label": "信頼と統治",
+      "url": "https://rmikar.github.io/nagi-project/trust.html",
+      "status": "current",
+      "documentType": "governance-principles"
     },
     {
       "id": "document:non-ownership",
@@ -303,6 +319,11 @@
       "label": "ポスト資本主義"
     },
     {
+      "id": "concept:レッドチーム",
+      "kind": "concept",
+      "label": "レッドチーム"
+    },
+    {
       "id": "concept:世代間倫理",
       "kind": "concept",
       "label": "世代間倫理"
@@ -331,6 +352,11 @@
       "id": "concept:会議",
       "kind": "concept",
       "label": "会議"
+    },
+    {
+      "id": "concept:信頼",
+      "kind": "concept",
+      "label": "信頼"
     },
     {
       "id": "concept:修復",
@@ -388,6 +414,16 @@
       "label": "利用権"
     },
     {
+      "id": "concept:制度免疫",
+      "kind": "concept",
+      "label": "制度免疫"
+    },
+    {
+      "id": "concept:制度終了",
+      "kind": "concept",
+      "label": "制度終了"
+    },
+    {
       "id": "concept:制度設計",
       "kind": "concept",
       "label": "制度設計"
@@ -433,6 +469,11 @@
       "label": "基礎呼吸"
     },
     {
+      "id": "concept:多中心監査",
+      "kind": "concept",
+      "label": "多中心監査"
+    },
+    {
       "id": "concept:学び直し",
       "kind": "concept",
       "label": "学び直し"
@@ -468,6 +509,11 @@
       "label": "持続可能性"
     },
     {
+      "id": "concept:救済",
+      "kind": "concept",
+      "label": "救済"
+    },
+    {
       "id": "concept:教育",
       "kind": "concept",
       "label": "教育"
@@ -481,6 +527,11 @@
       "id": "concept:文化的共育",
       "kind": "concept",
       "label": "文化的共育"
+    },
+    {
+      "id": "concept:暫定停止",
+      "kind": "concept",
+      "label": "暫定停止"
     },
     {
       "id": "concept:未来社会思想",
@@ -581,6 +632,11 @@
       "id": "concept:競争",
       "kind": "concept",
       "label": "競争"
+    },
+    {
+      "id": "concept:統治",
+      "kind": "concept",
+      "label": "統治"
     },
     {
       "id": "concept:継承",
@@ -745,6 +801,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:future-social-philosophy",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:nagi-core",
       "target": "concept:非所有",
       "relation": "about"
@@ -777,6 +838,11 @@
     {
       "source": "document:nagi-core",
       "target": "document:freedom-dissent-exit",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-core",
+      "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
     {
@@ -845,6 +911,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:resonant-democracy",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:freedom-dissent-exit",
       "target": "concept:自由",
       "relation": "about"
@@ -882,6 +953,11 @@
     {
       "source": "document:freedom-dissent-exit",
       "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
+      "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
     {
@@ -925,6 +1001,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:memory-consent",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:transition-crisis",
       "target": "concept:移行",
       "relation": "about"
@@ -957,6 +1038,11 @@
     {
       "source": "document:transition-crisis",
       "target": "document:experiment",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:transition-crisis",
+      "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
     {
@@ -995,6 +1081,106 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:social-infrastructure-ethics",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "concept:制度免疫",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "concept:多中心監査",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "concept:レッドチーム",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "concept:暫定停止",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "concept:救済",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "concept:制度終了",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:social-infrastructure-ethics",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:experiment",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:trust",
+      "target": "concept:信頼",
+      "relation": "about"
+    },
+    {
+      "source": "document:trust",
+      "target": "concept:統治",
+      "relation": "about"
+    },
+    {
+      "source": "document:trust",
+      "target": "concept:説明責任",
+      "relation": "about"
+    },
+    {
+      "source": "document:trust",
+      "target": "concept:異議",
+      "relation": "about"
+    },
+    {
+      "source": "document:trust",
+      "target": "concept:救済",
+      "relation": "about"
+    },
+    {
+      "source": "document:trust",
+      "target": "document:social-infrastructure-ethics",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:trust",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:trust",
+      "target": "document:breath-assembly",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:non-ownership",
       "target": "concept:非所有",
       "relation": "about"
@@ -1027,6 +1213,11 @@
     {
       "source": "document:non-ownership",
       "target": "document:breath-economy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:non-ownership",
+      "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
     {
@@ -1065,6 +1256,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:free-competition",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:breath-economy",
       "target": "concept:呼吸経済",
       "relation": "about"
@@ -1097,6 +1293,11 @@
     {
       "source": "document:breath-economy",
       "target": "document:ecology",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:breath-economy",
+      "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
     {
@@ -1135,6 +1336,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:culture",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:education",
       "target": "concept:教育",
       "relation": "about"
@@ -1157,6 +1363,11 @@
     {
       "source": "document:education",
       "target": "document:breath-economy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
+      "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
     {
@@ -1195,6 +1406,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:property-ip",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:ecology",
       "target": "concept:生態系",
       "relation": "about"
@@ -1222,6 +1438,11 @@
     {
       "source": "document:ecology",
       "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:ecology",
+      "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
     {
@@ -1260,6 +1481,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:resonance-metrics",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:breath-assembly",
       "target": "concept:共鳴民主主義",
       "relation": "about"
@@ -1292,6 +1518,11 @@
     {
       "source": "document:breath-assembly",
       "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:breath-assembly",
+      "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
     {
@@ -1370,6 +1601,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:ai-charter",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:technical-foundation",
       "target": "concept:分散システム",
       "relation": "about"
@@ -1405,6 +1641,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:technical-foundation",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:tsumugi-network",
       "target": "concept:分散AI",
       "relation": "about"
@@ -1432,6 +1673,11 @@
     {
       "source": "document:tsumugi-network",
       "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:tsumugi-network",
+      "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
     {
@@ -1470,6 +1716,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:institutional-design",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:experiment",
       "target": "concept:社会実験",
       "relation": "about"
@@ -1505,6 +1756,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:experiment",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:public-thought-method",
       "target": "concept:公開思想",
       "relation": "about"
@@ -1537,6 +1793,11 @@
     {
       "source": "document:public-thought-method",
       "target": "document:experiment",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:public-thought-method",
+      "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
     {
@@ -1612,6 +1873,11 @@
     {
       "source": "document:rebreathing",
       "target": "document:cultural-stewardship",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:rebreathing",
+      "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
     {
@@ -1768,6 +2034,318 @@
       "source": "document:glossary",
       "target": "document:nagi-core",
       "relation": "relatedTo"
+    },
+    {
+      "source": "document:social-infrastructure-ethics",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:social-infrastructure-ethics",
+      "relation": "appliesTo",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:transition-crisis",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:transition-crisis",
+      "relation": "appliesTo",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:memory-consent",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:memory-consent",
+      "relation": "appliesTo",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:ai-charter",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:ai-charter",
+      "relation": "appliesTo",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:breath-assembly",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:breath-assembly",
+      "relation": "appliesTo",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:resonance-metrics",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:resonance-metrics",
+      "relation": "appliesTo",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:institutional-design",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:institutional-design",
+      "relation": "appliesTo",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:experiment",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:experiment",
+      "relation": "appliesTo",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:technical-foundation",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:technical-foundation",
+      "relation": "appliesTo",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:tsumugi-network",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:tsumugi-network",
+      "relation": "appliesTo",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:resonant-democracy",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:resonant-democracy",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:freedom-dissent-exit",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:non-ownership",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:non-ownership",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:free-competition",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:free-competition",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:breath-economy",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:breath-economy",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:culture",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:culture",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:education",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:education",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:property-ip",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:property-ip",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:ecology",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:ecology",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:trust",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:trust",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:public-thought-method",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:public-thought-method",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:rebreathing",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:rebreathing",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:institutional-immunity",
+      "relation": "conceptuallyConnectedToInstitutionalImmunity",
+      "profileLevel": "link"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:future-social-philosophy",
+      "relation": "appliesTo",
+      "profileLevel": "link"
+    },
+    {
+      "source": "document:nagi-core",
+      "target": "document:institutional-immunity",
+      "relation": "conceptuallyConnectedToInstitutionalImmunity",
+      "profileLevel": "link"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:nagi-core",
+      "relation": "appliesTo",
+      "profileLevel": "link"
+    },
+    {
+      "source": "document:declaration",
+      "target": "document:institutional-immunity",
+      "relation": "conceptuallyConnectedToInstitutionalImmunity",
+      "profileLevel": "link"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:declaration",
+      "relation": "appliesTo",
+      "profileLevel": "link"
+    },
+    {
+      "source": "document:cultural-stewardship",
+      "target": "document:institutional-immunity",
+      "relation": "conceptuallyConnectedToInstitutionalImmunity",
+      "profileLevel": "link"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:cultural-stewardship",
+      "relation": "appliesTo",
+      "profileLevel": "link"
     }
   ]
 }
