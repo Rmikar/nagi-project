@@ -5,6 +5,7 @@
 {%- if current_lang == 'en' -%}{%- assign llms_path = '/en/llms.txt' -%}{%- endif -%}
 {%- assign page_url = page.url | absolute_url -%}
 {%- assign indexed_document = site.data.canonical_documents.documents | where: 'path', page.path | first -%}
+{%- assign immunity_profile = site.data.institutional_immunity_profiles.profiles | where: 'path', page.path | first -%}
 {%- assign page_desc = page.description | default: indexed_document.summary | default: page.ai_index.intent | default: site.description -%}
 {%- assign page_keywords = page.keywords | default: indexed_document.topics -%}
 {%- assign page_author = page.author | default: site.author -%}
@@ -118,6 +119,9 @@
       <aside class="archive-note" role="note"><strong>{% if current_lang == 'en' %}Document status{% else %}この文書の位置づけ{% endif %}</strong><br>{{ page.archive_note }}</aside>
       {% endif %}
       {{ content }}
+      {% if immunity_profile %}
+      {% include institutional_immunity_profile.html profile=immunity_profile %}
+      {% endif %}
     </main>
     <footer class="site-footer">
       {% if current_lang == 'en' %}
