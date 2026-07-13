@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rmikar.github.io/nagi-project/sitemap.xml
+Sitemap: https://rmikar.github.io/nagi-project/sitemap-google.xml
