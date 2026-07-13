@@ -3,8 +3,8 @@ layout: default
 lang: en
 status: current
 title: "Nagi Project — A Future Social Philosophy Beyond Ownership"
-description: "Nagi is a Japanese future social philosophy connecting post-capitalism, Non-Ownership, Resonant Democracy, basic social guarantees, culture, ecology, and AI ethics."
-last_updated: 2026-07-12
+description: "Nagi is a Japanese future social philosophy that places human dignity and kindness, culture and creativity above economic growth, treating the economy as a means rather than an end."
+last_updated: 2026-07-13
 permalink: /en/
 source_language: ja
 source_url: /
@@ -16,6 +16,18 @@ translation_status: "working translation"
 
 > A compass for moving from the age of capitalism toward another future.  
 > Its bearings are **Non-Ownership, Resonance, and Breathing**—so that people, culture, nature, and technology may live without taking one another's breath away.
+
+## Fundamental Principles of Nagi
+
+> **Protect human dignity and kindness.**
+>
+> **Cultivate a society in which everyone has the opportunity to create, and where culture and creativity are carried forward and newly woven.**
+>
+> **Treat the economy as a means to these ends, and do not allow growth or profit to become ends in themselves.**
+
+**These principles take precedence over every aspect of Nagi—including its institutions, economy, technology, implementation, and Institutional Immunity.**
+
+---
 
 Nagi is a Japanese **future social philosophy** that connects questions of post-capitalism, commons, democracy, basic social guarantees, culture, ecology, and AI ethics. It is not a blueprint for a finished society, nor a doctrine that asks everyone to agree. It is a living framework for loosening forms of monopoly, domination, surveillance, excessive competition, and abandonment that have grown too strong within modern life—while preserving freedom, technology, creativity, and the protections people already depend on.
 
