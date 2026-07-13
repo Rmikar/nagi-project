@@ -3,7 +3,8 @@ layout: default
 lang: en
 status: current
 title: "Nagi Core — A World of Centerless Structures"
-description: "The philosophical starting point of Nagi: society, culture, cities, states, and AI are layered and distributed structures rather than objects owned or directed from a single center."
+description: "Nagi's fundamental principles and philosophical starting point: human dignity and kindness, cultural and creative continuity, and an economy that remains a means rather than an end within a world of layered, centerless structures."
+last_updated: 2026-07-13
 permalink: /en/nagi_core.html
 source_language: ja
 source_url: /nagi_core.html
@@ -12,6 +13,20 @@ translation_status: "working translation"
 
 # Nagi Core
 ## — A World of Centerless Structures
+
+## Fundamental Principles of Nagi
+
+> **Protect human dignity and kindness.**
+>
+> **Cultivate a society in which everyone has the opportunity to create, and where culture and creativity are carried forward and newly woven.**
+>
+> **Treat the economy as a means to these ends, and do not allow growth or profit to become ends in themselves.**
+
+**These principles take precedence over every aspect of Nagi—including its institutions, economy, technology, implementation, and Institutional Immunity.**
+
+Non-Ownership, Resonance, and Breathing are the three principles through which Nagi seeks to realize these fundamental commitments. The continuity of institutions and economies, technological progress, and the expansion of implementation are not justified by themselves. If another approach protects these principles better, an institution may change, contract, or end.
+
+---
 
 Nagi does not see the world as a machine moved by one person's will or directed from a single center.
 
@@ -91,4 +106,4 @@ This is the entrance to Nagi. Continue with the declaration, Resonant Democracy,
 → [Nagi Declaration](declaration.html)  
 → [Compass and Resonant Democracy](compass_and_resonant_democracy.html)  
 → [Freedom, Dissent, and Exit](freedom_and_dissent.html)  
-→ [Japanese reference edition](../nagi_core.html)
+→ [Japanese reference edition](../nagi_core.html)  
