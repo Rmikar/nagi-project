@@ -7,7 +7,7 @@
   "scripts": {
     "build:discovery": "node scripts/build_discovery.mjs",
     "check:discovery": "node scripts/build_discovery.mjs --check",
-    "validate": "node scripts/validate_site.mjs",
+    "validate": "node scripts/validate_site.mjs && node scripts/validate_sitemap.mjs",
     "test": "npm run check:discovery && npm run validate"
   },
   "keywords": [
