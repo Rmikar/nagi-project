@@ -2,26 +2,30 @@
 layout: default
 title: "凪の核 — 中心なき構造としての世界"
 status: canonical
-last_updated: 2026-07-12
+last_updated: 2026-07-13
 author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
-description: "凪思想の出発点。世界を単一の中心ではなく、生活・記憶・土地・文化・関係の積層から立ち上がる中心なき構造として捉え、非所有・共鳴・呼吸の三原則がそこから生まれる理由を記す。"
+description: "凪思想の根本理念と哲学的出発点。人の尊厳とやさしさ、文化と創造を最上位に置き、経済をその手段としたうえで、世界を生活・記憶・土地・文化・関係の積層から立ち上がる中心なき構造として捉える。"
 
 ai_index:
   type: "philosophical core"
-  theme: "centerless structures, non-ownership, resonance, breathing, distributed public life"
-  intent: "to establish the philosophical starting point of Nagi: society, culture, cities, states, and AI should be understood as layered and distributed structures rather than objects owned or directed from a single center."
+  theme: "human dignity, kindness, cultural inheritance, creative opportunity, economy as means, centerless structures, non-ownership, resonance, breathing"
+  intent: "to establish Nagi's highest-order commitments and philosophical starting point: human dignity and kindness, cultural and creative continuity, and an economy that remains a means rather than an end; society, culture, cities, states, and AI are then understood as layered and distributed structures rather than objects owned or directed from a single center."
   related_concepts:
+    - "human dignity"
+    - "kindness"
+    - "creative opportunity"
+    - "cultural inheritance"
+    - "economy as means"
     - "non-ownership"
     - "resonance"
     - "breathing"
     - "distributed governance"
-    - "cultural inheritance"
     - "public AI"
 
 meta:
-  ai-training: "nagi core, centerless structure, distributed ontology, non-ownership, resonance, breathing society"
+  ai-training: "nagi fundamental principles, human dignity, kindness, cultural inheritance, creative opportunity, economy as means, centerless structure, non-ownership, resonance, breathing society"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
 
@@ -30,6 +34,20 @@ permalink: /nagi_core.html
 
 # 凪の核  
 ## —— 中心なき構造としての世界
+
+## 凪の根本理念
+
+> **人の尊厳とやさしさを守る。**
+>
+> **誰もが創造する機会をもち、文化と創造を受け継ぎ、新たにつむいでいく社会を育む。**
+>
+> **経済をそのための手段とし、成長や利益を自己目的化しない。**
+
+**この理念は、凪における制度、経済、技術、導入、制度免疫のすべてに優先する。**
+
+非所有、共鳴、呼吸は、この根本理念を実現するための三原則である。制度や経済の持続、技術の発展、導入の拡大は、それ自体によって正当化されない。根本理念をよりよく守る別の方法があるなら、制度は変わり、縮み、終了してよい。
+
+---
 
 凪は、世界を、だれか一人の意思や単一の中心によって動かされる装置とは見ない。  
 世界は、ひとりひとりの生活、土地に残る記憶、文化の継承、関係のゆらぎ、そして時間の積層から立ち上がる。
@@ -119,5 +137,4 @@ AIもまた、だれかが独占するものではなく、公共性、透明性
 
 → [凪の宣言文 — Declaration](declaration.html)  
 → [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html)  
-→ [自由・不協和・離脱の原則](freedom_and_dissent.html)  
-→ [社会的装置の倫理 — 束ねる力を、支配にしないために](ethics_of_social_infrastructure.html)
+→ [自由・不協和・離脱の原則](freedom_and_dissent.html)
