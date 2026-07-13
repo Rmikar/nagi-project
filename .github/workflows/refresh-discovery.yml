@@ -7,11 +7,15 @@ on:
     paths:
       - "README.md"
       - "docs/**/*.md"
+      - "docs/_config.yml"
       - "docs/_data/*.json"
       - "docs/_includes/**"
       - "docs/_layouts/**"
+      - "docs/robots.txt"
+      - "docs/sitemap-google.txt"
       - "scripts/build_discovery.mjs"
       - "scripts/validate_site.mjs"
+      - "scripts/validate_sitemap.mjs"
       - "package.json"
       - ".github/workflows/refresh-discovery.yml"
   workflow_dispatch:
