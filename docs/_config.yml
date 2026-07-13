@@ -20,8 +20,7 @@ defaults:
       layout: default
 
 plugins:
-  - jekyll-sitemap
   - jekyll-readme-index
   - jekyll-feed
 
-# Public rebuild marker: English edition release, 2026-06-28
+# Public rebuild marker: explicit Search Console sitemap, 2026-07-13
