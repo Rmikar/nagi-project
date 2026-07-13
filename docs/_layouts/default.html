@@ -14,6 +14,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-29G2XFL4FL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-29G2XFL4FL');
+  </script>
   <title>{{ page.title | default: site.title | escape }}</title>
   <meta name="description" content="{{ page_desc | escape }}">
   <meta name="robots" content="{{ page.meta.robots | default: page.robots | default: 'index, follow' }}">
