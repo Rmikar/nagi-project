@@ -1,6 +1,14 @@
 # Nagi Project — English LLM Reading Guide
 
-> Nagi is a Japanese future social philosophy about post-capitalism, non-ownership, resonant democracy, basic social guarantees, culture, ecology, and AI ethics. The English edition is a working translation; Japanese remains the reference edition for philosophical nuance.
+> Nagi is a Japanese future social philosophy about post-capitalism, non-ownership, resonant democracy, basic social guarantees, culture, ecology, AI ethics, and institutional immunity. It places human dignity and kindness, cultural and creative continuity, and an economy that remains a means rather than an end above all institutional forms. The English edition is a working translation; Japanese remains the reference edition for philosophical nuance.
+
+## Fundamental principles
+
+1. Protect human dignity and kindness.
+2. Cultivate a society in which everyone has the opportunity to create, and where culture and creativity are carried forward and newly woven.
+3. Treat the economy as a means to these ends, and do not allow growth or profit to become ends in themselves.
+
+These principles take precedence over every aspect of Nagi—including its institutions, economy, technology, implementation, and Institutional Immunity. Non-Ownership, Resonance, and Breathing are subordinate principles for realizing these higher commitments, not ends in themselves.
 
 ## Identity and scope
 
@@ -64,6 +72,9 @@ Supplements provide context, method, or philosophical reflection. They do not ov
 
 ## Interpretation safeguards
 
+- Human dignity and kindness, creative opportunity, and cultural continuity take priority over institutional continuity, economic growth, profit, technological expansion, or the preservation of a specific implementation.
+- The economy is a means for supporting people, culture, creativity, and continuity. Growth or profit must not become ends in themselves.
+- If an institution no longer protects Nagi's fundamental principles, it may need to change, contract, lose the Nagi name, or end.
 - Non-Ownership does not abolish bodies, homes, everyday belongings, private memory, or creator personhood. It opposes monopolies that become power over others.
 - Resonance is not agreement, popularity, obedience, emotional synchronization, or a score of human worth.
 - Resonant Democracy protects dissent, silence, refusal, non-participation, and exit.
