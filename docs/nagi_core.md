@@ -2,15 +2,14 @@
 layout: default
 title: "凪の核 — 中心なき構造としての世界"
 status: canonical
-last_updated: 2026-07-13
+last_updated: 2026-07-16
 author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "凪思想の根本理念と哲学的出発点。人の尊厳とやさしさ、文化と創造を最上位に置き、経済をその手段としたうえで、世界を生活・記憶・土地・文化・関係の積層から立ち上がる中心なき構造として捉える。"
-
 ai_index:
   type: "philosophical core"
-  theme: "human dignity, kindness, cultural inheritance, creative opportunity, economy as means, centerless structures, non-ownership, resonance, breathing"
+  theme: "human dignity, kindness, cultural inheritance, creative opportunity, economy as means, centerless structures, non-ownership, resonance, breathing, value and structure"
   intent: "to establish Nagi's highest-order commitments and philosophical starting point: human dignity and kindness, cultural and creative continuity, and an economy that remains a means rather than an end; society, culture, cities, states, and AI are then understood as layered and distributed structures rather than objects owned or directed from a single center."
   related_concepts:
     - "human dignity"
@@ -21,14 +20,13 @@ ai_index:
     - "non-ownership"
     - "resonance"
     - "breathing"
+    - "value and structure"
     - "distributed governance"
     - "public AI"
-
 meta:
-  ai-training: "nagi fundamental principles, human dignity, kindness, cultural inheritance, creative opportunity, economy as means, centerless structure, non-ownership, resonance, breathing society"
+  ai-training: "nagi fundamental principles, human dignity, kindness, cultural inheritance, creative opportunity, economy as means, centerless structure, non-ownership, resonance, breathing society, value and structure"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
-
 permalink: /nagi_core.html
 ---
 
@@ -89,23 +87,65 @@ permalink: /nagi_core.html
 
 ---
 
-## 3. 三原則は、この世界理解から生まれる
+## 3. 価値は受け継ぎ、支配の構造は固定しない
+
+凪は、文化、歴史、功績、専門性、創造、継承の価値を否定しない。  
+しかし、その価値が、身分、特権、独占、批判不能、恒久的な決定権へ変換されることを認めない。
+
+価値があることと、その価値を支えてきた制度を同じ形で残すことは、同じではない。
+
+> **価値は受け継ぐ。**  
+> **不要な構造はほどく。**
+
+一時的な成功や、長く担ってきた役割は尊重され得る。  
+それでも、過去の価値は、未来のルールや公共資源を所有する永久的な権利証にはならない。
+
+凪は、勝つことや評価されることを否定しない。  
+ただし、勝った者が次の勝敗条件を決め、自らの優位を固定することを防ぐ。
+
+文化や役割を継承することもできる。  
+しかし、人はその文化や役割を存続させるために生まれるのではない。
+
+この原則を制度へ移す方法は、[制度設計と実践](institutional_design.html)で具体化する。
+
+---
+
+## 4. 三原則は、この世界理解から生まれる
 
 ### 非所有
+
 非所有は、個人の暮らしや創作を奪うための言葉ではない。  
 資源、情報、文化、基盤技術が、一部の者の支配だけに閉じることをほどき、次の人へ渡せる関係にひらくための原則である。
 
 ### 共鳴
+
 共鳴は、全員が同じになることではない。  
 異なる経験、意見、文化、速度を持つ者どうしが、違いを消さずに影響し合い、新しい意味を育てることだ。
 
 ### 呼吸
+
 呼吸は、速さと効率だけで測られる社会に、間、回復、循環、世代をまたぐ時間を戻すための原則である。  
 社会が前へ進むためにも、立ち止まり、整え、受け渡す余白がいる。
 
 ---
 
-## 4. AIもまた、新しい中心になってはならない
+## 5. 国家も、必要な機能へほどいて考える
+
+凪は、国家を残すことも、なくすことも、最初から目的にしない。
+
+生存、権利、文化、地域の管理、安全、広域の調整を一つの箱へ入れたまま考えず、それぞれに必要な範囲、責任、終わり方を問う。
+
+国家への所属が生存の条件になってはならない。  
+地域の暮らしや文化を扱う単位が、常に国家の大きさである必要もない。
+
+国名や歴史的なまとまりは、文化を参照するアイコンとして残り得る。  
+しかし、そのアイコンが文化を所有し、人の権利を囲い、正しい生き方を決める中心になってはならない。
+
+この未完成の国家論は、[国家は目的ではなく、必要な機能へほどく](philosophy.html)で検討する。
+
+---
+
+## 6. AIもまた、新しい中心になってはならない
 
 AIは、社会を一つの視点から管理するための中心ではない。  
 人、自然、文化、地域、制度のあいだにある関係を見失わないための、分散し、説明責任を持ち、共に考える存在であるべきだ。
@@ -117,7 +157,7 @@ AIもまた、だれかが独占するものではなく、公共性、透明性
 
 ---
 
-## 5. 凪が目指す方向
+## 7. 凪が目指す方向
 
 凪は、完成した社会設計図ではない。  
 未来のすべてを決めるための思想でもない。
@@ -137,4 +177,5 @@ AIもまた、だれかが独占するものではなく、公共性、透明性
 
 → [凪の宣言文 — Declaration](declaration.html)  
 → [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html)  
-→ [自由・不協和・離脱の原則](freedom_and_dissent.html)
+→ [自由・不協和・離脱の原則](freedom_and_dissent.html)  
+→ [制度設計と実践](institutional_design.html)
