@@ -64,8 +64,11 @@ jobs:
       - name: Generate discovery artifacts
         run: npm run build:discovery
 
-      - name: Validate source and generated files
-        run: npm run validate
+      - name: Validate site source and links
+        run: node scripts/validate_site.mjs
+
+      - name: Validate search sitemap
+        run: node scripts/validate_sitemap.mjs
 
       - name: Commit integrated navigation
         shell: bash
