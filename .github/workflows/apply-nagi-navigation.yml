@@ -45,6 +45,22 @@ jobs:
       - name: Apply source updates
         run: node scripts/apply_nagi_navigation.mjs
 
+      - name: Add state chapter to search sitemap
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path("docs/sitemap-google.txt")
+          lines = [line for line in path.read_text(encoding="utf-8").splitlines() if line]
+          url = "https://rmikar.github.io/nagi-project/state_and_public_spheres.html"
+          if url not in lines:
+              anchor = "https://rmikar.github.io/nagi-project/institutional_design.html"
+              index = lines.index(anchor) + 1
+              lines.insert(index, url)
+          path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+          PY
+
       - name: Generate discovery artifacts
         run: npm run build:discovery
 
