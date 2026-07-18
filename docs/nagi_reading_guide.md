@@ -5,7 +5,7 @@ title: "凪の読書案内 — 5分・20分・研究のための読み方"
 description: "未来社会思想・ポスト資本主義・共鳴民主主義・AI倫理として凪を読むための、時間と関心別の案内。正本、補遺、アーカイブの違いも示す。"
 permalink: /nagi_reading_guide.html
 status: current
-last_updated: 2026-07-12
+last_updated: 2026-07-18
 ---
 
 # 凪の読書案内
@@ -18,7 +18,7 @@ last_updated: 2026-07-12
 
 まず [未来の社会思想としての凪](future_social_philosophy.html) を読む。
 
-ここで、非所有・共鳴・呼吸、共鳴民主主義、AIの位置づけ、近接する思想との違い、主要な反論と未解決課題を一度に確認できる。疑問が決まっている場合は [FAQ](faq.html) と [用語集](glossary.html) から入ってもよい。
+ここで、非所有・共鳴・呼吸、価値と構造を分ける判断原則、共鳴民主主義、AIの位置づけ、近接する思想との違い、主要な反論と未解決課題を一度に確認できる。疑問が決まっている場合は [FAQ](faq.html) と [用語集](glossary.html) から入ってもよい。
 
 ## 20分で中心をつかむ
 
@@ -32,12 +32,10 @@ last_updated: 2026-07-12
 
 20分の経路に、次を加える。
 
-1. [移行と危機の設計](transition_and_crisis.html)
-2. [社会的装置の倫理](ethics_of_social_infrastructure.html)
-3. [呼吸経済](breath_economy.html)
-4. [共鳴メトリクス](resonance_metrics.html)
-5. [呼吸会議](breath_assembly.html)
-6. [凪AI憲法](nagi_ai_charter.html)
+1. [制度設計と実践](institutional_design.html) — 価値と構造を分け、勝ちや継承の固定化を防ぐ
+2. [社会的装置の倫理](ethics_of_social_infrastructure.html) — 人を束ねる力を支配へ変えない
+3. [制度免疫](institutional_immunity.html) — 壊れ方を感知し、止め、救済し、終了できるようにする
+4. [移行と危機の設計](transition_and_crisis.html) — 権利を後退させず、小さく試し、危機権限を恒久化しない
 
 ## 関心別に読む
 
@@ -53,9 +51,18 @@ last_updated: 2026-07-12
 
 - [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html)
 - [自由・不協和・離脱の原則](freedom_and_dissent.html)
+- [制度設計と実践](institutional_design.html)
 - [呼吸会議](breath_assembly.html)
 - [信頼と統治](trust.html)
 - [社会的装置の倫理](ethics_of_social_infrastructure.html)
+- [制度免疫](institutional_immunity.html)
+
+### 国家・公共圏
+
+- [国家は目的ではなく、必要な機能へほどく](state_and_public_spheres.html)
+- [制度設計と実践](institutional_design.html)
+- [自由・不協和・離脱の原則](freedom_and_dissent.html)
+- [移行と危機の設計](transition_and_crisis.html)
 
 ### AI倫理・デジタル社会
 

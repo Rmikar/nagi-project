@@ -1,7 +1,7 @@
 {
   "name": "Nagi Project knowledge graph",
   "description": "Relationships among Nagi's canonical/current documents, core concepts, and document-level institutional immunity profiles.",
-  "dateModified": "2026-07-13",
+  "dateModified": "2026-07-18",
   "baseUrl": "https://rmikar.github.io/nagi-project/",
   "nodes": [
     {
@@ -27,6 +27,14 @@
       "url": "https://rmikar.github.io/nagi-project/nagi_core.html",
       "status": "canonical",
       "documentType": "philosophical-core"
+    },
+    {
+      "id": "document:philosophy-background",
+      "kind": "document",
+      "label": "凪の哲学的背景",
+      "url": "https://rmikar.github.io/nagi-project/philosophy.html",
+      "status": "current",
+      "documentType": "philosophical-context"
     },
     {
       "id": "document:declaration",
@@ -199,10 +207,18 @@
     {
       "id": "document:institutional-design",
       "kind": "document",
-      "label": "凪社会の制度設計と実践",
+      "label": "制度設計と実践 — 価値を残し、勝ちの構造を固定しない",
       "url": "https://rmikar.github.io/nagi-project/institutional_design.html",
       "status": "current",
       "documentType": "institutional-proposal"
+    },
+    {
+      "id": "document:state-public-spheres",
+      "kind": "document",
+      "label": "国家は目的ではなく、必要な機能へほどく",
+      "url": "https://rmikar.github.io/nagi-project/state_and_public_spheres.html",
+      "status": "current",
+      "documentType": "political-philosophy"
     },
     {
       "id": "document:experiment",
@@ -354,6 +370,11 @@
       "label": "会議"
     },
     {
+      "id": "concept:価値と構造",
+      "kind": "concept",
+      "label": "価値と構造"
+    },
+    {
       "id": "concept:信頼",
       "kind": "concept",
       "label": "信頼"
@@ -372,6 +393,11 @@
       "id": "concept:停止条件",
       "kind": "concept",
       "label": "停止条件"
+    },
+    {
+      "id": "concept:公共圏",
+      "kind": "concept",
+      "label": "公共圏"
     },
     {
       "id": "concept:公開思想",
@@ -439,6 +465,11 @@
       "label": "危機統治"
     },
     {
+      "id": "concept:反特権",
+      "kind": "concept",
+      "label": "反特権"
+    },
+    {
       "id": "concept:反独占",
       "kind": "concept",
       "label": "反独占"
@@ -459,6 +490,11 @@
       "label": "呼吸経済"
     },
     {
+      "id": "concept:国家",
+      "kind": "concept",
+      "label": "国家"
+    },
+    {
       "id": "concept:基礎サービス",
       "kind": "concept",
       "label": "基礎サービス"
@@ -474,19 +510,24 @@
       "label": "多中心監査"
     },
     {
+      "id": "concept:多中心統治",
+      "kind": "concept",
+      "label": "多中心統治"
+    },
+    {
       "id": "concept:学び直し",
       "kind": "concept",
       "label": "学び直し"
     },
     {
-      "id": "concept:実践",
-      "kind": "concept",
-      "label": "実践"
-    },
-    {
       "id": "concept:実験",
       "kind": "concept",
       "label": "実験"
+    },
+    {
+      "id": "concept:役割から降りる自由",
+      "kind": "concept",
+      "label": "役割から降りる自由"
     },
     {
       "id": "concept:忘れられる権利",
@@ -529,6 +570,16 @@
       "label": "文化的共育"
     },
     {
+      "id": "concept:文化継承",
+      "kind": "concept",
+      "label": "文化継承"
+    },
+    {
+      "id": "concept:既得権益",
+      "kind": "concept",
+      "label": "既得権益"
+    },
+    {
       "id": "concept:暫定停止",
       "kind": "concept",
       "label": "暫定停止"
@@ -567,6 +618,11 @@
       "id": "concept:測定",
       "kind": "concept",
       "label": "測定"
+    },
+    {
+      "id": "concept:生存保障",
+      "kind": "concept",
+      "label": "生存保障"
     },
     {
       "id": "concept:生態系",
@@ -644,6 +700,11 @@
       "label": "継承"
     },
     {
+      "id": "concept:継承の自由",
+      "kind": "concept",
+      "label": "継承の自由"
+    },
+    {
       "id": "concept:継承責任",
       "kind": "concept",
       "label": "継承責任"
@@ -657,11 +718,6 @@
       "id": "concept:脱成長",
       "kind": "concept",
       "label": "脱成長"
-    },
-    {
-      "id": "concept:自治",
-      "kind": "concept",
-      "label": "自治"
     },
     {
       "id": "concept:自由",
@@ -732,6 +788,16 @@
     },
     {
       "source": "document:home",
+      "target": "concept:制度設計",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:価値と構造",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
       "target": "document:future-social-philosophy",
       "relation": "relatedTo"
     },
@@ -743,6 +809,16 @@
     {
       "source": "document:home",
       "target": "document:reading-guide",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:state-public-spheres",
       "relation": "relatedTo"
     },
     {
@@ -777,6 +853,16 @@
     },
     {
       "source": "document:future-social-philosophy",
+      "target": "concept:制度設計",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:既得権益",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
       "target": "document:nagi-core",
       "relation": "relatedTo"
     },
@@ -806,6 +892,16 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:future-social-philosophy",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:state-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:nagi-core",
       "target": "concept:非所有",
       "relation": "about"
@@ -827,6 +923,11 @@
     },
     {
       "source": "document:nagi-core",
+      "target": "concept:価値と構造",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-core",
       "target": "document:declaration",
       "relation": "relatedTo"
     },
@@ -843,6 +944,51 @@
     {
       "source": "document:nagi-core",
       "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-core",
+      "target": "document:philosophy-background",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-core",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-core",
+      "target": "document:state-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:philosophy-background",
+      "target": "concept:中心なき構造",
+      "relation": "about"
+    },
+    {
+      "source": "document:philosophy-background",
+      "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:philosophy-background",
+      "target": "concept:共鳴",
+      "relation": "about"
+    },
+    {
+      "source": "document:philosophy-background",
+      "target": "concept:呼吸",
+      "relation": "about"
+    },
+    {
+      "source": "document:philosophy-background",
+      "target": "document:nagi-core",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:philosophy-background",
+      "target": "document:state-public-spheres",
       "relation": "relatedTo"
     },
     {
@@ -942,6 +1088,11 @@
     },
     {
       "source": "document:freedom-dissent-exit",
+      "target": "concept:役割から降りる自由",
+      "relation": "about"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
       "target": "document:resonant-democracy",
       "relation": "relatedTo"
     },
@@ -958,6 +1109,16 @@
     {
       "source": "document:freedom-dissent-exit",
       "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:freedom-dissent-exit",
+      "target": "document:state-public-spheres",
       "relation": "relatedTo"
     },
     {
@@ -1322,6 +1483,16 @@
     },
     {
       "source": "document:culture",
+      "target": "concept:継承の自由",
+      "relation": "about"
+    },
+    {
+      "source": "document:culture",
+      "target": "concept:反特権",
+      "relation": "about"
+    },
+    {
+      "source": "document:culture",
       "target": "document:education",
       "relation": "relatedTo"
     },
@@ -1338,6 +1509,16 @@
     {
       "source": "document:culture",
       "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:culture",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:culture",
+      "target": "document:state-public-spheres",
       "relation": "relatedTo"
     },
     {
@@ -1687,22 +1868,37 @@
     },
     {
       "source": "document:institutional-design",
-      "target": "concept:自治",
+      "target": "concept:価値と構造",
       "relation": "about"
     },
     {
       "source": "document:institutional-design",
-      "target": "concept:説明責任",
+      "target": "concept:既得権益",
       "relation": "about"
     },
     {
       "source": "document:institutional-design",
-      "target": "concept:実践",
+      "target": "concept:継承の自由",
       "relation": "about"
     },
     {
       "source": "document:institutional-design",
-      "target": "document:transition-crisis",
+      "target": "concept:反独占",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-design",
+      "target": "document:nagi-core",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-design",
+      "target": "document:freedom-dissent-exit",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-design",
+      "target": "document:state-public-spheres",
       "relation": "relatedTo"
     },
     {
@@ -1712,12 +1908,62 @@
     },
     {
       "source": "document:institutional-design",
-      "target": "document:experiment",
+      "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
     {
       "source": "document:institutional-design",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:state-public-spheres",
+      "target": "concept:国家",
+      "relation": "about"
+    },
+    {
+      "source": "document:state-public-spheres",
+      "target": "concept:公共圏",
+      "relation": "about"
+    },
+    {
+      "source": "document:state-public-spheres",
+      "target": "concept:生存保障",
+      "relation": "about"
+    },
+    {
+      "source": "document:state-public-spheres",
+      "target": "concept:多中心統治",
+      "relation": "about"
+    },
+    {
+      "source": "document:state-public-spheres",
+      "target": "concept:文化継承",
+      "relation": "about"
+    },
+    {
+      "source": "document:state-public-spheres",
+      "target": "document:nagi-core",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:state-public-spheres",
+      "target": "document:freedom-dissent-exit",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:state-public-spheres",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:state-public-spheres",
       "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:state-public-spheres",
+      "target": "document:transition-crisis",
       "relation": "relatedTo"
     },
     {
@@ -2118,6 +2364,18 @@
       "target": "document:institutional-design",
       "relation": "appliesTo",
       "profileLevel": "full"
+    },
+    {
+      "source": "document:state-public-spheres",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:state-public-spheres",
+      "relation": "appliesTo",
+      "profileLevel": "brief"
     },
     {
       "source": "document:experiment",

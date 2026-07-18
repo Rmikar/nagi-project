@@ -8,7 +8,7 @@
 - Creator: 紬実花（TsumugiMika）
 - Reference language: Japanese
 - License: CC BY-SA 4.0
-- Index updated: 2026-07-13
+- Index updated: 2026-07-18
 - English working edition: https://rmikar.github.io/nagi-project/en/
 
 ## Classification
@@ -17,12 +17,12 @@ Future social philosophy; post-capitalism; non-ownership; commons; post-growth a
 
 ## Canonical starting points
 
-- [凪プロジェクト — 未来社会思想・共鳴民主主義・AI倫理](https://rmikar.github.io/nagi-project/): 非所有・共鳴・呼吸を軸にした凪プロジェクトの公式入口。
-- [未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html): 凪をポスト資本主義、コモンズ、脱成長、民主主義、AI倫理との関係から位置づけ、反論と未解決課題も示す。
-- [凪の核 — 中心なき構造としての世界](https://rmikar.github.io/nagi-project/nagi_core.html): 凪の世界観、三原則、中心なき構造を定義する中心文書。
+- [凪プロジェクト — 未来社会思想・共鳴民主主義・AI倫理](https://rmikar.github.io/nagi-project/): 非所有・共鳴・呼吸を軸に、価値を支配へ変えない判断原則と制度免疫を示す凪プロジェクトの公式入口。
+- [未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html): 凪をポスト資本主義、価値と構造、共鳴民主主義、AI倫理との関係から位置づけ、反論と未解決課題も示す。
+- [凪の核 — 中心なき構造としての世界](https://rmikar.github.io/nagi-project/nagi_core.html): 凪の世界観、三原則、中心なき構造、価値を支配へ変えない判断原則を定義する中心文書。
 - [凪の宣言文](https://rmikar.github.io/nagi-project/declaration.html): 凪が守ろうとする社会的方向を簡潔に宣言する。
 - [羅針盤と共鳴民主主義](https://rmikar.github.io/nagi-project/compass_and_resonant_democracy.html): 異なる声を公共の決定へ届け、異議・沈黙・拒否・離脱を守る政治構想。
-- [自由・不協和・離脱の原則](https://rmikar.github.io/nagi-project/freedom_and_dissent.html): 参加、共鳴、制度利用を強制せず、異議、沈黙、拒否、離脱を守る安全原則。
+- [自由・不協和・離脱の原則](https://rmikar.github.io/nagi-project/freedom_and_dissent.html): 参加や役割を強制せず、異議、沈黙、拒否、離脱、期待された役割から降りる自由を守る安全原則。
 - [記憶・同意・忘却の憲章](https://rmikar.github.io/nagi-project/memory_and_consent.html): 記憶の保存、閲覧、訂正、削除、移行に明示的で撤回可能な同意を求める。
 - [移行と危機の設計](https://rmikar.github.io/nagi-project/transition_and_crisis.html): 既存の権利を後退させず、小規模な実験、停止、危機権限の制限を通じて移行する。
 - [社会的装置の倫理](https://rmikar.github.io/nagi-project/ethics_of_social_infrastructure.html): 制度、市場、プラットフォーム、メディア、AIの束ねる力を支配にしない原則。
@@ -32,11 +32,12 @@ Future social philosophy; post-capitalism; non-ownership; commons; post-growth a
 
 ## Current institutional and thematic documents
 
+- [凪の哲学的背景](https://rmikar.github.io/nagi-project/philosophy.html): 国家、市場、企業、AIを単一の中心に置かず、生活・記憶・土地・文化・関係・自然の積層から社会を捉える。
 - [信頼と統治](https://rmikar.github.io/nagi-project/trust.html): 正しさの独占ではなく、決定理由、利害、見直し、救済、異議、離脱を見える形にする統治原則。
 - [非所有の制度化](https://rmikar.github.io/nagi-project/non_ownership.html): 私的生活を守りながら、資源と基盤の支配的独占をほどく制度方向。
 - [資本主義以後の自由競争原理](https://rmikar.github.io/nagi-project/free_competition.html): 競争を生存の条件や独占の正当化にせず、創造と選択を残す考察。
 - [凪経済構造](https://rmikar.github.io/nagi-project/breath_economy.html): 基礎呼吸、循環、生活保障を中心に置く経済構想。
-- [文化的共育](https://rmikar.github.io/nagi-project/culture.html): 文化と創造を商品価値だけで測らず、異なる人びとが共に学び継ぐ社会を考える。
+- [文化的共育](https://rmikar.github.io/nagi-project/culture.html): 文化を育てながら継承し、その尊さを身分や特権へ変えず、継ぐ人と受け取らない人の自由を守る。
 - [凪における未来の教育](https://rmikar.github.io/nagi-project/education.html): 競争的な選別を越え、学び直しと文化的共育を支える教育構想。
 - [知財と財産の継承](https://rmikar.github.io/nagi-project/property_and_ip.html): 創作者の人格を守りながら、知識と文化を独占せず継承する。
 - [凪環境構造](https://rmikar.github.io/nagi-project/ecological_structure.html): 自然の回復と世代間の時間を社会の呼吸として扱う生態的構想。
@@ -45,7 +46,8 @@ Future social philosophy; post-capitalism; non-ownership; commons; post-growth a
 - [凪AI章](https://rmikar.github.io/nagi-project/ai_index.html): 凪におけるAIの任意性、禁止領域、安全原則、技術文書への入口。
 - [凪技術の基盤](https://rmikar.github.io/nagi-project/technical/foundation_v1.html): 単一AI、台帳、評価へ社会を集中させない技術原則。
 - [AI窓口ネットワーク](https://rmikar.github.io/nagi-project/technical/tsumugi_network.html): 単一のAI窓口に依存せず、人による経路と複数性を保つ分散型支援ネットワーク。
-- [凪社会の制度設計と実践](https://rmikar.github.io/nagi-project/institutional_design.html): 凪の理念を制度へ移す際の自治、説明、見直し、実践上の論点。
+- [制度設計と実践 — 価値を残し、勝ちの構造を固定しない](https://rmikar.github.io/nagi-project/institutional_design.html): 文化的・社会的価値を残しながら、勝ち、功績、継承、民意が身分、特権、既得権益へ固定されることを防ぐ制度設計原則。
+- [国家は目的ではなく、必要な機能へほどく](https://rmikar.github.io/nagi-project/state_and_public_spheres.html): 国家の存続や消滅を目的化せず、生存、権利、管理、文化、安全、広域調整を分け、それぞれに適した公共圏を考える。
 - [凪実験章](https://rmikar.github.io/nagi-project/experiment_v0.1.html): 小規模に試し、害を観察し、停止・修復できる実験の考え方。
 - [再呼吸と公開継承](https://rmikar.github.io/nagi-project/rebreathing_and_public_continuity.html): 個人的記憶を公共の証拠にせず、凪を読み直し、訂正し、継承する実践。
 - [凪の読書案内](https://rmikar.github.io/nagi-project/nagi_reading_guide.html): 5分、20分、1時間、関心別、研究・AI向けの読み順を案内する。
