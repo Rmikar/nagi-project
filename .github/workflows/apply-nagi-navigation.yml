@@ -1,9 +1,9 @@
 name: Apply Nagi value and public-spheres navigation
 
 on:
-  push:
+  pull_request:
     branches:
-      - agent/nagi-value-structure-navigation
+      - main
     paths:
       - "scripts/apply_nagi_navigation.mjs"
       - ".github/workflows/apply-nagi-navigation.yml"
@@ -13,12 +13,13 @@ permissions:
 
 jobs:
   apply:
-    if: github.actor != 'github-actions[bot]'
+    if: github.event.pull_request.head.ref == 'agent/nagi-value-structure-navigation'
     runs-on: ubuntu-latest
     steps:
-      - name: Check out branch
+      - name: Check out head branch
         uses: actions/checkout@v4
         with:
+          ref: ${{ github.head_ref }}
           fetch-depth: 0
 
       - name: Set up Node.js
@@ -42,6 +43,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "Integrate value, structure, and public spheres navigation"
-          git push
-
-# Triggered after the workflow was present on the branch.
+          git push origin HEAD:${{ github.head_ref }}
