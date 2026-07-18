@@ -4,7 +4,7 @@ title: "文化的共育"
 status: current
 lang: ja
 description: "文化を商品や人気だけに回収せず、創る人・受け取る人・地域の記憶を、変化と自由を残したまま次へ渡す凪の文化章。"
-last_updated: 2026-07-16
+last_updated: 2026-07-18
 permalink: /culture.html
 ---
 
@@ -88,7 +88,7 @@ AIは、作者や地域の声を一つの平均的な表現へならすのでは
 > 文化は、誰かに所有されるためではない。  
 > 違うままに生きる人びとの間を、傷つけずに渡るためにある。
 
-→ [国家は目的ではなく、必要な機能へほどく](philosophy.html)  
+→ [国家は目的ではなく、必要な機能へほどく](state_and_public_spheres.html)  
 → [知財と財産の継承](property_and_ip.html)  
 → [記憶・同意・忘却の憲章](memory_and_consent.html)  
 → [文化的スチュワードシップ](cultural_stewardship.html)  

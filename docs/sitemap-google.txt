@@ -1,6 +1,7 @@
 https://rmikar.github.io/nagi-project/
 https://rmikar.github.io/nagi-project/future_social_philosophy.html
 https://rmikar.github.io/nagi-project/nagi_core.html
+https://rmikar.github.io/nagi-project/philosophy.html
 https://rmikar.github.io/nagi-project/declaration.html
 https://rmikar.github.io/nagi-project/compass_and_resonant_democracy.html
 https://rmikar.github.io/nagi-project/freedom_and_dissent.html
@@ -23,6 +24,7 @@ https://rmikar.github.io/nagi-project/nagi_ai_charter.html
 https://rmikar.github.io/nagi-project/technical/foundation_v1.html
 https://rmikar.github.io/nagi-project/technical/tsumugi_network.html
 https://rmikar.github.io/nagi-project/institutional_design.html
+https://rmikar.github.io/nagi-project/state_and_public_spheres.html
 https://rmikar.github.io/nagi-project/experiment_v0.1.html
 https://rmikar.github.io/nagi-project/public_thought_method.html
 https://rmikar.github.io/nagi-project/cultural_stewardship.html

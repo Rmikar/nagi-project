@@ -1,7 +1,7 @@
 {
   "name": "Nagi Project canonical and current document index",
   "language": "ja",
-  "dateModified": "2026-07-13",
+  "dateModified": "2026-07-18",
   "baseUrl": "https://rmikar.github.io/nagi-project/",
   "documents": [
     {
@@ -11,18 +11,22 @@
       "title": "凪プロジェクト — 未来社会思想・共鳴民主主義・AI倫理",
       "status": "canonical",
       "type": "overview",
-      "summary": "非所有・共鳴・呼吸を軸にした凪プロジェクトの公式入口。",
+      "summary": "非所有・共鳴・呼吸を軸に、価値を支配へ変えない判断原則と制度免疫を示す凪プロジェクトの公式入口。",
       "topics": [
         "未来社会思想",
         "ポスト資本主義",
         "非所有",
         "共鳴",
-        "呼吸"
+        "呼吸",
+        "制度設計",
+        "価値と構造"
       ],
       "related": [
         "future-social-philosophy",
         "nagi-core",
-        "reading-guide"
+        "reading-guide",
+        "institutional-design",
+        "state-public-spheres"
       ]
     },
     {
@@ -32,14 +36,16 @@
       "title": "未来の社会思想としての凪",
       "status": "canonical",
       "type": "positioning",
-      "summary": "凪をポスト資本主義、コモンズ、脱成長、民主主義、AI倫理との関係から位置づけ、反論と未解決課題も示す。",
+      "summary": "凪をポスト資本主義、価値と構造、共鳴民主主義、AI倫理との関係から位置づけ、反論と未解決課題も示す。",
       "topics": [
         "未来社会思想",
         "ポスト資本主義",
         "共鳴民主主義",
         "コモンズ",
         "脱成長",
-        "AI倫理"
+        "AI倫理",
+        "制度設計",
+        "既得権益"
       ],
       "related": [
         "nagi-core",
@@ -47,7 +53,9 @@
         "faq",
         "glossary",
         "research-links",
-        "institutional-immunity"
+        "institutional-immunity",
+        "institutional-design",
+        "state-public-spheres"
       ]
     },
     {
@@ -57,18 +65,41 @@
       "title": "凪の核 — 中心なき構造としての世界",
       "status": "canonical",
       "type": "philosophical-core",
-      "summary": "凪の世界観、三原則、中心なき構造を定義する中心文書。",
+      "summary": "凪の世界観、三原則、中心なき構造、価値を支配へ変えない判断原則を定義する中心文書。",
       "topics": [
         "非所有",
         "共鳴",
         "呼吸",
-        "中心なき構造"
+        "中心なき構造",
+        "価値と構造"
       ],
       "related": [
         "declaration",
         "resonant-democracy",
         "freedom-dissent-exit",
-        "institutional-immunity"
+        "institutional-immunity",
+        "philosophy-background",
+        "institutional-design",
+        "state-public-spheres"
+      ]
+    },
+    {
+      "id": "philosophy-background",
+      "path": "philosophy.md",
+      "url": "philosophy.html",
+      "title": "凪の哲学的背景",
+      "status": "current",
+      "type": "philosophical-context",
+      "summary": "国家、市場、企業、AIを単一の中心に置かず、生活・記憶・土地・文化・関係・自然の積層から社会を捉える。",
+      "topics": [
+        "中心なき構造",
+        "非所有",
+        "共鳴",
+        "呼吸"
+      ],
+      "related": [
+        "nagi-core",
+        "state-public-spheres"
       ]
     },
     {
@@ -118,19 +149,22 @@
       "title": "自由・不協和・離脱の原則",
       "status": "canonical",
       "type": "rights-charter",
-      "summary": "参加、共鳴、制度利用を強制せず、異議、沈黙、拒否、離脱を守る安全原則。",
+      "summary": "参加や役割を強制せず、異議、沈黙、拒否、離脱、期待された役割から降りる自由を守る安全原則。",
       "topics": [
         "自由",
         "異議",
         "沈黙",
         "拒否",
-        "離脱"
+        "離脱",
+        "役割から降りる自由"
       ],
       "related": [
         "resonant-democracy",
         "memory-consent",
         "ai-charter",
-        "institutional-immunity"
+        "institutional-immunity",
+        "institutional-design",
+        "state-public-spheres"
       ]
     },
     {
@@ -312,18 +346,22 @@
       "title": "文化的共育",
       "status": "current",
       "type": "cultural-philosophy",
-      "summary": "文化と創造を商品価値だけで測らず、異なる人びとが共に学び継ぐ社会を考える。",
+      "summary": "文化を育てながら継承し、その尊さを身分や特権へ変えず、継ぐ人と受け取らない人の自由を守る。",
       "topics": [
         "文化的共育",
         "文化",
         "創造",
-        "継承"
+        "継承",
+        "継承の自由",
+        "反特権"
       ],
       "related": [
         "education",
         "property-ip",
         "cultural-stewardship",
-        "institutional-immunity"
+        "institutional-immunity",
+        "institutional-design",
+        "state-public-spheres"
       ]
     },
     {
@@ -515,21 +553,47 @@
       "id": "institutional-design",
       "path": "institutional_design.md",
       "url": "institutional_design.html",
-      "title": "凪社会の制度設計と実践",
+      "title": "制度設計と実践 — 価値を残し、勝ちの構造を固定しない",
       "status": "current",
       "type": "institutional-proposal",
-      "summary": "凪の理念を制度へ移す際の自治、説明、見直し、実践上の論点。",
+      "summary": "文化的・社会的価値を残しながら、勝ち、功績、継承、民意が身分、特権、既得権益へ固定されることを防ぐ制度設計原則。",
       "topics": [
         "制度設計",
-        "自治",
-        "説明責任",
-        "実践"
+        "価値と構造",
+        "既得権益",
+        "継承の自由",
+        "反独占"
       ],
       "related": [
-        "transition-crisis",
+        "nagi-core",
+        "freedom-dissent-exit",
+        "state-public-spheres",
         "social-infrastructure-ethics",
-        "experiment",
-        "institutional-immunity"
+        "institutional-immunity",
+        "transition-crisis"
+      ]
+    },
+    {
+      "id": "state-public-spheres",
+      "path": "state_and_public_spheres.md",
+      "url": "state_and_public_spheres.html",
+      "title": "国家は目的ではなく、必要な機能へほどく",
+      "status": "current",
+      "type": "political-philosophy",
+      "summary": "国家の存続や消滅を目的化せず、生存、権利、管理、文化、安全、広域調整を分け、それぞれに適した公共圏を考える。",
+      "topics": [
+        "国家",
+        "公共圏",
+        "生存保障",
+        "多中心統治",
+        "文化継承"
+      ],
+      "related": [
+        "nagi-core",
+        "freedom-dissent-exit",
+        "institutional-design",
+        "institutional-immunity",
+        "transition-crisis"
       ]
     },
     {
