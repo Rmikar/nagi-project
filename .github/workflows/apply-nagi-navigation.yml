@@ -27,6 +27,21 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Fix sequential reading-guide replacement
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path("scripts/apply_nagi_navigation.mjs")
+          source = path.read_text(encoding="utf-8")
+          old = "`- [社会的装置の倫理](ethics_of_social_infrastructure.html)\\n\\n### AI倫理・デジタル社会`,"
+          new = "`- [社会的装置の倫理](ethics_of_social_infrastructure.html)\\n- [制度免疫](institutional_immunity.html)\\n\\n### AI倫理・デジタル社会`,"
+          if source.count(old) != 1:
+              raise SystemExit(f"expected one reading-guide anchor, found {source.count(old)}")
+          path.write_text(source.replace(old, new), encoding="utf-8")
+          PY
+
       - name: Apply source updates
         run: node scripts/apply_nagi_navigation.mjs
 
