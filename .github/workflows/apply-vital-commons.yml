@@ -1,0 +1,47 @@
+name: Apply vital commons integration
+
+on:
+  push:
+    branches:
+      - agent/vital-commons
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout integration branch
+        uses: actions/checkout@v4
+        with:
+          ref: agent/vital-commons
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Decode and apply reviewed integration
+        run: |
+          base64 -d scripts/apply_vital_commons.mjs.gz.b64 | gunzip > /tmp/apply_vital_commons.mjs
+          node --check /tmp/apply_vital_commons.mjs
+          node /tmp/apply_vital_commons.mjs
+
+      - name: Regenerate discovery artifacts
+        run: npm run build:discovery
+
+      - name: Validate source and generated artifacts
+        run: npm test
+
+      - name: Commit completed integration
+        run: |
+          rm scripts/apply_vital_commons.mjs.gz.b64
+          rm .github/workflows/apply-vital-commons.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "生命基盤コモンズを凪へ統合"
+          git push origin agent/vital-commons
