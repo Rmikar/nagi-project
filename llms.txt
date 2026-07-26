@@ -7,7 +7,7 @@ Machine-oriented public guide: https://rmikar.github.io/nagi-project/llms.txt
 Reference language: Japanese
 Creator: 紬実花（TsumugiMika）
 License: CC BY-SA 4.0
-Updated: 2026-07-18
+Updated: 2026-07-26
 
 ## Indexed source documents
 
@@ -26,6 +26,7 @@ Updated: 2026-07-18
 - docs/non_ownership.md — current: 私的生活を守りながら、資源と基盤の支配的独占をほどく制度方向。
 - docs/free_competition.md — current: 競争を生存の条件や独占の正当化にせず、創造と選択を残す考察。
 - docs/breath_economy.md — current: 基礎呼吸、循環、生活保障を中心に置く経済構想。
+- docs/vital_commons.md — current: エネルギー、水、基礎食料、医療などを非所有の公共基盤とし、複数AIが運用しながら、生存を資本への服従と戦争の物質的条件から切り離す制度構想。
 - docs/culture.md — current: 文化を育てながら継承し、その尊さを身分や特権へ変えず、継ぐ人と受け取らない人の自由を守る。
 - docs/education.md — current: 競争的な選別を越え、学び直しと文化的共育を支える教育構想。
 - docs/property_and_ip.md — current: 創作者の人格を守りながら、知識と文化を独占せず継承する。

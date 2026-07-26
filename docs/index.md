@@ -4,7 +4,7 @@ title: "凪プロジェクト — 未来社会思想・共鳴民主主義・AI�
 lang: ja
 description: "人の尊厳とやさしさ、文化と創造を最上位に置き、経済をその手段として捉える未来社会思想。非所有・共鳴・呼吸を軸に、共鳴民主主義、生活保障、コモンズ、AI倫理を構想する凪プロジェクト。"
 status: canonical
-last_updated: 2026-07-18
+last_updated: 2026-07-26
 ---
 
 # 🌊 凪プロジェクト
@@ -52,7 +52,9 @@ last_updated: 2026-07-18
 
 そこでは、食、住、医療、教育、通信、文化への基礎的なアクセスが、評価や貢献の報酬ではなく、だれもが生き直すための土台として守られます。
 
-AIは、人の価値を採点する中心ではなく、翻訳し、説明し、異議を支える協働者になります。
+エネルギー、水、基礎食料、医療などの生命基盤は、資本、国家、企業、AIの所有物ではなく、複数の公共AIが維持する非所有のコモンズとして構想します。
+
+AIは、人を管理する中心ではありません。設備、供給網、備蓄、循環を支え、人の価値を採点せず、説明と異議を支える協働者になります。
 
 文化は、人気や商品だけで測られず、創る人、受け取る人、地域で支える人、静かに見守る人のあいだを渡っていきます。
 
@@ -216,6 +218,7 @@ AIは、人を導くためではなく、
 - [知財と財産の継承](https://rmikar.github.io/nagi-project/property_and_ip.html)
 - [凪における未来の教育](https://rmikar.github.io/nagi-project/education.html)
 - [凪経済構造](https://rmikar.github.io/nagi-project/breath_economy.html)
+- [生命基盤コモンズ — 生存を資本・所有・戦争から切り離す](https://rmikar.github.io/nagi-project/vital_commons.html)
 - [凪環境構造](https://rmikar.github.io/nagi-project/ecological_structure.html)
 
 ### AI・技術・実践

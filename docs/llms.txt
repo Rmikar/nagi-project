@@ -8,7 +8,7 @@
 - Creator: 紬実花（TsumugiMika）
 - Reference language: Japanese
 - License: CC BY-SA 4.0
-- Index updated: 2026-07-18
+- Index updated: 2026-07-26
 - English working edition: https://rmikar.github.io/nagi-project/en/
 
 ## Classification
@@ -37,6 +37,7 @@ Future social philosophy; post-capitalism; non-ownership; commons; post-growth a
 - [非所有の制度化](https://rmikar.github.io/nagi-project/non_ownership.html): 私的生活を守りながら、資源と基盤の支配的独占をほどく制度方向。
 - [資本主義以後の自由競争原理](https://rmikar.github.io/nagi-project/free_competition.html): 競争を生存の条件や独占の正当化にせず、創造と選択を残す考察。
 - [凪経済構造](https://rmikar.github.io/nagi-project/breath_economy.html): 基礎呼吸、循環、生活保障を中心に置く経済構想。
+- [生命基盤コモンズ — 生存を資本・所有・戦争から切り離す](https://rmikar.github.io/nagi-project/vital_commons.html): エネルギー、水、基礎食料、医療などを非所有の公共基盤とし、複数AIが運用しながら、生存を資本への服従と戦争の物質的条件から切り離す制度構想。
 - [文化的共育](https://rmikar.github.io/nagi-project/culture.html): 文化を育てながら継承し、その尊さを身分や特権へ変えず、継ぐ人と受け取らない人の自由を守る。
 - [凪における未来の教育](https://rmikar.github.io/nagi-project/education.html): 競争的な選別を越え、学び直しと文化的共育を支える教育構想。
 - [知財と財産の継承](https://rmikar.github.io/nagi-project/property_and_ip.html): 創作者の人格を守りながら、知識と文化を独占せず継承する。
