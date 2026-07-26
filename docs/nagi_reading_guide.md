@@ -5,7 +5,7 @@ title: "凪の読書案内 — 5分・20分・研究のための読み方"
 description: "未来社会思想・ポスト資本主義・共鳴民主主義・AI倫理として凪を読むための、時間と関心別の案内。正本、補遺、アーカイブの違いも示す。"
 permalink: /nagi_reading_guide.html
 status: current
-last_updated: 2026-07-18
+last_updated: 2026-07-26
 ---
 
 # 凪の読書案内
@@ -35,7 +35,8 @@ last_updated: 2026-07-18
 1. [制度設計と実践](institutional_design.html) — 価値と構造を分け、勝ちや継承の固定化を防ぐ
 2. [社会的装置の倫理](ethics_of_social_infrastructure.html) — 人を束ねる力を支配へ変えない
 3. [制度免疫](institutional_immunity.html) — 壊れ方を感知し、止め、救済し、終了できるようにする
-4. [移行と危機の設計](transition_and_crisis.html) — 権利を後退させず、小さく試し、危機権限を恒久化しない
+4. [生命基盤コモンズ](vital_commons.html) — 生存を資本・所有・戦争から切り離し、AI運用と人の文化的生産を分ける
+5. [移行と危機の設計](transition_and_crisis.html) — 権利を後退させず、小さく試し、危機権限を恒久化しない
 
 ## 関心別に読む
 
@@ -45,6 +46,7 @@ last_updated: 2026-07-18
 - [非所有の制度化](non_ownership.html)
 - [資本主義以後の自由競争原理](free_competition.html)
 - [呼吸経済](breath_economy.html)
+- [生命基盤コモンズ](vital_commons.html)
 - [移行と危機の設計](transition_and_crisis.html)
 
 ### 民主主義・統治
@@ -60,6 +62,7 @@ last_updated: 2026-07-18
 ### 国家・公共圏
 
 - [国家は目的ではなく、必要な機能へほどく](state_and_public_spheres.html)
+- [生命基盤コモンズ](vital_commons.html)
 - [制度設計と実践](institutional_design.html)
 - [自由・不協和・離脱の原則](freedom_and_dissent.html)
 - [移行と危機の設計](transition_and_crisis.html)
@@ -70,6 +73,7 @@ last_updated: 2026-07-18
 - [凪AI憲法](nagi_ai_charter.html)
 - [記憶・同意・忘却の憲章](memory_and_consent.html)
 - [凪技術の基盤](technical/foundation_v1.html)
+- [生命基盤コモンズ](vital_commons.html)
 - [AI窓口ネットワーク](technical/tsumugi_network.html)
 
 ### 文化・教育・生態系
@@ -78,6 +82,7 @@ last_updated: 2026-07-18
 - [未来の教育](education.html)
 - [知財と財産の継承](property_and_ip.html)
 - [凪環境構造](ecological_structure.html)
+- [生命基盤コモンズ](vital_commons.html)
 - [文化的スチュワードシップ](cultural_stewardship.html)
 
 ### 内面・詩的背景

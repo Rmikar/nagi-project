@@ -1,7 +1,7 @@
 {
   "name": "Nagi Project knowledge graph",
   "description": "Relationships among Nagi's canonical/current documents, core concepts, and document-level institutional immunity profiles.",
-  "dateModified": "2026-07-18",
+  "dateModified": "2026-07-26",
   "baseUrl": "https://rmikar.github.io/nagi-project/",
   "nodes": [
     {
@@ -123,6 +123,14 @@
       "url": "https://rmikar.github.io/nagi-project/breath_economy.html",
       "status": "current",
       "documentType": "economic-proposal"
+    },
+    {
+      "id": "document:vital-commons",
+      "kind": "document",
+      "label": "生命基盤コモンズ — 生存を資本・所有・戦争から切り離す",
+      "url": "https://rmikar.github.io/nagi-project/vital_commons.html",
+      "status": "current",
+      "documentType": "institutional-economic-proposal"
     },
     {
       "id": "document:culture",
@@ -305,6 +313,11 @@
       "label": "FAQ"
     },
     {
+      "id": "concept:エネルギー保障",
+      "kind": "concept",
+      "label": "エネルギー保障"
+    },
+    {
       "id": "concept:コモンズ",
       "kind": "concept",
       "label": "コモンズ"
@@ -395,6 +408,11 @@
       "label": "停止条件"
     },
     {
+      "id": "concept:公共AI",
+      "kind": "concept",
+      "label": "公共AI"
+    },
+    {
       "id": "concept:公共圏",
       "kind": "concept",
       "label": "公共圏"
@@ -460,6 +478,11 @@
       "label": "創造"
     },
     {
+      "id": "concept:医療保障",
+      "kind": "concept",
+      "label": "医療保障"
+    },
+    {
       "id": "concept:危機統治",
       "kind": "concept",
       "label": "危機統治"
@@ -523,6 +546,11 @@
       "id": "concept:実験",
       "kind": "concept",
       "label": "実験"
+    },
+    {
+      "id": "concept:平和",
+      "kind": "concept",
+      "label": "平和"
     },
     {
       "id": "concept:役割から降りる自由",
@@ -618,6 +646,11 @@
       "id": "concept:測定",
       "kind": "concept",
       "label": "測定"
+    },
+    {
+      "id": "concept:生命基盤コモンズ",
+      "kind": "concept",
+      "label": "生命基盤コモンズ"
     },
     {
       "id": "concept:生存保障",
@@ -758,6 +791,11 @@
       "id": "concept:非所有",
       "kind": "concept",
       "label": "非所有"
+    },
+    {
+      "id": "concept:食料保障",
+      "kind": "concept",
+      "label": "食料保障"
     }
   ],
   "edges": [
@@ -819,6 +857,11 @@
     {
       "source": "document:home",
       "target": "document:state-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:vital-commons",
       "relation": "relatedTo"
     },
     {
@@ -899,6 +942,11 @@
     {
       "source": "document:future-social-philosophy",
       "target": "document:state-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:vital-commons",
       "relation": "relatedTo"
     },
     {
@@ -1207,6 +1255,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:transition-crisis",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:social-infrastructure-ethics",
       "target": "concept:社会的装置",
       "relation": "about"
@@ -1302,6 +1355,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:institutional-immunity",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:trust",
       "target": "concept:信頼",
       "relation": "about"
@@ -1382,6 +1440,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:non-ownership",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:free-competition",
       "target": "concept:ポスト資本主義",
       "relation": "about"
@@ -1422,6 +1485,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:free-competition",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:breath-economy",
       "target": "concept:呼吸経済",
       "relation": "about"
@@ -1458,6 +1526,106 @@
     },
     {
       "source": "document:breath-economy",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:breath-economy",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:生命基盤コモンズ",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:基礎呼吸",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:生活保障",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:公共AI",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:食料保障",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:エネルギー保障",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:医療保障",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:平和",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:ポスト資本主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:breath-economy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:non-ownership",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:free-competition",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:ecology",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:technical-foundation",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:state-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
       "target": "document:institutional-immunity",
       "relation": "relatedTo"
     },
@@ -1627,6 +1795,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:ecology",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:resonance-metrics",
       "target": "concept:共鳴",
       "relation": "about"
@@ -1787,6 +1960,11 @@
       "relation": "relatedTo"
     },
     {
+      "source": "document:ai-charter",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
       "source": "document:technical-foundation",
       "target": "concept:分散システム",
       "relation": "about"
@@ -1824,6 +2002,11 @@
     {
       "source": "document:technical-foundation",
       "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:technical-foundation",
+      "target": "document:vital-commons",
       "relation": "relatedTo"
     },
     {
@@ -1964,6 +2147,11 @@
     {
       "source": "document:state-public-spheres",
       "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:state-public-spheres",
+      "target": "document:vital-commons",
       "relation": "relatedTo"
     },
     {
@@ -2604,6 +2792,18 @@
       "target": "document:cultural-stewardship",
       "relation": "appliesTo",
       "profileLevel": "link"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:vital-commons",
+      "relation": "appliesTo",
+      "profileLevel": "full"
     }
   ]
 }
