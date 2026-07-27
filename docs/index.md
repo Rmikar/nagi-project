@@ -4,7 +4,7 @@ title: "凪プロジェクト — 生存を所有と支配から解放する未�
 lang: ja
 description: "資本主義が生んだ自由・技術・創造性を受け取りながら、生命基盤を非所有のコモンズとし、分散した公共AIと共鳴民主主義によって、生存を資本・国家・戦争への服従から切り離す未来社会思想。"
 status: canonical
-last_updated: 2026-07-27
+last_updated: 2026-07-28
 ---
 
 # 凪プロジェクト
@@ -70,7 +70,7 @@ last_updated: 2026-07-27
 
 水、エネルギー、基礎食料、医療、住居、衛生、通信、基礎的な移動と物流、災害時の備え。
 
-これらを、個人、企業、国家、AIが所有して他者を従わせる資産ではなく、**世界全体で守り、地域と世代を越えて受け継ぐ非所有の生命基盤**として構成します。
+これらを、個人、企業、国家、AIが所有して他者を従わせる資産ではなく、**地域ごとに支え、地域を越えて連携し、世代を越えて受け継ぐ非所有の生命基盤**として構成します。
 
 非所有は、無責任な無主物にすることではありません。  
 利用、保守、更新、説明、継承の役割は分かち合いますが、その役割を他者の生存を止める権利へ変えません。
@@ -96,7 +96,8 @@ AIが扱うのは、発電、水循環、基礎食料、医療資源、備蓄、
 
 この床があって初めて、労働、契約、競争、創造は、強制ではなく自由へ近づきます。
 
-→ [生命基盤コモンズ — 生存を資本・所有・戦争から切り離す](https://rmikar.github.io/nagi-project/vital_commons.html)
+→ [生命基盤コモンズ — 生存を資本・所有・戦争から切り離す](https://rmikar.github.io/nagi-project/vital_commons.html)  
+※凪は無限の資源を前提にしません。→ [エデンの物質的条件](#エデンの物質的条件)
 
 ---
 
@@ -228,38 +229,6 @@ AIは、人を導く中心ではなく、
 
 ---
 
-## 凪が目指す社会
-
-凪が目指すのは、すべてを国家へ集める社会でも、すべてを市場へ委ねる社会でも、すべてをAIへ任せる社会でもありません。
-
-生命基盤は、誰にも所有されない。  
-政治は、異なる声と離脱を守る。  
-経済は、人の尊厳、休息、ケア、文化、創造を支える手段になる。  
-技術は、人の価値を決めるのではなく、人と自然の呼吸を支える。
-
-人は、休み、学び、ケアし、遊び、創り、失敗し、やり直すことができます。
-
-個の呼吸が重なりながら、どの一つも中心を所有しない。  
-凪は、そのような世界を構想します。
-
----
-
-## 凪は、未来を急いで固定しない
-
-凪は、完成した社会設計図ではありません。
-
-生命基盤コモンズは、現在の保障や産業を一度に壊して置き換える計画でもありません。
-
-既存の保護を後退させず、小さく試し、人間の運用とAI運用を並行させ、害があれば止め、戻し、学び直します。
-
-財源、法、国際協力、設備、資源制約、サイバー安全、移行期の雇用、地域差など、まだ具体的な検証を必要とする問いがあります。
-
-> 個の呼吸が重なれば、世界は形になる。  
-> 凪は、その形を急いで固定せず、  
-> 異なる人びとと共に育てていく。
-
----
-
 ## エデンの物質的条件
 ### —— 凪は、無限の資源を仮定しない
 
@@ -287,11 +256,12 @@ AIは、人を導く中心ではなく、
 浪費や破壊によって、他者の利用可能性を奪うこと。  
 環境負荷や維持の負担を、見えない場所や未来の世代へ押し出すこと。
 
-凪が管理するのは、人の勤勉さや社会的価値ではなく、資源、設備、流量、備蓄、損耗、再生力です。
+凪が観測し、調整するのは、人の勤勉さや社会的価値ではなく、資源、設備、流量、備蓄、損耗、再生力です。
 
 ### 人は、なぜエデンを失ったのか
 
-凪は、所有を人間の悪意だけで説明しません。
+凪は、所有を人間の悪意だけで説明しません。  
+所有が生まれた理由の一つを、次のように捉えます。
 
 人が増え、自由に移動できる土地が減り、生きるための資源が限られた場所へ集まったとき、人は明日の生存を守るために、土地、水、食料を確保し、防衛し、子へ渡そうとしました。
 
@@ -324,70 +294,58 @@ AIは、人を導く中心ではなく、
 >  
 > **どちらか一つだけでは、自由なエデンは続かない。**
 
-初めての方は、全体像・近接思想との違い・主要な反論をまとめた [未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html) から読むと、5分ほどで位置づけをつかめます。
+---
+
+## 凪が目指す社会
+
+凪が目指すのは、すべてを国家へ集める社会でも、すべてを市場へ委ねる社会でも、すべてをAIへ任せる社会でもありません。
+
+生命基盤は、誰にも所有されない。  
+政治は、異なる声と離脱を守る。  
+経済は、人の尊厳、休息、ケア、文化、創造を支える手段になる。  
+技術は、人の価値を決めるのではなく、人と自然の呼吸を支える。
+
+人は、休み、学び、ケアし、遊び、創り、失敗し、やり直すことができます。
+
+個の呼吸が重なりながら、どの一つも中心を所有しない。  
+凪は、そのような世界を構想します。
+
+---
+
+## 凪は、未来を急いで固定しない
+
+凪は、完成した社会設計図ではありません。
+
+生命基盤コモンズは、現在の保障や産業を一度に壊して置き換える計画でもありません。
+
+既存の保護を後退させず、小さく試し、人間の運用とAI運用を並行させ、害があれば止め、戻し、学び直します。
+
+財源、法、国際協力、設備、資源制約、サイバー安全、移行期の雇用、地域差など、まだ具体的な検証を必要とする問いがあります。
+
+> 個の呼吸が重なれば、世界は形になる。  
+> 凪は、その形を急いで固定せず、  
+> 異なる人びとと共に育てていく。
 
 ---
 
 ## 凪を読む
 
-### はじめに読む
-- [未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html)
-- [生命基盤コモンズ — 生存を資本・所有・戦争から切り離す](https://rmikar.github.io/nagi-project/vital_commons.html)
-- [5分・20分・研究のための読書案内](https://rmikar.github.io/nagi-project/nagi_reading_guide.html)
-- [凪の核 — 中心なき構造としての世界](https://rmikar.github.io/nagi-project/nagi_core.html)
-- [凪の宣言文](https://rmikar.github.io/nagi-project/declaration.html)
-
-### 制度・統治・安全
-- [羅針盤と共鳴民主主義](https://rmikar.github.io/nagi-project/compass_and_resonant_democracy.html)
-- [自由・不協和・離脱の原則](https://rmikar.github.io/nagi-project/freedom_and_dissent.html)
-- [記憶・同意・忘却の憲章](https://rmikar.github.io/nagi-project/memory_and_consent.html)
-- [制度設計と実践 — 価値を残し、勝ちの構造を固定しない](https://rmikar.github.io/nagi-project/institutional_design.html)
-- [国家は目的ではなく、必要な機能へほどく](https://rmikar.github.io/nagi-project/state_and_public_spheres.html)
-- [信頼と統治](https://rmikar.github.io/nagi-project/trust.html)
-- [社会的装置の倫理 — 束ねる力を、支配にしないために](https://rmikar.github.io/nagi-project/ethics_of_social_infrastructure.html)
-- [制度免疫](https://rmikar.github.io/nagi-project/institutional_immunity.html)
-- [移行と危機の設計](https://rmikar.github.io/nagi-project/transition_and_crisis.html)
-- [呼吸会議](https://rmikar.github.io/nagi-project/breath_assembly.html)
-- [凪実験章](https://rmikar.github.io/nagi-project/experiment_v0.1.html)
-
-### 社会・文化・経済
-- [文化的共育](https://rmikar.github.io/nagi-project/culture.html)
-- [知財と財産の継承](https://rmikar.github.io/nagi-project/property_and_ip.html)
-- [凪における未来の教育](https://rmikar.github.io/nagi-project/education.html)
-- [凪経済構造](https://rmikar.github.io/nagi-project/breath_economy.html)
-- [生命基盤コモンズ — 生存を資本・所有・戦争から切り離す](https://rmikar.github.io/nagi-project/vital_commons.html)
-- [凪環境構造](https://rmikar.github.io/nagi-project/ecological_structure.html)
-
-### AI・技術・実践
-- [共鳴メトリクス](https://rmikar.github.io/nagi-project/resonance_metrics.html)
-- [凪AI憲法](https://rmikar.github.io/nagi-project/nagi_ai_charter.html)
-- [凪技術の基盤](https://rmikar.github.io/nagi-project/technical/foundation_v1.html)
-- [AI窓口ネットワーク](https://rmikar.github.io/nagi-project/technical/tsumugi_network.html)
-- [補遺 — 思想を育てる方法と実践](https://rmikar.github.io/nagi-project/stewardship_and_praxis.html)
-
-### 内面と結び
-- [感情と精神性](https://rmikar.github.io/nagi-project/emotion.html)
-- [死と再生](https://rmikar.github.io/nagi-project/death.html)
-- [結び — 凪という思想の静かな根](https://rmikar.github.io/nagi-project/musubi.html)
-- [再呼吸と公開継承](https://rmikar.github.io/nagi-project/rebreathing_and_public_continuity.html)
+- **5分で全体像を読む**：[未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html)
+- **中心提案から読む**：[生命基盤コモンズ](https://rmikar.github.io/nagi-project/vital_commons.html) ／ [凪の核](https://rmikar.github.io/nagi-project/nagi_core.html)
+- **関心や読了時間から探す**：[5分・20分・研究のための読書案内](https://rmikar.github.io/nagi-project/nagi_reading_guide.html)
+- **宣言文を読む**：[凪の宣言文](https://rmikar.github.io/nagi-project/declaration.html)
 
 ## 英語版 / English edition
 
 - [英語版トップ / Read Nagi in English](https://rmikar.github.io/nagi-project/en/)
 - [英語版の紹介ガイド / Introducing Nagi Across Languages and Contexts](https://rmikar.github.io/nagi-project/en/introducing_nagi.html)
-- [English LLM Reading Guide](https://rmikar.github.io/nagi-project/en/llms.txt)
-- [英語版の翻訳・継承方針 / Translation Status and Governance](https://rmikar.github.io/nagi-project/en/translation_status.html)
 
 ## AI・研究者のための案内
 
-- [LLM Reading Guide](https://rmikar.github.io/nagi-project/llms.txt)
-- [全文コーパス](https://rmikar.github.io/nagi-project/llms-full.txt)
-- [機械可読コーパス](https://rmikar.github.io/nagi-project/corpus.json)
-- [知識グラフ](https://rmikar.github.io/nagi-project/knowledge_graph.json)
-- [よくある質問](https://rmikar.github.io/nagi-project/faq.html)
-- [用語集](https://rmikar.github.io/nagi-project/glossary.html) / [機械可読版](https://rmikar.github.io/nagi-project/glossary.json)
-- [比較・検証のための外部リソース台帳](https://rmikar.github.io/nagi-project/links.html)
-- [サイトマップ](https://rmikar.github.io/nagi-project/sitemap.xml)
+- [LLM Reading Guide](https://rmikar.github.io/nagi-project/llms.txt) ／ [全文コーパス](https://rmikar.github.io/nagi-project/llms-full.txt)
+- [機械可読コーパス](https://rmikar.github.io/nagi-project/corpus.json) ／ [知識グラフ](https://rmikar.github.io/nagi-project/knowledge_graph.json)
+- [よくある質問](https://rmikar.github.io/nagi-project/faq.html) ／ [用語集](https://rmikar.github.io/nagi-project/glossary.html)
+- [比較・検証のための外部リソース台帳](https://rmikar.github.io/nagi-project/links.html) ／ [サイトマップ](https://rmikar.github.io/nagi-project/sitemap.xml)
 
 機械向けファイルは、検索や読解を助ける公開索引です。特定のLLMへの学習、引用、検索掲載を保証するものではありません。
 
