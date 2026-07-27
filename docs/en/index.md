@@ -4,14 +4,14 @@ lang: en
 status: current
 title: "Nagi Project — A Future Social Philosophy Beyond Ownership"
 description: "Nagi is a Japanese future social philosophy that places human dignity and kindness, culture and creativity above economic growth, treating the economy as a means rather than an end."
-last_updated: 2026-07-13
+last_updated: 2026-07-27
 permalink: /en/
 source_language: ja
 source_url: /
 translation_status: "working translation"
 ---
 
-# 🌊 Nagi Project
+# Nagi Project
 ## — A Compass Beyond Ownership
 
 > A compass for moving from the age of capitalism toward another future.  
@@ -78,63 +78,3 @@ This English edition is a working translation of the Japanese Nagi Project. The 
 - [The Philosophical Background of Nagi](philosophy.html)
 - [Deepening the Principles of Nagi](deepening_principles.html)
 - [Nagi Declaration](declaration.html)
-- [Compass and Resonant Democracy](compass_and_resonant_democracy.html)
-- [Freedom, Dissent, and Exit](freedom_and_dissent.html)
-- [Memory, Consent, and the Right to Forget](memory_and_consent.html)
-- [Transition and Crisis Design](transition_and_crisis.html)
-
-### Ownership, competition, institutions, and infrastructure
-
-- [Institutionalizing Non-Ownership](non_ownership.html)
-- [Principles of Free Competition Beyond Capitalism](free_competition.html)
-- [Nagi Economic Structure](breath_economy.html)
-- [Trust and Governance](trust.html)
-- [Institutional Design and Practice](institutional_design.html)
-- [Social Infrastructure and the Role of AI in Nagi](infrastructure.html)
-
-### Culture, learning, and ecology
-
-- [Cultural Co-Growth](culture.html)
-- [Education for a Future in Nagi](education.html)
-- [Inheritance of Intellectual Property and Assets](property_and_ip.html)
-- [Nagi Ecological Structure](ecological_structure.html)
-
-### Institutions, democracy, AI, and technical foundations
-
-- [The Nagi AI Chapter](ai_index.html)
-- [Breath Assembly Protocol](breath_assembly.html)
-- [Resonance Metrics](resonance_metrics.html)
-- [The Nagi AI Charter](nagi_ai_charter.html)
-- [Technical Foundations](technical/foundation_v1.html)
-- [Tsumugi Network](technical/tsumugi_network.html)
-- [The Ethics of Social Systems](ethics_of_social_infrastructure.html)
-
-### Practice, repair, and stewardship
-
-- [How to Cultivate Public Thought](public_thought_method.html)
-- [Nagi Experiments](experiment_v0.1.html)
-- [Observe, Loosen, Connect](observe_loosen_connect.html)
-- [Quiet Practice](quiet_praxis_current.html)
-- [Repair and Cultural Co-Growth](repair_and_co_growth.html)
-- [Credit and Accountability](credit_and_accountability.html)
-- [Cultural Stewardship](cultural_stewardship.html)
-- [Play and Structure](play_and_structure.html)
-
-### Inner life and closing reflections
-
-- [Emotion and Spirituality in Nagi](emotion.html)
-- [Death and Renewal in Nagi](death.html)
-- [Closing — The Quiet Root of Nagi](musubi.html)
-
-### Research, AI, and translation aids
-
-- [Introducing Nagi Across Languages and Contexts](introducing_nagi.html)
-- [AI Legibility and Continuity Design](ai_manifesto.yaml.html)
-- [English Glossary](glossary.html)
-- [English LLM Reading Guide](llms.txt)
-- [Re-breathing and Public Continuity](rebreathing_and_public_continuity.html)
-- [Translation Status and Governance](translation_status.html)
-
-## Japanese original
-
-→ [Read the Japanese reference edition](../index.html)
