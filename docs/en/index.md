@@ -4,14 +4,14 @@ lang: en
 status: current
 title: "Nagi Project — A Future Social Philosophy Beyond Ownership"
 description: "Nagi is a Japanese future social philosophy that places human dignity and kindness, culture and creativity above economic growth, treating the economy as a means rather than an end."
-last_updated: 2026-07-13
+last_updated: 2026-07-27
 permalink: /en/
 source_language: ja
 source_url: /
 translation_status: "working translation"
 ---
 
-# 🌊 Nagi Project
+# Nagi Project
 ## — A Compass Beyond Ownership
 
 > A compass for moving from the age of capitalism toward another future.  
