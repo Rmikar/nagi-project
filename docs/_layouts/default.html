@@ -14,6 +14,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#BA2636">
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-29G2XFL4FL"></script>
   <script>
@@ -34,6 +35,7 @@
   <link rel="alternate" type="application/json" href="{{ '/corpus.json' | relative_url }}" title="Nagi machine-readable corpus">
   <link rel="sitemap" type="application/xml" href="{{ '/sitemap.xml' | relative_url }}">
   <link rel="icon" href="{{ '/assets/icon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="shortcut icon" href="{{ '/assets/icon.svg' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/nagi.css' | relative_url }}">
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Nagi Project">
@@ -76,8 +78,8 @@
   <a class="skip-link" href="#main-content">{% if current_lang == 'en' %}Skip to content{% else %}本文へ移動{% endif %}</a>
   <div class="site-shell">
     <header class="site-header">
-      <a class="brand" href="{% if current_lang == 'en' %}{{ '/en/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
-        <span class="brand-mark" aria-hidden="true">🌊</span>
+      <a class="brand" style="align-items:center" href="{% if current_lang == 'en' %}{{ '/en/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
+        <img class="brand-mark" src="{{ '/assets/icon.svg' | relative_url }}" width="38" height="38" alt="" aria-hidden="true" style="display:block;width:2.25rem;height:2.25rem;flex:none">
         <span>{% if current_lang == 'en' %}Nagi Project{% else %}凪プロジェクト{% endif %}</span>
         <span class="brand-subtitle">{% if current_lang == 'en' %}A Compass Beyond Ownership{% else %}未来社会思想の羅針盤{% endif %}</span>
       </a>
@@ -99,6 +101,7 @@
         <a href="{{ '/freedom_and_dissent.html' | relative_url }}">異議・離脱</a>
         <a href="{{ '/nagi_ai_charter.html' | relative_url }}">凪AI憲法</a>
         <a href="{{ '/nagi_reading_guide.html' | relative_url }}">読書案内</a>
+        <a href="{{ '/symbol_concept.html' | relative_url }}">シンボル</a>
       </nav>
       {% endif %}
       {% if current_lang == 'en' and translation_links.ja %}
@@ -150,6 +153,7 @@
         <li><a href="{{ '/freedom_and_dissent.html' | relative_url }}">自由・不協和・離脱の原則</a></li>
         <li><a href="{{ '/memory_and_consent.html' | relative_url }}">記憶・同意・忘却の憲章</a></li>
         <li><a href="{{ '/transition_and_crisis.html' | relative_url }}">移行と危機の設計</a></li>
+        <li><a href="{{ '/symbol_concept.html' | relative_url }}">凪プロジェクト・シンボルコンセプト</a></li>
         <li><a href="{{ '/faq.html' | relative_url }}">FAQ</a> / <a href="{{ '/glossary.html' | relative_url }}">用語集</a></li>
         <li><a href="{{ '/llms.txt' | relative_url }}">LLM Reading Guide</a> / <a href="{{ '/corpus.json' | relative_url }}">corpus.json</a> / <a href="{{ '/sitemap.xml' | relative_url }}">sitemap.xml</a></li>
       </ul>
