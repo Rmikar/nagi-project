@@ -2,12 +2,14 @@
 layout: default
 lang: en
 status: current
+last_updated: 2026-08-12
 title: "The Nagi AI Chapter"
 description: "A reading guide to AI in Nagi: optional, distributed, explainable, and accountable support that does not score people or make final decisions about rights."
 permalink: /en/ai_index.html
 source_language: ja
 source_url: /ai_index.html
-translation_status: "working translation"
+translation_status: "maintained translation"
+translation_last_reviewed: 2026-08-12
 ---
 
 # 🤖 The Nagi AI Chapter
@@ -19,13 +21,16 @@ It is an optional and explainable collaborator that helps people and communities
 
 ## Reading path
 
-1. [Freedom, Dissent, and Exit](freedom_and_dissent.html)
-2. [Memory, Consent, and the Right to Forget](memory_and_consent.html)
-3. [Resonance Metrics](resonance_metrics.html)
-4. [Breath Assembly Protocol](breath_assembly.html)
-5. [The Nagi AI Charter](nagi_ai_charter.html)
-6. [Technical Foundations](technical/foundation_v1.html)
-7. [Tsumugi Network](technical/tsumugi_network.html)
+1. [Vital Commons](vital_commons.html) — the foundations of life remain non-owned and do not require AI use.
+2. [Governance and Safety](governance_and_safety.html) — AI is one optional support within human rights, safeguards, and Institutional Immunity.
+3. [Freedom, Dissent, and Exit](freedom_and_dissent.html)
+4. [Memory, Consent, and the Right to Forget](memory_and_consent.html)
+5. [Resonance Metrics](resonance_metrics.html)
+6. [Breath Assembly Protocol](breath_assembly.html)
+7. [The Nagi AI Charter](nagi_ai_charter.html)
+8. [AI Redundancy and Risk](../ai_redundancy_and_risk.html) (Japanese reference)
+9. [Technical Foundations](technical/foundation_v1.html)
+10. [Tsumugi Network](technical/tsumugi_network.html)
 
 ## Boundaries for AI in Nagi
 

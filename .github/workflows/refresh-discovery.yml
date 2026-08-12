@@ -6,12 +6,17 @@ on:
       - main
     paths:
       - "README.md"
+      - "robots.txt"
       - "docs/**/*.md"
       - "docs/_config.yml"
       - "docs/_data/*.json"
+      - "docs/_data/*.yml"
       - "docs/_includes/**"
       - "docs/_layouts/**"
+      - "docs/assets/**"
       - "docs/robots.txt"
+      - "docs/sitemap.xml"
+      - "docs/sitemap-google.xml"
       - "docs/sitemap-google.txt"
       - "scripts/build_discovery.mjs"
       - "scripts/validate_site.mjs"
@@ -51,11 +56,21 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add \
             docs/index.md \
+            docs/_data/canonical_documents.json \
+            docs/_data/translations.yml \
+            docs/_data/faq.json \
             docs/llms.txt \
+            docs/en/llms.txt \
             llms.txt \
             docs/llms-full.txt \
+            docs/en/llms-full.txt \
             docs/corpus.json \
-            docs/knowledge_graph.json
+            docs/knowledge_graph.json \
+            docs/sitemap.xml \
+            docs/sitemap-google.xml \
+            docs/sitemap-google.txt \
+            docs/robots.txt \
+            robots.txt
           if git diff --cached --quiet; then
             echo "Discovery artifacts are already current."
           else

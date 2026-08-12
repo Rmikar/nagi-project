@@ -1,6 +1,8 @@
 ---
 layout: default
+lang: ja
 title: "凪の宣言文"
+description: "非所有・共鳴・呼吸と、AIを社会の中心や人間価値の採点者にしない境界を簡潔に示す、凪プロジェクトの公開宣言。"
 status: canonical
 last_updated: 2026-07-12
 ---

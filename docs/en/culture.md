@@ -2,6 +2,7 @@
 layout: default
 lang: en
 status: current
+last_updated: 2026-07-12
 title: "Cultural Co-Growth"
 description: "Nagi's cultural chapter: culture is not reduced to products or popularity, but carried among creators, receivers, communities, and memory without erasing difference."
 permalink: /en/culture.html

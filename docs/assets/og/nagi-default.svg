@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">凪プロジェクト</title>
+  <desc id="desc">緋色の二筋六花結びと、生命基盤を誰にも所有させない未来社会思想という言葉を配した共有画像</desc>
+  <rect width="1200" height="630" fill="#F8F4EE"/>
+  <rect x="0" y="0" width="18" height="630" fill="#BA2636"/>
+  <circle cx="265" cy="315" r="184" fill="#FFFFFF" opacity="0.82"/>
+  <text x="505" y="214" fill="#3C3433" font-family="Arial, sans-serif" font-size="28" font-weight="600" letter-spacing="4">FUTURE SOCIAL PHILOSOPHY</text>
+  <text x="500" y="310" fill="#BA2636" font-family="Georgia, serif" font-size="62" font-weight="700" letter-spacing="3">NAGI PROJECT</text>
+  <line x1="505" y1="356" x2="1080" y2="356" stroke="#DCCFC4" stroke-width="2"/>
+  <text x="505" y="410" fill="#3C3433" font-family="Arial, sans-serif" font-size="27" font-weight="600">FREE SURVIVAL FROM OWNERSHIP</text>
+  <text x="505" y="450" fill="#3C3433" font-family="Arial, sans-serif" font-size="27" font-weight="600">AND DOMINATION.</text>
+  <text x="505" y="500" fill="#675E5A" font-family="Arial, sans-serif" font-size="18" letter-spacing="0.6">VITAL COMMONS · RESONANCE · INSTITUTIONAL IMMUNITY</text>
+  <text x="505" y="555" fill="#8B807A" font-family="Arial, sans-serif" font-size="19" letter-spacing="1">NAGI PROJECT · TSUMUGIMIKA</text>
+</svg>

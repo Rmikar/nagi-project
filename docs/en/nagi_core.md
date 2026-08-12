@@ -3,7 +3,7 @@ layout: default
 lang: en
 status: current
 title: "Nagi Core — A World of Centerless Structures"
-description: "Nagi's fundamental principles and philosophical starting point: human dignity and kindness, cultural and creative continuity, and an economy that remains a means rather than an end within a world of layered, centerless structures."
+description: "Nagi's philosophical core: dignity and kindness, cultural and creative continuity, an economy kept as a means, and a world understood through layered, centerless structures."
 last_updated: 2026-07-13
 permalink: /en/nagi_core.html
 source_language: ja

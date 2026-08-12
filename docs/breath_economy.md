@@ -1,6 +1,8 @@
 ---
 layout: default
+lang: ja
 title: "凪経済構造"
+description: "生存を所得や雇用への服従から切り離す基礎呼吸と生命基盤、文化と創造の自由な層、物・知・ケアの循環を示す凪の経済構想。"
 status: current
 last_updated: 2026-07-26
 ---

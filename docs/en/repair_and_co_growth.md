@@ -2,6 +2,7 @@
 layout: default
 lang: en
 status: supplement
+last_updated: 2026-07-12
 title: "Repair and Cultural Co-Growth"
 description: "Nagi's practice for responding to error and conflict through concrete repair and institutional change rather than concealment or condemnation alone."
 permalink: /en/repair_and_co_growth.html

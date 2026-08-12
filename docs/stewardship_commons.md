@@ -1,11 +1,17 @@
 ---
 layout: default
 title: "スチュワードシップとコモンズ"
-status: supplement
+status: superseded
+robots: "noindex, follow"
+sitemap: false
 description: "非所有を私有の全面否定とせず、コモンズのアクセス、ケア、継承、説明責任と、交代可能なスチュワードの役割を整理する。"
+last_updated: 2026-08-12
+archive_note: "この補遺の内容は、非所有の社会制度化と文化的スチュワードシップへ統合されました。"
 ---
 
 # スチュワードシップとコモンズ
+
+> **現行文書**：[非所有の社会制度化](non_ownership.html) ／ [文化的スチュワードシップ](cultural_stewardship.html)
 
 凪における非所有は、人が何も持たないことではない。
 

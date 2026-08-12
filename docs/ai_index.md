@@ -6,7 +6,7 @@ author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
 description: "凪におけるAIの位置づけを案内する章。AIは任意で、分散的で、説明と異議を支え、人の価値や権利を最終判断しない。"
-last_updated: 2026-07-12
+last_updated: 2026-08-12
 permalink: /ai_index.html
 ---
 
@@ -19,13 +19,15 @@ permalink: /ai_index.html
 
 ## 読む順番
 
-1. [自由・不協和・離脱の原則](freedom_and_dissent.html)
-2. [記憶・同意・忘却の憲章](memory_and_consent.html)
-3. [共鳴メトリクス](resonance_metrics.html)
-4. [呼吸会議](breath_assembly.html)
-5. [凪AI憲法](nagi_ai_charter.html)
-6. [凪技術の基盤](technical/foundation_v1.html)
-7. [AI窓口ネットワーク](technical/tsumugi_network.html)
+1. [生命基盤コモンズ](vital_commons.html)
+2. [自由・不協和・離脱の原則](freedom_and_dissent.html)
+3. [記憶・同意・忘却の憲章](memory_and_consent.html)
+4. [共鳴メトリクス](resonance_metrics.html)
+5. [呼吸会議](breath_assembly.html)
+6. [凪AI憲法](nagi_ai_charter.html)
+7. [凪技術の基盤](technical/foundation_v1.html)
+8. [AI窓口ネットワーク](technical/tsumugi_network.html)
+9. [AIの冗長性と、使わない自由](ai_redundancy_and_risk.html)
 
 ## 凪AIの境界
 

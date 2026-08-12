@@ -4,7 +4,7 @@ title: "公開思想を育てる方法"
 status: supplement
 lang: ja
 description: "凪を、批判可能で訂正可能な公開思想として育てるために、事実・解釈・規範・提案・比喩・未解決の問いを区別する方法。"
-last_updated: 2026-07-12
+last_updated: 2026-08-12
 permalink: /public_thought_method.html
 ---
 
@@ -38,9 +38,10 @@ AIを用いた草稿、要約、翻訳、調査補助は、出典、限界、未
 
 私的な経験、健康、家族、親密な関係、公開を選んでいない人の情報は、思想の証拠やコンテンツにしない。
 
+公開思想としての凪と、人格の外部脳や非公開の文脈は分離する。過去の境界・引き継ぎ記録は成立過程の履歴であり、現在の凪の思想的根拠として参照しない。
+
 > 凪は、完成された答えではない。  
 > 文章、制度、技術、組織の試行を通じて、弱点を見つけ、訂正し、育てていく。
 
-→ [凪とRibbon Fieldの境界](ribbon_field_boundary.html)  
 → [クレジットと説明責任](credit_and_accountability.html)  
 → [凪実験章](experiment_v0.1.html)

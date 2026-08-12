@@ -1,0 +1,664 @@
+{
+  "name": "Nagi Project curated document relationship overrides",
+  "description": "Stable document ids, navigation labels, topics, and human-curated related-document edges. Titles, status, language, dates, URLs, and indexability come from Markdown front matter.",
+  "documents": [
+    {
+      "id": "home",
+      "path": "index.md",
+      "short_title": "凪プロジェクト",
+      "topics": [
+        "未来社会思想",
+        "ポスト資本主義",
+        "非所有",
+        "共鳴",
+        "呼吸",
+        "制度設計",
+        "価値と構造"
+      ],
+      "related": [
+        "future-social-philosophy",
+        "nagi-core",
+        "reading-guide",
+        "institutional-design",
+        "state-public-spheres",
+        "vital-commons"
+      ]
+    },
+    {
+      "id": "future-social-philosophy",
+      "path": "future_social_philosophy.md",
+      "short_title": "未来の社会思想としての凪",
+      "topics": [
+        "未来社会思想",
+        "ポスト資本主義",
+        "共鳴民主主義",
+        "コモンズ",
+        "脱成長",
+        "AI倫理",
+        "制度設計",
+        "既得権益"
+      ],
+      "related": [
+        "nagi-core",
+        "resonant-democracy",
+        "faq",
+        "glossary",
+        "research-links",
+        "institutional-immunity",
+        "institutional-design",
+        "state-public-spheres",
+        "vital-commons"
+      ]
+    },
+    {
+      "id": "nagi-core",
+      "path": "nagi_core.md",
+      "short_title": "凪の核 — 中心なき構造としての世界",
+      "topics": [
+        "非所有",
+        "共鳴",
+        "呼吸",
+        "中心なき構造",
+        "価値と構造"
+      ],
+      "related": [
+        "declaration",
+        "resonant-democracy",
+        "freedom-dissent-exit",
+        "institutional-immunity",
+        "philosophy-background",
+        "institutional-design",
+        "state-public-spheres"
+      ]
+    },
+    {
+      "id": "philosophy-background",
+      "path": "philosophy.md",
+      "short_title": "凪の哲学的背景",
+      "topics": [
+        "中心なき構造",
+        "非所有",
+        "共鳴",
+        "呼吸"
+      ],
+      "related": [
+        "nagi-core",
+        "state-public-spheres"
+      ]
+    },
+    {
+      "id": "declaration",
+      "path": "declaration.md",
+      "short_title": "凪の宣言文",
+      "topics": [
+        "未来社会思想",
+        "非所有",
+        "共鳴",
+        "呼吸"
+      ],
+      "related": [
+        "nagi-core",
+        "resonant-democracy"
+      ]
+    },
+    {
+      "id": "resonant-democracy",
+      "path": "compass_and_resonant_democracy.md",
+      "short_title": "羅針盤と共鳴民主主義",
+      "topics": [
+        "共鳴民主主義",
+        "民主主義",
+        "異議",
+        "離脱"
+      ],
+      "related": [
+        "freedom-dissent-exit",
+        "breath-assembly",
+        "transition-crisis",
+        "institutional-immunity"
+      ]
+    },
+    {
+      "id": "freedom-dissent-exit",
+      "path": "freedom_and_dissent.md",
+      "short_title": "自由・不協和・離脱の原則",
+      "topics": [
+        "自由",
+        "異議",
+        "沈黙",
+        "拒否",
+        "離脱",
+        "役割から降りる自由"
+      ],
+      "related": [
+        "resonant-democracy",
+        "memory-consent",
+        "ai-charter",
+        "institutional-immunity",
+        "institutional-design",
+        "state-public-spheres"
+      ]
+    },
+    {
+      "id": "memory-consent",
+      "path": "memory_and_consent.md",
+      "short_title": "記憶・同意・忘却の憲章",
+      "topics": [
+        "記憶",
+        "同意",
+        "プライバシー",
+        "忘れられる権利",
+        "AI倫理"
+      ],
+      "related": [
+        "freedom-dissent-exit",
+        "ai-charter",
+        "rebreathing",
+        "institutional-immunity"
+      ]
+    },
+    {
+      "id": "transition-crisis",
+      "path": "transition_and_crisis.md",
+      "short_title": "移行と危機の設計",
+      "topics": [
+        "移行",
+        "危機統治",
+        "実験",
+        "停止可能性"
+      ],
+      "related": [
+        "resonant-democracy",
+        "social-infrastructure-ethics",
+        "experiment",
+        "institutional-immunity",
+        "vital-commons"
+      ]
+    },
+    {
+      "id": "social-infrastructure-ethics",
+      "path": "ethics_of_social_infrastructure.md",
+      "short_title": "社会的装置の倫理",
+      "topics": [
+        "社会的装置",
+        "説明責任",
+        "異議申立て",
+        "停止可能性"
+      ],
+      "related": [
+        "transition-crisis",
+        "ai-charter",
+        "institutional-design",
+        "institutional-immunity"
+      ]
+    },
+    {
+      "id": "institutional-immunity",
+      "path": "institutional_immunity.md",
+      "short_title": "制度免疫",
+      "topics": [
+        "制度免疫",
+        "多中心監査",
+        "レッドチーム",
+        "暫定停止",
+        "救済",
+        "制度終了"
+      ],
+      "related": [
+        "social-infrastructure-ethics",
+        "transition-crisis",
+        "institutional-design",
+        "experiment",
+        "ai-charter",
+        "vital-commons"
+      ]
+    },
+    {
+      "id": "trust",
+      "path": "trust.md",
+      "short_title": "信頼と統治",
+      "topics": [
+        "信頼",
+        "統治",
+        "説明責任",
+        "異議",
+        "救済"
+      ],
+      "related": [
+        "social-infrastructure-ethics",
+        "institutional-immunity",
+        "breath-assembly"
+      ]
+    },
+    {
+      "id": "non-ownership",
+      "path": "non_ownership.md",
+      "short_title": "非所有の制度化",
+      "topics": [
+        "非所有",
+        "コモンズ",
+        "利用権",
+        "継承責任"
+      ],
+      "related": [
+        "nagi-core",
+        "property-ip",
+        "breath-economy",
+        "institutional-immunity",
+        "vital-commons"
+      ]
+    },
+    {
+      "id": "free-competition",
+      "path": "free_competition.md",
+      "short_title": "資本主義以後の自由競争原理",
+      "topics": [
+        "ポスト資本主義",
+        "競争",
+        "自由",
+        "反独占"
+      ],
+      "related": [
+        "non-ownership",
+        "breath-economy",
+        "transition-crisis",
+        "institutional-immunity",
+        "vital-commons"
+      ]
+    },
+    {
+      "id": "breath-economy",
+      "path": "breath_economy.md",
+      "short_title": "凪経済構造",
+      "topics": [
+        "呼吸経済",
+        "基礎呼吸",
+        "生活保障",
+        "ポスト成長"
+      ],
+      "related": [
+        "non-ownership",
+        "free-competition",
+        "ecology",
+        "institutional-immunity",
+        "vital-commons"
+      ]
+    },
+    {
+      "id": "vital-commons",
+      "path": "vital_commons.md",
+      "short_title": "生命基盤コモンズ — 生存を資本・所有・戦争から切り離す",
+      "topics": [
+        "生命基盤コモンズ",
+        "基礎呼吸",
+        "生活保障",
+        "非所有",
+        "公共AI",
+        "食料保障",
+        "エネルギー保障",
+        "医療保障",
+        "平和",
+        "ポスト資本主義"
+      ],
+      "related": [
+        "breath-economy",
+        "non-ownership",
+        "free-competition",
+        "ecology",
+        "ai-charter",
+        "technical-foundation",
+        "state-public-spheres",
+        "transition-crisis",
+        "institutional-immunity"
+      ]
+    },
+    {
+      "id": "culture",
+      "path": "culture.md",
+      "short_title": "文化的共育",
+      "topics": [
+        "文化的共育",
+        "文化",
+        "創造",
+        "継承",
+        "継承の自由",
+        "反特権"
+      ],
+      "related": [
+        "education",
+        "property-ip",
+        "cultural-stewardship",
+        "institutional-immunity",
+        "institutional-design",
+        "state-public-spheres"
+      ]
+    },
+    {
+      "id": "education",
+      "path": "education.md",
+      "short_title": "凪における未来の教育",
+      "topics": [
+        "教育",
+        "学び直し",
+        "文化的共育"
+      ],
+      "related": [
+        "culture",
+        "breath-economy",
+        "institutional-immunity"
+      ]
+    },
+    {
+      "id": "property-ip",
+      "path": "property_and_ip.md",
+      "short_title": "知財と財産の継承",
+      "topics": [
+        "知的財産",
+        "文化",
+        "非所有",
+        "継承"
+      ],
+      "related": [
+        "non-ownership",
+        "culture",
+        "cultural-stewardship",
+        "institutional-immunity"
+      ]
+    },
+    {
+      "id": "ecology",
+      "path": "ecological_structure.md",
+      "short_title": "凪環境構造",
+      "topics": [
+        "生態系",
+        "持続可能性",
+        "世代間倫理",
+        "呼吸"
+      ],
+      "related": [
+        "breath-economy",
+        "transition-crisis",
+        "institutional-immunity",
+        "vital-commons"
+      ]
+    },
+    {
+      "id": "resonance-metrics",
+      "path": "resonance_metrics.md",
+      "short_title": "共鳴メトリクス",
+      "topics": [
+        "共鳴",
+        "測定",
+        "評価倫理",
+        "人間の尊厳"
+      ],
+      "related": [
+        "resonant-democracy",
+        "breath-assembly",
+        "ai-charter",
+        "institutional-immunity"
+      ]
+    },
+    {
+      "id": "breath-assembly",
+      "path": "breath_assembly.md",
+      "short_title": "呼吸会議",
+      "topics": [
+        "共鳴民主主義",
+        "会議",
+        "異議",
+        "AI支援"
+      ],
+      "related": [
+        "resonant-democracy",
+        "resonance-metrics",
+        "ai-charter",
+        "institutional-immunity"
+      ]
+    },
+    {
+      "id": "ai-index",
+      "path": "ai_index.md",
+      "short_title": "凪AI章",
+      "topics": [
+        "AI倫理",
+        "AIの任意性",
+        "説明可能性",
+        "人間による監督"
+      ],
+      "related": [
+        "ai-charter",
+        "memory-consent",
+        "technical-foundation"
+      ]
+    },
+    {
+      "id": "ai-charter",
+      "path": "nagi_ai_charter.md",
+      "short_title": "凪AI憲法",
+      "topics": [
+        "AI倫理",
+        "AIの任意性",
+        "権利",
+        "説明責任",
+        "分散"
+      ],
+      "related": [
+        "ai-index",
+        "memory-consent",
+        "technical-foundation",
+        "institutional-immunity",
+        "vital-commons"
+      ]
+    },
+    {
+      "id": "technical-foundation",
+      "path": "technical/foundation_v1.md",
+      "short_title": "凪技術の基盤",
+      "topics": [
+        "分散システム",
+        "AI倫理",
+        "プライバシー",
+        "相互運用性"
+      ],
+      "related": [
+        "ai-charter",
+        "tsumugi-network",
+        "social-infrastructure-ethics",
+        "institutional-immunity",
+        "vital-commons"
+      ]
+    },
+    {
+      "id": "tsumugi-network",
+      "path": "technical/tsumugi_network.md",
+      "short_title": "AI窓口ネットワーク",
+      "topics": [
+        "分散AI",
+        "AIの任意性",
+        "相互運用性",
+        "人間による相談"
+      ],
+      "related": [
+        "technical-foundation",
+        "ai-charter",
+        "institutional-immunity"
+      ]
+    },
+    {
+      "id": "institutional-design",
+      "path": "institutional_design.md",
+      "short_title": "制度設計と実践 — 価値を残し、勝ちの構造を固定しない",
+      "topics": [
+        "制度設計",
+        "価値と構造",
+        "既得権益",
+        "継承の自由",
+        "反独占"
+      ],
+      "related": [
+        "nagi-core",
+        "freedom-dissent-exit",
+        "state-public-spheres",
+        "social-infrastructure-ethics",
+        "institutional-immunity",
+        "transition-crisis"
+      ]
+    },
+    {
+      "id": "state-public-spheres",
+      "path": "state_and_public_spheres.md",
+      "short_title": "国家は目的ではなく、必要な機能へほどく",
+      "topics": [
+        "国家",
+        "公共圏",
+        "生存保障",
+        "多中心統治",
+        "文化継承"
+      ],
+      "related": [
+        "nagi-core",
+        "freedom-dissent-exit",
+        "institutional-design",
+        "institutional-immunity",
+        "transition-crisis",
+        "vital-commons"
+      ]
+    },
+    {
+      "id": "experiment",
+      "path": "experiment_v0.1.md",
+      "short_title": "凪実験章",
+      "topics": [
+        "社会実験",
+        "検証",
+        "停止条件",
+        "修復"
+      ],
+      "related": [
+        "transition-crisis",
+        "institutional-design",
+        "public-thought-method",
+        "institutional-immunity"
+      ]
+    },
+    {
+      "id": "public-thought-method",
+      "path": "public_thought_method.md",
+      "short_title": "公開思想を育てる方法",
+      "topics": [
+        "公開思想",
+        "説明責任",
+        "批判",
+        "編集"
+      ],
+      "related": [
+        "rebreathing",
+        "cultural-stewardship",
+        "experiment",
+        "institutional-immunity"
+      ]
+    },
+    {
+      "id": "cultural-stewardship",
+      "path": "cultural_stewardship.md",
+      "short_title": "文化的スチュワードシップ",
+      "topics": [
+        "文化",
+        "継承",
+        "スチュワードシップ",
+        "説明責任"
+      ],
+      "related": [
+        "culture",
+        "public-thought-method",
+        "rebreathing"
+      ]
+    },
+    {
+      "id": "rebreathing",
+      "path": "rebreathing_and_public_continuity.md",
+      "short_title": "再呼吸と公開継承",
+      "topics": [
+        "再呼吸",
+        "継承",
+        "同意",
+        "プライバシー",
+        "修復"
+      ],
+      "related": [
+        "memory-consent",
+        "public-thought-method",
+        "cultural-stewardship",
+        "institutional-immunity"
+      ]
+    },
+    {
+      "id": "reading-guide",
+      "path": "nagi_reading_guide.md",
+      "short_title": "凪の読書案内",
+      "topics": [
+        "読書案内",
+        "未来社会思想",
+        "研究"
+      ],
+      "related": [
+        "future-social-philosophy",
+        "faq",
+        "glossary"
+      ]
+    },
+    {
+      "id": "faq",
+      "path": "faq.md",
+      "short_title": "凪プロジェクト FAQ",
+      "topics": [
+        "FAQ",
+        "未来社会思想",
+        "AI倫理",
+        "非所有"
+      ],
+      "related": [
+        "future-social-philosophy",
+        "reading-guide",
+        "glossary"
+      ]
+    },
+    {
+      "id": "research-links",
+      "path": "links.md",
+      "short_title": "外部リソース台帳",
+      "topics": [
+        "研究資料",
+        "コモンズ",
+        "基礎サービス",
+        "AI倫理",
+        "データ保護",
+        "気候正義"
+      ],
+      "related": [
+        "future-social-philosophy",
+        "public-thought-method",
+        "ecology",
+        "ai-charter"
+      ]
+    },
+    {
+      "id": "glossary",
+      "path": "glossary.md",
+      "short_title": "凪用語集",
+      "topics": [
+        "用語集",
+        "非所有",
+        "共鳴",
+        "呼吸",
+        "共鳴民主主義"
+      ],
+      "related": [
+        "future-social-philosophy",
+        "faq",
+        "nagi-core"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 ---
 layout: default
+lang: ja
 title: "非所有の社会制度化"
+description: "身体、住まい、私生活、記憶、創作者人格を守りながら、土地・資源・知識・文化・データ・公共基盤の支配的独占をほどく制度原則。"
 status: current
 last_updated: 2026-07-26
 ---

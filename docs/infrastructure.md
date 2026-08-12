@@ -1,11 +1,17 @@
 ---
 layout: default
 title: "凪における社会インフラとAIの役割"
-status: current
+status: superseded
+robots: "noindex, follow"
+sitemap: false
 description: "水、電気、通信、交通、医療、教育、文化などの社会インフラと、任意で分散したAI支援の役割・限界を示す。"
+last_updated: 2026-08-12
+archive_note: "この短い章の内容は、生命基盤コモンズ、社会的装置の倫理、凪技術の基盤へ分けて統合されました。"
 ---
 
 # 凪における社会インフラとAIの役割
+
+> **現行文書**：[生命基盤コモンズ](vital_commons.html) ／ [社会的装置の倫理](ethics_of_social_infrastructure.html) ／ [凪技術の基盤](technical/foundation_v1.html)
 
 社会インフラは、目立つ支配の道具ではなく、誰もが生活を続けられるための見えにくい支えである。
 

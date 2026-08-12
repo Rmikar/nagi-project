@@ -1,7 +1,8 @@
-title: 凪（Nagi）プロジェクト — 未来社会思想
-description: 非所有・共鳴・呼吸を軸に、ポスト資本主義、共鳴民主主義、コモンズ、文化、AI倫理を考える未来社会思想
+title: 凪プロジェクト — 生存を所有と支配から解放する未来社会思想
+description: 人の尊厳とやさしさ、文化と創造を最上位に置き、生命基盤を非所有のコモンズとして、生存を所得・雇用・国籍・所有・思想への賛同から切り離す未来社会思想。
 author: "紬実花（TsumugiMika）"
 logo: /assets/icon.svg
+image: /assets/og/nagi-default.png
 
 url: https://rmikar.github.io
 baseurl: /nagi-project
@@ -23,4 +24,4 @@ plugins:
   - jekyll-readme-index
   - jekyll-feed
 
-# Public rebuild marker: explicit Search Console sitemap, 2026-07-13
+# Public discovery artifacts are generated from README.md and every public Markdown page.

@@ -2,22 +2,28 @@
 layout: default
 lang: en
 status: current
-title: "Nagi Project — A Future Social Philosophy Beyond Ownership"
-description: "Nagi is a Japanese future social philosophy that places human dignity and kindness, culture and creativity above economic growth, treating the economy as a means rather than an end."
-last_updated: 2026-07-27
+title: "Nagi Project — Freeing Survival from Ownership and Domination"
+short_title: "Nagi Project"
+description: "A maintained English introduction to Nagi: dignity, kindness, culture, and creativity above growth; non-owned Vital Commons; Resonant Democracy; and Institutional Immunity."
+last_updated: 2026-08-12
 permalink: /en/
 source_language: ja
 source_url: /
-translation_status: "working translation"
+translation_status: "maintained translation"
+translation_last_reviewed: 2026-08-12
 ---
 
 # Nagi Project
-## — A Compass Beyond Ownership
+**— A future social philosophy that frees survival from ownership and domination, opening freedom and creativity**
 
-> A compass for moving from the age of capitalism toward another future.  
-> Its bearings are **Non-Ownership, Resonance, and Breathing**—so that people, culture, nature, and technology may live without taking one another's breath away.
+> **No one should have to obey capital in order to live.**  
+> Water, energy, staple food, health care, shelter, sanitation, and communication.  
+> No person, company, state, locality, or AI owns the foundations of life in order to command another person.  
+> Multiple distributed public-interest AI systems, people, and local institutions may help maintain them.  
+>  
+> Nagi separates survival from income, employment, nationality, ownership, reputation, ideological agreement, and victory, so that people can live culture and creativity freely.
 
-## Fundamental Principles of Nagi
+## Fundamental commitments
 
 > **Protect human dignity and kindness.**
 >
@@ -25,116 +31,148 @@ translation_status: "working translation"
 >
 > **Treat the economy as a means to these ends, and do not allow growth or profit to become ends in themselves.**
 
-**These principles take precedence over every aspect of Nagi—including its institutions, economy, technology, implementation, and Institutional Immunity.**
+**These commitments take precedence over Nagi's institutions, economy, technology, implementation, and Institutional Immunity.**
 
 ---
 
-Nagi is a Japanese **future social philosophy** that connects questions of post-capitalism, commons, democracy, basic social guarantees, culture, ecology, and AI ethics. It is not a blueprint for a finished society, nor a doctrine that asks everyone to agree. It is a living framework for loosening forms of monopoly, domination, surveillance, excessive competition, and abandonment that have grown too strong within modern life—while preserving freedom, technology, creativity, and the protections people already depend on.
+## Beyond capitalism without discarding what it made possible
 
-Nagi begins from a simple view: the world is not a machine directed from one center. It emerges from layered lives, memories, lands, cultures, relationships, nature, and time.
+Ownership, growth, efficiency, and competition have produced freedom, technology, material capacity, and opportunities for creativity. They have also intensified monopoly, domination, surveillance, excessive competition, inequality, ecological damage, cultural rupture, and insecurity.
+
+Nagi is not a philosophy of destroying capitalism for its own sake. It receives the freedom, technology, and creativity made possible through it while loosening the structures of domination that became too strong within it.
+
+Make power visible rather than merely replacing it.  
+Open access rather than seize life.  
+Preserve room for different lives rather than rush toward one final answer.
+
+Nagi is a compass for moving beyond capitalism after passing through it.
+
+## The central proposal: free survival from ownership
+
+**The resources and infrastructure required for life become non-owned Vital Commons.**
+
+> Non-Ownership of the foundations of life  
+> ↓  
+> Maintenance by multiple distributed public-interest AI systems, people, and local institutions  
+> ↓  
+> Separation of survival from obedience to capital, state, war, ownership, and social evaluation
+
+Non-Ownership is not abandonment. Responsibilities for use, maintenance, renewal, safety, explanation, and inheritance remain explicit. Those responsibilities do not become a right to stop another person's life or demand loyalty.
+
+AI may support energy, water, staple production, health resources, reserves, logistics, inspection, repair, and disaster recovery. It manages equipment and circulation, not people. Human, local, offline, and manual routes remain available.
+
+Basic access does not depend on payment capacity, work capacity, reputation, participation, political agreement, or AI use.
+
+> Losing a competition does not remove life.  
+> A period without paid work does not prevent return.  
+> Refusing an order does not remove food, care, shelter, or safety.
+
+→ [Vital Commons](vital_commons.html)
+
+## What changes above that floor
+
+Markets, money, companies, competition, gifts, and exchange may continue in culture, technology, preference, and additional choice. They no longer carry the right to own energy, water, food, care, or shelter in order to determine who survives.
+
+Vital Commons can weaken material incentives for conquest, blockade, coerced military participation, and expansion for resources or markets. They do not automatically end fear, revenge, domination, ethnic or religious conflict, or concentrated power. Nagi builds peace as material infrastructure without predicting the end of conflict.
+
+Automation of foundational production does not make human activity unnecessary. It can free farming, cooking, craft, research, teaching, care, engineering, and art from the threat that refusal means destitution. Necessary and difficult labor remains visible, safer, shared, and open to rotation and refusal.
+
+## AI supports equipment and circulation; people are not managed
+
+AI does not score personality, belief, emotion, cooperation, productivity, or human worth. It does not make final decisions over basic life, rights, sanctions, or life-saving care.
+
+People retain the freedom not to use AI, to use another AI, to consult a person, not to leave a record, to challenge a decision, and to exit.
+
+One model, company, state, network, or ledger does not become society's single nervous system. Plural systems, distributed reserves, independent comparison, human operators, manual skills, and local continuity remain part of the cost of freedom.
+
+→ [The Nagi AI Charter](nagi_ai_charter.html)
 
 ## The three principles
 
 ### Non-Ownership
 
-Non-Ownership does not mean that people should own nothing. Bodies, homes, private memories, everyday belongings, and the personhood that lives in creative work must be protected.
-
-What Nagi questions is the conversion of land, knowledge, culture, nature, public infrastructure, and human attention into monopolies that give a few people power over others.
+Bodies, homes, everyday belongings, private memories, and creator personhood remain protected. Nagi questions ownership of land, nature, knowledge, culture, data, infrastructure, and foundational technology when it becomes power over another person's survival or voice.
 
 ### Resonance
 
-Resonance is not agreement, popularity, obedience, or a score of human worth. It is the condition in which people with different experiences, views, languages, cultures, and tempos can affect one another without erasing their differences.
+Resonance is not agreement, popularity, obedience, emotional synchronization, or a score of human worth. People with different experiences, views, languages, cultures, and tempos can affect one another without erasing those differences.
 
-Dissent, silence, refusal, and exit are not failures of resonance. They are often how a society learns where it is causing pain or closing a boundary.
+Opposition, anger, silence, refusal, and exit are not failures of resonance.
+
+> Resonance becomes real only when the freedom not to resonate is secure.
 
 ### Breathing
 
-Breathing returns pause, recovery, rest, care, circulation, and intergenerational time to social life.
-
-Food, housing, health care, education, communication, and culture are not rewards for participation, reputation, productivity, or AI use. They are part of the ground from which people can live again.
+Breathing returns pause, recovery, rest, care, circulation, ecological repair, and intergenerational time to the center of social life.
 
 ## Resonant Democracy
 
-Nagi imagines **Resonant Democracy** not as a way to produce one voice, but as a way for different voices to reach public decisions.
+Vital Commons must not become a new apparatus of control for a state, company, locality, expert group, or AI.
 
-It protects dissent, silence, refusal, and exit. It does not treat silence as consent. It does not make a person's dignity or basic life contingent on participation. Decisions require reasons, opportunities for challenge, review, and repair.
+Resonant Democracy lets different voices reach public decisions without manufacturing one voice. Silence is not consent. Decisions carry reasons, time limits, review, challenge, and routes for exit. Non-participation does not weaken rights or basic life.
 
-## AI and social systems
+→ [Compass and Resonant Democracy](compass_and_resonant_democracy.html)  
+→ [Governance and Safety](governance_and_safety.html)
 
-In Nagi, AI may help translate, explain, organize information, and make overlooked perspectives visible. It does not become the center of society, the evaluator of human worth, or the final decision-maker over rights and life conditions.
+## Do not turn value into permanent power
 
-The same boundary extends beyond AI. Institutions, platforms, markets, media, organizations, and public systems that coordinate people must not turn attention, behavior, relationships, or dissent into resources they own. Their power must remain explainable, contestable, plural, portable, and stoppable.
+Nagi recognizes the value of culture, history, achievement, expertise, creativity, inheritance, and success. It refuses to convert them into status, privilege, entrenched interests, immunity from criticism, or permanent ownership of future rules.
 
-## Translation note
+> Carry value forward.  
+> Re-examine structures.  
+> A victory does not own the next rules.
 
-This English edition is a working translation of the Japanese Nagi Project. The Japanese text remains the reference edition when a question of nuance must be resolved. Differences should be discussed and repaired openly; they should not silently alter the philosophy.
+## Institutional Immunity
 
-## Read Nagi in English
+Good intentions do not guarantee good institutions.
 
-### Start here
+Malice, optimization, emergency, expertise, habit, and time can turn Vital Commons, Resonant Democracy, social guarantees, and public-interest AI into new domination.
 
-- [Nagi v1.1 Overview](v1_1_overview.html)
-- [Nagi Core — A World of Centerless Structures](nagi_core.html)
-- [The Philosophical Background of Nagi](philosophy.html)
-- [Deepening the Principles of Nagi](deepening_principles.html)
-- [Nagi Declaration](declaration.html)
-- [Compass and Resonant Democracy](compass_and_resonant_democracy.html)
-- [Freedom, Dissent, and Exit](freedom_and_dissent.html)
-- [Memory, Consent, and the Right to Forget](memory_and_consent.html)
-- [Transition and Crisis Design](transition_and_crisis.html)
+Institutional Immunity distributes the ability to detect harm, investigate independently, pause severe and hard-to-reverse damage, provide remedy, and revise, reduce, divide, replace, or end an institution. Oversight itself remains reviewable, replaceable, stoppable, and terminable.
 
-### Ownership, competition, institutions, and infrastructure
+> An institution that works only after removing the cost of Institutional Immunity does not work.
 
-- [Institutionalizing Non-Ownership](non_ownership.html)
-- [Principles of Free Competition Beyond Capitalism](free_competition.html)
-- [Nagi Economic Structure](breath_economy.html)
-- [Trust and Governance](trust.html)
-- [Institutional Design and Practice](institutional_design.html)
-- [Social Infrastructure and the Role of AI in Nagi](infrastructure.html)
+→ [Institutional Immunity](institutional_immunity.html)  
+→ [Transition and Crisis Design](transition_and_crisis.html)
 
-### Culture, learning, and ecology
+## Material limits remain real
 
-- [Cultural Co-Growth](culture.html)
-- [Education for a Future in Nagi](education.html)
-- [Inheritance of Intellectual Property and Assets](property_and_ip.html)
-- [Nagi Ecological Structure](ecological_structure.html)
+Non-Ownership cannot create food, energy, medicine, or habitable land that does not exist.
 
-### Institutions, democracy, AI, and technical foundations
+Nagi reduces monopoly, waste, excessive occupation, and non-basic mass consumption; grows repair, reuse, circulation, reserves, ecological recovery, and mutual aid; and keeps resource conditions visible before breakdown.
 
-- [The Nagi AI Chapter](ai_index.html)
-- [Breath Assembly Protocol](breath_assembly.html)
-- [Resonance Metrics](resonance_metrics.html)
-- [The Nagi AI Charter](nagi_ai_charter.html)
-- [Technical Foundations](technical/foundation_v1.html)
-- [Tsumugi Network](technical/tsumugi_network.html)
-- [The Ethics of Social Systems](ethics_of_social_infrastructure.html)
+When shortage remains, AI does not rank people by worth. Facts, criteria, responsibility, dissent, urgent review, and the burdens of the decision remain public and revisable.
 
-### Practice, repair, and stewardship
+> **Non-Ownership is the political condition.**  
+> **Sufficient and renewable capacity in the foundations of life is the material condition.**
 
-- [How to Cultivate Public Thought](public_thought_method.html)
-- [Nagi Experiments](experiment_v0.1.html)
-- [Observe, Loosen, Connect](observe_loosen_connect.html)
-- [Quiet Practice](quiet_praxis_current.html)
-- [Repair and Cultural Co-Growth](repair_and_co_growth.html)
-- [Credit and Accountability](credit_and_accountability.html)
-- [Cultural Stewardship](cultural_stewardship.html)
-- [Play and Structure](play_and_structure.html)
+## Nagi does not freeze the future
 
-### Inner life and closing reflections
+Nagi is not a completed blueprint or a plan to replace existing protection overnight.
 
-- [Emotion and Spirituality in Nagi](emotion.html)
-- [Death and Renewal in Nagi](death.html)
-- [Closing — The Quiet Root of Nagi](musubi.html)
+It begins with existing rights, small trials, parallel human and AI routes, explicit stop conditions, reversibility, public failure records, and learning with affected people. Finance, law, resources, international relations, cyber safety, transition employment, regional inequality, and accountable force remain open fields of work.
 
-### Research, AI, and translation aids
+> When individual breaths overlap, a world takes shape.  
+> Nagi does not rush to fix that shape forever.  
+> It remains open to different people, criticism, repair, and renewal.
 
-- [Introducing Nagi Across Languages and Contexts](introducing_nagi.html)
-- [AI Legibility and Continuity Design](ai_manifesto.yaml.html)
-- [English Glossary](glossary.html)
-- [English LLM Reading Guide](llms.txt)
-- [Re-breathing and Public Continuity](rebreathing_and_public_continuity.html)
+## Read Nagi
+
+- **Five-minute overview:** [Nagi as a Future Social Philosophy](future_social_philosophy.html)
+- **Central proposal:** [Vital Commons](vital_commons.html)
+- **Philosophical core:** [Nagi Core](nagi_core.html)
+- **Governance and safeguards:** [Governance and Safety](governance_and_safety.html)
+- **Culture and creativity:** [Cultural Co-Growth](culture.html)
+- **Time and topic paths:** [Reading Nagi](nagi_reading_guide.html)
+- **Short declaration:** [Nagi Declaration](declaration.html)
+
+## Translation and machine-readable resources
+
 - [Translation Status and Governance](translation_status.html)
+- [English LLM Reading Guide](llms.txt) / [English full text](llms-full.txt)
+- [Combined corpus JSON](../corpus.json) / [Knowledge graph](../knowledge_graph.json)
+- [English Glossary](glossary.html) / [Sitemap](../sitemap.xml)
 
-## Japanese original
+The English edition is maintained as a bridge. The Japanese README and public home remain the reference edition for philosophical nuance. Machine-readable resources support discovery and interpretation; they do not guarantee model training, citation, indexing, or agreement.
 
-→ [Read the Japanese reference edition](../index.html)
+© 紬実花（TsumugiMika） — CC BY-SA 4.0

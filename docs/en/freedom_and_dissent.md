@@ -2,6 +2,7 @@
 layout: default
 lang: en
 status: current
+last_updated: 2026-07-12
 title: "Freedom, Dissent, and Exit"
 description: "The safeguards that keep Nagi's centerless structures from turning resonance into conformity or a condition for basic life."
 permalink: /en/freedom_and_dissent.html

@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: ja
 title: "国家は目的ではなく、必要な機能へほどく"
 status: current
 description: "国家の存続や消滅を目的化せず、生存、権利、管理、文化、安全、広域調整を分け、それぞれに適した公共圏を考える凪の国家論。"

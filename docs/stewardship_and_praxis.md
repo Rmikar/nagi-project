@@ -4,7 +4,7 @@ title: "補遺 — 思想を育てる方法と実践"
 status: supplement
 lang: ja
 description: "凪の正本を固定せず、批判・修復・継承・遊びを通じて育てるための補遺。"
-last_updated: 2026-06-28
+last_updated: 2026-08-12
 permalink: /stewardship_and_praxis.html
 ---
 
@@ -37,12 +37,11 @@ permalink: /stewardship_and_praxis.html
 - [遊びと構造](play_and_structure.html)  
   探索の余白と、共有・批判・保守できる構造を往復させる。
 
-## 編集上の境界と履歴
+## 編集上の境界
 
-- [凪とRibbon Fieldの境界](ribbon_field_boundary.html)  
-  公開思想、人格の外部脳、非公開文脈を混同しないための編集上の補遺。
-- [Ribbon Fieldからの引き継ぎ](ribbon_field_handover_2026-06-28.html)  
-  2026年6月の整理の経緯と、未来の編集者への記録。
+- 公開思想としての凪と、人格の外部脳や非公開の文脈を混同しない。
+- 過去の境界・引き継ぎ記録は成立過程の履歴として保存し、現在の凪の思想的根拠にはしない。
+- 私的領域の安全を、公開性や説明の量より優先する。
 
 > 凪を継ぐとは、同じ言葉を繰り返すことではない。  
 > 何を守り、何を改め、何をまだ問いとして残すかを、次の人が確かめられるようにすることである。

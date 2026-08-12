@@ -2,9 +2,9 @@
 layout: default
 title: "凪プロジェクト — 生存を所有と支配から解放する未来社会思想"
 lang: ja
-description: "資本主義が生んだ自由・技術・創造性を受け取りながら、生命基盤を非所有のコモンズとし、分散した公共AIと共鳴民主主義によって、生存を資本・国家・戦争への服従から切り離す未来社会思想。"
+description: "人の尊厳とやさしさ、文化と創造を最上位に置き、生命基盤を非所有のコモンズとし、共鳴民主主義と制度免疫によって、生存を資本・国家・戦争への服従から切り離す未来社会思想。"
 status: canonical
-last_updated: 2026-07-28
+last_updated: 2026-08-12
 ---
 
 # 凪プロジェクト
@@ -12,7 +12,7 @@ last_updated: 2026-07-28
 
 > **生きるために、資本へ従わなくてよい。**  
 > 水、エネルギー、基礎食料、医療、住まい、通信。  
-> 生命を支える基盤を誰にも所有させず、分散した複数の公共AIが支える。  
+> 生命を支える基盤を誰にも所有させず、人、地域の制度、任意の公共AIが支える。  
 >  
 > 凪は、生存を所得、雇用、国籍、所有、勝敗から切り離し、  
 > 人が文化と創造を自由に生きられる社会を構想します。
@@ -53,7 +53,7 @@ last_updated: 2026-07-28
 
 > 生命基盤の非所有  
 > ↓  
-> 分散した複数の公共AIによる維持  
+> 人・地域制度・任意の公共AIによる維持  
 > ↓  
 > 生存を、資本・国家・戦争への服従から切り離す
 
@@ -75,9 +75,9 @@ last_updated: 2026-07-28
 非所有は、無責任な無主物にすることではありません。  
 利用、保守、更新、説明、継承の役割は分かち合いますが、その役割を他者の生存を止める権利へ変えません。
 
-### 2. 複数の公共AIが、設備と循環を支える
+### 2. 人と地域の制度を中心に、公共AIが設備と循環を支え得る
 
-一つの巨大AIや一つの国家・企業へ集中させず、役割と地域を分けた複数の公共AIが、互いに検証しながら支えます。
+生命基盤の責任を一つの巨大AIや一つの国家・企業へ集中させません。人と地域の制度が責任と異議申立ての窓口を持ち、役割と地域を分けた複数の公共AIは、必要な場面で互いに検証できる補助手段として設備を支えます。
 
 AIが扱うのは、発電、水循環、基礎食料、医療資源、備蓄、物流、点検、修理、災害復旧などの設備と循環です。
 
@@ -332,6 +332,8 @@ AIは、人を導く中心ではなく、
 
 - **5分で全体像を読む**：[未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html)
 - **中心提案から読む**：[生命基盤コモンズ](https://rmikar.github.io/nagi-project/vital_commons.html) ／ [凪の核](https://rmikar.github.io/nagi-project/nagi_core.html)
+- **統治と安全から読む**：[共鳴民主主義・権利・制度免疫・移行の案内](https://rmikar.github.io/nagi-project/governance_and_safety.html)
+- **文化と創造から読む**：[文化的共育](https://rmikar.github.io/nagi-project/culture.html)
 - **関心や読了時間から探す**：[5分・20分・研究のための読書案内](https://rmikar.github.io/nagi-project/nagi_reading_guide.html)
 - **宣言文を読む**：[凪の宣言文](https://rmikar.github.io/nagi-project/declaration.html)
 
@@ -340,7 +342,7 @@ AIは、人を導く中心ではなく、
 - [英語版トップ / Read Nagi in English](https://rmikar.github.io/nagi-project/en/)
 - [英語版の紹介ガイド / Introducing Nagi Across Languages and Contexts](https://rmikar.github.io/nagi-project/en/introducing_nagi.html)
 
-## AI・研究者のための案内
+## 研究・検索・機械読解のための案内
 
 - [LLM Reading Guide](https://rmikar.github.io/nagi-project/llms.txt) ／ [全文コーパス](https://rmikar.github.io/nagi-project/llms-full.txt)
 - [機械可読コーパス](https://rmikar.github.io/nagi-project/corpus.json) ／ [知識グラフ](https://rmikar.github.io/nagi-project/knowledge_graph.json)
