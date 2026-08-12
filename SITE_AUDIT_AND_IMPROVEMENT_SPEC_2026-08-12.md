@@ -107,6 +107,7 @@
 7. サイトマップ集合、lastmod、hreflang、x-defaultがレジストリと異なる。
 8. OGP画像がPNG 1200×630でない。
 9. READMEと`docs/index.md`、または生成物が古い。
+10. GitHub Pages互換のJekyll実ビルドが失敗する。
 
 ## 実装後の受け入れ結果
 
