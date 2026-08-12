@@ -86,6 +86,8 @@ pages:
     ja: "/nagi_ai_charter.html"
   "/en/nagi_core.html":
     ja: "/nagi_core.html"
+  "/en/nagi_os.html":
+    ja: "/nagi_os.html"
   "/en/nagi_reading_guide.html":
     ja: "/nagi_reading_guide.html"
   "/en/non_ownership.html":
@@ -146,6 +148,8 @@ pages:
     en: "/en/nagi_ai_charter.html"
   "/nagi_core.html":
     en: "/en/nagi_core.html"
+  "/nagi_os.html":
+    en: "/en/nagi_os.html"
   "/nagi_reading_guide.html":
     en: "/en/nagi_reading_guide.html"
   "/non_ownership.html":

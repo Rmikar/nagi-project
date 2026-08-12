@@ -1173,6 +1173,7 @@
       ],
       "related": [
         "en-home",
+        "en-nagi-os",
         "en-vital-commons",
         "en-institutional-design",
         "en-nagi-core",
@@ -1190,7 +1191,7 @@
       "translation": "future-social-philosophy",
       "translation_status": "maintained translation",
       "translation_last_reviewed": "2026-08-12",
-      "source_last_updated": "2026-07-26",
+      "source_last_updated": "2026-08-12",
       "translation_needs_review": false
     },
     {
@@ -1311,6 +1312,7 @@
         "en-governance-and-safety",
         "en-institutional-immunity",
         "en-transition-and-crisis",
+        "en-nagi-os",
         "en-future-social-philosophy",
         "en-nagi-core",
         "en-culture",
@@ -1611,6 +1613,48 @@
       "translation_needs_review": true
     },
     {
+      "id": "en-nagi-os",
+      "path": "en/nagi_os.md",
+      "url": "en/nagi_os.html",
+      "title": "A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor",
+      "short_title": "Nagi OS as a Metaphor",
+      "status": "current",
+      "type": "philosophical-context",
+      "role": "Philosophical context",
+      "summary": "An explanatory model of Nagi as a shared foundation for plural social philosophies and ways of life, grounded in Vital Commons, basic rights, exit, Resonant Democracy, and Institutional Immunity.",
+      "language": "en",
+      "last_updated": "2026-08-12",
+      "indexable": true,
+      "robots": "index, follow",
+      "topics": [
+        "Nagi OS",
+        "plural society",
+        "coexistence of social philosophies",
+        "Vital Commons",
+        "Resonant Democracy",
+        "right of exit",
+        "Institutional Immunity",
+        "solarpunk",
+        "free markets"
+      ],
+      "related": [
+        "en-home",
+        "en-future-social-philosophy",
+        "en-vital-commons",
+        "en-institutional-immunity",
+        "en-freedom-and-dissent",
+        "en-compass-and-resonant-democracy",
+        "en-state-and-public-spheres"
+      ],
+      "parent": "en-home",
+      "translation_of": "nagi-os",
+      "translation": "nagi-os",
+      "translation_status": "maintained translation",
+      "translation_last_reviewed": "2026-08-12",
+      "source_last_updated": "2026-08-12",
+      "translation_needs_review": false
+    },
+    {
       "id": "en-nagi-reading-guide",
       "path": "en/nagi_reading_guide.md",
       "url": "en/nagi_reading_guide.html",
@@ -1628,6 +1672,7 @@
       "related": [
         "en-home",
         "en-future-social-philosophy",
+        "en-nagi-os",
         "en-glossary",
         "faq",
         "en-nagi-core",
@@ -1640,8 +1685,7 @@
         "en-institutional-design",
         "en-ethics-of-social-infrastructure",
         "en-institutional-immunity",
-        "en-state-and-public-spheres",
-        "en-transition-and-crisis"
+        "en-state-and-public-spheres"
       ],
       "parent": "en-home",
       "translation_of": "reading-guide",
@@ -2499,7 +2543,7 @@
       "role": "位置づけと哲学的背景",
       "summary": "凪（Nagi Project）を未来の社会思想として読むための入口。非所有・共鳴・呼吸を軸に、ポスト資本主義、コモンズ、脱成長、民主主義、AI倫理との関係、制度案と未解決の課題を整理する。",
       "language": "ja",
-      "last_updated": "2026-07-26",
+      "last_updated": "2026-08-12",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -2526,12 +2570,12 @@
         "institutional-design",
         "state-public-spheres",
         "vital-commons",
+        "nagi-os",
         "declaration",
         "freedom-dissent-exit",
         "social-infrastructure-ethics",
         "transition-crisis",
-        "ai-charter",
-        "reading-guide"
+        "ai-charter"
       ],
       "parent": "home",
       "translation_of": null,
@@ -2706,6 +2750,7 @@
         "institutional-design",
         "state-public-spheres",
         "vital-commons",
+        "nagi-os",
         "ai-charter",
         "institutional-immunity",
         "resonant-democracy",
@@ -2714,8 +2759,7 @@
         "culture",
         "declaration",
         "en-home",
-        "en-introducing-nagi",
-        "faq"
+        "en-introducing-nagi"
       ],
       "parent": null,
       "translation_of": null,
@@ -3069,6 +3113,48 @@
       "translation_needs_review": false
     },
     {
+      "id": "nagi-os",
+      "path": "nagi_os.md",
+      "url": "nagi_os.html",
+      "title": "異なる生き方が共存するための社会基盤 — 凪OSという比喩",
+      "short_title": "凪OSという比喩",
+      "status": "current",
+      "type": "philosophical-context",
+      "role": "位置づけと哲学的背景",
+      "summary": "凪を一つの生き方を強制する体制ではなく、生命基盤・基本的権利・離脱・制度免疫を共通の床として、多様な社会思想やライフスタイルが共存できる社会基盤として説明する。",
+      "language": "ja",
+      "last_updated": "2026-08-12",
+      "indexable": true,
+      "robots": "index, follow",
+      "topics": [
+        "凪OS",
+        "多元社会",
+        "社会思想の共存",
+        "生命基盤コモンズ",
+        "共鳴民主主義",
+        "離脱の権利",
+        "制度免疫",
+        "ソーラーパンク",
+        "自由市場"
+      ],
+      "related": [
+        "home",
+        "future-social-philosophy",
+        "vital-commons",
+        "freedom-dissent-exit",
+        "resonant-democracy",
+        "institutional-immunity",
+        "state-public-spheres"
+      ],
+      "parent": "home",
+      "translation_of": null,
+      "translation": "en-nagi-os",
+      "translation_status": null,
+      "translation_last_reviewed": null,
+      "source_last_updated": null,
+      "translation_needs_review": false
+    },
+    {
       "id": "reading-guide",
       "path": "nagi_reading_guide.md",
       "url": "nagi_reading_guide.html",
@@ -3090,6 +3176,7 @@
       "related": [
         "home",
         "future-social-philosophy",
+        "nagi-os",
         "faq",
         "glossary",
         "nagi-core",
@@ -3102,8 +3189,7 @@
         "social-infrastructure-ethics",
         "institutional-immunity",
         "vital-commons",
-        "transition-crisis",
-        "non-ownership"
+        "transition-crisis"
       ],
       "parent": "home",
       "translation_of": null,
@@ -4021,6 +4107,7 @@
         "breath-economy",
         "non-ownership",
         "free-competition",
+        "nagi-os",
         "ecology",
         "ai-charter",
         "technical-foundation",

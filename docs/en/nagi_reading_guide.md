@@ -25,6 +25,8 @@ Read [Nagi as a Future Social Philosophy](future_social_philosophy.html).
 
 It introduces the highest commitments, Non-Ownership, Resonance, Breathing, Vital Commons, Resonant Democracy, Institutional Immunity, AI boundaries, nearby fields, strong objections, and unresolved questions.
 
+For how Nagi supports different social philosophies and ways of life without prescribing one final model, read [Nagi OS as a Metaphor](nagi_os.html).
+
 If you already have a specific question, begin with the [English Glossary](glossary.html) or the Japanese [FAQ](../faq.html).
 
 ## Twenty minutes — the core
@@ -52,6 +54,7 @@ Add the following to the twenty-minute path.
 ### Future society and post-capitalism
 
 - [Nagi as a Future Social Philosophy](future_social_philosophy.html)
+- [A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor](nagi_os.html)
 - [Vital Commons](vital_commons.html)
 - [Institutionalizing Non-Ownership](non_ownership.html)
 - [Free Competition Beyond Capitalism](free_competition.html)

@@ -401,6 +401,15 @@
       "documentType": "philosophical-core"
     },
     {
+      "id": "document:en-nagi-os",
+      "kind": "document",
+      "label": "A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor",
+      "url": "https://rmikar.github.io/nagi-project/en/nagi_os.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "philosophical-context"
+    },
+    {
       "id": "document:en-nagi-reading-guide",
       "kind": "document",
       "label": "Reading Nagi — Five Minutes, Twenty Minutes, One Hour, and Research Paths",
@@ -707,6 +716,15 @@
       "documentType": "philosophical-core"
     },
     {
+      "id": "document:nagi-os",
+      "kind": "document",
+      "label": "異なる生き方が共存するための社会基盤 — 凪OSという比喩",
+      "url": "https://rmikar.github.io/nagi-project/nagi_os.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "philosophical-context"
+    },
+    {
       "id": "document:reading-guide",
       "kind": "document",
       "label": "凪の読書案内 — 5分・20分・研究のための読み方",
@@ -908,6 +926,11 @@
       "label": "Institutional Immunity"
     },
     {
+      "id": "concept:Nagi OS",
+      "kind": "concept",
+      "label": "Nagi OS"
+    },
+    {
       "id": "concept:Non-Ownership",
       "kind": "concept",
       "label": "Non-Ownership"
@@ -921,6 +944,11 @@
       "id": "concept:Vital Commons",
       "kind": "concept",
       "label": "Vital Commons"
+    },
+    {
+      "id": "concept:coexistence of social philosophies",
+      "kind": "concept",
+      "label": "coexistence of social philosophies"
     },
     {
       "id": "concept:culture",
@@ -948,6 +976,11 @@
       "label": "food security"
     },
     {
+      "id": "concept:free markets",
+      "kind": "concept",
+      "label": "free markets"
+    },
+    {
       "id": "concept:future social philosophy",
       "kind": "concept",
       "label": "future social philosophy"
@@ -966,6 +999,11 @@
       "id": "concept:peace infrastructure",
       "kind": "concept",
       "label": "peace infrastructure"
+    },
+    {
+      "id": "concept:plural society",
+      "kind": "concept",
+      "label": "plural society"
     },
     {
       "id": "concept:polycentric oversight",
@@ -998,9 +1036,19 @@
       "label": "remedy"
     },
     {
+      "id": "concept:right of exit",
+      "kind": "concept",
+      "label": "right of exit"
+    },
+    {
       "id": "concept:rights",
       "kind": "concept",
       "label": "rights"
+    },
+    {
+      "id": "concept:solarpunk",
+      "kind": "concept",
+      "label": "solarpunk"
     },
     {
       "id": "concept:state",
@@ -1036,6 +1084,11 @@
       "id": "concept:スチュワードシップ",
       "kind": "concept",
       "label": "スチュワードシップ"
+    },
+    {
+      "id": "concept:ソーラーパンク",
+      "kind": "concept",
+      "label": "ソーラーパンク"
     },
     {
       "id": "concept:データ保護",
@@ -1153,6 +1206,11 @@
       "label": "再呼吸"
     },
     {
+      "id": "concept:凪OS",
+      "kind": "concept",
+      "label": "凪OS"
+    },
+    {
       "id": "concept:凪プロジェクト",
       "kind": "concept",
       "label": "凪プロジェクト"
@@ -1256,6 +1314,11 @@
       "id": "concept:多中心統治",
       "kind": "concept",
       "label": "多中心統治"
+    },
+    {
+      "id": "concept:多元社会",
+      "kind": "concept",
+      "label": "多元社会"
     },
     {
       "id": "concept:学び直し",
@@ -1443,6 +1506,11 @@
       "label": "社会実験"
     },
     {
+      "id": "concept:社会思想の共存",
+      "kind": "concept",
+      "label": "社会思想の共存"
+    },
+    {
       "id": "concept:社会構想",
       "kind": "concept",
       "label": "社会構想"
@@ -1513,6 +1581,11 @@
       "label": "自由"
     },
     {
+      "id": "concept:自由市場",
+      "kind": "concept",
+      "label": "自由市場"
+    },
+    {
       "id": "concept:記憶",
       "kind": "concept",
       "label": "記憶"
@@ -1541,6 +1614,11 @@
       "id": "concept:離脱",
       "kind": "concept",
       "label": "離脱"
+    },
+    {
+      "id": "concept:離脱の権利",
+      "kind": "concept",
+      "label": "離脱の権利"
     },
     {
       "id": "concept:非所有",
@@ -2976,6 +3054,11 @@
     },
     {
       "source": "document:en-future-social-philosophy",
+      "target": "document:en-nagi-os",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
       "target": "document:en-vital-commons",
       "relation": "relatedTo"
     },
@@ -3172,6 +3255,11 @@
     {
       "source": "document:en-home",
       "target": "document:en-transition-and-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-nagi-os",
       "relation": "relatedTo"
     },
     {
@@ -3525,6 +3613,96 @@
       "relation": "translationPair"
     },
     {
+      "source": "document:en-nagi-os",
+      "target": "concept:Nagi OS",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "concept:plural society",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "concept:coexistence of social philosophies",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "concept:Vital Commons",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "concept:Resonant Democracy",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "concept:right of exit",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "concept:Institutional Immunity",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "concept:solarpunk",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "concept:free markets",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "document:en-home",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "document:en-future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "document:en-vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "document:en-institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "document:en-freedom-and-dissent",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "document:en-compass-and-resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "document:en-state-and-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "document:en-home",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:en-nagi-os",
+      "target": "document:nagi-os",
+      "relation": "translationPair"
+    },
+    {
       "source": "document:en-nagi-reading-guide",
       "target": "document:en-home",
       "relation": "relatedTo"
@@ -3532,6 +3710,11 @@
     {
       "source": "document:en-nagi-reading-guide",
       "target": "document:en-future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-nagi-reading-guide",
+      "target": "document:en-nagi-os",
       "relation": "relatedTo"
     },
     {
@@ -3597,11 +3780,6 @@
     {
       "source": "document:en-nagi-reading-guide",
       "target": "document:en-state-and-public-spheres",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-nagi-reading-guide",
-      "target": "document:en-transition-and-crisis",
       "relation": "relatedTo"
     },
     {
@@ -4735,6 +4913,11 @@
     },
     {
       "source": "document:future-social-philosophy",
+      "target": "document:nagi-os",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
       "target": "document:declaration",
       "relation": "relatedTo"
     },
@@ -4756,11 +4939,6 @@
     {
       "source": "document:future-social-philosophy",
       "target": "document:ai-charter",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:reading-guide",
       "relation": "relatedTo"
     },
     {
@@ -5011,6 +5189,11 @@
     },
     {
       "source": "document:home",
+      "target": "document:nagi-os",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
       "target": "document:ai-charter",
       "relation": "relatedTo"
     },
@@ -5052,11 +5235,6 @@
     {
       "source": "document:home",
       "target": "document:en-introducing-nagi",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:faq",
       "relation": "relatedTo"
     },
     {
@@ -5560,6 +5738,96 @@
       "profileLevel": "link"
     },
     {
+      "source": "document:nagi-os",
+      "target": "concept:凪OS",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "concept:多元社会",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "concept:社会思想の共存",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "concept:生命基盤コモンズ",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "concept:共鳴民主主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "concept:離脱の権利",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "concept:制度免疫",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "concept:ソーラーパンク",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "concept:自由市場",
+      "relation": "about"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "document:home",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "document:future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "document:freedom-dissent-exit",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "document:resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "document:state-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "document:home",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "document:en-nagi-os",
+      "relation": "translationPair"
+    },
+    {
       "source": "document:reading-guide",
       "target": "concept:読書案内",
       "relation": "about"
@@ -5582,6 +5850,11 @@
     {
       "source": "document:reading-guide",
       "target": "document:future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:reading-guide",
+      "target": "document:nagi-os",
       "relation": "relatedTo"
     },
     {
@@ -5647,11 +5920,6 @@
     {
       "source": "document:reading-guide",
       "target": "document:transition-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:reading-guide",
-      "target": "document:non-ownership",
       "relation": "relatedTo"
     },
     {
@@ -6718,6 +6986,11 @@
     {
       "source": "document:vital-commons",
       "target": "document:free-competition",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:nagi-os",
       "relation": "relatedTo"
     },
     {

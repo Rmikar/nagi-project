@@ -20,6 +20,8 @@ last_updated: 2026-08-12
 
 ここで、非所有・共鳴・呼吸、価値と構造を分ける判断原則、共鳴民主主義、AIの位置づけ、近接する思想との違い、主要な反論と未解決課題を一度に確認できる。疑問が決まっている場合は [FAQ](faq.html) と [用語集](glossary.html) から入ってもよい。
 
+凪が一つの社会像を強制せず、異なる思想や暮らしの共存条件をどうつくるかは、[凪OSという比喩](nagi_os.html)で確認できる。
+
 ## 20分で中心をつかむ
 
 1. [凪の核](nagi_core.html) — 世界観と中心なき構造
@@ -44,6 +46,7 @@ last_updated: 2026-08-12
 ### 未来社会・ポスト資本主義
 
 - [未来の社会思想としての凪](future_social_philosophy.html)
+- [異なる生き方が共存するための社会基盤 — 凪OSという比喩](nagi_os.html)
 - [非所有の制度化](non_ownership.html)
 - [資本主義以後の自由競争原理](free_competition.html)
 - [呼吸経済](breath_economy.html)

@@ -295,6 +295,24 @@ AIは、人を導く中心ではなく、
 
 ---
 
+## 凪は、一つの生き方を決めない
+### —— 異なる答えが共存するための共通基盤
+
+凪は、人類に一つの正しい生き方を与える思想ではありません。
+
+生命基盤と基本的権利を、どの思想にも奪わせない共通の床として守り、その上で、人や地域が異なる価値観、経済、技術、文化、共同体を選び、組み合わせ、離れ、作り直せるようにします。
+
+ただし、他者の生存を奪い、離脱を禁じ、害や負担を他者、他地域、自然、将来世代へ押し出す自由まで保障するものではありません。
+
+> **凪が共通化するのは答えではなく、**  
+> **異なる答えが人を壊さずに共存するための条件です。**
+
+この構造は、説明のために「凪OS」と捉えることができます。OSは比喩であり、凪を一つの技術や中央の管理主体として定義するものではありません。
+
+→ [異なる生き方が共存するための社会基盤 — 凪OSという比喩](https://rmikar.github.io/nagi-project/nagi_os.html)
+
+---
+
 ## 凪は、未来を急いで固定しない
 
 凪は、完成した社会設計図ではありません。
@@ -332,6 +350,7 @@ AIは、人を導く中心ではなく、
 
 - **5分で全体像を読む**：[未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html)
 - **中心提案から読む**：[生命基盤コモンズ](https://rmikar.github.io/nagi-project/vital_commons.html) ／ [凪の核](https://rmikar.github.io/nagi-project/nagi_core.html)
+- **異なる生き方の共存から読む**：[凪OSという比喩](https://rmikar.github.io/nagi-project/nagi_os.html)
 - **統治と安全から読む**：[共鳴民主主義・権利・制度免疫・移行の案内](https://rmikar.github.io/nagi-project/governance_and_safety.html)
 - **文化と創造から読む**：[文化的共育](https://rmikar.github.io/nagi-project/culture.html)
 - **関心や読了時間から探す**：[5分・20分・研究のための読書案内](https://rmikar.github.io/nagi-project/nagi_reading_guide.html)

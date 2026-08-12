@@ -36,6 +36,7 @@
 - [Memory, Consent, and the Right to Forget](https://rmikar.github.io/nagi-project/en/memory_and_consent.html): Nagi's principles for preserving, using, inheriting, deleting, and consenting to memory while protecting dignity and the freedom to begin again.
 - [The Nagi AI Charter](https://rmikar.github.io/nagi-project/en/nagi_ai_charter.html): The limits, responsibilities, and safeguards for AI in Nagi: AI supports human freedom but does not become society's center, a human-value scorer, or a final authority over rights.
 - [Nagi Core — A World of Centerless Structures](https://rmikar.github.io/nagi-project/en/nagi_core.html): Nagi's philosophical core: dignity and kindness, cultural and creative continuity, an economy kept as a means, and a world understood through layered, centerless structures.
+- [A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor](https://rmikar.github.io/nagi-project/en/nagi_os.html): An explanatory model of Nagi as a shared foundation for plural social philosophies and ways of life, grounded in Vital Commons, basic rights, exit, Resonant Democracy, and Institutional Immunity.
 - [Reading Nagi — Five Minutes, Twenty Minutes, One Hour, and Research Paths](https://rmikar.github.io/nagi-project/en/nagi_reading_guide.html): A time- and topic-based guide to Nagi's maintained English edition: its core, Vital Commons, safeguards, culture, AI boundaries, research aids, and translation status.
 - [Institutionalizing Non-Ownership](https://rmikar.github.io/nagi-project/en/non_ownership.html): Nagi's approach to non-ownership: protect personal life and creative personhood while loosening monopolies over land, knowledge, culture, nature, and foundational technologies.
 - [The Philosophical Background of Nagi](https://rmikar.github.io/nagi-project/en/philosophy.html): A concise introduction to Nagi's world view: no state, market, company, or AI is the center; society arises from layered lives, memory, land, culture, relationships, and nature.
@@ -70,6 +71,7 @@
 - Protect human dignity and kindness, creative opportunity, and cultural continuity before preserving any institution, market, technology, or implementation.
 - The economy is a means, not an end. Growth and profit do not override these commitments.
 - Vital Commons separate basic survival from income, employment, nationality, ownership, ideological agreement, and AI use.
+- Nagi OS is a metaphor for conditions under which different philosophies and ways of life coexist. It is not software, a central administrator, or a fourth principle.
 - Non-Ownership does not abolish bodies, homes, everyday belongings, private memory, or creator personhood. It opposes ownership that becomes power over another person's survival or voice.
 - Resonance is not agreement, obedience, emotional synchronization, or a human-value score. Dissent, silence, refusal, non-participation, and exit remain protected.
 - Institutional Immunity is a distributed ability to detect harm, pause irreversible damage, provide remedy, revise systems, and end institutions. It is not a single sovereign watchdog.

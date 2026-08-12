@@ -42,6 +42,7 @@ https://rmikar.github.io/nagi-project/en/memory_and_consent.html
 https://rmikar.github.io/nagi-project/en/musubi.html
 https://rmikar.github.io/nagi-project/en/nagi_ai_charter.html
 https://rmikar.github.io/nagi-project/en/nagi_core.html
+https://rmikar.github.io/nagi-project/en/nagi_os.html
 https://rmikar.github.io/nagi-project/en/nagi_reading_guide.html
 https://rmikar.github.io/nagi-project/en/non_ownership.html
 https://rmikar.github.io/nagi-project/en/observe_loosen_connect.html
@@ -76,6 +77,7 @@ https://rmikar.github.io/nagi-project/memory_and_consent.html
 https://rmikar.github.io/nagi-project/musubi.html
 https://rmikar.github.io/nagi-project/nagi_ai_charter.html
 https://rmikar.github.io/nagi-project/nagi_core.html
+https://rmikar.github.io/nagi-project/nagi_os.html
 https://rmikar.github.io/nagi-project/nagi_reading_guide.html
 https://rmikar.github.io/nagi-project/non_ownership.html
 https://rmikar.github.io/nagi-project/observe_loosen_connect.html

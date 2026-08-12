@@ -21,7 +21,8 @@
         "reading-guide",
         "institutional-design",
         "state-public-spheres",
-        "vital-commons"
+        "vital-commons",
+        "nagi-os"
       ]
     },
     {
@@ -47,7 +48,30 @@
         "institutional-immunity",
         "institutional-design",
         "state-public-spheres",
-        "vital-commons"
+        "vital-commons",
+        "nagi-os"
+      ]
+    },
+    {
+      "id": "nagi-os",
+      "path": "nagi_os.md",
+      "short_title": "凪OSという比喩",
+      "topics": [
+        "凪OS",
+        "多元社会",
+        "社会思想の共存",
+        "生命基盤コモンズ",
+        "共鳴民主主義",
+        "離脱",
+        "制度免疫"
+      ],
+      "related": [
+        "future-social-philosophy",
+        "vital-commons",
+        "freedom-dissent-exit",
+        "resonant-democracy",
+        "institutional-immunity",
+        "state-public-spheres"
       ]
     },
     {
@@ -304,6 +328,7 @@
         "breath-economy",
         "non-ownership",
         "free-competition",
+        "nagi-os",
         "ecology",
         "ai-charter",
         "technical-foundation",
@@ -604,8 +629,31 @@
       ],
       "related": [
         "future-social-philosophy",
+        "nagi-os",
         "faq",
         "glossary"
+      ]
+    },
+    {
+      "id": "en-nagi-os",
+      "path": "en/nagi_os.md",
+      "short_title": "Nagi OS as a Metaphor",
+      "topics": [
+        "Nagi OS",
+        "plural society",
+        "coexisting social philosophies",
+        "Vital Commons",
+        "Resonant Democracy",
+        "exit rights",
+        "Institutional Immunity"
+      ],
+      "related": [
+        "en-future-social-philosophy",
+        "en-vital-commons",
+        "en-freedom-dissent-exit",
+        "en-resonant-democracy",
+        "en-institutional-immunity",
+        "en-state-public-spheres"
       ]
     },
     {

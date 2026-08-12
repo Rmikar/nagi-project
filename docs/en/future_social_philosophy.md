@@ -27,6 +27,8 @@ keywords:
 
 Its three principles are **Non-Ownership, Resonance, and Breathing**. Its political proposal is **Resonant Democracy**, which protects dissent, silence, refusal, and exit. Nagi is neither a finished model of the state nor a single correct answer. It is a compass for trying institutions at a small scale, stopping them when they cause harm, and revising them through criticism.
 
+Nagi does not fix itself as the one system that must replace capitalism. It treats Vital Commons and basic rights as a shared floor above which different social philosophies and ways of life can coexist without taking away another person's survival or exit. [“Nagi OS”](nagi_os.html) offers a metaphor for this relationship.
+
 ## The problems Nagi responds to
 
 Many contemporary problems cannot be reduced to a choice between market and state.

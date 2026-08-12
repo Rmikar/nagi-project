@@ -305,6 +305,13 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://rmikar.github.io/nagi-project/nagi_core.html" />
   </url>
   <url>
+    <loc>https://rmikar.github.io/nagi-project/en/nagi_os.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://rmikar.github.io/nagi-project/en/nagi_os.html" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://rmikar.github.io/nagi-project/nagi_os.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rmikar.github.io/nagi-project/nagi_os.html" />
+  </url>
+  <url>
     <loc>https://rmikar.github.io/nagi-project/en/nagi_reading_guide.html</loc>
     <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://rmikar.github.io/nagi-project/en/nagi_reading_guide.html" />
@@ -463,7 +470,7 @@
   </url>
   <url>
     <loc>https://rmikar.github.io/nagi-project/future_social_philosophy.html</loc>
-    <lastmod>2026-07-26</lastmod>
+    <lastmod>2026-08-12</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://rmikar.github.io/nagi-project/future_social_philosophy.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://rmikar.github.io/nagi-project/en/future_social_philosophy.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://rmikar.github.io/nagi-project/future_social_philosophy.html" />
@@ -535,6 +542,13 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://rmikar.github.io/nagi-project/nagi_core.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://rmikar.github.io/nagi-project/en/nagi_core.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://rmikar.github.io/nagi-project/nagi_core.html" />
+  </url>
+  <url>
+    <loc>https://rmikar.github.io/nagi-project/nagi_os.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://rmikar.github.io/nagi-project/nagi_os.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://rmikar.github.io/nagi-project/en/nagi_os.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://rmikar.github.io/nagi-project/nagi_os.html" />
   </url>
   <url>
     <loc>https://rmikar.github.io/nagi-project/nagi_reading_guide.html</loc>

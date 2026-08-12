@@ -54,6 +54,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/en/musubi.md — en/supplement: A closing reflection on Nagi as a quiet compass: centerless structures, non-ownership, the layered world of people and places, and a future shared with AI.
 - docs/en/nagi_ai_charter.md — en/current: The limits, responsibilities, and safeguards for AI in Nagi: AI supports human freedom but does not become society's center, a human-value scorer, or a final authority over rights.
 - docs/en/nagi_core.md — en/current: Nagi's philosophical core: dignity and kindness, cultural and creative continuity, an economy kept as a means, and a world understood through layered, centerless structures.
+- docs/en/nagi_os.md — en/current: An explanatory model of Nagi as a shared foundation for plural social philosophies and ways of life, grounded in Vital Commons, basic rights, exit, Resonant Democracy, and Institutional Immunity.
 - docs/en/nagi_reading_guide.md — en/current: A time- and topic-based guide to Nagi's maintained English edition: its core, Vital Commons, safeguards, culture, AI boundaries, research aids, and translation status.
 - docs/en/non_ownership.md — en/current: Nagi's approach to non-ownership: protect personal life and creative personhood while loosening monopolies over land, knowledge, culture, nature, and foundational technologies.
 - docs/en/observe_loosen_connect.md — en/supplement: Nagi's minimal practice method: do not rush to conclusion; observe conditions and effects, loosen fixed assumptions, and prepare conditions for the next relation or collaboration.
@@ -88,6 +89,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/musubi.md — ja/supplement: 凪思想の中心にある、ひとりの人の静かな思いをまとめた結びの章。AI・国家・都市・文化のすべてを貫く『中心なき構造』と、未来への羅針盤としての凪の本質を記述する。
 - docs/nagi_ai_charter.md — ja/canonical: 凪におけるAIの権限・責任・限界を定める憲章。AIは人の自由を支える補助者であり、社会の中心、人格の採点者、権利の最終決定者にならない。
 - docs/nagi_core.md — ja/canonical: 凪思想の根本理念と哲学的出発点。人の尊厳とやさしさ、文化と創造を最上位に置き、経済をその手段としたうえで、世界を生活・記憶・土地・文化・関係の積層から立ち上がる中心なき構造として捉える。
+- docs/nagi_os.md — ja/current: 凪を一つの生き方を強制する体制ではなく、生命基盤・基本的権利・離脱・制度免疫を共通の床として、多様な社会思想やライフスタイルが共存できる社会基盤として説明する。
 - docs/nagi_reading_guide.md — ja/current: 未来社会思想・ポスト資本主義・共鳴民主主義・AI倫理として凪を読むための、時間と関心別の案内。正本、補遺、アーカイブの違いも示す。
 - docs/non_ownership.md — ja/current: 身体、住まい、私生活、記憶、創作者人格を守りながら、土地・資源・知識・文化・データ・公共基盤の支配的独占をほどく制度原則。
 - docs/observe_loosen_connect.md — ja/supplement: 結論を急がず、前提と影響を見直し、異なる人びとの次の対話と協働を可能にする凪の実践方法。

@@ -19,7 +19,7 @@ translation_last_reviewed: 2026-08-12
 > **No one should have to obey capital in order to live.**  
 > Water, energy, staple food, health care, shelter, sanitation, and communication.  
 > No person, company, state, locality, or AI owns the foundations of life in order to command another person.  
-> Multiple distributed public-interest AI systems, people, and local institutions may help maintain them.  
+> People and local institutions remain responsible for them, with public-interest AI available where useful.  
 >  
 > Nagi separates survival from income, employment, nationality, ownership, reputation, ideological agreement, and victory, so that people can live culture and creativity freely.
 
@@ -35,25 +35,13 @@ translation_last_reviewed: 2026-08-12
 
 ---
 
-## Beyond capitalism without discarding what it made possible
-
-Ownership, growth, efficiency, and competition have produced freedom, technology, material capacity, and opportunities for creativity. They have also intensified monopoly, domination, surveillance, excessive competition, inequality, ecological damage, cultural rupture, and insecurity.
-
-Nagi is not a philosophy of destroying capitalism for its own sake. It receives the freedom, technology, and creativity made possible through it while loosening the structures of domination that became too strong within it.
-
-Make power visible rather than merely replacing it.  
-Open access rather than seize life.  
-Preserve room for different lives rather than rush toward one final answer.
-
-Nagi is a compass for moving beyond capitalism after passing through it.
-
 ## The central proposal: free survival from ownership
 
 **The resources and infrastructure required for life become non-owned Vital Commons.**
 
 > Non-Ownership of the foundations of life  
 > ↓  
-> Maintenance by multiple distributed public-interest AI systems, people, and local institutions  
+> Maintenance by people and local institutions, with public-interest AI where useful  
 > ↓  
 > Separation of survival from obedience to capital, state, war, ownership, and social evaluation
 
@@ -146,6 +134,26 @@ When shortage remains, AI does not rank people by worth. Facts, criteria, respon
 > **Non-Ownership is the political condition.**  
 > **Sufficient and renewable capacity in the foundations of life is the material condition.**
 
+---
+
+## Nagi does not prescribe one way of life
+### — A common foundation for different answers to coexist
+
+Nagi does not give humanity one correct way to live.
+
+It protects Vital Commons and basic rights as a common floor that no ideology may capture. Above that floor, people and localities can choose, combine, leave, and remake different values, economies, technologies, cultures, and communities.
+
+This freedom does not include taking away another person's survival, prohibiting exit, or exporting harm and burdens to other people, places, ecosystems, or future generations.
+
+> **Nagi standardizes no final answer.**  
+> **It protects the conditions under which different answers can coexist without breaking people.**
+
+This structure can be described as “Nagi OS.” OS is a metaphor; it does not define Nagi as software or as a central administrator.
+
+→ [A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor](nagi_os.html)
+
+---
+
 ## Nagi does not freeze the future
 
 Nagi is not a completed blueprint or a plan to replace existing protection overnight.
@@ -156,10 +164,27 @@ It begins with existing rights, small trials, parallel human and AI routes, expl
 > Nagi does not rush to fix that shape forever.  
 > It remains open to different people, criticism, repair, and renewal.
 
+---
+
+## Beyond capitalism without discarding what it made possible
+
+Ownership, growth, efficiency, and competition have produced freedom, technology, material capacity, and opportunities for creativity. They have also intensified monopoly, domination, surveillance, excessive competition, inequality, ecological damage, cultural rupture, and insecurity.
+
+Nagi is not a philosophy of destroying capitalism for its own sake. It receives the freedom, technology, and creativity made possible through it while loosening the structures of domination that became too strong within it.
+
+Make power visible rather than merely replacing it.  
+Open access rather than seize life.  
+Preserve room for different lives rather than rush toward one final answer.
+
+Nagi is a compass for moving beyond capitalism after passing through it.
+
+---
+
 ## Read Nagi
 
 - **Five-minute overview:** [Nagi as a Future Social Philosophy](future_social_philosophy.html)
 - **Central proposal:** [Vital Commons](vital_commons.html)
+- **Coexisting ways of life:** [Nagi OS as a Metaphor](nagi_os.html)
 - **Philosophical core:** [Nagi Core](nagi_core.html)
 - **Governance and safeguards:** [Governance and Safety](governance_and_safety.html)
 - **Culture and creativity:** [Cultural Co-Growth](culture.html)

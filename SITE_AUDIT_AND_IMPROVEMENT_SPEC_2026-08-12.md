@@ -47,6 +47,14 @@
 
 各ページには、状態、役割、更新日、パンくず、関連章を文書レジストリから表示する。旧入口は`archive`または`superseded`とし、`noindex, follow`、`sitemap: false`、現行章への案内を必須とする。
 
+### 凪OSという説明モデル
+
+- トップの「凪が目指す社会」の後に、「凪は、一つの生き方を決めない」という短い正本文を置く。
+- 詳細は日英の`nagi_os`ページで、生命基盤、基本的権利、離脱、共鳴民主主義、制度免疫を、異なる思想や暮らしが共存するための共通基盤として説明する。
+- 凪OSはソフトウェア、中央管理主体、第四原則ではなく、既存の正典章の関係を理解するための比喩とする。
+- 共存の対象は、他者の生存を奪わず、離脱を塞がず、害を他者・自然・将来世代へ外部化しない実践に限る。
+- 「絶対に壊れない」とは主張せず、制度が壊れても人の生存と権利を巻き込まず、停止、救済、修正、終了できることを安全目標とする。
+
 ## 文書ガバナンス
 
 正本を次のように分ける。
@@ -113,11 +121,11 @@
 
 | 指標 | 結果 |
 | --- | ---: |
-| 完全文書レジストリ | 123 / 123 |
-| インデックス対象 | 97 |
-| `sitemap.xml` | 97 / 97 |
-| 日本語／英語インデックス対象 | 50 / 47 |
-| 翻訳ペア | 45組 |
+| 完全文書レジストリ | 125 / 125 |
+| インデックス対象 | 99 |
+| `sitemap.xml` | 99 / 99 |
+| 日本語／英語インデックス対象 | 51 / 48 |
+| 翻訳ペア | 46組 |
 | 要再確認翻訳 | 13 |
 | 孤立インデックスページ | 0 |
 | 検索対象→検索除外ページの本文リンク | 0 |
@@ -126,8 +134,8 @@
 `npm test`の完了条件:
 
 ```text
-Site source validation passed (123 public pages; 97 indexable; 13 translations marked for review; 0 orphans).
-Sitemap validation passed (97 URLs; indexed set, lastmod, and hreflang all match the registry).
+Site source validation passed (125 public pages; 99 indexable; 13 translations marked for review; 0 orphans).
+Sitemap validation passed (99 URLs; indexed set, lastmod, and hreflang all match the registry).
 ```
 
 ## 公開後の確認
