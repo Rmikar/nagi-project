@@ -2,16 +2,19 @@
 layout: default
 lang: en
 title: "Nagi as a Future Social Philosophy — Post-Capitalism, Resonant Democracy, and AI Ethics"
+seo_title: "Alternatives to Capitalism — Nagi as a Future Social Philosophy"
 short_title: "Nagi as a Future Social Philosophy"
-description: "Nagi as a future social philosophy: Non-Ownership, Resonance, Breathing, Vital Commons, democracy, safeguards, AI boundaries, objections, and open questions."
+description: "For people exploring alternatives to capitalism and the future of society: Nagi's Vital Commons, Non-Ownership, Resonant Democracy, safeguards, AI boundaries, and open questions."
 permalink: /en/future_social_philosophy.html
 status: current
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 source_language: ja
 source_url: /future_social_philosophy.html
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-08-12
+translation_last_reviewed: 2026-08-13
 keywords:
+  - alternatives to capitalism
+  - future society
   - future social philosophy
   - post-capitalism
   - Resonant Democracy
@@ -23,7 +26,9 @@ keywords:
 
 # Nagi as a Future Social Philosophy
 
-**Nagi** is a future social philosophy that receives the freedom, technology, and creativity produced through capitalism while loosening monopoly, domination, excessive competition, surveillance, and the abandonment of life that have grown too strong within it.
+**Nagi** is a future social philosophy that asks what alternatives to capitalism could look like and how a future society should be designed across survival, ownership, governance, culture, and technology.
+
+It receives the freedom, technology, and creativity produced through capitalism while loosening monopoly, domination, excessive competition, surveillance, and the abandonment of life that have grown too strong within it. It does not present itself as the one finished system that must replace capitalism.
 
 Its three principles are **Non-Ownership, Resonance, and Breathing**. Its political proposal is **Resonant Democracy**, which protects dissent, silence, refusal, and exit. Nagi is neither a finished model of the state nor a single correct answer. It is a compass for trying institutions at a small scale, stopping them when they cause harm, and revising them through criticism.
 
@@ -62,9 +67,9 @@ Breathing gathers pause, rest, care, relearning, ecological recovery, and interg
 
 Its minimum floor is **Basic Breathing**: access to food, housing, health care, education, communication, and culture does not become a reward for contribution, popularity, or AI use.
 
-Basic Breathing is not limited to cash transfers. Energy, water, staple food, health resources, shelter, sanitation, and communication can be organized as non-owned **Vital Commons**. Multiple public-interest AI systems may assist with forecasting, production, maintenance, reserves, and distribution, while human routes and manual operation remain available.
+Basic Breathing is not limited to cash transfers. Energy, water, staple food, health resources, shelter, sanitation, and communication can be organized as non-owned **Vital Commons**. People and local institutions remain responsible for purposes, allocation principles, remedy, and challenge. Where communities choose to use them, multiple public-interest AI systems may assist with forecasting, equipment, production, maintenance, reserves, and distribution.
 
-AI manages equipment and circulation, not people. No person, company, state, locality, or AI owns the foundations of life in order to stop access or demand loyalty.
+AI is neither society's center nor the responsible authority for Vital Commons. Where it is used, its assistance is limited to equipment and circulation, not people. No person, company, state, locality, or AI owns the foundations of life in order to stop access or demand loyalty.
 
 → [Vital Commons](vital_commons.html)
 
@@ -123,7 +128,7 @@ Nagi is not an AI-centered philosophy and does not assume that present AI system
 
 AI can help organize sources, translate, compare alternatives, identify neglected perspectives, and operate large-scale equipment, flow, reserves, production, and logistics. It still does not score personality, belief, emotion, cooperation, or human value. It does not make final decisions over basic life, rights, sanctions, or life-saving care.
 
-AI may operate Vital Commons without owning them. It cannot rewrite the floor of basic access, dissent, or remedy. People retain the freedom not to use AI, to consult a person, and not to leave a record.
+AI may assist with selected operations of Vital Commons without owning them. It cannot rewrite the floor of basic access, dissent, or remedy. People retain the freedom not to use AI, to consult a person, and not to leave a record.
 
 ## Strong objections and current answers
 
@@ -143,9 +148,9 @@ Yes. That is why dissent, silence, refusal, and exit are protected before resona
 
 AI can introduce error, bias, concentration, surveillance, and dependency. Nagi's institutions must remain operable without AI. Where AI is used, plurality, explanation, human challenge, and stoppability are requirements.
 
-### “Is it dangerous to let AI operate the foundations of life?”
+### “Is it dangerous to use AI in the operation of the foundations of life?”
 
-Yes. A single AI, cyberattack, faulty allocation, surveillance, or loss of local skill can directly threaten life. Multiple systems, distributed reserves, manual modes, human expertise, independent oversight, emergency pause, and supply-first remedy are irreducible operating costs.
+Yes. A single AI, cyberattack, faulty allocation, surveillance, or loss of local skill can directly threaten life. Human and local responsibility, multiple systems, distributed reserves, manual modes, human expertise, independent oversight, emergency pause, and supply-first remedy are irreducible operating costs.
 
 ### “Would Vital Commons end war?”
 

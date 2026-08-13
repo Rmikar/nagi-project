@@ -2,15 +2,22 @@
 layout: default
 lang: en
 title: "Reading Nagi — Five Minutes, Twenty Minutes, One Hour, and Research Paths"
+seo_title: "Reading Nagi — Alternatives to Capitalism and Future Society"
 short_title: "Reading Nagi"
-description: "A time- and topic-based guide to Nagi's maintained English edition: its core, Vital Commons, safeguards, culture, AI boundaries, research aids, and translation status."
+description: "A reading guide for exploring alternatives to capitalism and future society through Nagi's Vital Commons, safeguards, culture, AI boundaries, and open questions."
 permalink: /en/nagi_reading_guide.html
 status: current
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 source_language: ja
 source_url: /nagi_reading_guide.html
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-08-12
+translation_last_reviewed: 2026-08-13
+keywords:
+  - alternatives to capitalism
+  - future society
+  - future social philosophy
+  - post-capitalism
+  - reading guide
 ---
 
 # Reading Nagi
@@ -21,7 +28,7 @@ The Japanese README and public home are the philosophical source of truth. The E
 
 ## Five minutes
 
-Read [Nagi as a Future Social Philosophy](future_social_philosophy.html).
+As an entry point for exploring alternatives to capitalism and future society, read [Nagi as a Future Social Philosophy](future_social_philosophy.html).
 
 It introduces the highest commitments, Non-Ownership, Resonance, Breathing, Vital Commons, Resonant Democracy, Institutional Immunity, AI boundaries, nearby fields, strong objections, and unresolved questions.
 

@@ -83,6 +83,7 @@ https://rmikar.github.io/nagi-project/non_ownership.html
 https://rmikar.github.io/nagi-project/observe_loosen_connect.html
 https://rmikar.github.io/nagi-project/philosophy.html
 https://rmikar.github.io/nagi-project/play_and_structure.html
+https://rmikar.github.io/nagi-project/population_and_power.html
 https://rmikar.github.io/nagi-project/property_and_ip.html
 https://rmikar.github.io/nagi-project/public_thought_method.html
 https://rmikar.github.io/nagi-project/quiet_praxis_current.html

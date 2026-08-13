@@ -162,6 +162,7 @@ const requiredFiles = [
   "faq.md",
   "future_social_philosophy.md",
   "vital_commons.md",
+  "population_and_power.md",
   "governance_and_safety.md",
   "institutional_immunity.md",
   "state_and_public_spheres.md",
@@ -260,6 +261,7 @@ for (const [path, parsed] of sourceByPath) {
   const file = `docs/${path}`;
   const status = String(parsed.fields.get("status") ?? "");
   const title = String(parsed.fields.get("title") ?? "").trim();
+  const seoTitle = String(parsed.fields.get("seo_title") ?? title).trim();
   const description = String(parsed.fields.get("description") ?? "").trim();
   const explicitLanguage = String(parsed.fields.get("lang") ?? parsed.fields.get("language") ?? "").trim();
   const language = explicitLanguage || (path.startsWith("en/") ? "en" : "ja");
@@ -277,6 +279,7 @@ for (const [path, parsed] of sourceByPath) {
 
   if (parsed.indexable) {
     if (!title) errors.push(`${file}: indexable page is missing title`);
+    if (!seoTitle) errors.push(`${file}: indexable page is missing an SEO title`);
     if (!description) errors.push(`${file}: indexable page is missing description`);
     if (!new Set(["ja", "en"]).has(explicitLanguage)) errors.push(`${file}: indexable page must set lang: ja or lang: en`);
     if (!/^\d{4}-\d{2}-\d{2}$/.test(lastUpdated)) errors.push(`${file}: indexable page must set last_updated: YYYY-MM-DD`);
@@ -285,7 +288,25 @@ for (const [path, parsed] of sourceByPath) {
     const h1Count = parsed.body.split("\n").filter((line) => /^#\s+/.test(line)).length;
     if (h1Count !== 1) errors.push(`${file}: expected exactly one H1, found ${h1Count}`);
 
-    const titleKey = `${language}\0${title}`;
+    for (const prohibited of [
+      "複数の公共AIが維持・生産・分配",
+      "AIが生命基盤を担う",
+      "AIが維持し、人は所有せず",
+      "AIは、人を管理せずに生命基盤を管理",
+      "基礎食料はAIが支え",
+      "AI may operate Vital Commons",
+      "AI manages equipment and circulation, not people",
+      "Maintenance by multiple distributed public-interest AI systems, people"
+    ]) {
+      if (parsed.source.includes(prohibited)) {
+        errors.push(`${file}: AI is described as the responsible center of Vital Commons (${prohibited}); people and local institutions must remain responsible and AI optional`);
+      }
+    }
+
+    const titleSuffix = language === "en" ? " | Nagi Project" : "｜凪プロジェクト";
+    if (seoTitle.endsWith(titleSuffix)) errors.push(`${file}: seo_title must omit the site-wide suffix ${titleSuffix}`);
+    const renderedTitle = path === "index.md" ? seoTitle : `${seoTitle}${titleSuffix}`;
+    const titleKey = `${language}\0${renderedTitle}`;
     const descriptionKey = `${language}\0${description}`;
     if (titleKeys.has(titleKey)) errors.push(`${file}: duplicate SEO title also used by docs/${titleKeys.get(titleKey)}`);
     else titleKeys.set(titleKey, path);
@@ -399,6 +420,12 @@ if (faqData.length !== faqHeadings.length || faqData.some((item) => !item.questi
   errors.push(`docs/_data/faq.json: expected ${faqHeadings.length} complete FAQ entries, found ${faqData.length}`);
 }
 
+const glossaryData = parsedJson.get("docs/glossary.json");
+const glossaryUpdated = String(sourceByPath.get("glossary.md")?.fields.get("last_updated") ?? "");
+if (String(glossaryData?.dateModified ?? "") !== glossaryUpdated) {
+  errors.push(`docs/glossary.json: dateModified must match docs/glossary.md last_updated (${glossaryUpdated})`);
+}
+
 try {
   const png = await readFile(resolve(docsDir, "assets/og/nagi-default.png"));
   if (png.subarray(1, 4).toString("ascii") !== "PNG") errors.push("docs/assets/og/nagi-default.png: invalid PNG signature");
@@ -427,6 +454,12 @@ for (const [label, pattern, expected = 1] of [
   if (count !== expected) errors.push(`docs/_layouts/default.html: expected one ${label}, found ${count}`);
 }
 for (const requiredSnippet of [
+  "assign resolved_title",
+  "｜凪プロジェクト",
+  " | Nagi Project",
+  "<title>{{ resolved_title | escape }}</title>",
+  "<meta property=\"og:title\" content=\"{{ resolved_title | escape }}\">",
+  "<meta name=\"twitter:title\" content=\"{{ resolved_title | escape }}\">",
   "凪とは",
   "生命基盤",
   "統治と安全",

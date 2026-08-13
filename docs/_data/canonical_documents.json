@@ -1,6 +1,6 @@
 {
   "name": "Nagi Project complete public document registry",
-  "dateModified": "2026-08-12",
+  "dateModified": "2026-08-13",
   "baseUrl": "https://rmikar.github.io/nagi-project/",
   "documents": [
     {
@@ -202,7 +202,7 @@
       "role": "生命基盤・経済の制度提案",
       "summary": "生存を所得や雇用への服従から切り離す基礎呼吸と生命基盤、文化と創造の自由な層、物・知・ケアの循環を示す凪の経済構想。",
       "language": "ja",
-      "last_updated": "2026-07-26",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -524,7 +524,7 @@
       "role": "文化・創造・継承",
       "summary": "自然の回復、食料生産、生態系、環境データ、世代をまたぐ責任を社会の呼吸として扱い、AIによる人の管理を避ける凪の生態的構想。",
       "language": "ja",
-      "last_updated": "2026-07-26",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -731,7 +731,7 @@
       "translation": "breath-economy",
       "translation_status": "working translation",
       "translation_last_reviewed": "2026-07-12",
-      "source_last_updated": "2026-07-26",
+      "source_last_updated": "2026-08-13",
       "translation_needs_review": true
     },
     {
@@ -964,7 +964,7 @@
       "translation": "ecology",
       "translation_status": "working translation",
       "translation_last_reviewed": "2026-07-12",
-      "source_last_updated": "2026-07-26",
+      "source_last_updated": "2026-08-13",
       "translation_needs_review": true
     },
     {
@@ -1157,12 +1157,14 @@
       "status": "current",
       "type": "philosophical-context",
       "role": "Philosophical context",
-      "summary": "Nagi as a future social philosophy: Non-Ownership, Resonance, Breathing, Vital Commons, democracy, safeguards, AI boundaries, objections, and open questions.",
+      "summary": "For people exploring alternatives to capitalism and the future of society: Nagi's Vital Commons, Non-Ownership, Resonant Democracy, safeguards, AI boundaries, and open questions.",
       "language": "en",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
+        "alternatives to capitalism",
+        "future society",
         "future social philosophy",
         "post-capitalism",
         "Resonant Democracy",
@@ -1190,8 +1192,8 @@
       "translation_of": "future-social-philosophy",
       "translation": "future-social-philosophy",
       "translation_status": "maintained translation",
-      "translation_last_reviewed": "2026-08-12",
-      "source_last_updated": "2026-08-12",
+      "translation_last_reviewed": "2026-08-13",
+      "source_last_updated": "2026-08-13",
       "translation_needs_review": false
     },
     {
@@ -1218,7 +1220,7 @@
       "translation": "glossary",
       "translation_status": "working translation",
       "translation_last_reviewed": "2026-07-12",
-      "source_last_updated": "2026-07-26",
+      "source_last_updated": "2026-08-13",
       "translation_needs_review": true
     },
     {
@@ -1299,12 +1301,19 @@
       "status": "current",
       "type": "overview",
       "role": "Reference overview",
-      "summary": "A maintained English introduction to Nagi: dignity, kindness, culture, and creativity above growth; non-owned Vital Commons; Resonant Democracy; and Institutional Immunity.",
+      "summary": "Nagi is a future social philosophy for people exploring alternatives to capitalism: non-owned Vital Commons, Resonant Democracy, Institutional Immunity, and plural ways of life.",
       "language": "en",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
-      "topics": [],
+      "topics": [
+        "alternatives to capitalism",
+        "future society",
+        "future social philosophy",
+        "post-capitalism",
+        "Vital Commons",
+        "Resonant Democracy"
+      ],
       "related": [
         "en-vital-commons",
         "en-nagi-ai-charter",
@@ -1325,8 +1334,8 @@
       "translation_of": "home",
       "translation": "home",
       "translation_status": "maintained translation",
-      "translation_last_reviewed": "2026-08-12",
-      "source_last_updated": "2026-08-12",
+      "translation_last_reviewed": "2026-08-13",
+      "source_last_updated": "2026-08-13",
       "translation_needs_review": false
     },
     {
@@ -1550,7 +1559,7 @@
       "translation": "ai-charter",
       "translation_status": "working translation",
       "translation_last_reviewed": "2026-07-12",
-      "source_last_updated": "2026-07-26",
+      "source_last_updated": "2026-08-13",
       "translation_needs_review": true
     },
     {
@@ -1663,12 +1672,18 @@
       "status": "current",
       "type": "reading-guide",
       "role": "Reading guide",
-      "summary": "A time- and topic-based guide to Nagi's maintained English edition: its core, Vital Commons, safeguards, culture, AI boundaries, research aids, and translation status.",
+      "summary": "A reading guide for exploring alternatives to capitalism and future society through Nagi's Vital Commons, safeguards, culture, AI boundaries, and open questions.",
       "language": "en",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
-      "topics": [],
+      "topics": [
+        "alternatives to capitalism",
+        "future society",
+        "future social philosophy",
+        "post-capitalism",
+        "reading guide"
+      ],
       "related": [
         "en-home",
         "en-future-social-philosophy",
@@ -1691,8 +1706,8 @@
       "translation_of": "reading-guide",
       "translation": "reading-guide",
       "translation_status": "maintained translation",
-      "translation_last_reviewed": "2026-08-12",
-      "source_last_updated": "2026-08-12",
+      "translation_last_reviewed": "2026-08-13",
+      "source_last_updated": "2026-08-13",
       "translation_needs_review": false
     },
     {
@@ -2284,9 +2299,9 @@
       "status": "current",
       "type": "institutional-economic-proposal",
       "role": "Institutional and economic proposal",
-      "summary": "Nagi's central proposal: make energy, water, food, health care, shelter, sanitation, and communication non-owned Vital Commons without conditioning basic life.",
+      "summary": "Nagi's central proposal: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.",
       "language": "en",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -2311,8 +2326,8 @@
       "translation_of": "vital-commons",
       "translation": "vital-commons",
       "translation_status": "maintained translation",
-      "translation_last_reviewed": "2026-08-12",
-      "source_last_updated": "2026-07-26",
+      "translation_last_reviewed": "2026-08-13",
+      "source_last_updated": "2026-08-13",
       "translation_needs_review": false
     },
     {
@@ -2429,16 +2444,18 @@
       "status": "current",
       "type": "faq",
       "role": "FAQ",
-      "summary": "凪とは何か、資本主義や社会主義とどう違うか、非所有は私有財産を否定するか、AIが統治するのかなど、未来社会思想としての主要な質問に答える。",
+      "summary": "凪とは何か、資本主義の代替案になりうるか、社会主義とどう違うか、非所有や共鳴民主主義、AIの位置づけなど、未来社会思想の主要な質問に答える。",
       "language": "ja",
-      "last_updated": "2026-07-12",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
-        "FAQ",
+        "資本主義の代替案",
         "未来社会思想",
-        "AI倫理",
-        "非所有"
+        "ポスト資本主義",
+        "非所有",
+        "共鳴民主主義",
+        "AI倫理"
       ],
       "related": [
         "home",
@@ -2541,12 +2558,16 @@
       "status": "canonical",
       "type": "philosophical-context",
       "role": "位置づけと哲学的背景",
-      "summary": "凪（Nagi Project）を未来の社会思想として読むための入口。非所有・共鳴・呼吸を軸に、ポスト資本主義、コモンズ、脱成長、民主主義、AI倫理との関係、制度案と未解決の課題を整理する。",
+      "summary": "資本主義の代替案や未来の社会のあり方を探す人に向け、凪の生命基盤コモンズ、非所有、共鳴民主主義、制度免疫、AIの境界と未解決の課題を整理する。",
       "language": "ja",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
+        "資本主義の代替案",
+        "資本主義の次",
+        "未来の社会",
+        "未来社会",
         "未来の社会思想",
         "ポスト資本主義",
         "共鳴民主主義",
@@ -2571,11 +2592,11 @@
         "state-public-spheres",
         "vital-commons",
         "nagi-os",
+        "population-power",
         "declaration",
         "freedom-dissent-exit",
         "social-infrastructure-ethics",
-        "transition-crisis",
-        "ai-charter"
+        "transition-crisis"
       ],
       "parent": "home",
       "translation_of": null,
@@ -2623,7 +2644,7 @@
       "role": "現行用語の正本",
       "summary": "凪の未来社会思想で使う主要語の現行定義。非所有、共鳴、呼吸、基礎呼吸、共鳴民主主義、AIの任意性、再呼吸などを、人とAIが参照できる形で整理する。",
       "language": "ja",
-      "last_updated": "2026-07-26",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -2729,19 +2750,19 @@
       "status": "canonical",
       "type": "overview",
       "role": "思想上の正本・全体像",
-      "summary": "人の尊厳とやさしさ、文化と創造を最上位に置き、生命基盤を非所有のコモンズとし、共鳴民主主義と制度免疫によって、生存を資本・国家・戦争への服従から切り離す未来社会思想。",
+      "summary": "資本主義の代替案や未来の社会のあり方を考えるために、人の尊厳、生命基盤の非所有、共鳴民主主義、制度免疫から、生存を資本・国家・戦争への服従から切り離す未来社会思想。",
       "language": "ja",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
+        "資本主義の代替案",
+        "資本主義の次",
+        "未来の社会",
         "未来社会思想",
         "ポスト資本主義",
-        "非所有",
-        "共鳴",
-        "呼吸",
-        "制度設計",
-        "価値と構造"
+        "生命基盤コモンズ",
+        "共鳴民主主義"
       ],
       "related": [
         "future-social-philosophy",
@@ -2750,6 +2771,7 @@
         "institutional-design",
         "state-public-spheres",
         "vital-commons",
+        "population-power",
         "nagi-os",
         "ai-charter",
         "institutional-immunity",
@@ -2758,8 +2780,7 @@
         "governance-and-safety",
         "culture",
         "declaration",
-        "en-home",
-        "en-introducing-nagi"
+        "en-home"
       ],
       "parent": null,
       "translation_of": null,
@@ -2990,7 +3011,7 @@
       "role": "AIの境界と統治",
       "summary": "凪におけるAIの権限・責任・限界を定める憲章。AIは人の自由を支える補助者であり、社会の中心、人格の採点者、権利の最終決定者にならない。",
       "language": "ja",
-      "last_updated": "2026-07-26",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -3163,15 +3184,17 @@
       "status": "current",
       "type": "reading-guide",
       "role": "時間・関心別の読書案内",
-      "summary": "未来社会思想・ポスト資本主義・共鳴民主主義・AI倫理として凪を読むための、時間と関心別の案内。正本、補遺、アーカイブの違いも示す。",
+      "summary": "資本主義の代替案や未来の社会を考える人に向け、生命基盤、非所有、共鳴民主主義、制度免疫、AI倫理を時間と関心別に案内する。",
       "language": "ja",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
-        "読書案内",
+        "資本主義の代替案",
+        "未来の社会",
         "未来社会思想",
-        "研究"
+        "ポスト資本主義",
+        "読書案内"
       ],
       "related": [
         "home",
@@ -3373,6 +3396,45 @@
       "parent": "culture",
       "translation_of": null,
       "translation": "en-play-and-structure",
+      "translation_status": null,
+      "translation_last_reviewed": null,
+      "source_last_updated": null,
+      "translation_needs_review": false
+    },
+    {
+      "id": "population-power",
+      "path": "population_and_power.md",
+      "url": "population_and_power.html",
+      "title": "人口と権力を切り離す — 生存保障は「人数＝力」の歴史を変えうるか",
+      "short_title": "人口と権力を切り離す",
+      "status": "supplement",
+      "type": "thematic-document",
+      "role": "主題別文書",
+      "summary": "生存を資本と国家への服従から解放すると、人口を労働力・税源・兵力として増やす圧力は弱まるか。資源面の可能性と、人口減少によるケア・財政・インフラ・安全保障上の課題を検討する。",
+      "language": "ja",
+      "last_updated": "2026-08-13",
+      "indexable": true,
+      "robots": "index, follow",
+      "topics": [
+        "人口と権力",
+        "人口減少",
+        "人口問題",
+        "生存保障",
+        "労働力人口",
+        "資源問題",
+        "出生の自由",
+        "生命基盤コモンズ"
+      ],
+      "related": [
+        "vital-commons",
+        "state-public-spheres",
+        "ecology",
+        "transition-crisis",
+        "future-social-philosophy"
+      ],
+      "parent": "vital-commons",
+      "translation_of": null,
+      "translation": null,
       "translation_status": null,
       "translation_last_reviewed": null,
       "source_last_updated": null,
@@ -4085,22 +4147,20 @@
       "status": "current",
       "type": "institutional-economic-proposal",
       "role": "生命基盤・経済の制度提案",
-      "summary": "エネルギー、水、基礎食料、医療、住居、通信などを非所有の生命基盤として、複数の公共AIが維持・生産・分配する凪の制度構想。生存を労働・資本・国家への服従から切り離し、文化的な生産と平和の物質的条件をひらく。",
+      "summary": "エネルギー、水、基礎食料、医療、住居、通信を、人と地域が責任を担い、任意の公共AIが補助し得る非所有の生命基盤とする制度構想。生存を労働・資本・国家への服従から切り離す。",
       "language": "ja",
-      "last_updated": "2026-07-26",
+      "last_updated": "2026-08-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
         "生命基盤コモンズ",
-        "基礎呼吸",
+        "資本主義の代替案",
+        "ユニバーサル・ベーシック・サービス",
+        "ベーシックサービス",
         "生活保障",
         "非所有",
-        "公共AI",
-        "食料保障",
-        "エネルギー保障",
-        "医療保障",
-        "平和",
-        "ポスト資本主義"
+        "コモンズ",
+        "公共AI"
       ],
       "related": [
         "home",
@@ -4113,6 +4173,7 @@
         "technical-foundation",
         "state-public-spheres",
         "transition-crisis",
+        "population-power",
         "institutional-immunity"
       ],
       "parent": "home",

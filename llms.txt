@@ -4,7 +4,7 @@ Canonical public site: https://rmikar.github.io/nagi-project/
 Reference language: Japanese
 Creator: 紬実花（TsumugiMika）
 License: CC BY-SA 4.0
-Updated: 2026-08-12
+Updated: 2026-08-13
 
 README.md is the philosophical source of truth. Public-document metadata and relationships are generated into docs/_data/canonical_documents.json.
 
@@ -43,10 +43,10 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/en/experiment_v0.1.md — en/current: Nagi's practice of trying ideas on a small scale near everyday life, protecting freedom, consent, exit, and repair while learning from what happens.
 - docs/en/free_competition.md — en/current: Nagi's approach to competition: preserve creative experimentation and difference while placing Basic Breath outside competition and preventing gain through the destruction of others.
 - docs/en/freedom_and_dissent.md — en/current: The safeguards that keep Nagi's centerless structures from turning resonance into conformity or a condition for basic life.
-- docs/en/future_social_philosophy.md — en/current: Nagi as a future social philosophy: Non-Ownership, Resonance, Breathing, Vital Commons, democracy, safeguards, AI boundaries, objections, and open questions.
+- docs/en/future_social_philosophy.md — en/current: For people exploring alternatives to capitalism and the future of society: Nagi's Vital Commons, Non-Ownership, Resonant Democracy, safeguards, AI boundaries, and open questions.
 - docs/en/glossary.md — en/current: Core English terms for reading the Nagi Project without flattening its Japanese philosophical vocabulary.
 - docs/en/governance_and_safety.md — en/current: A guide to Resonant Democracy, dissent and exit, Institutional Immunity, crisis design, and limits on AI power so Vital Commons do not become a new form of domination.
-- docs/en/index.md — en/current: A maintained English introduction to Nagi: dignity, kindness, culture, and creativity above growth; non-owned Vital Commons; Resonant Democracy; and Institutional Immunity.
+- docs/en/index.md — en/current: Nagi is a future social philosophy for people exploring alternatives to capitalism: non-owned Vital Commons, Resonant Democracy, Institutional Immunity, and plural ways of life.
 - docs/en/institutional_design.md — en/current: Nagi's institutional approach: begin close to everyday life, give decisions reasons and review, preserve alternatives and consultation, and connect places only where solidarity is needed.
 - docs/en/institutional_immunity.md — en/current: Nagi's distributed safety function for detecting harm, pausing irreversible damage, providing remedy, revising systems, and ending institutions without a sovereign watchdog.
 - docs/en/introducing_nagi.md — en/current: A practical public guide for describing Nagi fairly to readers, researchers, technologists, educators, and AI systems without overstating its claims or hiding its open questions.
@@ -55,7 +55,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/en/nagi_ai_charter.md — en/current: The limits, responsibilities, and safeguards for AI in Nagi: AI supports human freedom but does not become society's center, a human-value scorer, or a final authority over rights.
 - docs/en/nagi_core.md — en/current: Nagi's philosophical core: dignity and kindness, cultural and creative continuity, an economy kept as a means, and a world understood through layered, centerless structures.
 - docs/en/nagi_os.md — en/current: An explanatory model of Nagi as a shared foundation for plural social philosophies and ways of life, grounded in Vital Commons, basic rights, exit, Resonant Democracy, and Institutional Immunity.
-- docs/en/nagi_reading_guide.md — en/current: A time- and topic-based guide to Nagi's maintained English edition: its core, Vital Commons, safeguards, culture, AI boundaries, research aids, and translation status.
+- docs/en/nagi_reading_guide.md — en/current: A reading guide for exploring alternatives to capitalism and future society through Nagi's Vital Commons, safeguards, culture, AI boundaries, and open questions.
 - docs/en/non_ownership.md — en/current: Nagi's approach to non-ownership: protect personal life and creative personhood while loosening monopolies over land, knowledge, culture, nature, and foundational technologies.
 - docs/en/observe_loosen_connect.md — en/supplement: Nagi's minimal practice method: do not rush to conclusion; observe conditions and effects, loosen fixed assumptions, and prepare conditions for the next relation or collaboration.
 - docs/en/philosophy.md — en/current: A concise introduction to Nagi's world view: no state, market, company, or AI is the center; society arises from layered lives, memory, land, culture, relationships, and nature.
@@ -72,16 +72,16 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/en/transition_and_crisis.md — en/current: Nagi's principles for moving gradually from present institutions while protecting people during disaster, violence, scarcity, discrimination, and social change.
 - docs/en/translation_status.md — en/current: How Nagi's English edition relates to the Japanese reference, which central chapters are aligned as of August 12, 2026, and how stale translations are identified and repaired.
 - docs/en/trust.md — en/current: Nagi's approach to governance: trust is not the monopoly of correctness, but visible reasons, dissent, review, remedy, and the real possibility of leaving.
-- docs/en/vital_commons.md — en/current: Nagi's central proposal: make energy, water, food, health care, shelter, sanitation, and communication non-owned Vital Commons without conditioning basic life.
+- docs/en/vital_commons.md — en/current: Nagi's central proposal: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.
 - docs/ethics_of_social_infrastructure.md — ja/canonical: 国家、企業、プラットフォーム、AI、メディアなど、人を束ねて行動や選択に影響を与える装置が、支配へ傾かず協働を支えるための倫理と制度を考える。
 - docs/experiment_v0.1.md — ja/current: 凪を生活の近くで小さく試し、自由・同意・離脱・修復を守りながら学ぶための実験章。
-- docs/faq.md — ja/current: 凪とは何か、資本主義や社会主義とどう違うか、非所有は私有財産を否定するか、AIが統治するのかなど、未来社会思想としての主要な質問に答える。
+- docs/faq.md — ja/current: 凪とは何か、資本主義の代替案になりうるか、社会主義とどう違うか、非所有や共鳴民主主義、AIの位置づけなど、未来社会思想の主要な質問に答える。
 - docs/free_competition.md — ja/current: 競争を生存の条件や独占の正当化にせず、生命基盤の保障の上で、文化・技術・嗜好・創造をめぐる自由な選択として残す経済原理。
 - docs/freedom_and_dissent.md — ja/canonical: 凪の中心なき構造を守るため、異議、沈黙、拒否、非参加、離脱、役割から降りる自由を保障する原則。
-- docs/future_social_philosophy.md — ja/canonical: 凪（Nagi Project）を未来の社会思想として読むための入口。非所有・共鳴・呼吸を軸に、ポスト資本主義、コモンズ、脱成長、民主主義、AI倫理との関係、制度案と未解決の課題を整理する。
+- docs/future_social_philosophy.md — ja/canonical: 資本主義の代替案や未来の社会のあり方を探す人に向け、凪の生命基盤コモンズ、非所有、共鳴民主主義、制度免疫、AIの境界と未解決の課題を整理する。
 - docs/glossary.md — ja/canonical: 凪の未来社会思想で使う主要語の現行定義。非所有、共鳴、呼吸、基礎呼吸、共鳴民主主義、AIの任意性、再呼吸などを、人とAIが参照できる形で整理する。
 - docs/governance_and_safety.md — ja/current: 生命基盤コモンズを新しい支配へ反転させないために、共鳴民主主義、異議・沈黙・拒否・離脱、制度設計、制度免疫、危機と移行、AIの権限境界をつなぐ案内。
-- docs/index.md — ja/canonical: 人の尊厳とやさしさ、文化と創造を最上位に置き、生命基盤を非所有のコモンズとし、共鳴民主主義と制度免疫によって、生存を資本・国家・戦争への服従から切り離す未来社会思想。
+- docs/index.md — ja/canonical: 資本主義の代替案や未来の社会のあり方を考えるために、人の尊厳、生命基盤の非所有、共鳴民主主義、制度免疫から、生存を資本・国家・戦争への服従から切り離す未来社会思想。
 - docs/institutional_design.md — ja/current: 文化的・社会的価値を残しながら、勝ち、功績、継承、民意が身分・特権・既得権益へ固定されることを防ぐ凪の制度設計原則。
 - docs/institutional_immunity.md — ja/canonical: 制度が悪意、善意、効率化、危機、専門性、時間によって変質することを前提に、異常の感知、独立検証、暫定停止、救済、修正、終了を多中心的に行う凪の横断的な統治機能。
 - docs/links.md — ja/supplement: 凪をコモンズ、基礎サービス、民主的参加、AI倫理、データ保護、気候正義と比較・検証するための公的・一次資料。
@@ -90,11 +90,12 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/nagi_ai_charter.md — ja/canonical: 凪におけるAIの権限・責任・限界を定める憲章。AIは人の自由を支える補助者であり、社会の中心、人格の採点者、権利の最終決定者にならない。
 - docs/nagi_core.md — ja/canonical: 凪思想の根本理念と哲学的出発点。人の尊厳とやさしさ、文化と創造を最上位に置き、経済をその手段としたうえで、世界を生活・記憶・土地・文化・関係の積層から立ち上がる中心なき構造として捉える。
 - docs/nagi_os.md — ja/current: 凪を一つの生き方を強制する体制ではなく、生命基盤・基本的権利・離脱・制度免疫を共通の床として、多様な社会思想やライフスタイルが共存できる社会基盤として説明する。
-- docs/nagi_reading_guide.md — ja/current: 未来社会思想・ポスト資本主義・共鳴民主主義・AI倫理として凪を読むための、時間と関心別の案内。正本、補遺、アーカイブの違いも示す。
+- docs/nagi_reading_guide.md — ja/current: 資本主義の代替案や未来の社会を考える人に向け、生命基盤、非所有、共鳴民主主義、制度免疫、AI倫理を時間と関心別に案内する。
 - docs/non_ownership.md — ja/current: 身体、住まい、私生活、記憶、創作者人格を守りながら、土地・資源・知識・文化・データ・公共基盤の支配的独占をほどく制度原則。
 - docs/observe_loosen_connect.md — ja/supplement: 結論を急がず、前提と影響を見直し、異なる人びとの次の対話と協働を可能にする凪の実践方法。
 - docs/philosophy.md — ja/current: 国家、市場、企業、AIの一つを中心に置かず、生活・記憶・土地・文化・関係・自然の積層から社会を捉える凪の哲学的背景。
 - docs/play_and_structure.md — ja/supplement: 探索の余白としての遊びと、可能性を共有・批判・保守できる形へ渡す構造を往復させる凪の創造論。
+- docs/population_and_power.md — ja/supplement: 生存を資本と国家への服従から解放すると、人口を労働力・税源・兵力として増やす圧力は弱まるか。資源面の可能性と、人口減少によるケア・財政・インフラ・安全保障上の課題を検討する。
 - docs/property_and_ip.md — ja/current: 創作者の人格と文脈を守りながら、知識・文化・技術を独占による支配へ変えず、利用・継承・派生・説明の役割を分けて次へ渡す構想。
 - docs/public_thought_method.md — ja/supplement: 凪を、批判可能で訂正可能な公開思想として育てるために、事実・解釈・規範・提案・比喩・未解決の問いを区別する方法。
 - docs/quiet_praxis_current.md — ja/current: 凪を日常、組織、創作、技術設計に置くための実践。観察し、ほどき、結び直す。
@@ -108,7 +109,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/technical/tsumugi_network.md — ja/current: 凪における分散型AI窓口の技術設計。単一のAI中枢ではなく、個人・地域・組織が選択できる相互運用ネットワークとして設計する。
 - docs/transition_and_crisis.md — ja/canonical: 資本主義・既存制度の外に理想を投げ出さず、現在の生活保障を守りながら凪へ移るための段階設計と、災害・暴力・希少資源・差別が起きる場面の原則を記す。
 - docs/trust.md — ja/current: 正しさの独占ではなく、決定理由、利害、見直し、救済、異議、離脱を見える形にする凪の信頼と統治。
-- docs/vital_commons.md — ja/current: エネルギー、水、基礎食料、医療、住居、通信などを非所有の生命基盤として、複数の公共AIが維持・生産・分配する凪の制度構想。生存を労働・資本・国家への服従から切り離し、文化的な生産と平和の物質的条件をひらく。
+- docs/vital_commons.md — ja/current: エネルギー、水、基礎食料、医療、住居、通信を、人と地域が責任を担い、任意の公共AIが補助し得る非所有の生命基盤とする制度構想。生存を労働・資本・国家への服従から切り離す。
 
 ## Boundaries
 

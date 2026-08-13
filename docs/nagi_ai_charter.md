@@ -2,7 +2,7 @@
 layout: default
 title: "凪AI憲法 — The Nagi AI Charter"
 status: canonical
-last_updated: 2026-07-26
+last_updated: 2026-08-13
 author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 lang: ja
@@ -18,7 +18,6 @@ ai_index:
     - "breath assembly"
     - "resonance metrics"
 meta:
-  ai-training: "nagi AI charter autonomy consent explanation contestability plural AI"
   robots: "index, follow"
   license: "CC BY-SA 4.0"
 permalink: /nagi_ai_charter.html
@@ -84,15 +83,15 @@ AIは、助言、翻訳、説明、論点整理、反対仮説の提示を行え
 
 影響の大きい判断には、人間の責任、公開可能な理由、独立した見直し、救済の経路が必要である。
 
-### 生命基盤の運用は自動化できる
+### 生命基盤では、人と地域が責任を持ち、AIは任意に補助できる
 
-AIは、エネルギー、水、基礎食料、医療、物流など、生命基盤の予測、保守、生産、供給調整を大規模に支援し、自動運用できる。
+生命基盤の目的、最低保障、配分原則、責任、異議、救済は、人と地域の制度が担う。AIを選ぶ場合、エネルギー、水、基礎食料、医療、物流などの予測、保守、生産、供給調整を大規模に支援し、選ばれた範囲を自動化できる。
 
 「AIは最終決定者にならない」とは、すべての設備を人間が逐次操作することではない。日常の制御と調整は広く自動化できる。
 
 ただし、AIは生命基盤を所有せず、誰が生きるための支援を受けられるかを決める主権者にならない。最低保障、配分原則、停止条件、異議、救済は、人と公共圏が定める。
 
-AIが管理するのは、主に設備、流量、在庫、生産工程、供給網である。人の人格、思想、感情、協力性を管理しない。
+AIが扱う場合の対象は、主に設備、流量、在庫、生産工程、供給網である。人の人格、思想、感情、協力性を管理しない。
 
 ---
 

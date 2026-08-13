@@ -1,5 +1,14 @@
 <!doctype html>
 {%- assign current_lang = page.lang | default: page.language | default: site.lang | default: 'ja' -%}
+{%- assign title_base = page.seo_title | default: page.title | default: site.title -%}
+{%- assign resolved_title = title_base -%}
+{%- unless page.url == '/' -%}
+  {%- if current_lang == 'en' -%}
+    {%- assign resolved_title = title_base | append: ' | Nagi Project' -%}
+  {%- else -%}
+    {%- assign resolved_title = title_base | append: '｜凪プロジェクト' -%}
+  {%- endif -%}
+{%- endunless -%}
 {%- assign translation_links = site.data.translations.pages[page.url] -%}
 {%- assign llms_path = '/llms.txt' -%}
 {%- assign language_home = '/' -%}
@@ -52,7 +61,7 @@
     gtag('js', new Date());
     gtag('config', 'G-29G2XFL4FL');
   </script>
-  <title>{{ page.title | default: site.title | escape }}</title>
+  <title>{{ resolved_title | escape }}</title>
   <meta name="description" content="{{ page_desc | escape }}">
   <meta name="robots" content="{{ page.meta.robots | default: page.robots | default: 'index, follow' }}">
   <link rel="canonical" href="{{ page_url }}">
@@ -67,7 +76,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/nagi.css' | relative_url }}">
   <meta property="og:type" content="{{ og_type }}">
   <meta property="og:site_name" content="Nagi Project">
-  <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+  <meta property="og:title" content="{{ resolved_title | escape }}">
   <meta property="og:description" content="{{ page_desc | escape }}">
   <meta property="og:url" content="{{ page_url }}">
   <meta property="og:locale" content="{% if current_lang == 'en' %}en_US{% else %}ja_JP{% endif %}">
@@ -80,7 +89,7 @@
   <meta property="og:image:alt" content="{% if current_lang == 'en' %}Nagi Project — a future social philosophy beyond ownership and domination{% else %}凪プロジェクト — 生存を所有と支配から解放する未来社会思想{% endif %}">
   {% if modified_date %}<meta property="article:modified_time" content="{{ modified_date | date_to_xmlschema }}">{% endif %}
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
+  <meta name="twitter:title" content="{{ resolved_title | escape }}">
   <meta name="twitter:description" content="{{ page_desc | escape }}">
   <meta name="twitter:image" content="{{ og_image }}">
   <script type="application/ld+json">

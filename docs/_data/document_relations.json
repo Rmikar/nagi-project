@@ -22,6 +22,7 @@
         "institutional-design",
         "state-public-spheres",
         "vital-commons",
+        "population-power",
         "nagi-os"
       ]
     },
@@ -334,7 +335,28 @@
         "technical-foundation",
         "state-public-spheres",
         "transition-crisis",
+        "population-power",
         "institutional-immunity"
+      ]
+    },
+    {
+      "id": "population-power",
+      "path": "population_and_power.md",
+      "short_title": "人口と権力を切り離す",
+      "topics": [
+        "人口と権力",
+        "人口減少",
+        "生存保障",
+        "資源問題",
+        "労働力人口",
+        "出生の自由"
+      ],
+      "related": [
+        "vital-commons",
+        "state-public-spheres",
+        "ecology",
+        "transition-crisis",
+        "future-social-philosophy"
       ]
     },
     {
