@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: ja
 title: "制度設計と実践"
 status: current
 last_updated: 2026-07-18

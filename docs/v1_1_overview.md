@@ -1,11 +1,17 @@
 ---
 layout: default
 title: "凪 v1.1 概要"
-status: current
+status: archive
+robots: "noindex, follow"
+sitemap: false
 description: "凪 v1.1の入口。中心なき構造を制度、AI、記憶、実験へ通し、人を採点しないこと、基礎呼吸、AI不使用、異議と離脱をまとめる。"
+last_updated: 2026-08-12
+archive_note: "2026年7月時点の版概要です。現在の全体像はトップページと読書案内を参照してください。"
 ---
 
 # 凪 v1.1 概要
+
+> **現行の入口**：[凪プロジェクト](./) ／ [凪の読書案内](nagi_reading_guide.html)
 
 凪 v1.1 は、「中心なき構造」という凪の核を、制度・AI・記憶・実験にも通すための改修です。
 

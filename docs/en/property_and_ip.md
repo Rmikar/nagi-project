@@ -2,6 +2,7 @@
 layout: default
 lang: en
 status: current
+last_updated: 2026-07-12
 title: "Inheritance of Intellectual Property and Assets"
 description: "Nagi's principles for protecting creative work and everyday security while passing cultural and material resources to future generations without extraction."
 permalink: /en/property_and_ip.html

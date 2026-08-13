@@ -5,7 +5,7 @@ title: "凪の読書案内 — 5分・20分・研究のための読み方"
 description: "未来社会思想・ポスト資本主義・共鳴民主主義・AI倫理として凪を読むための、時間と関心別の案内。正本、補遺、アーカイブの違いも示す。"
 permalink: /nagi_reading_guide.html
 status: current
-last_updated: 2026-07-26
+last_updated: 2026-08-12
 ---
 
 # 凪の読書案内
@@ -20,6 +20,8 @@ last_updated: 2026-07-26
 
 ここで、非所有・共鳴・呼吸、価値と構造を分ける判断原則、共鳴民主主義、AIの位置づけ、近接する思想との違い、主要な反論と未解決課題を一度に確認できる。疑問が決まっている場合は [FAQ](faq.html) と [用語集](glossary.html) から入ってもよい。
 
+凪が一つの社会像を強制せず、異なる思想や暮らしの共存条件をどうつくるかは、[凪OSという比喩](nagi_os.html)で確認できる。
+
 ## 20分で中心をつかむ
 
 1. [凪の核](nagi_core.html) — 世界観と中心なき構造
@@ -33,16 +35,18 @@ last_updated: 2026-07-26
 20分の経路に、次を加える。
 
 1. [制度設計と実践](institutional_design.html) — 価値と構造を分け、勝ちや継承の固定化を防ぐ
-2. [社会的装置の倫理](ethics_of_social_infrastructure.html) — 人を束ねる力を支配へ変えない
-3. [制度免疫](institutional_immunity.html) — 壊れ方を感知し、止め、救済し、終了できるようにする
-4. [生命基盤コモンズ](vital_commons.html) — 生存を資本・所有・戦争から切り離し、AI運用と人の文化的生産を分ける
-5. [移行と危機の設計](transition_and_crisis.html) — 権利を後退させず、小さく試し、危機権限を恒久化しない
+2. [統治と安全](governance_and_safety.html) — 民主主義、異議、制度免疫、危機、AI境界をつなぐ
+3. [社会的装置の倫理](ethics_of_social_infrastructure.html) — 人を束ねる力を支配へ変えない
+4. [制度免疫](institutional_immunity.html) — 壊れ方を感知し、止め、救済し、終了できるようにする
+5. [生命基盤コモンズ](vital_commons.html) — 生存を資本・所有・戦争から切り離し、AI運用と人の文化的生産を分ける
+6. [移行と危機の設計](transition_and_crisis.html) — 権利を後退させず、小さく試し、危機権限を恒久化しない
 
 ## 関心別に読む
 
 ### 未来社会・ポスト資本主義
 
 - [未来の社会思想としての凪](future_social_philosophy.html)
+- [異なる生き方が共存するための社会基盤 — 凪OSという比喩](nagi_os.html)
 - [非所有の制度化](non_ownership.html)
 - [資本主義以後の自由競争原理](free_competition.html)
 - [呼吸経済](breath_economy.html)
@@ -51,6 +55,7 @@ last_updated: 2026-07-26
 
 ### 民主主義・統治
 
+- [統治と安全](governance_and_safety.html)
 - [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html)
 - [自由・不協和・離脱の原則](freedom_and_dissent.html)
 - [制度設計と実践](institutional_design.html)
@@ -75,6 +80,7 @@ last_updated: 2026-07-26
 - [凪技術の基盤](technical/foundation_v1.html)
 - [生命基盤コモンズ](vital_commons.html)
 - [AI窓口ネットワーク](technical/tsumugi_network.html)
+- [AIの冗長性と、使わない自由](ai_redundancy_and_risk.html)
 
 ### 文化・教育・生態系
 
@@ -84,9 +90,12 @@ last_updated: 2026-07-26
 - [凪環境構造](ecological_structure.html)
 - [生命基盤コモンズ](vital_commons.html)
 - [文化的スチュワードシップ](cultural_stewardship.html)
+- [凪プロジェクト・シンボル](symbol_concept.html)
 
 ### 内面・詩的背景
 
+- [凪の哲学的背景](philosophy.html)
+- [凪思想の深化](deepening_principles.html)
 - [感情と精神性](emotion.html)
 - [死と再生](death.html)
 - [結び](musubi.html)
@@ -100,6 +109,8 @@ last_updated: 2026-07-26
 3. [よくある質問](faq.html)の反論だけでなく、財源、法制度、国際関係、危機権限、実証不足を独立に検討する。
 4. [再呼吸と公開継承](rebreathing_and_public_continuity.html)で、訂正と変更履歴の考え方を確認する。
 5. [外部リソース台帳](links.html)から、コモンズ、基礎サービス、熟議、AI倫理、データ保護、気候科学の公的資料と比較する。
+
+実践・編集・修復・継承の補遺は、[思想を育てる方法と実践](stewardship_and_praxis.html)からたどれる。
 
 凪は独立した学術評価や完成済みの実証理論を名乗らない。AIによる評価記録や過去の草稿はアーカイブであり、正本の代わりにはならない。
 

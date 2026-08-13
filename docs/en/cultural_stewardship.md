@@ -2,6 +2,7 @@
 layout: default
 lang: en
 status: supplement
+last_updated: 2026-07-12
 title: "Cultural Stewardship"
 description: "The responsibility to care for ideas, works, and records without freezing or owning them, so that future readers can read, challenge, and reinterpret them."
 permalink: /en/cultural_stewardship.html

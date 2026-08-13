@@ -2,6 +2,7 @@
 layout: default
 lang: en
 status: current
+last_updated: 2026-07-12
 title: "Technical Foundations"
 description: "Technical boundaries for supporting Nagi without centralizing authority in an AI, score, ledger, data base, or provider."
 permalink: /en/technical/foundation_v1.html

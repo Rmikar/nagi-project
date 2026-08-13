@@ -1,6 +1,8 @@
 ---
 layout: default
+lang: ja
 title: "知財と財産の継承"
+description: "創作者の人格と文脈を守りながら、知識・文化・技術を独占による支配へ変えず、利用・継承・派生・説明の役割を分けて次へ渡す構想。"
 status: current
 last_updated: 2026-07-12
 ---

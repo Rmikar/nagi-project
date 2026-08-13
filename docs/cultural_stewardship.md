@@ -4,7 +4,7 @@ title: "文化的スチュワードシップ"
 status: supplement
 lang: ja
 description: "思想、作品、記録を、支配や凍結の対象にせず、次の人が読み、批判し、再解釈できる状態で保つ責任。"
-last_updated: 2026-07-12
+last_updated: 2026-08-12
 permalink: /cultural_stewardship.html
 ---
 
@@ -27,4 +27,4 @@ permalink: /cultural_stewardship.html
 
 → [文化的共育](culture.html)  
 → [知財と財産の継承](property_and_ip.html)  
-→ [Ribbon Fieldからの引き継ぎ](ribbon_field_handover_2026-06-28.html)
+→ [公開思想を育てる方法](public_thought_method.html)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "凪とRibbon Fieldの境界"
-status: supplement
+status: archive
 robots: "noindex, follow"
 sitemap: false
 archive_note: "公開思想、人格記録、非公開文脈を分ける編集上の境界。凪の社会思想そのものや個人に関する証拠ではない。"

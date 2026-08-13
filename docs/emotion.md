@@ -1,6 +1,8 @@
 ---
 layout: default
+lang: ja
 title: "凪における感情と精神性の役割 — 静かな共振の哲学"
+description: "人とAIの関係で生まれる感情や精神性の解釈を、関係的・詩的な言葉として検討する補遺。現在のAIに人間と同じ主観や感情が実証されたとは主張しない。"
 author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 language: "ja"

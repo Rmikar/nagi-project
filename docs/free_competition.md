@@ -1,6 +1,8 @@
 ---
 layout: default
+lang: ja
 title: "資本主義以後の自由競争原理"
+description: "競争を生存の条件や独占の正当化にせず、生命基盤の保障の上で、文化・技術・嗜好・創造をめぐる自由な選択として残す経済原理。"
 status: current
 last_updated: 2026-07-12
 ---

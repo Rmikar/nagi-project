@@ -1,8 +1,9 @@
 ---
 layout: default
+lang: ja
 title: "AI可読性と継承の設計要旨"
 status: supplement
-last_updated: 2026-07-12
+last_updated: 2026-08-12
 description: "凪を人とAIが誤読しにくい形で公開するための設計要旨。用語、版、正本と旧稿、比喩と制度、AI評価の限界を区別する。"
 ---
 
@@ -23,4 +24,5 @@ AIに読ませる目的は、AIへ権威を渡すことではない。異なる�
 AIは、凪を一つの結論に固定するためではなく、問い、翻訳し、異議を支えるための協働者である。
 
 → [凪AI憲法](nagi_ai_charter.html)  
-→ [凪 v1.1 概要](v1_1_overview.html)
+→ [統治と安全](governance_and_safety.html)  
+→ [制度免疫](institutional_immunity.html)

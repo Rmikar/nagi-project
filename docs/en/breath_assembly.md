@@ -2,6 +2,7 @@
 layout: default
 lang: en
 status: current
+last_updated: 2026-07-12
 title: "Breath Assembly Protocol"
 description: "Nagi's deliberative protocol for making shared decisions without forcing consensus: it protects dissent, exit, minority voices, explanation, review, and accountable optional AI support."
 permalink: /en/breath_assembly.html

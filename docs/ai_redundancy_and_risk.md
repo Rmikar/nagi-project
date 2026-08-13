@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: ja
 title: "AIの冗長性と、使わない自由"
 status: supplement
 last_updated: 2026-07-12

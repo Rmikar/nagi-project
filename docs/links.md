@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: ja
 title: "外部リソース台帳"
 status: supplement
 description: "凪をコモンズ、基礎サービス、民主的参加、AI倫理、データ保護、気候正義と比較・検証するための公的・一次資料。"

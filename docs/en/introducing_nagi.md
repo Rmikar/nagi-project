@@ -2,6 +2,7 @@
 layout: default
 lang: en
 status: current
+last_updated: 2026-08-12
 title: "Introducing Nagi Across Languages and Contexts"
 description: "A practical public guide for describing Nagi fairly to readers, researchers, technologists, educators, and AI systems without overstating its claims or hiding its open questions."
 permalink: /en/introducing_nagi.html
@@ -34,11 +35,11 @@ Nagi is not a finished political program or a claim that AI should govern societ
 
 ### Researchers and students
 
-Begin with [Nagi Core](nagi_core.html), [Compass and Resonant Democracy](compass_and_resonant_democracy.html), and [The Ethics of Social Systems](ethics_of_social_infrastructure.html). Read the [English Glossary](glossary.html) before treating Japanese terms as simple equivalents.
+Begin with [Nagi as a Future Social Philosophy](future_social_philosophy.html), [Vital Commons](vital_commons.html), and [Nagi Core](nagi_core.html). Read the [English Glossary](glossary.html) before treating Japanese terms as simple equivalents.
 
 ### Technologists and AI practitioners
 
-Begin with [The Nagi AI Chapter](ai_index.html), [The Nagi AI Charter](nagi_ai_charter.html), [Technical Foundations](technical/foundation_v1.html), and [Tsumugi Network](technical/tsumugi_network.html). Treat the documents as normative design constraints and questions—not as claims that current AI systems possess human-like inner experience.
+Begin with [Governance and Safety](governance_and_safety.html), then use [The Nagi AI Chapter](ai_index.html), [The Nagi AI Charter](nagi_ai_charter.html), [Technical Foundations](technical/foundation_v1.html), and [Tsumugi Network](technical/tsumugi_network.html). Treat them as normative design constraints and questions—not as claims that current AI systems possess human-like inner experience.
 
 ### Educators, artists, and cultural workers
 
@@ -46,7 +47,7 @@ Begin with [Cultural Co-Growth](culture.html), [Education for a Future in Nagi](
 
 ### Civic and institutional practitioners
 
-Begin with [Trust and Governance](trust.html), [Breath Assembly Protocol](breath_assembly.html), [Resonance Metrics](resonance_metrics.html), [Transition and Crisis Design](transition_and_crisis.html), and [Nagi Experiments](experiment_v0.1.html).
+Begin with [Governance and Safety](governance_and_safety.html), [Institutional Immunity](institutional_immunity.html), [Transition and Crisis Design](transition_and_crisis.html), and [Nagi Experiments](experiment_v0.1.html).
 
 ## Questions worth bringing to Nagi
 
@@ -65,6 +66,6 @@ The Japanese edition is the reference edition for philosophical nuance. English 
 > Nagi is not an invitation to agree with one voice.  
 > It is an invitation to make more room for different people to live, question, and continue.
 
-→ [Nagi v1.1 Overview](v1_1_overview.html)  
+→ [Reading Nagi](nagi_reading_guide.html)  
 → [English LLM Reading Guide](llms.txt)  
 → [Translation Status and Governance](translation_status.html)

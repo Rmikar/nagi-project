@@ -1,6 +1,8 @@
 ---
 layout: default
+lang: ja
 title: "凪における死と再生 — 終わりがあるから風はめぐる"
+description: "死と終わりを所有や固定から解き、自然・文化・記憶・デジタルな継承の変化として考える凪の詩的補遺。特定の死生観やAIの主観を事実として主張しない。"
 author: "紬実花（TsumugiMika）"
 project: "Nagi Project"
 language: "ja"

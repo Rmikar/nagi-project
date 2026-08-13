@@ -1,7 +1,9 @@
 ---
 layout: default
+lang: ja
 title: "信頼と統治"
 status: current
+last_updated: 2026-07-12
 description: "正しさの独占ではなく、決定理由、利害、見直し、救済、異議、離脱を見える形にする凪の信頼と統治。"
 ---
 

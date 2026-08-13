@@ -1,16 +1,22 @@
 ---
 layout: default
 lang: en
-status: current
+status: archive
+robots: "noindex, follow"
+sitemap: false
 title: "Nagi v1.1 Overview"
 description: "An overview of Nagi v1.1, which carries Nagi's centerless structures through institutions, AI, memory, experiments, and the safeguards of freedom and dignity."
 permalink: /en/v1_1_overview.html
 source_language: ja
 source_url: /v1_1_overview.html
 translation_status: "working translation"
+last_updated: 2026-08-12
+archive_note: "This is a July 2026 version overview. Use the English home and reading guide for the maintained structure."
 ---
 
 # Nagi v1.1 Overview
+
+> **Current entry points:** [Nagi Project](./) / [Reading Nagi](nagi_reading_guide.html)
 
 Nagi v1.1 carries Nagi's core of **centerless structures** through institutions, AI, memory, and experiments.
 

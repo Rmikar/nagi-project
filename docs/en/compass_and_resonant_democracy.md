@@ -2,6 +2,7 @@
 layout: default
 lang: en
 status: current
+last_updated: 2026-07-12
 title: "Compass and Resonant Democracy"
 description: "Nagi's social direction beyond capitalism and its democratic orientation for protecting dissent, silence, refusal, and exit."
 permalink: /en/compass_and_resonant_democracy.html

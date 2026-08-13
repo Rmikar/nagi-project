@@ -1,6 +1,8 @@
 ---
 layout: default
+lang: ja
 title: "凪環境構造"
+description: "自然の回復、食料生産、生態系、環境データ、世代をまたぐ責任を社会の呼吸として扱い、AIによる人の管理を避ける凪の生態的構想。"
 status: current
 last_updated: 2026-07-26
 ---

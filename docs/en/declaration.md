@@ -2,6 +2,7 @@
 layout: default
 lang: en
 status: current
+last_updated: 2026-07-12
 title: "Nagi Declaration"
 description: "A concise declaration of Nagi's principles of Non-Ownership, Resonance, Breathing, and accountable optional AI."
 permalink: /en/declaration.html

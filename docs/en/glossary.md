@@ -2,6 +2,7 @@
 layout: default
 lang: en
 status: current
+last_updated: 2026-07-12
 title: "Nagi Glossary"
 description: "Core English terms for reading the Nagi Project without flattening its Japanese philosophical vocabulary."
 permalink: /en/glossary.html
@@ -83,7 +84,7 @@ AI designed as an accountable, optional, plural public helper—not as a central
 
 The Japanese text is the reference edition for questions of philosophical nuance. This glossary may evolve through documented discussion and repair.
 
-→ [Return to the English home](index.html)  
+→ [Return to the English home](./)  
 → [Read the Japanese glossary](../glossary.html)
 
 → [Machine-readable Japanese terms](../glossary.json)

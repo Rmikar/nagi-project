@@ -1,181 +1,186 @@
+# Generated from the document registry. Do not edit by hand.
 pages:
-  "/glossary.html":
-    en: "/en/glossary.html"
-  "/en/glossary.html":
-    ja: "/glossary.html"
-  "/rebreathing_and_public_continuity.html":
-    en: "/en/rebreathing_and_public_continuity.html"
-  "/en/rebreathing_and_public_continuity.html":
-    ja: "/rebreathing_and_public_continuity.html"
   "/":
     en: "/en/"
-  "/en/":
-    ja: "/"
-  "/nagi_core.html":
-    en: "/en/nagi_core.html"
-  "/en/nagi_core.html":
-    ja: "/nagi_core.html"
-  "/declaration.html":
-    en: "/en/declaration.html"
-  "/en/declaration.html":
-    ja: "/declaration.html"
-  "/compass_and_resonant_democracy.html":
-    en: "/en/compass_and_resonant_democracy.html"
-  "/en/compass_and_resonant_democracy.html":
-    ja: "/compass_and_resonant_democracy.html"
-  "/freedom_and_dissent.html":
-    en: "/en/freedom_and_dissent.html"
-  "/en/freedom_and_dissent.html":
-    ja: "/freedom_and_dissent.html"
-  "/memory_and_consent.html":
-    en: "/en/memory_and_consent.html"
-  "/en/memory_and_consent.html":
-    ja: "/memory_and_consent.html"
-  "/transition_and_crisis.html":
-    en: "/en/transition_and_crisis.html"
-  "/en/transition_and_crisis.html":
-    ja: "/transition_and_crisis.html"
-  "/v1_1_overview.html":
-    en: "/en/v1_1_overview.html"
-  "/en/v1_1_overview.html":
-    ja: "/v1_1_overview.html"
-  "/nagi_ai_charter.html":
-    en: "/en/nagi_ai_charter.html"
-  "/en/nagi_ai_charter.html":
-    ja: "/nagi_ai_charter.html"
-  "/nagi_ai_principles.html":
-    en: "/en/nagi_ai_principles.html"
-  "/en/nagi_ai_principles.html":
-    ja: "/nagi_ai_principles.html"
   "/ai_index.html":
     en: "/en/ai_index.html"
-  "/en/ai_index.html":
-    ja: "/ai_index.html"
   "/ai_manifesto.yaml.html":
     en: "/en/ai_manifesto.yaml.html"
-  "/en/ai_manifesto.yaml.html":
-    ja: "/ai_manifesto.yaml.html"
-  "/technical/foundation_v1.html":
-    en: "/en/technical/foundation_v1.html"
-  "/en/technical/foundation_v1.html":
-    ja: "/technical/foundation_v1.html"
-  "/technical/tsumugi_network.html":
-    en: "/en/technical/tsumugi_network.html"
-  "/en/technical/tsumugi_network.html":
-    ja: "/technical/tsumugi_network.html"
-  "/technical/whitepaper.html":
-    en: "/en/technical/whitepaper.html"
-  "/en/technical/whitepaper.html":
-    ja: "/technical/whitepaper.html"
-  "/ethics_of_social_infrastructure.html":
-    en: "/en/ethics_of_social_infrastructure.html"
-  "/en/ethics_of_social_infrastructure.html":
-    ja: "/ethics_of_social_infrastructure.html"
-  "/culture.html":
-    en: "/en/culture.html"
-  "/en/culture.html":
-    ja: "/culture.html"
-  "/education.html":
-    en: "/en/education.html"
-  "/en/education.html":
-    ja: "/education.html"
-  "/property_and_ip.html":
-    en: "/en/property_and_ip.html"
-  "/en/property_and_ip.html":
-    ja: "/property_and_ip.html"
-  "/breath_economy.html":
-    en: "/en/breath_economy.html"
-  "/en/breath_economy.html":
-    ja: "/breath_economy.html"
-  "/ecological_structure.html":
-    en: "/en/ecological_structure.html"
-  "/en/ecological_structure.html":
-    ja: "/ecological_structure.html"
-  "/emotion.html":
-    en: "/en/emotion.html"
-  "/en/emotion.html":
-    ja: "/emotion.html"
-  "/death.html":
-    en: "/en/death.html"
-  "/en/death.html":
-    ja: "/death.html"
-  "/musubi.html":
-    en: "/en/musubi.html"
-  "/en/musubi.html":
-    ja: "/musubi.html"
-  "/philosophy.html":
-    en: "/en/philosophy.html"
-  "/en/philosophy.html":
-    ja: "/philosophy.html"
-  "/deepening_principles.html":
-    en: "/en/deepening_principles.html"
-  "/en/deepening_principles.html":
-    ja: "/deepening_principles.html"
   "/breath_assembly.html":
     en: "/en/breath_assembly.html"
-  "/en/breath_assembly.html":
-    ja: "/breath_assembly.html"
-  "/resonance_metrics.html":
-    en: "/en/resonance_metrics.html"
-  "/en/resonance_metrics.html":
-    ja: "/resonance_metrics.html"
-  "/public_thought_method.html":
-    en: "/en/public_thought_method.html"
-  "/en/public_thought_method.html":
-    ja: "/public_thought_method.html"
-  "/repair_and_co_growth.html":
-    en: "/en/repair_and_co_growth.html"
-  "/en/repair_and_co_growth.html":
-    ja: "/repair_and_co_growth.html"
+  "/breath_economy.html":
+    en: "/en/breath_economy.html"
+  "/compass_and_resonant_democracy.html":
+    en: "/en/compass_and_resonant_democracy.html"
   "/credit_and_accountability.html":
     en: "/en/credit_and_accountability.html"
-  "/en/credit_and_accountability.html":
-    ja: "/credit_and_accountability.html"
   "/cultural_stewardship.html":
     en: "/en/cultural_stewardship.html"
+  "/culture.html":
+    en: "/en/culture.html"
+  "/death.html":
+    en: "/en/death.html"
+  "/declaration.html":
+    en: "/en/declaration.html"
+  "/deepening_principles.html":
+    en: "/en/deepening_principles.html"
+  "/ecological_structure.html":
+    en: "/en/ecological_structure.html"
+  "/education.html":
+    en: "/en/education.html"
+  "/emotion.html":
+    en: "/en/emotion.html"
+  "/en/":
+    ja: "/"
+  "/en/ai_index.html":
+    ja: "/ai_index.html"
+  "/en/ai_manifesto.yaml.html":
+    ja: "/ai_manifesto.yaml.html"
+  "/en/breath_assembly.html":
+    ja: "/breath_assembly.html"
+  "/en/breath_economy.html":
+    ja: "/breath_economy.html"
+  "/en/compass_and_resonant_democracy.html":
+    ja: "/compass_and_resonant_democracy.html"
+  "/en/credit_and_accountability.html":
+    ja: "/credit_and_accountability.html"
   "/en/cultural_stewardship.html":
     ja: "/cultural_stewardship.html"
-  "/play_and_structure.html":
-    en: "/en/play_and_structure.html"
-  "/en/play_and_structure.html":
-    ja: "/play_and_structure.html"
-  "/observe_loosen_connect.html":
-    en: "/en/observe_loosen_connect.html"
-  "/en/observe_loosen_connect.html":
-    ja: "/observe_loosen_connect.html"
-  "/quiet_praxis.html":
-    en: "/en/quiet_praxis.html"
-  "/en/quiet_praxis.html":
-    ja: "/quiet_praxis.html"
-  "/quiet_praxis_current.html":
-    en: "/en/quiet_praxis_current.html"
-  "/en/quiet_praxis_current.html":
-    ja: "/quiet_praxis_current.html"
-  "/experiment_v0.1.html":
-    en: "/en/experiment_v0.1.html"
+  "/en/culture.html":
+    ja: "/culture.html"
+  "/en/death.html":
+    ja: "/death.html"
+  "/en/declaration.html":
+    ja: "/declaration.html"
+  "/en/deepening_principles.html":
+    ja: "/deepening_principles.html"
+  "/en/ecological_structure.html":
+    ja: "/ecological_structure.html"
+  "/en/education.html":
+    ja: "/education.html"
+  "/en/emotion.html":
+    ja: "/emotion.html"
+  "/en/ethics_of_social_infrastructure.html":
+    ja: "/ethics_of_social_infrastructure.html"
   "/en/experiment_v0.1.html":
     ja: "/experiment_v0.1.html"
-  "/trust.html":
-    en: "/en/trust.html"
-  "/en/trust.html":
-    ja: "/trust.html"
-  "/institutional_design.html":
-    en: "/en/institutional_design.html"
-  "/en/institutional_design.html":
-    ja: "/institutional_design.html"
-  "/infrastructure.html":
-    en: "/en/infrastructure.html"
-  "/en/infrastructure.html":
-    ja: "/infrastructure.html"
-  "/non_ownership.html":
-    en: "/en/non_ownership.html"
-  "/en/non_ownership.html":
-    ja: "/non_ownership.html"
-  "/free_competition.html":
-    en: "/en/free_competition.html"
   "/en/free_competition.html":
     ja: "/free_competition.html"
-  "/implementation.html":
-    en: "/en/implementation.html"
-  "/en/implementation.html":
-    ja: "/implementation.html"
+  "/en/freedom_and_dissent.html":
+    ja: "/freedom_and_dissent.html"
+  "/en/future_social_philosophy.html":
+    ja: "/future_social_philosophy.html"
+  "/en/glossary.html":
+    ja: "/glossary.html"
+  "/en/governance_and_safety.html":
+    ja: "/governance_and_safety.html"
+  "/en/institutional_design.html":
+    ja: "/institutional_design.html"
+  "/en/institutional_immunity.html":
+    ja: "/institutional_immunity.html"
+  "/en/memory_and_consent.html":
+    ja: "/memory_and_consent.html"
+  "/en/musubi.html":
+    ja: "/musubi.html"
+  "/en/nagi_ai_charter.html":
+    ja: "/nagi_ai_charter.html"
+  "/en/nagi_core.html":
+    ja: "/nagi_core.html"
+  "/en/nagi_os.html":
+    ja: "/nagi_os.html"
+  "/en/nagi_reading_guide.html":
+    ja: "/nagi_reading_guide.html"
+  "/en/non_ownership.html":
+    ja: "/non_ownership.html"
+  "/en/observe_loosen_connect.html":
+    ja: "/observe_loosen_connect.html"
+  "/en/philosophy.html":
+    ja: "/philosophy.html"
+  "/en/play_and_structure.html":
+    ja: "/play_and_structure.html"
+  "/en/property_and_ip.html":
+    ja: "/property_and_ip.html"
+  "/en/public_thought_method.html":
+    ja: "/public_thought_method.html"
+  "/en/quiet_praxis_current.html":
+    ja: "/quiet_praxis_current.html"
+  "/en/rebreathing_and_public_continuity.html":
+    ja: "/rebreathing_and_public_continuity.html"
+  "/en/repair_and_co_growth.html":
+    ja: "/repair_and_co_growth.html"
+  "/en/resonance_metrics.html":
+    ja: "/resonance_metrics.html"
+  "/en/state_and_public_spheres.html":
+    ja: "/state_and_public_spheres.html"
+  "/en/technical/foundation_v1.html":
+    ja: "/technical/foundation_v1.html"
+  "/en/technical/tsumugi_network.html":
+    ja: "/technical/tsumugi_network.html"
+  "/en/transition_and_crisis.html":
+    ja: "/transition_and_crisis.html"
+  "/en/trust.html":
+    ja: "/trust.html"
+  "/en/vital_commons.html":
+    ja: "/vital_commons.html"
+  "/ethics_of_social_infrastructure.html":
+    en: "/en/ethics_of_social_infrastructure.html"
+  "/experiment_v0.1.html":
+    en: "/en/experiment_v0.1.html"
+  "/free_competition.html":
+    en: "/en/free_competition.html"
+  "/freedom_and_dissent.html":
+    en: "/en/freedom_and_dissent.html"
+  "/future_social_philosophy.html":
+    en: "/en/future_social_philosophy.html"
+  "/glossary.html":
+    en: "/en/glossary.html"
+  "/governance_and_safety.html":
+    en: "/en/governance_and_safety.html"
+  "/institutional_design.html":
+    en: "/en/institutional_design.html"
+  "/institutional_immunity.html":
+    en: "/en/institutional_immunity.html"
+  "/memory_and_consent.html":
+    en: "/en/memory_and_consent.html"
+  "/musubi.html":
+    en: "/en/musubi.html"
+  "/nagi_ai_charter.html":
+    en: "/en/nagi_ai_charter.html"
+  "/nagi_core.html":
+    en: "/en/nagi_core.html"
+  "/nagi_os.html":
+    en: "/en/nagi_os.html"
+  "/nagi_reading_guide.html":
+    en: "/en/nagi_reading_guide.html"
+  "/non_ownership.html":
+    en: "/en/non_ownership.html"
+  "/observe_loosen_connect.html":
+    en: "/en/observe_loosen_connect.html"
+  "/philosophy.html":
+    en: "/en/philosophy.html"
+  "/play_and_structure.html":
+    en: "/en/play_and_structure.html"
+  "/property_and_ip.html":
+    en: "/en/property_and_ip.html"
+  "/public_thought_method.html":
+    en: "/en/public_thought_method.html"
+  "/quiet_praxis_current.html":
+    en: "/en/quiet_praxis_current.html"
+  "/rebreathing_and_public_continuity.html":
+    en: "/en/rebreathing_and_public_continuity.html"
+  "/repair_and_co_growth.html":
+    en: "/en/repair_and_co_growth.html"
+  "/resonance_metrics.html":
+    en: "/en/resonance_metrics.html"
+  "/state_and_public_spheres.html":
+    en: "/en/state_and_public_spheres.html"
+  "/technical/foundation_v1.html":
+    en: "/en/technical/foundation_v1.html"
+  "/technical/tsumugi_network.html":
+    en: "/en/technical/tsumugi_network.html"
+  "/transition_and_crisis.html":
+    en: "/en/transition_and_crisis.html"
+  "/trust.html":
+    en: "/en/trust.html"
+  "/vital_commons.html":
+    en: "/en/vital_commons.html"
