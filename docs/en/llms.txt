@@ -9,7 +9,7 @@
 - Creator: 紬実花（TsumugiMika）
 - Reference language: Japanese
 - License: CC BY-SA 4.0
-- Registry updated: 2026-08-12
+- Registry updated: 2026-08-13
 
 ## Canonical and current English documents
 
@@ -26,10 +26,10 @@
 - [Nagi Experiments](https://rmikar.github.io/nagi-project/en/experiment_v0.1.html): Nagi's practice of trying ideas on a small scale near everyday life, protecting freedom, consent, exit, and repair while learning from what happens.
 - [Principles of Free Competition Beyond Capitalism](https://rmikar.github.io/nagi-project/en/free_competition.html): Nagi's approach to competition: preserve creative experimentation and difference while placing Basic Breath outside competition and preventing gain through the destruction of others.
 - [Freedom, Dissent, and Exit](https://rmikar.github.io/nagi-project/en/freedom_and_dissent.html): The safeguards that keep Nagi's centerless structures from turning resonance into conformity or a condition for basic life.
-- [Nagi as a Future Social Philosophy — Post-Capitalism, Resonant Democracy, and AI Ethics](https://rmikar.github.io/nagi-project/en/future_social_philosophy.html): Nagi as a future social philosophy: Non-Ownership, Resonance, Breathing, Vital Commons, democracy, safeguards, AI boundaries, objections, and open questions.
+- [Nagi as a Future Social Philosophy — Post-Capitalism, Resonant Democracy, and AI Ethics](https://rmikar.github.io/nagi-project/en/future_social_philosophy.html): For people exploring alternatives to capitalism and the future of society: Nagi's Vital Commons, Non-Ownership, Resonant Democracy, safeguards, AI boundaries, and open questions.
 - [Nagi Glossary](https://rmikar.github.io/nagi-project/en/glossary.html): Core English terms for reading the Nagi Project without flattening its Japanese philosophical vocabulary.
 - [Governance and Safety — Resonant Democracy, Rights, Institutional Immunity, and Transition](https://rmikar.github.io/nagi-project/en/governance_and_safety.html): A guide to Resonant Democracy, dissent and exit, Institutional Immunity, crisis design, and limits on AI power so Vital Commons do not become a new form of domination.
-- [Nagi Project — Freeing Survival from Ownership and Domination](https://rmikar.github.io/nagi-project/en/): A maintained English introduction to Nagi: dignity, kindness, culture, and creativity above growth; non-owned Vital Commons; Resonant Democracy; and Institutional Immunity.
+- [Nagi Project — Freeing Survival from Ownership and Domination](https://rmikar.github.io/nagi-project/en/): Nagi is a future social philosophy for people exploring alternatives to capitalism: non-owned Vital Commons, Resonant Democracy, Institutional Immunity, and plural ways of life.
 - [Institutional Design and Practice](https://rmikar.github.io/nagi-project/en/institutional_design.html): Nagi's institutional approach: begin close to everyday life, give decisions reasons and review, preserve alternatives and consultation, and connect places only where solidarity is needed.
 - [Institutional Immunity — Detecting Harm, Pausing Damage, Providing Remedy, and Learning](https://rmikar.github.io/nagi-project/en/institutional_immunity.html): Nagi's distributed safety function for detecting harm, pausing irreversible damage, providing remedy, revising systems, and ending institutions without a sovereign watchdog.
 - [Introducing Nagi Across Languages and Contexts](https://rmikar.github.io/nagi-project/en/introducing_nagi.html): A practical public guide for describing Nagi fairly to readers, researchers, technologists, educators, and AI systems without overstating its claims or hiding its open questions.
@@ -37,7 +37,7 @@
 - [The Nagi AI Charter](https://rmikar.github.io/nagi-project/en/nagi_ai_charter.html): The limits, responsibilities, and safeguards for AI in Nagi: AI supports human freedom but does not become society's center, a human-value scorer, or a final authority over rights.
 - [Nagi Core — A World of Centerless Structures](https://rmikar.github.io/nagi-project/en/nagi_core.html): Nagi's philosophical core: dignity and kindness, cultural and creative continuity, an economy kept as a means, and a world understood through layered, centerless structures.
 - [A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor](https://rmikar.github.io/nagi-project/en/nagi_os.html): An explanatory model of Nagi as a shared foundation for plural social philosophies and ways of life, grounded in Vital Commons, basic rights, exit, Resonant Democracy, and Institutional Immunity.
-- [Reading Nagi — Five Minutes, Twenty Minutes, One Hour, and Research Paths](https://rmikar.github.io/nagi-project/en/nagi_reading_guide.html): A time- and topic-based guide to Nagi's maintained English edition: its core, Vital Commons, safeguards, culture, AI boundaries, research aids, and translation status.
+- [Reading Nagi — Five Minutes, Twenty Minutes, One Hour, and Research Paths](https://rmikar.github.io/nagi-project/en/nagi_reading_guide.html): A reading guide for exploring alternatives to capitalism and future society through Nagi's Vital Commons, safeguards, culture, AI boundaries, and open questions.
 - [Institutionalizing Non-Ownership](https://rmikar.github.io/nagi-project/en/non_ownership.html): Nagi's approach to non-ownership: protect personal life and creative personhood while loosening monopolies over land, knowledge, culture, nature, and foundational technologies.
 - [The Philosophical Background of Nagi](https://rmikar.github.io/nagi-project/en/philosophy.html): A concise introduction to Nagi's world view: no state, market, company, or AI is the center; society arises from layered lives, memory, land, culture, relationships, and nature.
 - [Inheritance of Intellectual Property and Assets](https://rmikar.github.io/nagi-project/en/property_and_ip.html): Nagi's principles for protecting creative work and everyday security while passing cultural and material resources to future generations without extraction.
@@ -50,7 +50,7 @@
 - [Transition and Crisis Design](https://rmikar.github.io/nagi-project/en/transition_and_crisis.html): Nagi's principles for moving gradually from present institutions while protecting people during disaster, violence, scarcity, discrimination, and social change.
 - [English Edition — Translation Status and Governance](https://rmikar.github.io/nagi-project/en/translation_status.html): How Nagi's English edition relates to the Japanese reference, which central chapters are aligned as of August 12, 2026, and how stale translations are identified and repaired.
 - [Trust and Governance](https://rmikar.github.io/nagi-project/en/trust.html): Nagi's approach to governance: trust is not the monopoly of correctness, but visible reasons, dissent, review, remedy, and the real possibility of leaving.
-- [Vital Commons — Separating Survival from Capital, Ownership, and War](https://rmikar.github.io/nagi-project/en/vital_commons.html): Nagi's central proposal: make energy, water, food, health care, shelter, sanitation, and communication non-owned Vital Commons without conditioning basic life.
+- [Vital Commons — Separating Survival from Capital, Ownership, and War](https://rmikar.github.io/nagi-project/en/vital_commons.html): Nagi's central proposal: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.
 
 ## Supplements
 

@@ -3,14 +3,22 @@ layout: default
 lang: en
 status: current
 title: "Nagi Project — Freeing Survival from Ownership and Domination"
+seo_title: "Freeing Survival from Ownership and Domination"
 short_title: "Nagi Project"
-description: "A maintained English introduction to Nagi: dignity, kindness, culture, and creativity above growth; non-owned Vital Commons; Resonant Democracy; and Institutional Immunity."
-last_updated: 2026-08-12
+description: "Nagi is a future social philosophy for people exploring alternatives to capitalism: non-owned Vital Commons, Resonant Democracy, Institutional Immunity, and plural ways of life."
+last_updated: 2026-08-13
 permalink: /en/
 source_language: ja
 source_url: /
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-08-12
+translation_last_reviewed: 2026-08-13
+keywords:
+  - alternatives to capitalism
+  - future society
+  - future social philosophy
+  - post-capitalism
+  - Vital Commons
+  - Resonant Democracy
 ---
 
 # Nagi Project
@@ -22,6 +30,8 @@ translation_last_reviewed: 2026-08-12
 > People and local institutions remain responsible for them, with public-interest AI available where useful.  
 >  
 > Nagi separates survival from income, employment, nationality, ownership, reputation, ideological agreement, and victory, so that people can live culture and creativity freely.
+
+Nagi is not a finished system that simply rejects capitalism. It is one social philosophy for asking what alternatives to capitalism could look like and how a future society should be designed across survival, governance, culture, and technology—then testing those ideas at a small scale and revising them through criticism.
 
 ## Fundamental commitments
 

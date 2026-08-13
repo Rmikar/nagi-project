@@ -1,7 +1,7 @@
 {
   "name": "Nagi Project complete public knowledge graph",
   "description": "Documents, concepts, parent collections, translations, and institutional-immunity relationships in Nagi.",
-  "dateModified": "2026-08-12",
+  "dateModified": "2026-08-13",
   "baseUrl": "https://rmikar.github.io/nagi-project/",
   "nodes": [
     {
@@ -770,6 +770,15 @@
       "documentType": "culture-and-continuity"
     },
     {
+      "id": "document:population-power",
+      "kind": "document",
+      "label": "人口と権力を切り離す — 生存保障は「人数＝力」の歴史を変えうるか",
+      "url": "https://rmikar.github.io/nagi-project/population_and_power.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "thematic-document"
+    },
+    {
       "id": "document:property-ip",
       "kind": "document",
       "label": "知財と財産の継承",
@@ -916,11 +925,6 @@
       "label": "AI支援"
     },
     {
-      "id": "concept:FAQ",
-      "kind": "concept",
-      "label": "FAQ"
-    },
-    {
       "id": "concept:Institutional Immunity",
       "kind": "concept",
       "label": "Institutional Immunity"
@@ -944,6 +948,11 @@
       "id": "concept:Vital Commons",
       "kind": "concept",
       "label": "Vital Commons"
+    },
+    {
+      "id": "concept:alternatives to capitalism",
+      "kind": "concept",
+      "label": "alternatives to capitalism"
     },
     {
       "id": "concept:coexistence of social philosophies",
@@ -986,6 +995,11 @@
       "label": "future social philosophy"
     },
     {
+      "id": "concept:future society",
+      "kind": "concept",
+      "label": "future society"
+    },
+    {
       "id": "concept:health care",
       "kind": "concept",
       "label": "health care"
@@ -1024,6 +1038,11 @@
       "id": "concept:public spheres",
       "kind": "concept",
       "label": "public spheres"
+    },
+    {
+      "id": "concept:reading guide",
+      "kind": "concept",
+      "label": "reading guide"
     },
     {
       "id": "concept:red teaming",
@@ -1066,11 +1085,6 @@
       "label": "universal basic services"
     },
     {
-      "id": "concept:エネルギー保障",
-      "kind": "concept",
-      "label": "エネルギー保障"
-    },
-    {
       "id": "concept:コモンズ",
       "kind": "concept",
       "label": "コモンズ"
@@ -1101,6 +1115,11 @@
       "label": "プライバシー"
     },
     {
+      "id": "concept:ベーシックサービス",
+      "kind": "concept",
+      "label": "ベーシックサービス"
+    },
+    {
       "id": "concept:ポスト成長",
       "kind": "concept",
       "label": "ポスト成長"
@@ -1109,6 +1128,11 @@
       "id": "concept:ポスト資本主義",
       "kind": "concept",
       "label": "ポスト資本主義"
+    },
+    {
+      "id": "concept:ユニバーサル・ベーシック・サービス",
+      "kind": "concept",
+      "label": "ユニバーサル・ベーシック・サービス"
     },
     {
       "id": "concept:レッドチーム",
@@ -1129,6 +1153,21 @@
       "id": "concept:二筋六花結び",
       "kind": "concept",
       "label": "二筋六花結び"
+    },
+    {
+      "id": "concept:人口と権力",
+      "kind": "concept",
+      "label": "人口と権力"
+    },
+    {
+      "id": "concept:人口問題",
+      "kind": "concept",
+      "label": "人口問題"
+    },
+    {
+      "id": "concept:人口減少",
+      "kind": "concept",
+      "label": "人口減少"
     },
     {
       "id": "concept:人間による監督",
@@ -1216,6 +1255,11 @@
       "label": "凪プロジェクト"
     },
     {
+      "id": "concept:出生の自由",
+      "kind": "concept",
+      "label": "出生の自由"
+    },
+    {
       "id": "concept:分散",
       "kind": "concept",
       "label": "分散"
@@ -1256,9 +1300,9 @@
       "label": "創造"
     },
     {
-      "id": "concept:医療保障",
+      "id": "concept:労働力人口",
       "kind": "concept",
-      "label": "医療保障"
+      "label": "労働力人口"
     },
     {
       "id": "concept:危機統治",
@@ -1331,11 +1375,6 @@
       "label": "実験"
     },
     {
-      "id": "concept:平和",
-      "kind": "concept",
-      "label": "平和"
-    },
-    {
       "id": "concept:役割から降りる自由",
       "kind": "concept",
       "label": "役割から降りる自由"
@@ -1396,9 +1435,19 @@
       "label": "暫定停止"
     },
     {
+      "id": "concept:未来の社会",
+      "kind": "concept",
+      "label": "未来の社会"
+    },
+    {
       "id": "concept:未来の社会思想",
       "kind": "concept",
       "label": "未来の社会思想"
+    },
+    {
+      "id": "concept:未来社会",
+      "kind": "concept",
+      "label": "未来社会"
     },
     {
       "id": "concept:未来社会思想",
@@ -1489,11 +1538,6 @@
       "id": "concept:知的財産",
       "kind": "concept",
       "label": "知的財産"
-    },
-    {
-      "id": "concept:研究",
-      "kind": "concept",
-      "label": "研究"
     },
     {
       "id": "concept:研究資料",
@@ -1611,6 +1655,21 @@
       "label": "読書案内"
     },
     {
+      "id": "concept:資本主義の代替案",
+      "kind": "concept",
+      "label": "資本主義の代替案"
+    },
+    {
+      "id": "concept:資本主義の次",
+      "kind": "concept",
+      "label": "資本主義の次"
+    },
+    {
+      "id": "concept:資源問題",
+      "kind": "concept",
+      "label": "資源問題"
+    },
+    {
       "id": "concept:離脱",
       "kind": "concept",
       "label": "離脱"
@@ -1624,11 +1683,6 @@
       "id": "concept:非所有",
       "kind": "concept",
       "label": "非所有"
-    },
-    {
-      "id": "concept:食料保障",
-      "kind": "concept",
-      "label": "食料保障"
     }
   ],
   "edges": [
@@ -3014,6 +3068,16 @@
     },
     {
       "source": "document:en-future-social-philosophy",
+      "target": "concept:alternatives to capitalism",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "concept:future society",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
       "target": "concept:future social philosophy",
       "relation": "about"
     },
@@ -3226,6 +3290,36 @@
       "source": "document:en-governance-and-safety",
       "target": "document:governance-and-safety",
       "relation": "translationPair"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:alternatives to capitalism",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:future society",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:future social philosophy",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:post-capitalism",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:Vital Commons",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:Resonant Democracy",
+      "relation": "about"
     },
     {
       "source": "document:en-home",
@@ -3701,6 +3795,31 @@
       "source": "document:en-nagi-os",
       "target": "document:nagi-os",
       "relation": "translationPair"
+    },
+    {
+      "source": "document:en-nagi-reading-guide",
+      "target": "concept:alternatives to capitalism",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-reading-guide",
+      "target": "concept:future society",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-reading-guide",
+      "target": "concept:future social philosophy",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-reading-guide",
+      "target": "concept:post-capitalism",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-nagi-reading-guide",
+      "target": "concept:reading guide",
+      "relation": "about"
     },
     {
       "source": "document:en-nagi-reading-guide",
@@ -4601,7 +4720,7 @@
     },
     {
       "source": "document:faq",
-      "target": "concept:FAQ",
+      "target": "concept:資本主義の代替案",
       "relation": "about"
     },
     {
@@ -4611,12 +4730,22 @@
     },
     {
       "source": "document:faq",
-      "target": "concept:AI倫理",
+      "target": "concept:ポスト資本主義",
       "relation": "about"
     },
     {
       "source": "document:faq",
       "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:faq",
+      "target": "concept:共鳴民主主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:faq",
+      "target": "concept:AI倫理",
       "relation": "about"
     },
     {
@@ -4808,6 +4937,26 @@
     },
     {
       "source": "document:future-social-philosophy",
+      "target": "concept:資本主義の代替案",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:資本主義の次",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:未来の社会",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:未来社会",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
       "target": "concept:未来の社会思想",
       "relation": "about"
     },
@@ -4918,6 +5067,11 @@
     },
     {
       "source": "document:future-social-philosophy",
+      "target": "document:population-power",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
       "target": "document:declaration",
       "relation": "relatedTo"
     },
@@ -4934,11 +5088,6 @@
     {
       "source": "document:future-social-philosophy",
       "target": "document:transition-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:ai-charter",
       "relation": "relatedTo"
     },
     {
@@ -5124,6 +5273,21 @@
     },
     {
       "source": "document:home",
+      "target": "concept:資本主義の代替案",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:資本主義の次",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:未来の社会",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
       "target": "concept:未来社会思想",
       "relation": "about"
     },
@@ -5134,27 +5298,12 @@
     },
     {
       "source": "document:home",
-      "target": "concept:非所有",
+      "target": "concept:生命基盤コモンズ",
       "relation": "about"
     },
     {
       "source": "document:home",
-      "target": "concept:共鳴",
-      "relation": "about"
-    },
-    {
-      "source": "document:home",
-      "target": "concept:呼吸",
-      "relation": "about"
-    },
-    {
-      "source": "document:home",
-      "target": "concept:制度設計",
-      "relation": "about"
-    },
-    {
-      "source": "document:home",
-      "target": "concept:価値と構造",
+      "target": "concept:共鳴民主主義",
       "relation": "about"
     },
     {
@@ -5185,6 +5334,11 @@
     {
       "source": "document:home",
       "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:population-power",
       "relation": "relatedTo"
     },
     {
@@ -5230,11 +5384,6 @@
     {
       "source": "document:home",
       "target": "document:en-home",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:en-introducing-nagi",
       "relation": "relatedTo"
     },
     {
@@ -5829,7 +5978,12 @@
     },
     {
       "source": "document:reading-guide",
-      "target": "concept:読書案内",
+      "target": "concept:資本主義の代替案",
+      "relation": "about"
+    },
+    {
+      "source": "document:reading-guide",
+      "target": "concept:未来の社会",
       "relation": "about"
     },
     {
@@ -5839,7 +5993,12 @@
     },
     {
       "source": "document:reading-guide",
-      "target": "concept:研究",
+      "target": "concept:ポスト資本主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:reading-guide",
+      "target": "concept:読書案内",
       "relation": "about"
     },
     {
@@ -6097,6 +6256,76 @@
       "source": "document:play-and-structure",
       "target": "document:en-play-and-structure",
       "relation": "translationPair"
+    },
+    {
+      "source": "document:population-power",
+      "target": "concept:人口と権力",
+      "relation": "about"
+    },
+    {
+      "source": "document:population-power",
+      "target": "concept:人口減少",
+      "relation": "about"
+    },
+    {
+      "source": "document:population-power",
+      "target": "concept:人口問題",
+      "relation": "about"
+    },
+    {
+      "source": "document:population-power",
+      "target": "concept:生存保障",
+      "relation": "about"
+    },
+    {
+      "source": "document:population-power",
+      "target": "concept:労働力人口",
+      "relation": "about"
+    },
+    {
+      "source": "document:population-power",
+      "target": "concept:資源問題",
+      "relation": "about"
+    },
+    {
+      "source": "document:population-power",
+      "target": "concept:出生の自由",
+      "relation": "about"
+    },
+    {
+      "source": "document:population-power",
+      "target": "concept:生命基盤コモンズ",
+      "relation": "about"
+    },
+    {
+      "source": "document:population-power",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:population-power",
+      "target": "document:state-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:population-power",
+      "target": "document:ecology",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:population-power",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:population-power",
+      "target": "document:future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:population-power",
+      "target": "document:vital-commons",
+      "relation": "isPartOf"
     },
     {
       "source": "document:property-ip",
@@ -6925,7 +7154,17 @@
     },
     {
       "source": "document:vital-commons",
-      "target": "concept:基礎呼吸",
+      "target": "concept:資本主義の代替案",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:ユニバーサル・ベーシック・サービス",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:ベーシックサービス",
       "relation": "about"
     },
     {
@@ -6940,32 +7179,12 @@
     },
     {
       "source": "document:vital-commons",
+      "target": "concept:コモンズ",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
       "target": "concept:公共AI",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:食料保障",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:エネルギー保障",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:医療保障",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:平和",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:ポスト資本主義",
       "relation": "about"
     },
     {
@@ -7016,6 +7235,11 @@
     {
       "source": "document:vital-commons",
       "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:population-power",
       "relation": "relatedTo"
     },
     {

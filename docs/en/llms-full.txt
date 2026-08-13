@@ -3,7 +3,7 @@
 Creator: 紬実花（TsumugiMika）
 Reference language: Japanese
 License: CC BY-SA 4.0
-Updated: 2026-08-12
+Updated: 2026-08-13
 Canonical site: https://rmikar.github.io/nagi-project/
 
 The Japanese README and public home are the reference edition. Translation status is part of each document's metadata.
@@ -1086,13 +1086,15 @@ Source: https://rmikar.github.io/nagi-project/en/future_social_philosophy.html
 Status: current
 Type: philosophical-context
 Role: Philosophical context
-Updated: 2026-08-12
-Summary: Nagi as a future social philosophy: Non-Ownership, Resonance, Breathing, Vital Commons, democracy, safeguards, AI boundaries, objections, and open questions.
+Updated: 2026-08-13
+Summary: For people exploring alternatives to capitalism and the future of society: Nagi's Vital Commons, Non-Ownership, Resonant Democracy, safeguards, AI boundaries, and open questions.
 
 
 # Nagi as a Future Social Philosophy
 
-**Nagi** is a future social philosophy that receives the freedom, technology, and creativity produced through capitalism while loosening monopoly, domination, excessive competition, surveillance, and the abandonment of life that have grown too strong within it.
+**Nagi** is a future social philosophy that asks what alternatives to capitalism could look like and how a future society should be designed across survival, ownership, governance, culture, and technology.
+
+It receives the freedom, technology, and creativity produced through capitalism while loosening monopoly, domination, excessive competition, surveillance, and the abandonment of life that have grown too strong within it. It does not present itself as the one finished system that must replace capitalism.
 
 Its three principles are **Non-Ownership, Resonance, and Breathing**. Its political proposal is **Resonant Democracy**, which protects dissent, silence, refusal, and exit. Nagi is neither a finished model of the state nor a single correct answer. It is a compass for trying institutions at a small scale, stopping them when they cause harm, and revising them through criticism.
 
@@ -1131,9 +1133,9 @@ Breathing gathers pause, rest, care, relearning, ecological recovery, and interg
 
 Its minimum floor is **Basic Breathing**: access to food, housing, health care, education, communication, and culture does not become a reward for contribution, popularity, or AI use.
 
-Basic Breathing is not limited to cash transfers. Energy, water, staple food, health resources, shelter, sanitation, and communication can be organized as non-owned **Vital Commons**. Multiple public-interest AI systems may assist with forecasting, production, maintenance, reserves, and distribution, while human routes and manual operation remain available.
+Basic Breathing is not limited to cash transfers. Energy, water, staple food, health resources, shelter, sanitation, and communication can be organized as non-owned **Vital Commons**. People and local institutions remain responsible for purposes, allocation principles, remedy, and challenge. Where communities choose to use them, multiple public-interest AI systems may assist with forecasting, equipment, production, maintenance, reserves, and distribution.
 
-AI manages equipment and circulation, not people. No person, company, state, locality, or AI owns the foundations of life in order to stop access or demand loyalty.
+AI is neither society's center nor the responsible authority for Vital Commons. Where it is used, its assistance is limited to equipment and circulation, not people. No person, company, state, locality, or AI owns the foundations of life in order to stop access or demand loyalty.
 
 → [Vital Commons](vital_commons.html)
 
@@ -1192,7 +1194,7 @@ Nagi is not an AI-centered philosophy and does not assume that present AI system
 
 AI can help organize sources, translate, compare alternatives, identify neglected perspectives, and operate large-scale equipment, flow, reserves, production, and logistics. It still does not score personality, belief, emotion, cooperation, or human value. It does not make final decisions over basic life, rights, sanctions, or life-saving care.
 
-AI may operate Vital Commons without owning them. It cannot rewrite the floor of basic access, dissent, or remedy. People retain the freedom not to use AI, to consult a person, and not to leave a record.
+AI may assist with selected operations of Vital Commons without owning them. It cannot rewrite the floor of basic access, dissent, or remedy. People retain the freedom not to use AI, to consult a person, and not to leave a record.
 
 ## Strong objections and current answers
 
@@ -1212,9 +1214,9 @@ Yes. That is why dissent, silence, refusal, and exit are protected before resona
 
 AI can introduce error, bias, concentration, surveillance, and dependency. Nagi's institutions must remain operable without AI. Where AI is used, plurality, explanation, human challenge, and stoppability are requirements.
 
-### “Is it dangerous to let AI operate the foundations of life?”
+### “Is it dangerous to use AI in the operation of the foundations of life?”
 
-Yes. A single AI, cyberattack, faulty allocation, surveillance, or loss of local skill can directly threaten life. Multiple systems, distributed reserves, manual modes, human expertise, independent oversight, emergency pause, and supply-first remedy are irreducible operating costs.
+Yes. A single AI, cyberattack, faulty allocation, surveillance, or loss of local skill can directly threaten life. Human and local responsibility, multiple systems, distributed reserves, manual modes, human expertise, independent oversight, emergency pause, and supply-first remedy are irreducible operating costs.
 
 ### “Would Vital Commons end war?”
 
@@ -1427,8 +1429,8 @@ Source: https://rmikar.github.io/nagi-project/en/
 Status: current
 Type: overview
 Role: Reference overview
-Updated: 2026-08-12
-Summary: A maintained English introduction to Nagi: dignity, kindness, culture, and creativity above growth; non-owned Vital Commons; Resonant Democracy; and Institutional Immunity.
+Updated: 2026-08-13
+Summary: Nagi is a future social philosophy for people exploring alternatives to capitalism: non-owned Vital Commons, Resonant Democracy, Institutional Immunity, and plural ways of life.
 
 
 # Nagi Project
@@ -1440,6 +1442,8 @@ Summary: A maintained English introduction to Nagi: dignity, kindness, culture, 
 > People and local institutions remain responsible for them, with public-interest AI available where useful.  
 >  
 > Nagi separates survival from income, employment, nationality, ownership, reputation, ideological agreement, and victory, so that people can live culture and creativity freely.
+
+Nagi is not a finished system that simply rejects capitalism. It is one social philosophy for asking what alternatives to capitalism could look like and how a future society should be designed across survival, governance, culture, and technology—then testing those ideas at a small scale and revising them through criticism.
 
 ## Fundamental commitments
 
@@ -2590,8 +2594,8 @@ Source: https://rmikar.github.io/nagi-project/en/nagi_reading_guide.html
 Status: current
 Type: reading-guide
 Role: Reading guide
-Updated: 2026-08-12
-Summary: A time- and topic-based guide to Nagi's maintained English edition: its core, Vital Commons, safeguards, culture, AI boundaries, research aids, and translation status.
+Updated: 2026-08-13
+Summary: A reading guide for exploring alternatives to capitalism and future society through Nagi's Vital Commons, safeguards, culture, AI boundaries, and open questions.
 
 
 # Reading Nagi
@@ -2602,7 +2606,7 @@ The Japanese README and public home are the philosophical source of truth. The E
 
 ## Five minutes
 
-Read [Nagi as a Future Social Philosophy](future_social_philosophy.html).
+As an entry point for exploring alternatives to capitalism and future society, read [Nagi as a Future Social Philosophy](future_social_philosophy.html).
 
 It introduces the highest commitments, Non-Ownership, Resonance, Breathing, Vital Commons, Resonant Democracy, Institutional Immunity, AI boundaries, nearby fields, strong objections, and unresolved questions.
 
@@ -3800,18 +3804,18 @@ Source: https://rmikar.github.io/nagi-project/en/vital_commons.html
 Status: current
 Type: institutional-economic-proposal
 Role: Institutional and economic proposal
-Updated: 2026-08-12
-Summary: Nagi's central proposal: make energy, water, food, health care, shelter, sanitation, and communication non-owned Vital Commons without conditioning basic life.
+Updated: 2026-08-13
+Summary: Nagi's central proposal: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.
 
 
 # Vital Commons
-## — AI May Help Maintain Them; No One Owns Them; Survival Is Not a Condition of Obedience
+## — People and Local Institutions Remain Responsible; AI May Assist; No One Owns Them
 
 Nagi's central institutional proposal is to move the resources and infrastructure required for life into **non-owned Vital Commons**.
 
 > Non-Ownership of the foundations of life  
 > ↓  
-> Maintenance by multiple distributed public-interest AI systems, people, and local institutions  
+> Maintenance by people and local institutions, with optional support from distributed public-interest AI systems \
 > ↓  
 > Separation of survival from obedience to capital, state, war, ownership, and social evaluation
 
@@ -3839,9 +3843,9 @@ Roles for use, maintenance, renewal, explanation, safety, and inheritance remain
 
 The commons are supported locally, connected across regions, and carried across generations. Responsibility is distributed; the authority to terminate another person's basic life is not.
 
-## 3. AI manages equipment and circulation, not people
+## 3. People and local institutions remain responsible; AI may assist with equipment and circulation
 
-AI may assist with forecasting demand, balancing generation and storage, monitoring water systems, planning staple production, coordinating health resources, locating failures, routing reserves, and supporting disaster recovery.
+People and local institutions retain responsibility for purposes, allocation principles, minimum guarantees, appeals, and remedy. Where communities choose to use it, AI may assist with forecasting demand, balancing generation and storage, monitoring water systems, planning staple production, coordinating health resources, locating failures, routing reserves, and supporting disaster recovery.
 
 It does not score personality, belief, emotion, cooperation, productivity, or social worth. It does not decide who deserves food, care, housing, energy, or rescue.
 
@@ -3873,9 +3877,9 @@ Nagi therefore separates the right to basic access from payment capacity, politi
 
 Usage and scarcity still require observation. The observed object is flow, equipment, reserves, loss, and ecological capacity—not a moral ranking of individuals.
 
-## 6. AI may support staple food; people continue to cultivate food culture
+## 6. People and communities sustain staple food systems; AI and automation may assist
 
-Automated systems may support soil and weather observation, staple crops, storage, distribution, and recovery from harvest failure. That does not reduce food to calories or replace growers, fishers, cooks, craftspeople, local knowledge, taste, ritual, and seasonal memory.
+People and local institutions remain responsible for staple food systems. Where they are useful and chosen, automated systems may support soil and weather observation, staple crops, storage, distribution, and recovery from harvest failure. That does not reduce food to calories or replace growers, fishers, cooks, craftspeople, local knowledge, taste, ritual, and seasonal memory.
 
 Staple nutrition belongs to the floor of life. Human food-making remains a field of culture, care, skill, experimentation, pleasure, and exchange.
 
@@ -3899,7 +3903,7 @@ Nagi does not abolish economic activity. It ends survival as leverage inside tha
 
 ## 9. Human work moves from obligation toward culture
 
-Automation of foundational production does not make human activity unnecessary.
+Optional automation of selected foundational production does not make human activity unnecessary.
 
 People may farm, build, repair, teach, research, care, cook, design, write, perform, and invent because they want to deepen life—not because refusal means destitution.
 

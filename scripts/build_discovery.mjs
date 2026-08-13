@@ -135,6 +135,7 @@ const vitalPaths = new Set([
   "non_ownership.md",
   "free_competition.md",
   "breath_economy.md",
+  "population_and_power.md",
   "infrastructure.md",
   "stewardship_commons.md"
 ]);
@@ -474,7 +475,7 @@ function renderTextSitemap(documents) {
 }
 
 function renderRobots() {
-  return `User-agent: *\nAllow: /\n\nSitemap: ${baseUrl}sitemap.xml\n`;
+  return `User-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: ChatGPT-User\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: ${baseUrl}sitemap.xml\n`;
 }
 
 function parseFaq(source) {

@@ -5,7 +5,7 @@
   "inLanguage": "ja",
   "name": "凪（Nagi Project）用語集",
   "url": "https://rmikar.github.io/nagi-project/glossary.html",
-  "dateModified": "2026-07-26",
+  "dateModified": "2026-08-13",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
   "description": "凪の未来社会思想で用いる主要語の現行定義。人と機械が同じ参照先を使えるよう、権利、安全原則、誤解しやすい境界を含める。",
   "hasDefinedTerm": [
@@ -82,7 +82,7 @@
         "Vital Commons",
         "Life-Support Commons"
       ],
-      "description": "エネルギー、水、基礎食料、医療、住居、衛生、通信などを、個人、企業、国家、地域、AIが所有して他者の生存を支配できない公共基盤として構成する制度提案。複数の公共AIは設備・生産・供給を運用できるが、人を管理せず、基盤を所有せず、アクセス権の最終決定者にならない。",
+      "description": "エネルギー、水、基礎食料、医療、住居、衛生、通信などを、個人、企業、国家、地域、AIが所有して他者の生存を支配できない公共基盤として構成する制度提案。目的、責任、配分原則、異議申立ては人と地域の制度が担う。公共AIは、選ばれた場合に設備・生産・供給を補助できるが、人を管理せず、基盤を所有せず、アクセス権の最終決定者にならない。",
       "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
     },
     {

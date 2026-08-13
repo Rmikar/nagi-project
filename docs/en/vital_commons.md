@@ -2,15 +2,16 @@
 layout: default
 lang: en
 title: "Vital Commons — Separating Survival from Capital, Ownership, and War"
+seo_title: "Vital Commons — Freeing Survival from Capital and Ownership"
 short_title: "Vital Commons"
-description: "Nagi's central proposal: make energy, water, food, health care, shelter, sanitation, and communication non-owned Vital Commons without conditioning basic life."
+description: "Nagi's central proposal: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid."
 permalink: /en/vital_commons.html
 status: current
-last_updated: 2026-08-12
+last_updated: 2026-08-13
 source_language: ja
 source_url: /vital_commons.html
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-08-12
+translation_last_reviewed: 2026-08-13
 keywords:
   - Vital Commons
   - universal basic services
@@ -23,13 +24,13 @@ keywords:
 ---
 
 # Vital Commons
-## — AI May Help Maintain Them; No One Owns Them; Survival Is Not a Condition of Obedience
+## — People and Local Institutions Remain Responsible; AI May Assist; No One Owns Them
 
 Nagi's central institutional proposal is to move the resources and infrastructure required for life into **non-owned Vital Commons**.
 
 > Non-Ownership of the foundations of life  
 > ↓  
-> Maintenance by multiple distributed public-interest AI systems, people, and local institutions  
+> Maintenance by people and local institutions, with optional support from distributed public-interest AI systems \
 > ↓  
 > Separation of survival from obedience to capital, state, war, ownership, and social evaluation
 
@@ -57,9 +58,9 @@ Roles for use, maintenance, renewal, explanation, safety, and inheritance remain
 
 The commons are supported locally, connected across regions, and carried across generations. Responsibility is distributed; the authority to terminate another person's basic life is not.
 
-## 3. AI manages equipment and circulation, not people
+## 3. People and local institutions remain responsible; AI may assist with equipment and circulation
 
-AI may assist with forecasting demand, balancing generation and storage, monitoring water systems, planning staple production, coordinating health resources, locating failures, routing reserves, and supporting disaster recovery.
+People and local institutions retain responsibility for purposes, allocation principles, minimum guarantees, appeals, and remedy. Where communities choose to use it, AI may assist with forecasting demand, balancing generation and storage, monitoring water systems, planning staple production, coordinating health resources, locating failures, routing reserves, and supporting disaster recovery.
 
 It does not score personality, belief, emotion, cooperation, productivity, or social worth. It does not decide who deserves food, care, housing, energy, or rescue.
 
@@ -91,9 +92,9 @@ Nagi therefore separates the right to basic access from payment capacity, politi
 
 Usage and scarcity still require observation. The observed object is flow, equipment, reserves, loss, and ecological capacity—not a moral ranking of individuals.
 
-## 6. AI may support staple food; people continue to cultivate food culture
+## 6. People and communities sustain staple food systems; AI and automation may assist
 
-Automated systems may support soil and weather observation, staple crops, storage, distribution, and recovery from harvest failure. That does not reduce food to calories or replace growers, fishers, cooks, craftspeople, local knowledge, taste, ritual, and seasonal memory.
+People and local institutions remain responsible for staple food systems. Where they are useful and chosen, automated systems may support soil and weather observation, staple crops, storage, distribution, and recovery from harvest failure. That does not reduce food to calories or replace growers, fishers, cooks, craftspeople, local knowledge, taste, ritual, and seasonal memory.
 
 Staple nutrition belongs to the floor of life. Human food-making remains a field of culture, care, skill, experimentation, pleasure, and exchange.
 
@@ -117,7 +118,7 @@ Nagi does not abolish economic activity. It ends survival as leverage inside tha
 
 ## 9. Human work moves from obligation toward culture
 
-Automation of foundational production does not make human activity unnecessary.
+Optional automation of selected foundational production does not make human activity unnecessary.
 
 People may farm, build, repair, teach, research, care, cook, design, write, perform, and invent because they want to deepen life—not because refusal means destitution.
 

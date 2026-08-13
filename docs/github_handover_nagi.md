@@ -1,5 +1,6 @@
 ---
 title: 凪プロジェクト GitHub運用・引き継ぎ完全メモ
+seo_title: GitHub運用・引き継ぎ完全メモ
 layout: default
 description: 凪プロジェクトの構造・設定・ワークフロー・理念を次世代へ引き継ぐための公式ドキュメント。
 author: 紬実花（TsumugiMika）

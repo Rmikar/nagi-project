@@ -2,10 +2,17 @@
 layout: default
 lang: ja
 title: "凪の読書案内 — 5分・20分・研究のための読み方"
-description: "未来社会思想・ポスト資本主義・共鳴民主主義・AI倫理として凪を読むための、時間と関心別の案内。正本、補遺、アーカイブの違いも示す。"
+seo_title: "資本主義の代替案と未来社会を考えるための読書案内"
+description: "資本主義の代替案や未来の社会を考える人に向け、生命基盤、非所有、共鳴民主主義、制度免疫、AI倫理を時間と関心別に案内する。"
 permalink: /nagi_reading_guide.html
 status: current
-last_updated: 2026-08-12
+last_updated: 2026-08-13
+keywords:
+  - 資本主義の代替案
+  - 未来の社会
+  - 未来社会思想
+  - ポスト資本主義
+  - 読書案内
 ---
 
 # 凪の読書案内
@@ -16,7 +23,7 @@ last_updated: 2026-08-12
 
 ## 5分で知る
 
-まず [未来の社会思想としての凪](future_social_philosophy.html) を読む。
+資本主義の代替案や未来の社会を考える入口として、まず [未来の社会思想としての凪](future_social_philosophy.html) を読む。
 
 ここで、非所有・共鳴・呼吸、価値と構造を分ける判断原則、共鳴民主主義、AIの位置づけ、近接する思想との違い、主要な反論と未解決課題を一度に確認できる。疑問が決まっている場合は [FAQ](faq.html) と [用語集](glossary.html) から入ってもよい。
 
@@ -38,7 +45,7 @@ last_updated: 2026-08-12
 2. [統治と安全](governance_and_safety.html) — 民主主義、異議、制度免疫、危機、AI境界をつなぐ
 3. [社会的装置の倫理](ethics_of_social_infrastructure.html) — 人を束ねる力を支配へ変えない
 4. [制度免疫](institutional_immunity.html) — 壊れ方を感知し、止め、救済し、終了できるようにする
-5. [生命基盤コモンズ](vital_commons.html) — 生存を資本・所有・戦争から切り離し、AI運用と人の文化的生産を分ける
+5. [生命基盤コモンズ](vital_commons.html) — 生存を資本・所有・戦争から切り離し、人と地域の責任、AIの任意支援、文化的生産の関係を整理する
 6. [移行と危機の設計](transition_and_crisis.html) — 権利を後退させず、小さく試し、危機権限を恒久化しない
 
 ## 関心別に読む
@@ -51,6 +58,7 @@ last_updated: 2026-08-12
 - [資本主義以後の自由競争原理](free_competition.html)
 - [呼吸経済](breath_economy.html)
 - [生命基盤コモンズ](vital_commons.html)
+- [人口と権力を切り離す — 生存保障は「人数＝力」の歴史を変えうるか](population_and_power.html)
 - [移行と危機の設計](transition_and_crisis.html)
 
 ### 民主主義・統治
