@@ -1,0 +1,29 @@
+{% comment %}
+Nagi Project discussion embed.
+The Discourse host controls the topic author and target category.
+{% endcomment %}
+<section class="nagi-discussion" aria-labelledby="nagi-discussion-title">
+  <h2 id="nagi-discussion-title">感じたことを、ひとことから。</h2>
+  <p class="nagi-discussion-intro">感想、疑問、思いついたことなど、なんでもどうぞ。うまくまとまっていなくても、ひとことだけでもかまいません。</p>
+  <p class="nagi-discussion-note">会話は公開され、Nagi Projectの対話の場にも保存されます。投稿にはDiscourse IDへのログインが必要です。</p>
+  <noscript>
+    <p><a href="https://nagi-project.discourse.group/">Nagi Projectの対話の場を開く</a></p>
+  </noscript>
+  <div id="discourse-comments"></div>
+</section>
+<script>
+  window.DiscourseEmbed = {
+    discourseUrl: {{ 'https://nagi-project.discourse.group/' | jsonify }},
+    discourseEmbedUrl: {{ include.page_url | jsonify }},
+    fullApp: true,
+    embedHeight: '800px'
+  };
+
+  (function () {
+    var d = document.createElement('script');
+    d.type = 'text/javascript';
+    d.async = true;
+    d.src = window.DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.head || document.body).appendChild(d);
+  })();
+</script>
