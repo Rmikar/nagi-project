@@ -245,6 +245,10 @@
         </ul>
       </aside>
       {% endif %}
+      {% assign discussion_status = page.status | default: 'current' %}
+      {% if current_lang != 'en' and discussion_status != 'draft' and discussion_status != 'archive' and discussion_status != 'superseded' and page.discussion != false %}
+      {% include discourse_comments.html page_url=page_url %}
+      {% endif %}
     </main>
     <footer class="site-footer">
       {% if current_lang == 'en' %}
