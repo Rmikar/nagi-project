@@ -1,7 +1,7 @@
 {
   "name": "Nagi Project complete public document registry",
-  "dateModified": "2026-08-13",
-  "baseUrl": "https://rmikar.github.io/nagi-project/",
+  "dateModified": "2026-08-25",
+  "baseUrl": "https://nagi-project.com/",
   "documents": [
     {
       "id": "ai-index",
@@ -1335,8 +1335,8 @@
       "translation": "home",
       "translation_status": "maintained translation",
       "translation_last_reviewed": "2026-08-13",
-      "source_last_updated": "2026-08-13",
-      "translation_needs_review": false
+      "source_last_updated": "2026-08-25",
+      "translation_needs_review": true
     },
     {
       "id": "en-infrastructure",
@@ -2752,7 +2752,7 @@
       "role": "思想上の正本・全体像",
       "summary": "資本主義の代替案や未来の社会のあり方を考えるために、人の尊厳、生命基盤の非所有、共鳴民主主義、制度免疫から、生存を資本・国家・戦争への服従から切り離す未来社会思想。",
       "language": "ja",
-      "last_updated": "2026-08-13",
+      "last_updated": "2026-08-25",
       "indexable": true,
       "robots": "index, follow",
       "topics": [

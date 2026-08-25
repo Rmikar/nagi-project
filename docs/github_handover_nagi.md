@@ -13,6 +13,9 @@ sitemap: false
 archive_note: "過去の運用記録。現在の構成や公開手順ではなく、変更履歴として保存している。"
 ---
 
+> **現在の運用注記（2026-08-25）**
+> 正規公開URLは <https://nagi-project.com/>。現在のJekyll設定は `url: https://nagi-project.com`、`baseurl: ""` である。以下の旧URLと設定例は、当時の構成を示すアーカイブとして保持する。
+
 # 🪞 凪プロジェクト GitHub運用・引き継ぎ完全メモ  
 ### for 紬実花（TsumugiMika） and future stewards
 

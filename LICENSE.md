@@ -10,6 +10,6 @@ You may share and adapt the material, including for research and machine-assiste
 
 Suggested attribution:
 
-> 紬実花（TsumugiMika）, “Nagi Project,” https://rmikar.github.io/nagi-project/, CC BY-SA 4.0.
+> 紬実花（TsumugiMika）, “Nagi Project,” https://nagi-project.com/, CC BY-SA 4.0.
 
 This notice does not grant rights in third-party material, names, or marks that may appear in citations or links.

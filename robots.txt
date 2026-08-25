@@ -7,4 +7,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://rmikar.github.io/nagi-project/sitemap.xml
+Sitemap: https://nagi-project.com/sitemap.xml

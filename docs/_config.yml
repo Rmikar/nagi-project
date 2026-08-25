@@ -4,9 +4,9 @@ author: "紬実花（TsumugiMika）"
 logo: /assets/icon.svg
 image: /assets/og/nagi-default.png
 
-url: https://rmikar.github.io
-baseurl: /nagi-project
-canonical_url: https://rmikar.github.io/nagi-project/
+url: https://nagi-project.com
+baseurl: ""
+canonical_url: https://nagi-project.com/
 lang: ja
 timezone: Asia/Tokyo
 

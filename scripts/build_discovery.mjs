@@ -9,7 +9,7 @@ const docsDir = resolve(root, "docs");
 const relationsPath = resolve(docsDir, "_data/document_relations.json");
 const immunityProfilesPath = resolve(docsDir, "_data/institutional_immunity_profiles.json");
 const checkOnly = process.argv.includes("--check");
-const baseUrl = "https://rmikar.github.io/nagi-project/";
+const baseUrl = "https://nagi-project.com/";
 const base = new URL(baseUrl);
 const nonIndexedStatuses = new Set(["draft", "archive", "superseded"]);
 

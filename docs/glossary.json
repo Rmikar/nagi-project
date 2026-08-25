@@ -1,150 +1,150 @@
 {
   "@context": "https://schema.org",
   "@type": "DefinedTermSet",
-  "@id": "https://rmikar.github.io/nagi-project/glossary.json",
+  "@id": "https://nagi-project.com/glossary.json",
   "inLanguage": "ja",
   "name": "凪（Nagi Project）用語集",
-  "url": "https://rmikar.github.io/nagi-project/glossary.html",
+  "url": "https://nagi-project.com/glossary.html",
   "dateModified": "2026-08-13",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
   "description": "凪の未来社会思想で用いる主要語の現行定義。人と機械が同じ参照先を使えるよう、権利、安全原則、誤解しやすい境界を含める。",
   "hasDefinedTerm": [
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#凪nagi-project",
+      "@id": "https://nagi-project.com/glossary.html#凪nagi-project",
       "name": "凪",
       "alternateName": [
         "Nagi",
         "Nagi Project"
       ],
       "description": "非所有・共鳴・呼吸を軸に、独占、支配、過剰な競争、監視、生活の切り捨てをほどく未来社会思想。完成した設計図ではなく、異議、実験、修復によって更新する羅針盤。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#非所有",
+      "@id": "https://nagi-project.com/glossary.html#非所有",
       "name": "非所有",
       "alternateName": [
         "Non-Ownership",
         "ノンオーナーシップ"
       ],
       "description": "所有物をすべて廃止することではなく、土地、自然、知識、文化、データ、公共基盤などが他者を支配する独占へ変わることを防ぐ原則。身体、住まい、生活用品、私的記憶、創作に宿る人格は守る。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#共鳴",
+      "@id": "https://nagi-project.com/glossary.html#共鳴",
       "name": "共鳴",
       "alternateName": [
         "Resonance",
         "レゾナンス"
       ],
       "description": "異なる経験、意見、文化、言葉、速度を消さず、互いの世界を広げられる関係。合意、人気、従順さ、感情スコアではない。異議、沈黙、拒否、離脱を含む共鳴しない自由を前提とする。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#呼吸",
+      "@id": "https://nagi-project.com/glossary.html#呼吸",
       "name": "呼吸",
       "alternateName": [
         "Breathing",
         "Breath"
       ],
       "description": "間、休息、回復、ケア、循環、学び直し、自然の再生、世代をまたぐ時間を社会へ戻すための比喩と設計原則。生産性や参加を常に要求しない。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#共鳴民主主義",
+      "@id": "https://nagi-project.com/glossary.html#共鳴民主主義",
       "name": "共鳴民主主義",
       "alternateName": [
         "Resonant Democracy"
       ],
       "description": "一つの声をつくるのではなく、異なる声を公共の決定へ届ける民主主義。沈黙を賛成と扱わず、決定理由、異議申立て、再審、少数意見、拒否、離脱を守る。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#基礎呼吸",
+      "@id": "https://nagi-project.com/glossary.html#基礎呼吸",
       "name": "基礎呼吸",
       "alternateName": [
         "Basic Breath",
         "基礎呼吸パック"
       ],
       "description": "食、住、医療、教育、通信、文化など、生き直すための基礎的アクセスを、貢献度、評判、参加、AI利用の報酬にしない原則。実装は現金だけに限らず、公共サービス、物資への直接アクセス、地域支援など複数の形を取りうる。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#生命基盤コモンズ",
+      "@id": "https://nagi-project.com/glossary.html#生命基盤コモンズ",
       "name": "生命基盤コモンズ",
       "alternateName": [
         "Vital Commons",
         "Life-Support Commons"
       ],
       "description": "エネルギー、水、基礎食料、医療、住居、衛生、通信などを、個人、企業、国家、地域、AIが所有して他者の生存を支配できない公共基盤として構成する制度提案。目的、責任、配分原則、異議申立ては人と地域の制度が担う。公共AIは、選ばれた場合に設備・生産・供給を補助できるが、人を管理せず、基盤を所有せず、アクセス権の最終決定者にならない。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#非参加異議沈黙拒否離脱",
+      "@id": "https://nagi-project.com/glossary.html#非参加異議沈黙拒否離脱",
       "name": "非参加・異議・沈黙・拒否・離脱",
       "alternateName": [
         "Dissent, Silence, Refusal, and Exit"
       ],
       "description": "制度や共同体への同意を推定せず、人が関わり方を選び直すための権利。離脱によって基礎的生活、尊厳、必要な記録へのアクセスを失わせない。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#記憶への同意",
+      "@id": "https://nagi-project.com/glossary.html#記憶への同意",
       "name": "記憶への同意",
       "alternateName": [
         "Consent to Memory"
       ],
       "description": "個人に関する記録を、目的、範囲、期間を説明したうえで扱い、閲覧、訂正、削除、移行、同意撤回を可能にする原則。沈黙や過去の一度の同意を永続的な許可とみなさない。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#aiの任意性",
+      "@id": "https://nagi-project.com/glossary.html#aiの任意性",
       "name": "AIの任意性",
       "alternateName": [
         "AI Optionality"
       ],
       "description": "AIを使うかどうかを人が選べること。AIは説明、翻訳、整理を支援できるが、人の価値、権利、生活保障、制裁、救命を最終決定しない。人による相談と異議の経路を残す。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#社会的装置",
+      "@id": "https://nagi-project.com/glossary.html#社会的装置",
       "name": "社会的装置",
       "alternateName": [
         "Social Infrastructure",
         "Social System"
       ],
       "description": "制度、組織、市場、プラットフォーム、メディア、AIなど、人や情報を束ねる仕組み。説明可能性、異議、選択肢、移行可能性、分散した責任、停止可能性を必要とする。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#文化的共育",
+      "@id": "https://nagi-project.com/glossary.html#文化的共育",
       "name": "文化的共育",
       "alternateName": [
         "Cultural Co-Growth"
       ],
       "description": "教える側と教わる側を固定せず、異なる人びとが文化、経験、批判を通じて共に学ぶ営み。AIが参加する場合も、AI中心やAI利用の強制を意味しない。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://rmikar.github.io/nagi-project/glossary.html#再呼吸re-breathing",
+      "@id": "https://nagi-project.com/glossary.html#再呼吸re-breathing",
       "name": "再呼吸",
       "alternateName": [
         "Re-breathing"
       ],
       "description": "凪の核心、安全原則、言葉の影響を定期的に読み直し、必要な訂正、縮小、廃止、継承を行う公開編集の実践。特定の個人的記憶をAIが保持していると主張する儀式ではない。",
-      "inDefinedTermSet": "https://rmikar.github.io/nagi-project/glossary.html"
+      "inDefinedTermSet": "https://nagi-project.com/glossary.html"
     }
   ]
 }

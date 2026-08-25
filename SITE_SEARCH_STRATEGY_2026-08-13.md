@@ -1,7 +1,13 @@
 # 凪プロジェクト 検索・発見性戦略
 
-更新日: 2026-08-13
+更新日: 2026-08-25
 対象: Googleなどの検索、ChatGPT SearchなどのLLM検索、サイト内の思想体系と導線
+
+## 独自ドメイン移行（2026-08-25）
+
+正規公開URLを `https://nagi-project.com/` へ移行した。GitHub Pagesのカスタムドメイン、DNS、HTTPS強制、Jekyllの `url`・`baseurl`・`canonical_url`、canonical、sitemap、hreflang、OG URL、構造化データ、機械可読索引を一つの移行として更新した。
+
+以下にある `rmikar.github.io/nagi-project/` の記述は、2026-08-13時点の分析対象である。今後は新ドメインを長期的な正本URLとして扱い、Search Consoleの新プロパティ、ドメイン所有権の検証、外部リンク更新、移行前後のクロール監視を継続する。
 
 ## 結論
 

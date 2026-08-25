@@ -2,6 +2,6 @@
 
 This historical short guide is retained for old links. Use the current guide instead:
 
-https://rmikar.github.io/nagi-project/llms.txt
+https://nagi-project.com/llms.txt
 
 The current guide defines canonical, current, supplementary, draft, archived, and superseded materials and includes the future-social-philosophy positioning page, FAQ, glossary, full-text corpus, and knowledge graph.

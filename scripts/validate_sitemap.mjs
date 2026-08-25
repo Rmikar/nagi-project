@@ -37,7 +37,7 @@ try {
   registry = JSON.parse(registrySource);
 } catch (error) {
   errors.push(`canonical document registry is invalid JSON: ${error.message}`);
-  registry = { baseUrl: "https://rmikar.github.io/nagi-project/", documents: [] };
+  registry = { baseUrl: "https://nagi-project.com/", documents: [] };
 }
 
 let baseUrl;
@@ -45,7 +45,7 @@ try {
   baseUrl = new URL(registry.baseUrl);
 } catch {
   errors.push("canonical document registry has an invalid baseUrl");
-  baseUrl = new URL("https://rmikar.github.io/nagi-project/");
+  baseUrl = new URL("https://nagi-project.com/");
 }
 
 const indexed = (registry.documents ?? []).filter((document) => document.indexable);

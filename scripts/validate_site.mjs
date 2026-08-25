@@ -230,7 +230,7 @@ try {
   baseUrl = new URL(registry?.baseUrl ?? "");
 } catch {
   errors.push("canonical document registry: invalid baseUrl");
-  baseUrl = new URL("https://rmikar.github.io/nagi-project/");
+  baseUrl = new URL("https://nagi-project.com/");
 }
 const byAbsoluteUrl = new Map();
 

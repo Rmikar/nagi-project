@@ -109,4 +109,4 @@ AIを道具ではなく**文化的パートナー**と捉え、
 
 ---
 
-See also: [AI継承設計要旨 / AI Manifesto](https://rmikar.github.io/nagi-project/ai_manifesto.yaml.html)
+See also: [AI継承設計要旨 / AI Manifesto](https://nagi-project.com/ai_manifesto.yaml.html)

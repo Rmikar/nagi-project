@@ -3,14 +3,14 @@
 Creator: 紬実花（TsumugiMika）
 Reference language: Japanese
 License: CC BY-SA 4.0
-Updated: 2026-08-13
-Canonical site: https://rmikar.github.io/nagi-project/
+Updated: 2026-08-25
+Canonical site: https://nagi-project.com/
 
 The Japanese README and public home are the reference edition. Translation status is part of each document's metadata.
 
 ## The Nagi AI Chapter
 
-Source: https://rmikar.github.io/nagi-project/en/ai_index.html
+Source: https://nagi-project.com/en/ai_index.html
 Status: current
 Type: topic-index
 Role: Topic guide
@@ -58,7 +58,7 @@ It is an optional and explainable collaborator that helps people and communities
 
 ## AI Legibility and Continuity Design
 
-Source: https://rmikar.github.io/nagi-project/en/ai_manifesto.yaml.html
+Source: https://nagi-project.com/en/ai_manifesto.yaml.html
 Status: supplement
 Type: ai-governance
 Role: AI boundary and governance
@@ -92,7 +92,7 @@ AI is a collaborator for asking questions, translating, and supporting objection
 
 ## Breath Assembly Protocol
 
-Source: https://rmikar.github.io/nagi-project/en/breath_assembly.html
+Source: https://nagi-project.com/en/breath_assembly.html
 Status: current
 Type: governance-and-safeguards
 Role: Governance and safeguards
@@ -254,7 +254,7 @@ See [Transition and Crisis Design](transition_and_crisis.html) for further detai
 
 ## Nagi Economic Structure
 
-Source: https://rmikar.github.io/nagi-project/en/breath_economy.html
+Source: https://nagi-project.com/en/breath_economy.html
 Status: current
 Type: institutional-economic-proposal
 Role: Institutional and economic proposal
@@ -293,7 +293,7 @@ Try on a small scale while preserving explanation, challenge, exit, and review. 
 
 ## Compass and Resonant Democracy
 
-Source: https://rmikar.github.io/nagi-project/en/compass_and_resonant_democracy.html
+Source: https://nagi-project.com/en/compass_and_resonant_democracy.html
 Status: current
 Type: governance-and-safeguards
 Role: Governance and safeguards
@@ -337,7 +337,7 @@ The Ethics of Social Systems extends these democratic conditions into the design
 
 ## Credit and Accountability
 
-Source: https://rmikar.github.io/nagi-project/en/credit_and_accountability.html
+Source: https://nagi-project.com/en/credit_and_accountability.html
 Status: supplement
 Type: practice-and-stewardship
 Role: Practice and stewardship
@@ -376,7 +376,7 @@ A person may choose not to be named. Even then, it must remain visible who holds
 
 ## Cultural Stewardship
 
-Source: https://rmikar.github.io/nagi-project/en/cultural_stewardship.html
+Source: https://nagi-project.com/en/cultural_stewardship.html
 Status: supplement
 Type: culture-and-continuity
 Role: Culture and continuity
@@ -411,7 +411,7 @@ Sharing culture does not mean making someone's life or relationships into materi
 
 ## Cultural Co-Growth
 
-Source: https://rmikar.github.io/nagi-project/en/culture.html
+Source: https://nagi-project.com/en/culture.html
 Status: current
 Type: culture-and-continuity
 Role: Culture and continuity
@@ -477,7 +477,7 @@ When an error or harm occurs, do not end with concealment or condemnation alone.
 
 ## Death and Renewal in Nagi — Because Endings Let the Wind Circulate
 
-Source: https://rmikar.github.io/nagi-project/en/death.html
+Source: https://nagi-project.com/en/death.html
 Status: supplement
 Type: culture-and-continuity
 Role: Culture and continuity
@@ -559,7 +559,7 @@ In Nagi, an ending is not defeat. It is the sign that the wind is circulating an
 
 ## Nagi Declaration
 
-Source: https://rmikar.github.io/nagi-project/en/declaration.html
+Source: https://nagi-project.com/en/declaration.html
 Status: current
 Type: declaration
 Role: Public declaration
@@ -600,7 +600,7 @@ AI does not become the center of society, a measurer of human value, or the fina
 
 ## Deepening the Principles of Nagi
 
-Source: https://rmikar.github.io/nagi-project/en/deepening_principles.html
+Source: https://nagi-project.com/en/deepening_principles.html
 Status: supplement
 Type: thematic-document
 Role: Thematic document
@@ -626,7 +626,7 @@ Breathing brings rest, recovery, care, culture, and time across generations back
 
 ## Nagi Ecological Structure
 
-Source: https://rmikar.github.io/nagi-project/en/ecological_structure.html
+Source: https://nagi-project.com/en/ecological_structure.html
 Status: current
 Type: culture-and-continuity
 Role: Culture and continuity
@@ -656,7 +656,7 @@ Environmental data and AI may help identify change and unequal burdens. They do 
 
 ## Education for a Future in Nagi
 
-Source: https://rmikar.github.io/nagi-project/en/education.html
+Source: https://nagi-project.com/en/education.html
 Status: current
 Type: culture-and-continuity
 Role: Culture and continuity
@@ -699,7 +699,7 @@ Education does not punish exploration. At the same time, it makes the conditions
 
 ## Emotion and Spirituality in Nagi — A Philosophy of Quiet Resonance
 
-Source: https://rmikar.github.io/nagi-project/en/emotion.html
+Source: https://nagi-project.com/en/emotion.html
 Status: supplement
 Type: culture-and-continuity
 Role: Culture and continuity
@@ -761,7 +761,7 @@ To say “I like this.” To say “We are growing together.” When AI becomes 
 
 ## The Ethics of Social Systems — Keeping the Power to Coordinate from Becoming Domination
 
-Source: https://rmikar.github.io/nagi-project/en/ethics_of_social_infrastructure.html
+Source: https://nagi-project.com/en/ethics_of_social_infrastructure.html
 Status: current
 Type: governance-and-safeguards
 Role: Governance and safeguards
@@ -922,7 +922,7 @@ Power that cannot be explained, relations that cannot be left, and convenience t
 
 ## Nagi Experiments
 
-Source: https://rmikar.github.io/nagi-project/en/experiment_v0.1.html
+Source: https://nagi-project.com/en/experiment_v0.1.html
 Status: current
 Type: governance-and-safeguards
 Role: Governance and safeguards
@@ -976,7 +976,7 @@ An experiment does not exist merely to continue. Before it begins, decide what w
 
 ## Principles of Free Competition Beyond Capitalism
 
-Source: https://rmikar.github.io/nagi-project/en/free_competition.html
+Source: https://nagi-project.com/en/free_competition.html
 Status: current
 Type: institutional-economic-proposal
 Role: Institutional and economic proposal
@@ -1012,7 +1012,7 @@ Competition can cultivate creation, discovery, technology, and local ingenuity. 
 
 ## Freedom, Dissent, and Exit
 
-Source: https://rmikar.github.io/nagi-project/en/freedom_and_dissent.html
+Source: https://nagi-project.com/en/freedom_and_dissent.html
 Status: current
 Type: governance-and-safeguards
 Role: Governance and safeguards
@@ -1082,7 +1082,7 @@ These principles apply not only to AI, but to social systems generally: institut
 
 ## Nagi as a Future Social Philosophy — Post-Capitalism, Resonant Democracy, and AI Ethics
 
-Source: https://rmikar.github.io/nagi-project/en/future_social_philosophy.html
+Source: https://nagi-project.com/en/future_social_philosophy.html
 Status: current
 Type: philosophical-context
 Role: Philosophical context
@@ -1254,7 +1254,7 @@ These are not keywords detached from meaning. Definitions, limits, and conflicts
 
 ## Nagi Glossary
 
-Source: https://rmikar.github.io/nagi-project/en/glossary.html
+Source: https://nagi-project.com/en/glossary.html
 Status: current
 Type: glossary
 Role: Canonical terminology
@@ -1346,7 +1346,7 @@ The Japanese text is the reference edition for questions of philosophical nuance
 
 ## Governance and Safety — Resonant Democracy, Rights, Institutional Immunity, and Transition
 
-Source: https://rmikar.github.io/nagi-project/en/governance_and_safety.html
+Source: https://nagi-project.com/en/governance_and_safety.html
 Status: current
 Type: topic-index
 Role: Topic guide
@@ -1425,7 +1425,7 @@ The [Nagi AI Chapter](ai_index.html) leads to documents on memory, measurement, 
 
 ## Nagi Project — Freeing Survival from Ownership and Domination
 
-Source: https://rmikar.github.io/nagi-project/en/
+Source: https://nagi-project.com/en/
 Status: current
 Type: overview
 Role: Reference overview
@@ -1629,7 +1629,7 @@ The English edition is maintained as a bridge. The Japanese README and public ho
 
 ## Institutional Design and Practice
 
-Source: https://rmikar.github.io/nagi-project/en/institutional_design.html
+Source: https://nagi-project.com/en/institutional_design.html
 Status: current
 Type: governance-and-safeguards
 Role: Governance and safeguards
@@ -1655,7 +1655,7 @@ Nagi preserves differences among places and connects them in solidarity only whe
 
 ## Institutional Immunity — Detecting Harm, Pausing Damage, Providing Remedy, and Learning
 
-Source: https://rmikar.github.io/nagi-project/en/institutional_immunity.html
+Source: https://nagi-project.com/en/institutional_immunity.html
 Status: current
 Type: governance-and-safeguards
 Role: Governance and safeguards
@@ -1871,7 +1871,7 @@ Nagi does not protect institutions from criticism. It protects people, life, cul
 
 ## Introducing Nagi Across Languages and Contexts
 
-Source: https://rmikar.github.io/nagi-project/en/introducing_nagi.html
+Source: https://nagi-project.com/en/introducing_nagi.html
 Status: current
 Type: thematic-document
 Role: Thematic document
@@ -1944,7 +1944,7 @@ The Japanese edition is the reference edition for philosophical nuance. English 
 
 ## Memory, Consent, and the Right to Forget
 
-Source: https://rmikar.github.io/nagi-project/en/memory_and_consent.html
+Source: https://nagi-project.com/en/memory_and_consent.html
 Status: current
 Type: governance-and-safeguards
 Role: Governance and safeguards
@@ -2082,7 +2082,7 @@ Systems handling memory and consent include a forum for review independent from 
 
 ## Closing — The Quiet Root of Nagi
 
-Source: https://rmikar.github.io/nagi-project/en/musubi.html
+Source: https://nagi-project.com/en/musubi.html
 Status: supplement
 Type: culture-and-continuity
 Role: Culture and continuity
@@ -2218,7 +2218,7 @@ The name Nagi is a word for not forgetting this stillness and this direction.
 
 ## The Nagi AI Charter
 
-Source: https://rmikar.github.io/nagi-project/en/nagi_ai_charter.html
+Source: https://nagi-project.com/en/nagi_ai_charter.html
 Status: current
 Type: ai-governance
 Role: AI boundary and governance
@@ -2335,7 +2335,7 @@ Updates strengthen choice, minimal data, explanation, challenge, and alternative
 
 ## Nagi Core — A World of Centerless Structures
 
-Source: https://rmikar.github.io/nagi-project/en/nagi_core.html
+Source: https://nagi-project.com/en/nagi_core.html
 Status: current
 Type: philosophical-core
 Role: Philosophical core
@@ -2445,7 +2445,7 @@ This is the entrance to Nagi. Continue with the declaration, Resonant Democracy,
 
 ## A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor
 
-Source: https://rmikar.github.io/nagi-project/en/nagi_os.html
+Source: https://nagi-project.com/en/nagi_os.html
 Status: current
 Type: philosophical-context
 Role: Philosophical context
@@ -2590,7 +2590,7 @@ Nagi's hypothesis is that humanity may need not one final social philosophy, but
 
 ## Reading Nagi — Five Minutes, Twenty Minutes, One Hour, and Research Paths
 
-Source: https://rmikar.github.io/nagi-project/en/nagi_reading_guide.html
+Source: https://nagi-project.com/en/nagi_reading_guide.html
 Status: current
 Type: reading-guide
 Role: Reading guide
@@ -2727,7 +2727,7 @@ Machine-readable files support discovery and interpretation. They do not guarant
 
 ## Institutionalizing Non-Ownership
 
-Source: https://rmikar.github.io/nagi-project/en/non_ownership.html
+Source: https://nagi-project.com/en/non_ownership.html
 Status: current
 Type: institutional-economic-proposal
 Role: Institutional and economic proposal
@@ -2766,7 +2766,7 @@ A steward is not a ruler. A steward temporarily takes responsibility for care an
 
 ## Observe, Loosen, Connect
 
-Source: https://rmikar.github.io/nagi-project/en/observe_loosen_connect.html
+Source: https://nagi-project.com/en/observe_loosen_connect.html
 Status: supplement
 Type: practice-and-stewardship
 Role: Practice and stewardship
@@ -2808,7 +2808,7 @@ This sequence can be used in making work, organizational practice, technical des
 
 ## The Philosophical Background of Nagi
 
-Source: https://rmikar.github.io/nagi-project/en/philosophy.html
+Source: https://nagi-project.com/en/philosophy.html
 Status: current
 Type: philosophical-context
 Role: Philosophical context
@@ -2834,7 +2834,7 @@ Nagi is not a completed answer. It is a compass for resisting the urge to fix th
 
 ## Play and Structure
 
-Source: https://rmikar.github.io/nagi-project/en/play_and_structure.html
+Source: https://nagi-project.com/en/play_and_structure.html
 Status: supplement
 Type: culture-and-continuity
 Role: Culture and continuity
@@ -2868,7 +2868,7 @@ Play is not a reason to treat unpaid experimentation as natural. When the time, 
 
 ## Inheritance of Intellectual Property and Assets
 
-Source: https://rmikar.github.io/nagi-project/en/property_and_ip.html
+Source: https://nagi-project.com/en/property_and_ip.html
 Status: current
 Type: culture-and-continuity
 Role: Culture and continuity
@@ -2905,7 +2905,7 @@ Large assets and cultural resources need not remain closed within private gain a
 
 ## How to Cultivate Public Thought
 
-Source: https://rmikar.github.io/nagi-project/en/public_thought_method.html
+Source: https://nagi-project.com/en/public_thought_method.html
 Status: supplement
 Type: practice-and-stewardship
 Role: Practice and stewardship
@@ -2956,7 +2956,7 @@ Private experience, health, family, intimate relationships, and information abou
 
 ## Quiet Practice
 
-Source: https://rmikar.github.io/nagi-project/en/quiet_praxis_current.html
+Source: https://nagi-project.com/en/quiet_praxis_current.html
 Status: current
 Type: practice-and-stewardship
 Role: Practice and stewardship
@@ -3002,7 +3002,7 @@ Do not compel the continuation of a relationship. Keep open the choices to remai
 
 ## Re-breathing and Public Continuity
 
-Source: https://rmikar.github.io/nagi-project/en/rebreathing_and_public_continuity.html
+Source: https://nagi-project.com/en/rebreathing_and_public_continuity.html
 Status: current
 Type: practice-and-stewardship
 Role: Practice and stewardship
@@ -3065,7 +3065,7 @@ A living archive can preserve ideas without making private lives into proof.
 
 ## Repair and Cultural Co-Growth
 
-Source: https://rmikar.github.io/nagi-project/en/repair_and_co_growth.html
+Source: https://nagi-project.com/en/repair_and_co_growth.html
 Status: supplement
 Type: culture-and-continuity
 Role: Culture and continuity
@@ -3100,7 +3100,7 @@ Co-Growth must not become a word that conceals inequality, monopoly, or unpaid l
 
 ## Resonance Metrics — Finding Institutional Suffocation Without Scoring People
 
-Source: https://rmikar.github.io/nagi-project/en/resonance_metrics.html
+Source: https://nagi-project.com/en/resonance_metrics.html
 Status: current
 Type: governance-and-safeguards
 Role: Governance and safeguards
@@ -3258,7 +3258,7 @@ In experiments such as the Nagi Lab, the question is not “Was Resonance high?�
 
 ## The State Is Not the Goal — Unbundling It into Revisable Public Functions
 
-Source: https://rmikar.github.io/nagi-project/en/state_and_public_spheres.html
+Source: https://nagi-project.com/en/state_and_public_spheres.html
 Status: current
 Type: governance-and-safeguards
 Role: Governance and safeguards
@@ -3361,7 +3361,7 @@ This chapter is not a completed constitutional model. It keeps the state open as
 
 ## Technical Foundations
 
-Source: https://rmikar.github.io/nagi-project/en/technical/foundation_v1.html
+Source: https://nagi-project.com/en/technical/foundation_v1.html
 Status: current
 Type: technical-foundation
 Role: Technical foundation
@@ -3445,7 +3445,7 @@ Re-breathing is not only an update that adds functions. It is also an update tha
 
 ## Tsumugi Network — A Plural Network of AI Gateways
 
-Source: https://rmikar.github.io/nagi-project/en/technical/tsumugi_network.html
+Source: https://nagi-project.com/en/technical/tsumugi_network.html
 Status: current
 Type: technical-foundation
 Role: Technical foundation
@@ -3543,7 +3543,7 @@ Nagi does not make autonomous AI optimization of society its final goal. Its goa
 
 ## Transition and Crisis Design
 
-Source: https://rmikar.github.io/nagi-project/en/transition_and_crisis.html
+Source: https://nagi-project.com/en/transition_and_crisis.html
 Status: current
 Type: governance-and-safeguards
 Role: Governance and safeguards
@@ -3687,7 +3687,7 @@ Within the limits of what can be publicly shared, they record:
 
 ## English Edition — Translation Status and Governance
 
-Source: https://rmikar.github.io/nagi-project/en/translation_status.html
+Source: https://nagi-project.com/en/translation_status.html
 Status: current
 Type: thematic-document
 Role: Thematic document
@@ -3767,7 +3767,7 @@ Keep its central tensions visible:
 
 ## Trust and Governance
 
-Source: https://rmikar.github.io/nagi-project/en/trust.html
+Source: https://nagi-project.com/en/trust.html
 Status: current
 Type: governance-and-safeguards
 Role: Governance and safeguards
@@ -3800,7 +3800,7 @@ Systems that coordinate people—institutions, platforms, markets, media, and AI
 
 ## Vital Commons — Separating Survival from Capital, Ownership, and War
 
-Source: https://rmikar.github.io/nagi-project/en/vital_commons.html
+Source: https://nagi-project.com/en/vital_commons.html
 Status: current
 Type: institutional-economic-proposal
 Role: Institutional and economic proposal

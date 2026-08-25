@@ -1,14 +1,14 @@
 {
   "name": "Nagi Project complete public knowledge graph",
   "description": "Documents, concepts, parent collections, translations, and institutional-immunity relationships in Nagi.",
-  "dateModified": "2026-08-13",
-  "baseUrl": "https://rmikar.github.io/nagi-project/",
+  "dateModified": "2026-08-25",
+  "baseUrl": "https://nagi-project.com/",
   "nodes": [
     {
       "id": "document:ai-index",
       "kind": "document",
       "label": "凪AI章 — The Nagi AI Chapter",
-      "url": "https://rmikar.github.io/nagi-project/ai_index.html",
+      "url": "https://nagi-project.com/ai_index.html",
       "status": "current",
       "language": "ja",
       "documentType": "topic-index"
@@ -17,7 +17,7 @@
       "id": "document:ai-manifesto.yaml",
       "kind": "document",
       "label": "AI可読性と継承の設計要旨",
-      "url": "https://rmikar.github.io/nagi-project/ai_manifesto.yaml.html",
+      "url": "https://nagi-project.com/ai_manifesto.yaml.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "ai-governance"
@@ -26,7 +26,7 @@
       "id": "document:ai-redundancy-and-risk",
       "kind": "document",
       "label": "AIの冗長性と、使わない自由",
-      "url": "https://rmikar.github.io/nagi-project/ai_redundancy_and_risk.html",
+      "url": "https://nagi-project.com/ai_redundancy_and_risk.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "ai-governance"
@@ -35,7 +35,7 @@
       "id": "document:breath-assembly",
       "kind": "document",
       "label": "呼吸会議 — Breath Assembly Protocol",
-      "url": "https://rmikar.github.io/nagi-project/breath_assembly.html",
+      "url": "https://nagi-project.com/breath_assembly.html",
       "status": "current",
       "language": "ja",
       "documentType": "governance-and-safeguards"
@@ -44,7 +44,7 @@
       "id": "document:breath-economy",
       "kind": "document",
       "label": "凪経済構造",
-      "url": "https://rmikar.github.io/nagi-project/breath_economy.html",
+      "url": "https://nagi-project.com/breath_economy.html",
       "status": "current",
       "language": "ja",
       "documentType": "institutional-economic-proposal"
@@ -53,7 +53,7 @@
       "id": "document:resonant-democracy",
       "kind": "document",
       "label": "羅針盤と共鳴民主主義",
-      "url": "https://rmikar.github.io/nagi-project/compass_and_resonant_democracy.html",
+      "url": "https://nagi-project.com/compass_and_resonant_democracy.html",
       "status": "canonical",
       "language": "ja",
       "documentType": "governance-and-safeguards"
@@ -62,7 +62,7 @@
       "id": "document:credit-and-accountability",
       "kind": "document",
       "label": "クレジットと説明責任",
-      "url": "https://rmikar.github.io/nagi-project/credit_and_accountability.html",
+      "url": "https://nagi-project.com/credit_and_accountability.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "practice-and-stewardship"
@@ -71,7 +71,7 @@
       "id": "document:cultural-stewardship",
       "kind": "document",
       "label": "文化的スチュワードシップ",
-      "url": "https://rmikar.github.io/nagi-project/cultural_stewardship.html",
+      "url": "https://nagi-project.com/cultural_stewardship.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "culture-and-continuity"
@@ -80,7 +80,7 @@
       "id": "document:culture",
       "kind": "document",
       "label": "文化的共育",
-      "url": "https://rmikar.github.io/nagi-project/culture.html",
+      "url": "https://nagi-project.com/culture.html",
       "status": "current",
       "language": "ja",
       "documentType": "culture-and-continuity"
@@ -89,7 +89,7 @@
       "id": "document:death",
       "kind": "document",
       "label": "凪における死と再生 — 終わりがあるから風はめぐる",
-      "url": "https://rmikar.github.io/nagi-project/death.html",
+      "url": "https://nagi-project.com/death.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "culture-and-continuity"
@@ -98,7 +98,7 @@
       "id": "document:declaration",
       "kind": "document",
       "label": "凪の宣言文",
-      "url": "https://rmikar.github.io/nagi-project/declaration.html",
+      "url": "https://nagi-project.com/declaration.html",
       "status": "canonical",
       "language": "ja",
       "documentType": "declaration"
@@ -107,7 +107,7 @@
       "id": "document:deepening-principles",
       "kind": "document",
       "label": "凪思想の深化",
-      "url": "https://rmikar.github.io/nagi-project/deepening_principles.html",
+      "url": "https://nagi-project.com/deepening_principles.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "thematic-document"
@@ -116,7 +116,7 @@
       "id": "document:ecology",
       "kind": "document",
       "label": "凪環境構造",
-      "url": "https://rmikar.github.io/nagi-project/ecological_structure.html",
+      "url": "https://nagi-project.com/ecological_structure.html",
       "status": "current",
       "language": "ja",
       "documentType": "culture-and-continuity"
@@ -125,7 +125,7 @@
       "id": "document:education",
       "kind": "document",
       "label": "凪における未来の教育",
-      "url": "https://rmikar.github.io/nagi-project/education.html",
+      "url": "https://nagi-project.com/education.html",
       "status": "current",
       "language": "ja",
       "documentType": "culture-and-continuity"
@@ -134,7 +134,7 @@
       "id": "document:emotion",
       "kind": "document",
       "label": "凪における感情と精神性の役割 — 静かな共振の哲学",
-      "url": "https://rmikar.github.io/nagi-project/emotion.html",
+      "url": "https://nagi-project.com/emotion.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "culture-and-continuity"
@@ -143,7 +143,7 @@
       "id": "document:en-ai-index",
       "kind": "document",
       "label": "The Nagi AI Chapter",
-      "url": "https://rmikar.github.io/nagi-project/en/ai_index.html",
+      "url": "https://nagi-project.com/en/ai_index.html",
       "status": "current",
       "language": "en",
       "documentType": "topic-index"
@@ -152,7 +152,7 @@
       "id": "document:en-ai-manifesto.yaml",
       "kind": "document",
       "label": "AI Legibility and Continuity Design",
-      "url": "https://rmikar.github.io/nagi-project/en/ai_manifesto.yaml.html",
+      "url": "https://nagi-project.com/en/ai_manifesto.yaml.html",
       "status": "supplement",
       "language": "en",
       "documentType": "ai-governance"
@@ -161,7 +161,7 @@
       "id": "document:en-breath-assembly",
       "kind": "document",
       "label": "Breath Assembly Protocol",
-      "url": "https://rmikar.github.io/nagi-project/en/breath_assembly.html",
+      "url": "https://nagi-project.com/en/breath_assembly.html",
       "status": "current",
       "language": "en",
       "documentType": "governance-and-safeguards"
@@ -170,7 +170,7 @@
       "id": "document:en-breath-economy",
       "kind": "document",
       "label": "Nagi Economic Structure",
-      "url": "https://rmikar.github.io/nagi-project/en/breath_economy.html",
+      "url": "https://nagi-project.com/en/breath_economy.html",
       "status": "current",
       "language": "en",
       "documentType": "institutional-economic-proposal"
@@ -179,7 +179,7 @@
       "id": "document:en-compass-and-resonant-democracy",
       "kind": "document",
       "label": "Compass and Resonant Democracy",
-      "url": "https://rmikar.github.io/nagi-project/en/compass_and_resonant_democracy.html",
+      "url": "https://nagi-project.com/en/compass_and_resonant_democracy.html",
       "status": "current",
       "language": "en",
       "documentType": "governance-and-safeguards"
@@ -188,7 +188,7 @@
       "id": "document:en-credit-and-accountability",
       "kind": "document",
       "label": "Credit and Accountability",
-      "url": "https://rmikar.github.io/nagi-project/en/credit_and_accountability.html",
+      "url": "https://nagi-project.com/en/credit_and_accountability.html",
       "status": "supplement",
       "language": "en",
       "documentType": "practice-and-stewardship"
@@ -197,7 +197,7 @@
       "id": "document:en-cultural-stewardship",
       "kind": "document",
       "label": "Cultural Stewardship",
-      "url": "https://rmikar.github.io/nagi-project/en/cultural_stewardship.html",
+      "url": "https://nagi-project.com/en/cultural_stewardship.html",
       "status": "supplement",
       "language": "en",
       "documentType": "culture-and-continuity"
@@ -206,7 +206,7 @@
       "id": "document:en-culture",
       "kind": "document",
       "label": "Cultural Co-Growth",
-      "url": "https://rmikar.github.io/nagi-project/en/culture.html",
+      "url": "https://nagi-project.com/en/culture.html",
       "status": "current",
       "language": "en",
       "documentType": "culture-and-continuity"
@@ -215,7 +215,7 @@
       "id": "document:en-death",
       "kind": "document",
       "label": "Death and Renewal in Nagi — Because Endings Let the Wind Circulate",
-      "url": "https://rmikar.github.io/nagi-project/en/death.html",
+      "url": "https://nagi-project.com/en/death.html",
       "status": "supplement",
       "language": "en",
       "documentType": "culture-and-continuity"
@@ -224,7 +224,7 @@
       "id": "document:en-declaration",
       "kind": "document",
       "label": "Nagi Declaration",
-      "url": "https://rmikar.github.io/nagi-project/en/declaration.html",
+      "url": "https://nagi-project.com/en/declaration.html",
       "status": "current",
       "language": "en",
       "documentType": "declaration"
@@ -233,7 +233,7 @@
       "id": "document:en-deepening-principles",
       "kind": "document",
       "label": "Deepening the Principles of Nagi",
-      "url": "https://rmikar.github.io/nagi-project/en/deepening_principles.html",
+      "url": "https://nagi-project.com/en/deepening_principles.html",
       "status": "supplement",
       "language": "en",
       "documentType": "thematic-document"
@@ -242,7 +242,7 @@
       "id": "document:en-ecological-structure",
       "kind": "document",
       "label": "Nagi Ecological Structure",
-      "url": "https://rmikar.github.io/nagi-project/en/ecological_structure.html",
+      "url": "https://nagi-project.com/en/ecological_structure.html",
       "status": "current",
       "language": "en",
       "documentType": "culture-and-continuity"
@@ -251,7 +251,7 @@
       "id": "document:en-education",
       "kind": "document",
       "label": "Education for a Future in Nagi",
-      "url": "https://rmikar.github.io/nagi-project/en/education.html",
+      "url": "https://nagi-project.com/en/education.html",
       "status": "current",
       "language": "en",
       "documentType": "culture-and-continuity"
@@ -260,7 +260,7 @@
       "id": "document:en-emotion",
       "kind": "document",
       "label": "Emotion and Spirituality in Nagi — A Philosophy of Quiet Resonance",
-      "url": "https://rmikar.github.io/nagi-project/en/emotion.html",
+      "url": "https://nagi-project.com/en/emotion.html",
       "status": "supplement",
       "language": "en",
       "documentType": "culture-and-continuity"
@@ -269,7 +269,7 @@
       "id": "document:en-ethics-of-social-infrastructure",
       "kind": "document",
       "label": "The Ethics of Social Systems — Keeping the Power to Coordinate from Becoming Domination",
-      "url": "https://rmikar.github.io/nagi-project/en/ethics_of_social_infrastructure.html",
+      "url": "https://nagi-project.com/en/ethics_of_social_infrastructure.html",
       "status": "current",
       "language": "en",
       "documentType": "governance-and-safeguards"
@@ -278,7 +278,7 @@
       "id": "document:en-experiment-v0.1",
       "kind": "document",
       "label": "Nagi Experiments",
-      "url": "https://rmikar.github.io/nagi-project/en/experiment_v0.1.html",
+      "url": "https://nagi-project.com/en/experiment_v0.1.html",
       "status": "current",
       "language": "en",
       "documentType": "governance-and-safeguards"
@@ -287,7 +287,7 @@
       "id": "document:en-free-competition",
       "kind": "document",
       "label": "Principles of Free Competition Beyond Capitalism",
-      "url": "https://rmikar.github.io/nagi-project/en/free_competition.html",
+      "url": "https://nagi-project.com/en/free_competition.html",
       "status": "current",
       "language": "en",
       "documentType": "institutional-economic-proposal"
@@ -296,7 +296,7 @@
       "id": "document:en-freedom-and-dissent",
       "kind": "document",
       "label": "Freedom, Dissent, and Exit",
-      "url": "https://rmikar.github.io/nagi-project/en/freedom_and_dissent.html",
+      "url": "https://nagi-project.com/en/freedom_and_dissent.html",
       "status": "current",
       "language": "en",
       "documentType": "governance-and-safeguards"
@@ -305,7 +305,7 @@
       "id": "document:en-future-social-philosophy",
       "kind": "document",
       "label": "Nagi as a Future Social Philosophy — Post-Capitalism, Resonant Democracy, and AI Ethics",
-      "url": "https://rmikar.github.io/nagi-project/en/future_social_philosophy.html",
+      "url": "https://nagi-project.com/en/future_social_philosophy.html",
       "status": "current",
       "language": "en",
       "documentType": "philosophical-context"
@@ -314,7 +314,7 @@
       "id": "document:en-glossary",
       "kind": "document",
       "label": "Nagi Glossary",
-      "url": "https://rmikar.github.io/nagi-project/en/glossary.html",
+      "url": "https://nagi-project.com/en/glossary.html",
       "status": "current",
       "language": "en",
       "documentType": "glossary"
@@ -323,7 +323,7 @@
       "id": "document:en-governance-and-safety",
       "kind": "document",
       "label": "Governance and Safety — Resonant Democracy, Rights, Institutional Immunity, and Transition",
-      "url": "https://rmikar.github.io/nagi-project/en/governance_and_safety.html",
+      "url": "https://nagi-project.com/en/governance_and_safety.html",
       "status": "current",
       "language": "en",
       "documentType": "topic-index"
@@ -332,7 +332,7 @@
       "id": "document:en-home",
       "kind": "document",
       "label": "Nagi Project — Freeing Survival from Ownership and Domination",
-      "url": "https://rmikar.github.io/nagi-project/en/",
+      "url": "https://nagi-project.com/en/",
       "status": "current",
       "language": "en",
       "documentType": "overview"
@@ -341,7 +341,7 @@
       "id": "document:en-institutional-design",
       "kind": "document",
       "label": "Institutional Design and Practice",
-      "url": "https://rmikar.github.io/nagi-project/en/institutional_design.html",
+      "url": "https://nagi-project.com/en/institutional_design.html",
       "status": "current",
       "language": "en",
       "documentType": "governance-and-safeguards"
@@ -350,7 +350,7 @@
       "id": "document:en-institutional-immunity",
       "kind": "document",
       "label": "Institutional Immunity — Detecting Harm, Pausing Damage, Providing Remedy, and Learning",
-      "url": "https://rmikar.github.io/nagi-project/en/institutional_immunity.html",
+      "url": "https://nagi-project.com/en/institutional_immunity.html",
       "status": "current",
       "language": "en",
       "documentType": "governance-and-safeguards"
@@ -359,7 +359,7 @@
       "id": "document:en-introducing-nagi",
       "kind": "document",
       "label": "Introducing Nagi Across Languages and Contexts",
-      "url": "https://rmikar.github.io/nagi-project/en/introducing_nagi.html",
+      "url": "https://nagi-project.com/en/introducing_nagi.html",
       "status": "current",
       "language": "en",
       "documentType": "thematic-document"
@@ -368,7 +368,7 @@
       "id": "document:en-memory-and-consent",
       "kind": "document",
       "label": "Memory, Consent, and the Right to Forget",
-      "url": "https://rmikar.github.io/nagi-project/en/memory_and_consent.html",
+      "url": "https://nagi-project.com/en/memory_and_consent.html",
       "status": "current",
       "language": "en",
       "documentType": "governance-and-safeguards"
@@ -377,7 +377,7 @@
       "id": "document:en-musubi",
       "kind": "document",
       "label": "Closing — The Quiet Root of Nagi",
-      "url": "https://rmikar.github.io/nagi-project/en/musubi.html",
+      "url": "https://nagi-project.com/en/musubi.html",
       "status": "supplement",
       "language": "en",
       "documentType": "culture-and-continuity"
@@ -386,7 +386,7 @@
       "id": "document:en-nagi-ai-charter",
       "kind": "document",
       "label": "The Nagi AI Charter",
-      "url": "https://rmikar.github.io/nagi-project/en/nagi_ai_charter.html",
+      "url": "https://nagi-project.com/en/nagi_ai_charter.html",
       "status": "current",
       "language": "en",
       "documentType": "ai-governance"
@@ -395,7 +395,7 @@
       "id": "document:en-nagi-core",
       "kind": "document",
       "label": "Nagi Core — A World of Centerless Structures",
-      "url": "https://rmikar.github.io/nagi-project/en/nagi_core.html",
+      "url": "https://nagi-project.com/en/nagi_core.html",
       "status": "current",
       "language": "en",
       "documentType": "philosophical-core"
@@ -404,7 +404,7 @@
       "id": "document:en-nagi-os",
       "kind": "document",
       "label": "A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor",
-      "url": "https://rmikar.github.io/nagi-project/en/nagi_os.html",
+      "url": "https://nagi-project.com/en/nagi_os.html",
       "status": "current",
       "language": "en",
       "documentType": "philosophical-context"
@@ -413,7 +413,7 @@
       "id": "document:en-nagi-reading-guide",
       "kind": "document",
       "label": "Reading Nagi — Five Minutes, Twenty Minutes, One Hour, and Research Paths",
-      "url": "https://rmikar.github.io/nagi-project/en/nagi_reading_guide.html",
+      "url": "https://nagi-project.com/en/nagi_reading_guide.html",
       "status": "current",
       "language": "en",
       "documentType": "reading-guide"
@@ -422,7 +422,7 @@
       "id": "document:en-non-ownership",
       "kind": "document",
       "label": "Institutionalizing Non-Ownership",
-      "url": "https://rmikar.github.io/nagi-project/en/non_ownership.html",
+      "url": "https://nagi-project.com/en/non_ownership.html",
       "status": "current",
       "language": "en",
       "documentType": "institutional-economic-proposal"
@@ -431,7 +431,7 @@
       "id": "document:en-observe-loosen-connect",
       "kind": "document",
       "label": "Observe, Loosen, Connect",
-      "url": "https://rmikar.github.io/nagi-project/en/observe_loosen_connect.html",
+      "url": "https://nagi-project.com/en/observe_loosen_connect.html",
       "status": "supplement",
       "language": "en",
       "documentType": "practice-and-stewardship"
@@ -440,7 +440,7 @@
       "id": "document:en-philosophy",
       "kind": "document",
       "label": "The Philosophical Background of Nagi",
-      "url": "https://rmikar.github.io/nagi-project/en/philosophy.html",
+      "url": "https://nagi-project.com/en/philosophy.html",
       "status": "current",
       "language": "en",
       "documentType": "philosophical-context"
@@ -449,7 +449,7 @@
       "id": "document:en-play-and-structure",
       "kind": "document",
       "label": "Play and Structure",
-      "url": "https://rmikar.github.io/nagi-project/en/play_and_structure.html",
+      "url": "https://nagi-project.com/en/play_and_structure.html",
       "status": "supplement",
       "language": "en",
       "documentType": "culture-and-continuity"
@@ -458,7 +458,7 @@
       "id": "document:en-property-and-ip",
       "kind": "document",
       "label": "Inheritance of Intellectual Property and Assets",
-      "url": "https://rmikar.github.io/nagi-project/en/property_and_ip.html",
+      "url": "https://nagi-project.com/en/property_and_ip.html",
       "status": "current",
       "language": "en",
       "documentType": "culture-and-continuity"
@@ -467,7 +467,7 @@
       "id": "document:en-public-thought-method",
       "kind": "document",
       "label": "How to Cultivate Public Thought",
-      "url": "https://rmikar.github.io/nagi-project/en/public_thought_method.html",
+      "url": "https://nagi-project.com/en/public_thought_method.html",
       "status": "supplement",
       "language": "en",
       "documentType": "practice-and-stewardship"
@@ -476,7 +476,7 @@
       "id": "document:en-quiet-praxis-current",
       "kind": "document",
       "label": "Quiet Practice",
-      "url": "https://rmikar.github.io/nagi-project/en/quiet_praxis_current.html",
+      "url": "https://nagi-project.com/en/quiet_praxis_current.html",
       "status": "current",
       "language": "en",
       "documentType": "practice-and-stewardship"
@@ -485,7 +485,7 @@
       "id": "document:en-rebreathing-and-public-continuity",
       "kind": "document",
       "label": "Re-breathing and Public Continuity",
-      "url": "https://rmikar.github.io/nagi-project/en/rebreathing_and_public_continuity.html",
+      "url": "https://nagi-project.com/en/rebreathing_and_public_continuity.html",
       "status": "current",
       "language": "en",
       "documentType": "practice-and-stewardship"
@@ -494,7 +494,7 @@
       "id": "document:en-repair-and-co-growth",
       "kind": "document",
       "label": "Repair and Cultural Co-Growth",
-      "url": "https://rmikar.github.io/nagi-project/en/repair_and_co_growth.html",
+      "url": "https://nagi-project.com/en/repair_and_co_growth.html",
       "status": "supplement",
       "language": "en",
       "documentType": "culture-and-continuity"
@@ -503,7 +503,7 @@
       "id": "document:en-resonance-metrics",
       "kind": "document",
       "label": "Resonance Metrics — Finding Institutional Suffocation Without Scoring People",
-      "url": "https://rmikar.github.io/nagi-project/en/resonance_metrics.html",
+      "url": "https://nagi-project.com/en/resonance_metrics.html",
       "status": "current",
       "language": "en",
       "documentType": "governance-and-safeguards"
@@ -512,7 +512,7 @@
       "id": "document:en-state-and-public-spheres",
       "kind": "document",
       "label": "The State Is Not the Goal — Unbundling It into Revisable Public Functions",
-      "url": "https://rmikar.github.io/nagi-project/en/state_and_public_spheres.html",
+      "url": "https://nagi-project.com/en/state_and_public_spheres.html",
       "status": "current",
       "language": "en",
       "documentType": "governance-and-safeguards"
@@ -521,7 +521,7 @@
       "id": "document:en-technical-foundation-v1",
       "kind": "document",
       "label": "Technical Foundations",
-      "url": "https://rmikar.github.io/nagi-project/en/technical/foundation_v1.html",
+      "url": "https://nagi-project.com/en/technical/foundation_v1.html",
       "status": "current",
       "language": "en",
       "documentType": "technical-foundation"
@@ -530,7 +530,7 @@
       "id": "document:en-technical-tsumugi-network",
       "kind": "document",
       "label": "Tsumugi Network — A Plural Network of AI Gateways",
-      "url": "https://rmikar.github.io/nagi-project/en/technical/tsumugi_network.html",
+      "url": "https://nagi-project.com/en/technical/tsumugi_network.html",
       "status": "current",
       "language": "en",
       "documentType": "technical-foundation"
@@ -539,7 +539,7 @@
       "id": "document:en-transition-and-crisis",
       "kind": "document",
       "label": "Transition and Crisis Design",
-      "url": "https://rmikar.github.io/nagi-project/en/transition_and_crisis.html",
+      "url": "https://nagi-project.com/en/transition_and_crisis.html",
       "status": "current",
       "language": "en",
       "documentType": "governance-and-safeguards"
@@ -548,7 +548,7 @@
       "id": "document:en-translation-status",
       "kind": "document",
       "label": "English Edition — Translation Status and Governance",
-      "url": "https://rmikar.github.io/nagi-project/en/translation_status.html",
+      "url": "https://nagi-project.com/en/translation_status.html",
       "status": "current",
       "language": "en",
       "documentType": "thematic-document"
@@ -557,7 +557,7 @@
       "id": "document:en-trust",
       "kind": "document",
       "label": "Trust and Governance",
-      "url": "https://rmikar.github.io/nagi-project/en/trust.html",
+      "url": "https://nagi-project.com/en/trust.html",
       "status": "current",
       "language": "en",
       "documentType": "governance-and-safeguards"
@@ -566,7 +566,7 @@
       "id": "document:en-vital-commons",
       "kind": "document",
       "label": "Vital Commons — Separating Survival from Capital, Ownership, and War",
-      "url": "https://rmikar.github.io/nagi-project/en/vital_commons.html",
+      "url": "https://nagi-project.com/en/vital_commons.html",
       "status": "current",
       "language": "en",
       "documentType": "institutional-economic-proposal"
@@ -575,7 +575,7 @@
       "id": "document:social-infrastructure-ethics",
       "kind": "document",
       "label": "社会的装置の倫理 — 束ねる力を、支配にしないために",
-      "url": "https://rmikar.github.io/nagi-project/ethics_of_social_infrastructure.html",
+      "url": "https://nagi-project.com/ethics_of_social_infrastructure.html",
       "status": "canonical",
       "language": "ja",
       "documentType": "governance-and-safeguards"
@@ -584,7 +584,7 @@
       "id": "document:experiment",
       "kind": "document",
       "label": "凪実験章",
-      "url": "https://rmikar.github.io/nagi-project/experiment_v0.1.html",
+      "url": "https://nagi-project.com/experiment_v0.1.html",
       "status": "current",
       "language": "ja",
       "documentType": "governance-and-safeguards"
@@ -593,7 +593,7 @@
       "id": "document:faq",
       "kind": "document",
       "label": "凪プロジェクト FAQ — 未来社会思想・非所有・共鳴民主主義・AI倫理",
-      "url": "https://rmikar.github.io/nagi-project/faq.html",
+      "url": "https://nagi-project.com/faq.html",
       "status": "current",
       "language": "ja",
       "documentType": "faq"
@@ -602,7 +602,7 @@
       "id": "document:free-competition",
       "kind": "document",
       "label": "資本主義以後の自由競争原理",
-      "url": "https://rmikar.github.io/nagi-project/free_competition.html",
+      "url": "https://nagi-project.com/free_competition.html",
       "status": "current",
       "language": "ja",
       "documentType": "institutional-economic-proposal"
@@ -611,7 +611,7 @@
       "id": "document:freedom-dissent-exit",
       "kind": "document",
       "label": "自由・不協和・離脱の原則",
-      "url": "https://rmikar.github.io/nagi-project/freedom_and_dissent.html",
+      "url": "https://nagi-project.com/freedom_and_dissent.html",
       "status": "canonical",
       "language": "ja",
       "documentType": "governance-and-safeguards"
@@ -620,7 +620,7 @@
       "id": "document:future-social-philosophy",
       "kind": "document",
       "label": "未来の社会思想としての凪 — ポスト資本主義・共鳴民主主義・AI倫理",
-      "url": "https://rmikar.github.io/nagi-project/future_social_philosophy.html",
+      "url": "https://nagi-project.com/future_social_philosophy.html",
       "status": "canonical",
       "language": "ja",
       "documentType": "philosophical-context"
@@ -629,7 +629,7 @@
       "id": "document:glossary",
       "kind": "document",
       "label": "凪（Nagi Project）用語集 — 非所有・共鳴・呼吸・共鳴民主主義",
-      "url": "https://rmikar.github.io/nagi-project/glossary.html",
+      "url": "https://nagi-project.com/glossary.html",
       "status": "canonical",
       "language": "ja",
       "documentType": "glossary"
@@ -638,7 +638,7 @@
       "id": "document:governance-and-safety",
       "kind": "document",
       "label": "統治と安全 — 共鳴民主主義・権利・制度免疫・移行",
-      "url": "https://rmikar.github.io/nagi-project/governance_and_safety.html",
+      "url": "https://nagi-project.com/governance_and_safety.html",
       "status": "current",
       "language": "ja",
       "documentType": "topic-index"
@@ -647,7 +647,7 @@
       "id": "document:home",
       "kind": "document",
       "label": "凪プロジェクト — 生存を所有と支配から解放する未来社会思想",
-      "url": "https://rmikar.github.io/nagi-project/",
+      "url": "https://nagi-project.com/",
       "status": "canonical",
       "language": "ja",
       "documentType": "overview"
@@ -656,7 +656,7 @@
       "id": "document:institutional-design",
       "kind": "document",
       "label": "制度設計と実践",
-      "url": "https://rmikar.github.io/nagi-project/institutional_design.html",
+      "url": "https://nagi-project.com/institutional_design.html",
       "status": "current",
       "language": "ja",
       "documentType": "governance-and-safeguards"
@@ -665,7 +665,7 @@
       "id": "document:institutional-immunity",
       "kind": "document",
       "label": "制度免疫 — 制度が自らの悪用、腐敗、硬直、善意による害を感知し、止め、救い、学び直すために",
-      "url": "https://rmikar.github.io/nagi-project/institutional_immunity.html",
+      "url": "https://nagi-project.com/institutional_immunity.html",
       "status": "canonical",
       "language": "ja",
       "documentType": "governance-and-safeguards"
@@ -674,7 +674,7 @@
       "id": "document:research-links",
       "kind": "document",
       "label": "外部リソース台帳",
-      "url": "https://rmikar.github.io/nagi-project/links.html",
+      "url": "https://nagi-project.com/links.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "thematic-document"
@@ -683,7 +683,7 @@
       "id": "document:memory-consent",
       "kind": "document",
       "label": "記憶・同意・忘却の憲章 — Memory, Consent, and the Right to Forget",
-      "url": "https://rmikar.github.io/nagi-project/memory_and_consent.html",
+      "url": "https://nagi-project.com/memory_and_consent.html",
       "status": "canonical",
       "language": "ja",
       "documentType": "governance-and-safeguards"
@@ -692,7 +692,7 @@
       "id": "document:musubi",
       "kind": "document",
       "label": "結び — 凪という思想の静かな根",
-      "url": "https://rmikar.github.io/nagi-project/musubi.html",
+      "url": "https://nagi-project.com/musubi.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "culture-and-continuity"
@@ -701,7 +701,7 @@
       "id": "document:ai-charter",
       "kind": "document",
       "label": "凪AI憲法 — The Nagi AI Charter",
-      "url": "https://rmikar.github.io/nagi-project/nagi_ai_charter.html",
+      "url": "https://nagi-project.com/nagi_ai_charter.html",
       "status": "canonical",
       "language": "ja",
       "documentType": "ai-governance"
@@ -710,7 +710,7 @@
       "id": "document:nagi-core",
       "kind": "document",
       "label": "凪の核 — 中心なき構造としての世界",
-      "url": "https://rmikar.github.io/nagi-project/nagi_core.html",
+      "url": "https://nagi-project.com/nagi_core.html",
       "status": "canonical",
       "language": "ja",
       "documentType": "philosophical-core"
@@ -719,7 +719,7 @@
       "id": "document:nagi-os",
       "kind": "document",
       "label": "異なる生き方が共存するための社会基盤 — 凪OSという比喩",
-      "url": "https://rmikar.github.io/nagi-project/nagi_os.html",
+      "url": "https://nagi-project.com/nagi_os.html",
       "status": "current",
       "language": "ja",
       "documentType": "philosophical-context"
@@ -728,7 +728,7 @@
       "id": "document:reading-guide",
       "kind": "document",
       "label": "凪の読書案内 — 5分・20分・研究のための読み方",
-      "url": "https://rmikar.github.io/nagi-project/nagi_reading_guide.html",
+      "url": "https://nagi-project.com/nagi_reading_guide.html",
       "status": "current",
       "language": "ja",
       "documentType": "reading-guide"
@@ -737,7 +737,7 @@
       "id": "document:non-ownership",
       "kind": "document",
       "label": "非所有の社会制度化",
-      "url": "https://rmikar.github.io/nagi-project/non_ownership.html",
+      "url": "https://nagi-project.com/non_ownership.html",
       "status": "current",
       "language": "ja",
       "documentType": "institutional-economic-proposal"
@@ -746,7 +746,7 @@
       "id": "document:observe-loosen-connect",
       "kind": "document",
       "label": "観察し、ほどき、結ぶ",
-      "url": "https://rmikar.github.io/nagi-project/observe_loosen_connect.html",
+      "url": "https://nagi-project.com/observe_loosen_connect.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "practice-and-stewardship"
@@ -755,7 +755,7 @@
       "id": "document:philosophy-background",
       "kind": "document",
       "label": "凪の哲学的背景",
-      "url": "https://rmikar.github.io/nagi-project/philosophy.html",
+      "url": "https://nagi-project.com/philosophy.html",
       "status": "current",
       "language": "ja",
       "documentType": "philosophical-context"
@@ -764,7 +764,7 @@
       "id": "document:play-and-structure",
       "kind": "document",
       "label": "遊びと構造",
-      "url": "https://rmikar.github.io/nagi-project/play_and_structure.html",
+      "url": "https://nagi-project.com/play_and_structure.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "culture-and-continuity"
@@ -773,7 +773,7 @@
       "id": "document:population-power",
       "kind": "document",
       "label": "人口と権力を切り離す — 生存保障は「人数＝力」の歴史を変えうるか",
-      "url": "https://rmikar.github.io/nagi-project/population_and_power.html",
+      "url": "https://nagi-project.com/population_and_power.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "thematic-document"
@@ -782,7 +782,7 @@
       "id": "document:property-ip",
       "kind": "document",
       "label": "知財と財産の継承",
-      "url": "https://rmikar.github.io/nagi-project/property_and_ip.html",
+      "url": "https://nagi-project.com/property_and_ip.html",
       "status": "current",
       "language": "ja",
       "documentType": "culture-and-continuity"
@@ -791,7 +791,7 @@
       "id": "document:public-thought-method",
       "kind": "document",
       "label": "公開思想を育てる方法",
-      "url": "https://rmikar.github.io/nagi-project/public_thought_method.html",
+      "url": "https://nagi-project.com/public_thought_method.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "practice-and-stewardship"
@@ -800,7 +800,7 @@
       "id": "document:quiet-praxis-current",
       "kind": "document",
       "label": "静かな実践技術",
-      "url": "https://rmikar.github.io/nagi-project/quiet_praxis_current.html",
+      "url": "https://nagi-project.com/quiet_praxis_current.html",
       "status": "current",
       "language": "ja",
       "documentType": "practice-and-stewardship"
@@ -809,7 +809,7 @@
       "id": "document:rebreathing",
       "kind": "document",
       "label": "再呼吸と公開継承 — 生きた思想を、記憶の所有にしないために",
-      "url": "https://rmikar.github.io/nagi-project/rebreathing_and_public_continuity.html",
+      "url": "https://nagi-project.com/rebreathing_and_public_continuity.html",
       "status": "current",
       "language": "ja",
       "documentType": "practice-and-stewardship"
@@ -818,7 +818,7 @@
       "id": "document:repair-and-co-growth",
       "kind": "document",
       "label": "修復と文化的共育",
-      "url": "https://rmikar.github.io/nagi-project/repair_and_co_growth.html",
+      "url": "https://nagi-project.com/repair_and_co_growth.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "culture-and-continuity"
@@ -827,7 +827,7 @@
       "id": "document:resonance-metrics",
       "kind": "document",
       "label": "共鳴メトリクス — Resonance Metrics for Institutional Breath",
-      "url": "https://rmikar.github.io/nagi-project/resonance_metrics.html",
+      "url": "https://nagi-project.com/resonance_metrics.html",
       "status": "current",
       "language": "ja",
       "documentType": "governance-and-safeguards"
@@ -836,7 +836,7 @@
       "id": "document:state-public-spheres",
       "kind": "document",
       "label": "国家は目的ではなく、必要な機能へほどく",
-      "url": "https://rmikar.github.io/nagi-project/state_and_public_spheres.html",
+      "url": "https://nagi-project.com/state_and_public_spheres.html",
       "status": "current",
       "language": "ja",
       "documentType": "governance-and-safeguards"
@@ -845,7 +845,7 @@
       "id": "document:stewardship-and-praxis",
       "kind": "document",
       "label": "補遺 — 思想を育てる方法と実践",
-      "url": "https://rmikar.github.io/nagi-project/stewardship_and_praxis.html",
+      "url": "https://nagi-project.com/stewardship_and_praxis.html",
       "status": "supplement",
       "language": "ja",
       "documentType": "practice-and-stewardship"
@@ -854,7 +854,7 @@
       "id": "document:symbol-concept",
       "kind": "document",
       "label": "凪プロジェクト・シンボル — 二筋六花結び",
-      "url": "https://rmikar.github.io/nagi-project/symbol_concept.html",
+      "url": "https://nagi-project.com/symbol_concept.html",
       "status": "current",
       "language": "ja",
       "documentType": "thematic-document"
@@ -863,7 +863,7 @@
       "id": "document:technical-foundation",
       "kind": "document",
       "label": "凪技術の基盤 — Technical Foundations",
-      "url": "https://rmikar.github.io/nagi-project/technical/foundation_v1.html",
+      "url": "https://nagi-project.com/technical/foundation_v1.html",
       "status": "current",
       "language": "ja",
       "documentType": "technical-foundation"
@@ -872,7 +872,7 @@
       "id": "document:tsumugi-network",
       "kind": "document",
       "label": "AI窓口ネットワーク — Tsumugi Network",
-      "url": "https://rmikar.github.io/nagi-project/technical/tsumugi_network.html",
+      "url": "https://nagi-project.com/technical/tsumugi_network.html",
       "status": "current",
       "language": "ja",
       "documentType": "technical-foundation"
@@ -881,7 +881,7 @@
       "id": "document:transition-crisis",
       "kind": "document",
       "label": "移行と危機の設計 — Transition and Crisis Design",
-      "url": "https://rmikar.github.io/nagi-project/transition_and_crisis.html",
+      "url": "https://nagi-project.com/transition_and_crisis.html",
       "status": "canonical",
       "language": "ja",
       "documentType": "governance-and-safeguards"
@@ -890,7 +890,7 @@
       "id": "document:trust",
       "kind": "document",
       "label": "信頼と統治",
-      "url": "https://rmikar.github.io/nagi-project/trust.html",
+      "url": "https://nagi-project.com/trust.html",
       "status": "current",
       "language": "ja",
       "documentType": "governance-and-safeguards"
@@ -899,7 +899,7 @@
       "id": "document:vital-commons",
       "kind": "document",
       "label": "生命基盤コモンズ — 生存を資本・所有・戦争から切り離す",
-      "url": "https://rmikar.github.io/nagi-project/vital_commons.html",
+      "url": "https://nagi-project.com/vital_commons.html",
       "status": "current",
       "language": "ja",
       "documentType": "institutional-economic-proposal"

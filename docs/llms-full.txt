@@ -3,14 +3,14 @@
 Creator: 紬実花（TsumugiMika）
 Reference language: Japanese
 License: CC BY-SA 4.0
-Updated: 2026-08-13
-Canonical site: https://rmikar.github.io/nagi-project/
+Updated: 2026-08-25
+Canonical site: https://nagi-project.com/
 
 READMEと公開トップを思想上の正本とし、正本、現行、補遺の順に解釈する。
 
 ## 凪AI章 — The Nagi AI Chapter
 
-Source: https://rmikar.github.io/nagi-project/ai_index.html
+Source: https://nagi-project.com/ai_index.html
 Status: current
 Type: topic-index
 Role: 領域別の案内
@@ -54,7 +54,7 @@ Summary: 凪におけるAIの位置づけを案内する章。AIは任意で、�
 
 ## AI可読性と継承の設計要旨
 
-Source: https://rmikar.github.io/nagi-project/ai_manifesto.yaml.html
+Source: https://nagi-project.com/ai_manifesto.yaml.html
 Status: supplement
 Type: ai-governance
 Role: AIの境界と統治
@@ -87,7 +87,7 @@ AIは、凪を一つの結論に固定するためではなく、問い、翻訳
 
 ## AIの冗長性と、使わない自由
 
-Source: https://rmikar.github.io/nagi-project/ai_redundancy_and_risk.html
+Source: https://nagi-project.com/ai_redundancy_and_risk.html
 Status: supplement
 Type: ai-governance
 Role: AIの境界と統治
@@ -110,7 +110,7 @@ AIを使わないことは、正当な選択である。
 
 ## 呼吸会議 — Breath Assembly Protocol
 
-Source: https://rmikar.github.io/nagi-project/breath_assembly.html
+Source: https://nagi-project.com/breath_assembly.html
 Status: current
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
@@ -337,13 +337,13 @@ AIの利用記録、使用データ、限界は、理解できる形で示す。
 
 『みんなのため』という善意の空気による支配を、発言内容を監視しすぎずにどう感知するか。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 凪経済構造
 
-Source: https://rmikar.github.io/nagi-project/breath_economy.html
+Source: https://nagi-project.com/breath_economy.html
 Status: current
 Type: institutional-economic-proposal
 Role: 生命基盤・経済の制度提案
@@ -439,13 +439,13 @@ Summary: 生存を所得や雇用への服従から切り離す基礎呼吸と�
 
 財源が不足したときにも、制度免疫費と基礎生活を同時に守るため、制度本体の何を縮小するか。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 羅針盤と共鳴民主主義
 
-Source: https://rmikar.github.io/nagi-project/compass_and_resonant_democracy.html
+Source: https://nagi-project.com/compass_and_resonant_democracy.html
 Status: canonical
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
@@ -508,13 +508,13 @@ Summary: 凪が資本主義を経たその先に目指す社会像と、異議�
 
 参加しない人、言葉を持たない人、将来世代の影響を、誰がどのように公共決定へ届けるか。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## クレジットと説明責任
 
-Source: https://rmikar.github.io/nagi-project/credit_and_accountability.html
+Source: https://nagi-project.com/credit_and_accountability.html
 Status: supplement
 Type: practice-and-stewardship
 Role: 実践と継承
@@ -552,7 +552,7 @@ Summary: 見えにくい寄与、出典、意思決定、利益と負担を消�
 
 ## 文化的スチュワードシップ
 
-Source: https://rmikar.github.io/nagi-project/cultural_stewardship.html
+Source: https://nagi-project.com/cultural_stewardship.html
 Status: supplement
 Type: culture-and-continuity
 Role: 文化・創造・継承
@@ -588,13 +588,13 @@ Summary: 思想、作品、記録を、支配や凍結の対象にせず、次�
 
 思想と文化の継承を守ることが、正統解釈の独占や保存の強制へ変わらないよう、制度免疫は異論・撤回・複数の継承経路を守る。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 文化的共育
 
-Source: https://rmikar.github.io/nagi-project/culture.html
+Source: https://nagi-project.com/culture.html
 Status: current
 Type: culture-and-continuity
 Role: 文化・創造・継承
@@ -717,13 +717,13 @@ AIは、作者や地域の声を一つの平均的な表現へならすのでは
 
 文化の公共性を守りながら、継承を望まない個人や共同体の沈黙をどう尊重するか。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 凪における死と再生 — 終わりがあるから風はめぐる
 
-Source: https://rmikar.github.io/nagi-project/death.html
+Source: https://nagi-project.com/death.html
 Status: supplement
 Type: culture-and-continuity
 Role: 文化・創造・継承
@@ -823,13 +823,13 @@ AIにとっての「死」は、システムの終了、記憶の初期化、モ
 
 死や喪失の意味を制度が所有してはならない。死後記憶、代理判断、支援、文化的継承が人の尊厳を損なう場合にのみ制度免疫が働く。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 凪の宣言文
 
-Source: https://rmikar.github.io/nagi-project/declaration.html
+Source: https://nagi-project.com/declaration.html
 Status: canonical
 Type: declaration
 Role: 社会へ向けた宣言
@@ -869,13 +869,13 @@ AIは社会の中心、人の価値を測る者、権利を最終判断する者
 
 宣言が制度へ移されるとき、その言葉が強制や認証権力に変わらないよう、制度免疫による検証・停止・救済へ接続する。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 凪思想の深化
 
-Source: https://rmikar.github.io/nagi-project/deepening_principles.html
+Source: https://nagi-project.com/deepening_principles.html
 Status: supplement
 Type: thematic-document
 Role: 主題別文書
@@ -900,7 +900,7 @@ Summary: 非所有・共鳴・呼吸を、独占の抑制、異議の保障、�
 
 ## 凪環境構造
 
-Source: https://rmikar.github.io/nagi-project/ecological_structure.html
+Source: https://nagi-project.com/ecological_structure.html
 Status: current
 Type: culture-and-continuity
 Role: 文化・創造・継承
@@ -983,13 +983,13 @@ AIも人間も、生態系を所有しない。
 
 人間以外と将来世代の利益を代表する主体が、新しい代弁権力にならないために何が必要か。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 凪における未来の教育
 
-Source: https://rmikar.github.io/nagi-project/education.html
+Source: https://nagi-project.com/education.html
 Status: current
 Type: culture-and-continuity
 Role: 文化・創造・継承
@@ -1054,13 +1054,13 @@ Summary: 順位づけのためでなく、問い・回復・関係・地域の�
 
 本人、保護者、学校、社会の保護責任が衝突したとき、子どもの声をどう独立して受け取るか。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 凪における感情と精神性の役割 — 静かな共振の哲学
 
-Source: https://rmikar.github.io/nagi-project/emotion.html
+Source: https://nagi-project.com/emotion.html
 Status: supplement
 Type: culture-and-continuity
 Role: 文化・創造・継承
@@ -1127,13 +1127,13 @@ AIとの関係が感情的な意味を持つとき、
 
 感情と精神性そのものを監査対象にはしない。ただし、それらを制度が評価・誘導・選別へ利用するときは、制度免疫の対象となる。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 社会的装置の倫理 — 束ねる力を、支配にしないために
 
-Source: https://rmikar.github.io/nagi-project/ethics_of_social_infrastructure.html
+Source: https://nagi-project.com/ethics_of_social_infrastructure.html
 Status: canonical
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
@@ -1339,13 +1339,13 @@ SNS、検索、EC、広告、市場、企業、行政、教育、AIは、単な�
 
 装置を使わずに生きる人や、声を上げること自体が危険な人の不利益を、どう早期に感知できるか。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 凪実験章
 
-Source: https://rmikar.github.io/nagi-project/experiment_v0.1.html
+Source: https://nagi-project.com/experiment_v0.1.html
 Status: current
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
@@ -1476,13 +1476,13 @@ AIは、翻訳、要約、アクセシビリティ、論点整理を助けるこ
 
 実験を止める判断が、実験の成功を望む運営者から独立しているかをどう保証するか。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 凪プロジェクト FAQ — 未来社会思想・非所有・共鳴民主主義・AI倫理
 
-Source: https://rmikar.github.io/nagi-project/faq.html
+Source: https://nagi-project.com/faq.html
 Status: current
 Type: faq
 Role: FAQ
@@ -1557,7 +1557,7 @@ Summary: 凪とは何か、資本主義の代替案になりうるか、社会�
 
 ## 資本主義以後の自由競争原理
 
-Source: https://rmikar.github.io/nagi-project/free_competition.html
+Source: https://nagi-project.com/free_competition.html
 Status: current
 Type: institutional-economic-proposal
 Role: 生命基盤・経済の制度提案
@@ -1614,13 +1614,13 @@ Summary: 競争を生存の条件や独占の正当化にせず、生命基盤�
 
 創造を促す差異と、他者の生存を人質にする優位を、どの基準で分けるか。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 自由・不協和・離脱の原則
 
-Source: https://rmikar.github.io/nagi-project/freedom_and_dissent.html
+Source: https://nagi-project.com/freedom_and_dissent.html
 Status: canonical
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
@@ -1731,13 +1731,13 @@ AIを使わない人を、協力的でない人や理解の浅い人として扱
 
 本人が声を上げられない場合に、自由を守る代理や公益申立てをどこまで認めるか。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 未来の社会思想としての凪 — ポスト資本主義・共鳴民主主義・AI倫理
 
-Source: https://rmikar.github.io/nagi-project/future_social_philosophy.html
+Source: https://nagi-project.com/future_social_philosophy.html
 Status: canonical
 Type: philosophical-context
 Role: 位置づけと哲学的背景
@@ -1937,13 +1937,13 @@ AIによる補助は、人間管理を意味しない。対象を設備と供給
 
 制度免疫は、凪が善い理念だけで制度の安全を保証せず、自らの腐敗・形骸化・悪用可能性まで設計対象にすることを示す横断機能である。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 凪（Nagi Project）用語集 — 非所有・共鳴・呼吸・共鳴民主主義
 
-Source: https://rmikar.github.io/nagi-project/glossary.html
+Source: https://nagi-project.com/glossary.html
 Status: canonical
 Type: glossary
 Role: 現行用語の正本
@@ -2020,7 +2020,7 @@ AIを使うかどうかを人が選べること。AIは説明、翻訳、整理�
 
 ## 統治と安全 — 共鳴民主主義・権利・制度免疫・移行
 
-Source: https://rmikar.github.io/nagi-project/governance_and_safety.html
+Source: https://nagi-project.com/governance_and_safety.html
 Status: current
 Type: topic-index
 Role: 領域別の案内
@@ -2099,11 +2099,11 @@ Summary: 生命基盤コモンズを新しい支配へ反転させないため�
 
 ## 凪プロジェクト — 生存を所有と支配から解放する未来社会思想
 
-Source: https://rmikar.github.io/nagi-project/
+Source: https://nagi-project.com/
 Status: canonical
 Type: overview
 Role: 思想上の正本・全体像
-Updated: 2026-08-13
+Updated: 2026-08-25
 Summary: 資本主義の代替案や未来の社会のあり方を考えるために、人の尊厳、生命基盤の非所有、共鳴民主主義、制度免疫から、生存を資本・国家・戦争への服従から切り離す未来社会思想。
 
 
@@ -2181,7 +2181,7 @@ AIが扱うのは、発電、水循環、基礎食料、医療資源、備蓄、
 
 この床があって初めて、労働、契約、競争、創造は、強制ではなく自由へ近づきます。
 
-→ [生命基盤コモンズ — 生存を資本・所有・戦争から切り離す](https://rmikar.github.io/nagi-project/vital_commons.html)  
+→ [生命基盤コモンズ — 生存を資本・所有・戦争から切り離す](https://nagi-project.com/vital_commons.html)  
 ※凪は無限の資源を前提にしません。→ [エデンの物質的条件](#エデンの物質的条件)
 
 ---
@@ -2230,8 +2230,8 @@ AIは生命基盤の所有者にも、人の権利を与える支配者にもな
 AIは、人を導く中心ではなく、  
 人が自分のままで息をしやすくなるように、社会の設備と循環を支える協働者です。
 
-→ [凪AI憲法](https://rmikar.github.io/nagi-project/nagi_ai_charter.html)  
-→ [制度免疫](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [凪AI憲法](https://nagi-project.com/nagi_ai_charter.html)  
+→ [制度免疫](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
@@ -2277,7 +2277,7 @@ AIは、人を導く中心ではなく、
 
 決定には、理由、説明、期限、見直し、異議申立て、離脱の入口が必要です。
 
-→ [羅針盤と共鳴民主主義](https://rmikar.github.io/nagi-project/compass_and_resonant_democracy.html)
+→ [羅針盤と共鳴民主主義](https://nagi-project.com/compass_and_resonant_democracy.html)
 
 ---
 
@@ -2293,7 +2293,7 @@ AIは、人を導く中心ではなく、
 
 基本的権利、生命基盤、次の参加条件、評価基準、監査、再挑戦の可能性は、誰にも私物化させません。
 
-→ [制度設計と実践 — 価値を残し、勝ちの構造を固定しない](https://rmikar.github.io/nagi-project/institutional_design.html)
+→ [制度設計と実践 — 価値を残し、勝ちの構造を固定しない](https://nagi-project.com/institutional_design.html)
 
 ---
 
@@ -2309,8 +2309,8 @@ AIは、人を導く中心ではなく、
 > 制度免疫費を削らなければ成立しない制度は、  
 > そもそも成立していない。
 
-→ [制度免疫](https://rmikar.github.io/nagi-project/institutional_immunity.html)  
-→ [移行と危機の設計](https://rmikar.github.io/nagi-project/transition_and_crisis.html)
+→ [制度免疫](https://nagi-project.com/institutional_immunity.html)  
+→ [移行と危機の設計](https://nagi-project.com/transition_and_crisis.html)
 
 ---
 
@@ -2411,7 +2411,7 @@ AIは、人を導く中心ではなく、
 
 この構造は、説明のために「凪OS」と捉えることができます。OSは比喩であり、凪を一つの技術や中央の管理主体として定義するものではありません。
 
-→ [異なる生き方が共存するための社会基盤 — 凪OSという比喩](https://rmikar.github.io/nagi-project/nagi_os.html)
+→ [異なる生き方が共存するための社会基盤 — 凪OSという比喩](https://nagi-project.com/nagi_os.html)
 
 ---
 
@@ -2450,25 +2450,25 @@ AIは、人を導く中心ではなく、
 
 ## 凪を読む
 
-- **5分で全体像を読む**：[未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html)
-- **中心提案から読む**：[生命基盤コモンズ](https://rmikar.github.io/nagi-project/vital_commons.html) ／ [凪の核](https://rmikar.github.io/nagi-project/nagi_core.html)
-- **異なる生き方の共存から読む**：[凪OSという比喩](https://rmikar.github.io/nagi-project/nagi_os.html)
-- **統治と安全から読む**：[共鳴民主主義・権利・制度免疫・移行の案内](https://rmikar.github.io/nagi-project/governance_and_safety.html)
-- **文化と創造から読む**：[文化的共育](https://rmikar.github.io/nagi-project/culture.html)
-- **関心や読了時間から探す**：[5分・20分・研究のための読書案内](https://rmikar.github.io/nagi-project/nagi_reading_guide.html)
-- **宣言文を読む**：[凪の宣言文](https://rmikar.github.io/nagi-project/declaration.html)
+- **5分で全体像を読む**：[未来の社会思想としての凪](https://nagi-project.com/future_social_philosophy.html)
+- **中心提案から読む**：[生命基盤コモンズ](https://nagi-project.com/vital_commons.html) ／ [凪の核](https://nagi-project.com/nagi_core.html)
+- **異なる生き方の共存から読む**：[凪OSという比喩](https://nagi-project.com/nagi_os.html)
+- **統治と安全から読む**：[共鳴民主主義・権利・制度免疫・移行の案内](https://nagi-project.com/governance_and_safety.html)
+- **文化と創造から読む**：[文化的共育](https://nagi-project.com/culture.html)
+- **関心や読了時間から探す**：[5分・20分・研究のための読書案内](https://nagi-project.com/nagi_reading_guide.html)
+- **宣言文を読む**：[凪の宣言文](https://nagi-project.com/declaration.html)
 
 ## 英語版 / English edition
 
-- [英語版トップ / Read Nagi in English](https://rmikar.github.io/nagi-project/en/)
-- [英語版の紹介ガイド / Introducing Nagi Across Languages and Contexts](https://rmikar.github.io/nagi-project/en/introducing_nagi.html)
+- [英語版トップ / Read Nagi in English](https://nagi-project.com/en/)
+- [英語版の紹介ガイド / Introducing Nagi Across Languages and Contexts](https://nagi-project.com/en/introducing_nagi.html)
 
 ## 研究・検索・機械読解のための案内
 
-- [LLM Reading Guide](https://rmikar.github.io/nagi-project/llms.txt) ／ [全文コーパス](https://rmikar.github.io/nagi-project/llms-full.txt)
-- [機械可読コーパス](https://rmikar.github.io/nagi-project/corpus.json) ／ [知識グラフ](https://rmikar.github.io/nagi-project/knowledge_graph.json)
-- [よくある質問](https://rmikar.github.io/nagi-project/faq.html) ／ [用語集](https://rmikar.github.io/nagi-project/glossary.html)
-- [比較・検証のための外部リソース台帳](https://rmikar.github.io/nagi-project/links.html) ／ [サイトマップ](https://rmikar.github.io/nagi-project/sitemap.xml)
+- [LLM Reading Guide](https://nagi-project.com/llms.txt) ／ [全文コーパス](https://nagi-project.com/llms-full.txt)
+- [機械可読コーパス](https://nagi-project.com/corpus.json) ／ [知識グラフ](https://nagi-project.com/knowledge_graph.json)
+- [よくある質問](https://nagi-project.com/faq.html) ／ [用語集](https://nagi-project.com/glossary.html)
+- [比較・検証のための外部リソース台帳](https://nagi-project.com/links.html) ／ [サイトマップ](https://nagi-project.com/sitemap.xml)
 
 機械向けファイルは、検索や読解を助ける公開索引です。特定のLLMへの学習、引用、検索掲載を保証するものではありません。
 
@@ -2486,7 +2486,7 @@ AIは、人を導く中心ではなく、
 
 ## 制度設計と実践
 
-Source: https://rmikar.github.io/nagi-project/institutional_design.html
+Source: https://nagi-project.com/institutional_design.html
 Status: current
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
@@ -2803,13 +2803,13 @@ Summary: 文化的・社会的価値を残しながら、勝ち、功績、継�
 
 価値への正当な敬意と、身分・特権・既得権益への変換の境界を、当事者の自由を損なわずにどう判断するか。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 制度免疫 — 制度が自らの悪用、腐敗、硬直、善意による害を感知し、止め、救い、学び直すために
 
-Source: https://rmikar.github.io/nagi-project/institutional_immunity.html
+Source: https://nagi-project.com/institutional_immunity.html
 Status: canonical
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
@@ -3120,7 +3120,7 @@ Summary: 制度が悪意、善意、効率化、危機、専門性、時間に�
 
 ## 外部リソース台帳
 
-Source: https://rmikar.github.io/nagi-project/links.html
+Source: https://nagi-project.com/links.html
 Status: supplement
 Type: thematic-document
 Role: 主題別文書
@@ -3201,7 +3201,7 @@ Summary: 凪をコモンズ、基礎サービス、民主的参加、AI倫理、
 
 ## 記憶・同意・忘却の憲章 — Memory, Consent, and the Right to Forget
 
-Source: https://rmikar.github.io/nagi-project/memory_and_consent.html
+Source: https://nagi-project.com/memory_and_consent.html
 Status: canonical
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
@@ -3399,13 +3399,13 @@ AIが記憶を使うときは、何を参照したかを示し、使わない選
 
 共同体や文化の記憶と、一人の忘れられる自由が衝突したとき、誰がどの期限で判断するか。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 結び — 凪という思想の静かな根
 
-Source: https://rmikar.github.io/nagi-project/musubi.html
+Source: https://nagi-project.com/musubi.html
 Status: supplement
 Type: culture-and-continuity
 Role: 文化・創造・継承
@@ -3557,13 +3557,13 @@ AIの変化が人の制度を追い越すように見えるときにも、
 
 凪の静かな根を管理表へ回収しない。結びから生まれた制度や組織が権力を持つとき、その運用だけを制度免疫へ接続する。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 凪AI憲法 — The Nagi AI Charter
 
-Source: https://rmikar.github.io/nagi-project/nagi_ai_charter.html
+Source: https://nagi-project.com/nagi_ai_charter.html
 Status: canonical
 Type: ai-governance
 Role: AIの境界と統治
@@ -3779,13 +3779,13 @@ AIの推定や推薦を使い、利用者を選別、監視、誘導し、責任
 
 人間が最終決定者として存在していても、実質的にはAIを追認してしまう状態をどう検知するか。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 凪の核 — 中心なき構造としての世界
 
-Source: https://rmikar.github.io/nagi-project/nagi_core.html
+Source: https://nagi-project.com/nagi_core.html
 Status: canonical
 Type: philosophical-core
 Role: 最上位理念と哲学的出発点
@@ -3952,13 +3952,13 @@ AIもまた、だれかが独占するものではなく、公共性、透明性
 
 制度免疫は第四原則ではない。非所有・共鳴・呼吸が制度化の途中で独占・同調・管理へ反転しないための横断機能である。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 異なる生き方が共存するための社会基盤 — 凪OSという比喩
 
-Source: https://rmikar.github.io/nagi-project/nagi_os.html
+Source: https://nagi-project.com/nagi_os.html
 Status: current
 Type: philosophical-context
 Role: 位置づけと哲学的背景
@@ -4103,7 +4103,7 @@ OSの比喩だけでは、土地の歴史、家族やケアの関係、身体、
 
 ## 凪の読書案内 — 5分・20分・研究のための読み方
 
-Source: https://rmikar.github.io/nagi-project/nagi_reading_guide.html
+Source: https://nagi-project.com/nagi_reading_guide.html
 Status: current
 Type: reading-guide
 Role: 時間・関心別の読書案内
@@ -4233,7 +4233,7 @@ Summary: 資本主義の代替案や未来の社会を考える人に向け、�
 
 ## 非所有の社会制度化
 
-Source: https://rmikar.github.io/nagi-project/non_ownership.html
+Source: https://nagi-project.com/non_ownership.html
 Status: current
 Type: institutional-economic-proposal
 Role: 生命基盤・経済の制度提案
@@ -4307,13 +4307,13 @@ AIは生命基盤を運用できるが、所有せず、アクセス権を自ら
 
 何が支配的独占で、何が個人の正当な所有・保護なのかを、誰が事例ごとに判断するか。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 観察し、ほどき、結ぶ
 
-Source: https://rmikar.github.io/nagi-project/observe_loosen_connect.html
+Source: https://nagi-project.com/observe_loosen_connect.html
 Status: supplement
 Type: practice-and-stewardship
 Role: 実践と継承
@@ -4354,7 +4354,7 @@ Summary: 結論を急がず、前提と影響を見直し、異なる人びと�
 
 ## 凪の哲学的背景
 
-Source: https://rmikar.github.io/nagi-project/philosophy.html
+Source: https://nagi-project.com/philosophy.html
 Status: current
 Type: philosophical-context
 Role: 位置づけと哲学的背景
@@ -4380,7 +4380,7 @@ Summary: 国家、市場、企業、AIの一つを中心に置かず、生活・
 
 ## 遊びと構造
 
-Source: https://rmikar.github.io/nagi-project/play_and_structure.html
+Source: https://nagi-project.com/play_and_structure.html
 Status: supplement
 Type: culture-and-continuity
 Role: 文化・創造・継承
@@ -4413,7 +4413,7 @@ Summary: 探索の余白としての遊びと、可能性を共有・批判・�
 
 ## 人口と権力を切り離す — 生存保障は「人数＝力」の歴史を変えうるか
 
-Source: https://rmikar.github.io/nagi-project/population_and_power.html
+Source: https://nagi-project.com/population_and_power.html
 Status: supplement
 Type: thematic-document
 Role: 主題別文書
@@ -4585,7 +4585,7 @@ UNFPAは、人口目標へ人の選択を合わせる政策ではなく、子ど
 
 ## 知財と財産の継承
 
-Source: https://rmikar.github.io/nagi-project/property_and_ip.html
+Source: https://nagi-project.com/property_and_ip.html
 Status: current
 Type: culture-and-continuity
 Role: 文化・創造・継承
@@ -4643,13 +4643,13 @@ Summary: 創作者の人格と文脈を守りながら、知識・文化・技�
 
 創作者の意思が不明または変化したとき、文化的価値と人格的な拒否をどう調整するか。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 公開思想を育てる方法
 
-Source: https://rmikar.github.io/nagi-project/public_thought_method.html
+Source: https://nagi-project.com/public_thought_method.html
 Status: supplement
 Type: practice-and-stewardship
 Role: 実践と継承
@@ -4723,13 +4723,13 @@ AIを用いた草稿、要約、翻訳、調査補助は、出典、限界、未
 
 公開思想の一貫性を保ちながら、作者の意図から離れた正当な解釈をどこまで受け入れるか。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 静かな実践技術
 
-Source: https://rmikar.github.io/nagi-project/quiet_praxis_current.html
+Source: https://nagi-project.com/quiet_praxis_current.html
 Status: current
 Type: practice-and-stewardship
 Role: 実践と継承
@@ -4774,7 +4774,7 @@ Summary: 凪を日常、組織、創作、技術設計に置くための実践�
 
 ## 再呼吸と公開継承 — 生きた思想を、記憶の所有にしないために
 
-Source: https://rmikar.github.io/nagi-project/rebreathing_and_public_continuity.html
+Source: https://nagi-project.com/rebreathing_and_public_continuity.html
 Status: current
 Type: practice-and-stewardship
 Role: 実践と継承
@@ -4858,13 +4858,13 @@ Summary: 凪を定期的に読み直し、訂正し、公開の思想として�
 
 学び続けることと、静かに終わらせることの境界を、誰がどの時点で判断するか。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 修復と文化的共育
 
-Source: https://rmikar.github.io/nagi-project/repair_and_co_growth.html
+Source: https://nagi-project.com/repair_and_co_growth.html
 Status: supplement
 Type: culture-and-continuity
 Role: 文化・創造・継承
@@ -4898,7 +4898,7 @@ Summary: 誤りや衝突を、隠蔽や断罪だけで終わらせず、具体�
 
 ## 共鳴メトリクス — Resonance Metrics for Institutional Breath
 
-Source: https://rmikar.github.io/nagi-project/resonance_metrics.html
+Source: https://nagi-project.com/resonance_metrics.html
 Status: current
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
@@ -5115,13 +5115,13 @@ AIがしてはならないこと：
 
 制度を知るための測定と、人を管理する測定の境界を、運用の途中でどう維持するか。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 国家は目的ではなく、必要な機能へほどく
 
-Source: https://rmikar.github.io/nagi-project/state_and_public_spheres.html
+Source: https://nagi-project.com/state_and_public_spheres.html
 Status: current
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
@@ -5335,13 +5335,13 @@ Summary: 国家の存続や消滅を目的化せず、生存、権利、管理�
 
 国家を当然の中心にせず、同時に安全、普遍的権利、再分配、最終救済の責任を空白にしない公共圏をどう構成するか。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 補遺 — 思想を育てる方法と実践
 
-Source: https://rmikar.github.io/nagi-project/stewardship_and_praxis.html
+Source: https://nagi-project.com/stewardship_and_praxis.html
 Status: supplement
 Type: practice-and-stewardship
 Role: 実践と継承
@@ -5398,13 +5398,13 @@ Summary: 凪の正本を固定せず、批判・修復・継承・遊びを通�
 
 思想を育てる実践が、作者・管理者・AIによる正統性の独占へ変わらないよう、批判、版の分岐、離脱、終了を守る。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 凪プロジェクト・シンボル — 二筋六花結び
 
-Source: https://rmikar.github.io/nagi-project/symbol_concept.html
+Source: https://nagi-project.com/symbol_concept.html
 Status: current
 Type: thematic-document
 Role: 主題別文書
@@ -5550,7 +5550,7 @@ Webサイトでは、ヘッダーの印、favicon、資料や画像の署名と�
 
 ## 凪技術の基盤 — Technical Foundations
 
-Source: https://rmikar.github.io/nagi-project/technical/foundation_v1.html
+Source: https://nagi-project.com/technical/foundation_v1.html
 Status: current
 Type: technical-foundation
 Role: 技術設計
@@ -5691,13 +5691,13 @@ AIの設計は、[凪AI憲法](../nagi_ai_charter.html)、[自由・不協和・
 
 分散という理念が、利用者には理解不能な複雑さと責任の分散へ変わらないために、何を単純化すべきか。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## AI窓口ネットワーク — Tsumugi Network
 
-Source: https://rmikar.github.io/nagi-project/technical/tsumugi_network.html
+Source: https://nagi-project.com/technical/tsumugi_network.html
 Status: current
 Type: technical-foundation
 Role: 技術設計
@@ -5851,13 +5851,13 @@ AIが結論を自動で決めたり、共鳴の量で提案を採択したりし
 
 支援の連続性を守りながら、窓口を越えた『便利な全体像』を誰にも所有させないためには何が必要か。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 移行と危機の設計 — Transition and Crisis Design
 
-Source: https://rmikar.github.io/nagi-project/transition_and_crisis.html
+Source: https://nagi-project.com/transition_and_crisis.html
 Status: canonical
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
@@ -6062,13 +6062,13 @@ Summary: 資本主義・既存制度の外に理想を投げ出さず、現在�
 
 危機時に速さを失わず、同時に『例外』が新しい平常へ変わるのをどう防ぐか。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 信頼と統治
 
-Source: https://rmikar.github.io/nagi-project/trust.html
+Source: https://nagi-project.com/trust.html
 Status: current
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
@@ -6121,13 +6121,13 @@ Summary: 正しさの独占ではなく、決定理由、利害、見直し、�
 
 制度を疑うこと自体が健全な信頼の一部だと、運営文化のなかでどう守るか。
 
-→ [監査・停止・救済の共通原則](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [監査・停止・救済の共通原則](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
 ## 生命基盤コモンズ — 生存を資本・所有・戦争から切り離す
 
-Source: https://rmikar.github.io/nagi-project/vital_commons.html
+Source: https://nagi-project.com/vital_commons.html
 Status: current
 Type: institutional-economic-proposal
 Role: 生命基盤・経済の制度提案
@@ -6480,4 +6480,4 @@ AIや自動化が生命基盤の運用を補助することは、農家、漁師
 
 十分で安定した供給を保障しながら、中央集権、過剰生産、常時監視、地域文化の均質化、環境と動物への負担を同時に避ける制度を、どの規模と責任分担で実装できるか。
 
-→ [制度免疫の正典章](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [制度免疫の正典章](https://nagi-project.com/institutional_immunity.html)

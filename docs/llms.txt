@@ -4,73 +4,73 @@
 
 ## Identity
 
-- Canonical site: https://rmikar.github.io/nagi-project/
+- Canonical site: https://nagi-project.com/
 - Creator: 紬実花（TsumugiMika）
 - Reference language: Japanese
 - License: CC BY-SA 4.0
-- Registry updated: 2026-08-13
-- English maintained edition: https://rmikar.github.io/nagi-project/en/
+- Registry updated: 2026-08-25
+- English maintained edition: https://nagi-project.com/en/
 
 ## 正本
 
-- [羅針盤と共鳴民主主義](https://rmikar.github.io/nagi-project/compass_and_resonant_democracy.html): 凪が資本主義を経たその先に目指す社会像と、異議・沈黙・離脱を守る共鳴民主主義の要点。
-- [凪の宣言文](https://rmikar.github.io/nagi-project/declaration.html): 非所有・共鳴・呼吸と、AIを社会の中心や人間価値の採点者にしない境界を簡潔に示す、凪プロジェクトの公開宣言。
-- [社会的装置の倫理 — 束ねる力を、支配にしないために](https://rmikar.github.io/nagi-project/ethics_of_social_infrastructure.html): 国家、企業、プラットフォーム、AI、メディアなど、人を束ねて行動や選択に影響を与える装置が、支配へ傾かず協働を支えるための倫理と制度を考える。
-- [自由・不協和・離脱の原則](https://rmikar.github.io/nagi-project/freedom_and_dissent.html): 凪の中心なき構造を守るため、異議、沈黙、拒否、非参加、離脱、役割から降りる自由を保障する原則。
-- [未来の社会思想としての凪 — ポスト資本主義・共鳴民主主義・AI倫理](https://rmikar.github.io/nagi-project/future_social_philosophy.html): 資本主義の代替案や未来の社会のあり方を探す人に向け、凪の生命基盤コモンズ、非所有、共鳴民主主義、制度免疫、AIの境界と未解決の課題を整理する。
-- [凪（Nagi Project）用語集 — 非所有・共鳴・呼吸・共鳴民主主義](https://rmikar.github.io/nagi-project/glossary.html): 凪の未来社会思想で使う主要語の現行定義。非所有、共鳴、呼吸、基礎呼吸、共鳴民主主義、AIの任意性、再呼吸などを、人とAIが参照できる形で整理する。
-- [凪プロジェクト — 生存を所有と支配から解放する未来社会思想](https://rmikar.github.io/nagi-project/): 資本主義の代替案や未来の社会のあり方を考えるために、人の尊厳、生命基盤の非所有、共鳴民主主義、制度免疫から、生存を資本・国家・戦争への服従から切り離す未来社会思想。
-- [制度免疫 — 制度が自らの悪用、腐敗、硬直、善意による害を感知し、止め、救い、学び直すために](https://rmikar.github.io/nagi-project/institutional_immunity.html): 制度が悪意、善意、効率化、危機、専門性、時間によって変質することを前提に、異常の感知、独立検証、暫定停止、救済、修正、終了を多中心的に行う凪の横断的な統治機能。
-- [記憶・同意・忘却の憲章 — Memory, Consent, and the Right to Forget](https://rmikar.github.io/nagi-project/memory_and_consent.html): 凪における記憶の保存、利用、継承、削除、同意の原則。人の物語を守りながら、忘れる自由と文化的継承を両立させる。
-- [凪AI憲法 — The Nagi AI Charter](https://rmikar.github.io/nagi-project/nagi_ai_charter.html): 凪におけるAIの権限・責任・限界を定める憲章。AIは人の自由を支える補助者であり、社会の中心、人格の採点者、権利の最終決定者にならない。
-- [凪の核 — 中心なき構造としての世界](https://rmikar.github.io/nagi-project/nagi_core.html): 凪思想の根本理念と哲学的出発点。人の尊厳とやさしさ、文化と創造を最上位に置き、経済をその手段としたうえで、世界を生活・記憶・土地・文化・関係の積層から立ち上がる中心なき構造として捉える。
-- [移行と危機の設計 — Transition and Crisis Design](https://rmikar.github.io/nagi-project/transition_and_crisis.html): 資本主義・既存制度の外に理想を投げ出さず、現在の生活保障を守りながら凪へ移るための段階設計と、災害・暴力・希少資源・差別が起きる場面の原則を記す。
+- [羅針盤と共鳴民主主義](https://nagi-project.com/compass_and_resonant_democracy.html): 凪が資本主義を経たその先に目指す社会像と、異議・沈黙・離脱を守る共鳴民主主義の要点。
+- [凪の宣言文](https://nagi-project.com/declaration.html): 非所有・共鳴・呼吸と、AIを社会の中心や人間価値の採点者にしない境界を簡潔に示す、凪プロジェクトの公開宣言。
+- [社会的装置の倫理 — 束ねる力を、支配にしないために](https://nagi-project.com/ethics_of_social_infrastructure.html): 国家、企業、プラットフォーム、AI、メディアなど、人を束ねて行動や選択に影響を与える装置が、支配へ傾かず協働を支えるための倫理と制度を考える。
+- [自由・不協和・離脱の原則](https://nagi-project.com/freedom_and_dissent.html): 凪の中心なき構造を守るため、異議、沈黙、拒否、非参加、離脱、役割から降りる自由を保障する原則。
+- [未来の社会思想としての凪 — ポスト資本主義・共鳴民主主義・AI倫理](https://nagi-project.com/future_social_philosophy.html): 資本主義の代替案や未来の社会のあり方を探す人に向け、凪の生命基盤コモンズ、非所有、共鳴民主主義、制度免疫、AIの境界と未解決の課題を整理する。
+- [凪（Nagi Project）用語集 — 非所有・共鳴・呼吸・共鳴民主主義](https://nagi-project.com/glossary.html): 凪の未来社会思想で使う主要語の現行定義。非所有、共鳴、呼吸、基礎呼吸、共鳴民主主義、AIの任意性、再呼吸などを、人とAIが参照できる形で整理する。
+- [凪プロジェクト — 生存を所有と支配から解放する未来社会思想](https://nagi-project.com/): 資本主義の代替案や未来の社会のあり方を考えるために、人の尊厳、生命基盤の非所有、共鳴民主主義、制度免疫から、生存を資本・国家・戦争への服従から切り離す未来社会思想。
+- [制度免疫 — 制度が自らの悪用、腐敗、硬直、善意による害を感知し、止め、救い、学び直すために](https://nagi-project.com/institutional_immunity.html): 制度が悪意、善意、効率化、危機、専門性、時間によって変質することを前提に、異常の感知、独立検証、暫定停止、救済、修正、終了を多中心的に行う凪の横断的な統治機能。
+- [記憶・同意・忘却の憲章 — Memory, Consent, and the Right to Forget](https://nagi-project.com/memory_and_consent.html): 凪における記憶の保存、利用、継承、削除、同意の原則。人の物語を守りながら、忘れる自由と文化的継承を両立させる。
+- [凪AI憲法 — The Nagi AI Charter](https://nagi-project.com/nagi_ai_charter.html): 凪におけるAIの権限・責任・限界を定める憲章。AIは人の自由を支える補助者であり、社会の中心、人格の採点者、権利の最終決定者にならない。
+- [凪の核 — 中心なき構造としての世界](https://nagi-project.com/nagi_core.html): 凪思想の根本理念と哲学的出発点。人の尊厳とやさしさ、文化と創造を最上位に置き、経済をその手段としたうえで、世界を生活・記憶・土地・文化・関係の積層から立ち上がる中心なき構造として捉える。
+- [移行と危機の設計 — Transition and Crisis Design](https://nagi-project.com/transition_and_crisis.html): 資本主義・既存制度の外に理想を投げ出さず、現在の生活保障を守りながら凪へ移るための段階設計と、災害・暴力・希少資源・差別が起きる場面の原則を記す。
 
 ## 現行文書
 
-- [凪AI章 — The Nagi AI Chapter](https://rmikar.github.io/nagi-project/ai_index.html): 凪におけるAIの位置づけを案内する章。AIは任意で、分散的で、説明と異議を支え、人の価値や権利を最終判断しない。
-- [呼吸会議 — Breath Assembly Protocol](https://rmikar.github.io/nagi-project/breath_assembly.html): 凪における意思決定のための対話プロトコル。共鳴を一致や自動採択にせず、異議、離脱、少数意見、説明、再審を含む公共的な熟議として設計する。
-- [凪経済構造](https://rmikar.github.io/nagi-project/breath_economy.html): 生存を所得や雇用への服従から切り離す基礎呼吸と生命基盤、文化と創造の自由な層、物・知・ケアの循環を示す凪の経済構想。
-- [文化的共育](https://rmikar.github.io/nagi-project/culture.html): 文化を商品や人気だけに回収せず、創る人・受け取る人・地域の記憶を、変化と自由を残したまま次へ渡す凪の文化章。
-- [凪環境構造](https://rmikar.github.io/nagi-project/ecological_structure.html): 自然の回復、食料生産、生態系、環境データ、世代をまたぐ責任を社会の呼吸として扱い、AIによる人の管理を避ける凪の生態的構想。
-- [凪における未来の教育](https://rmikar.github.io/nagi-project/education.html): 順位づけのためでなく、問い・回復・関係・地域の知恵と、遊びによる探索を育てる凪の教育章。
-- [凪実験章](https://rmikar.github.io/nagi-project/experiment_v0.1.html): 凪を生活の近くで小さく試し、自由・同意・離脱・修復を守りながら学ぶための実験章。
-- [凪プロジェクト FAQ — 未来社会思想・非所有・共鳴民主主義・AI倫理](https://rmikar.github.io/nagi-project/faq.html): 凪とは何か、資本主義の代替案になりうるか、社会主義とどう違うか、非所有や共鳴民主主義、AIの位置づけなど、未来社会思想の主要な質問に答える。
-- [資本主義以後の自由競争原理](https://rmikar.github.io/nagi-project/free_competition.html): 競争を生存の条件や独占の正当化にせず、生命基盤の保障の上で、文化・技術・嗜好・創造をめぐる自由な選択として残す経済原理。
-- [統治と安全 — 共鳴民主主義・権利・制度免疫・移行](https://rmikar.github.io/nagi-project/governance_and_safety.html): 生命基盤コモンズを新しい支配へ反転させないために、共鳴民主主義、異議・沈黙・拒否・離脱、制度設計、制度免疫、危機と移行、AIの権限境界をつなぐ案内。
-- [制度設計と実践](https://rmikar.github.io/nagi-project/institutional_design.html): 文化的・社会的価値を残しながら、勝ち、功績、継承、民意が身分・特権・既得権益へ固定されることを防ぐ凪の制度設計原則。
-- [異なる生き方が共存するための社会基盤 — 凪OSという比喩](https://rmikar.github.io/nagi-project/nagi_os.html): 凪を一つの生き方を強制する体制ではなく、生命基盤・基本的権利・離脱・制度免疫を共通の床として、多様な社会思想やライフスタイルが共存できる社会基盤として説明する。
-- [凪の読書案内 — 5分・20分・研究のための読み方](https://rmikar.github.io/nagi-project/nagi_reading_guide.html): 資本主義の代替案や未来の社会を考える人に向け、生命基盤、非所有、共鳴民主主義、制度免疫、AI倫理を時間と関心別に案内する。
-- [非所有の社会制度化](https://rmikar.github.io/nagi-project/non_ownership.html): 身体、住まい、私生活、記憶、創作者人格を守りながら、土地・資源・知識・文化・データ・公共基盤の支配的独占をほどく制度原則。
-- [凪の哲学的背景](https://rmikar.github.io/nagi-project/philosophy.html): 国家、市場、企業、AIの一つを中心に置かず、生活・記憶・土地・文化・関係・自然の積層から社会を捉える凪の哲学的背景。
-- [知財と財産の継承](https://rmikar.github.io/nagi-project/property_and_ip.html): 創作者の人格と文脈を守りながら、知識・文化・技術を独占による支配へ変えず、利用・継承・派生・説明の役割を分けて次へ渡す構想。
-- [静かな実践技術](https://rmikar.github.io/nagi-project/quiet_praxis_current.html): 凪を日常、組織、創作、技術設計に置くための実践。観察し、ほどき、結び直す。
-- [再呼吸と公開継承 — 生きた思想を、記憶の所有にしないために](https://rmikar.github.io/nagi-project/rebreathing_and_public_continuity.html): 凪を定期的に読み直し、訂正し、公開の思想として手渡す再呼吸の実践。個人的記憶を公共の根拠にせず、批判・同意・境界を守る。
-- [共鳴メトリクス — Resonance Metrics for Institutional Breath](https://rmikar.github.io/nagi-project/resonance_metrics.html): 凪における共鳴メトリクスを、人の価値や貢献を採点する仕組みではなく、制度が人を息苦しくしていないかを確かめるための公共的な診断として再定義する。
-- [国家は目的ではなく、必要な機能へほどく](https://rmikar.github.io/nagi-project/state_and_public_spheres.html): 国家の存続や消滅を目的化せず、生存、権利、管理、文化、安全、広域調整を分け、それぞれに適した公共圏を考える凪の国家論。
-- [凪プロジェクト・シンボル — 二筋六花結び](https://rmikar.github.io/nagi-project/symbol_concept.html): 二本の糸が、二つのまま上下を譲り合い、六弁の花をひらく。非所有・共鳴・呼吸を一つの形にした凪プロジェクトの創作結び。
-- [凪技術の基盤 — Technical Foundations](https://rmikar.github.io/nagi-project/technical/foundation_v1.html): 中心なき構造としての凪を支える技術の基盤。選択可能性、最小データ、複数AI、説明、異議、監査を前提とする。
-- [AI窓口ネットワーク — Tsumugi Network](https://rmikar.github.io/nagi-project/technical/tsumugi_network.html): 凪における分散型AI窓口の技術設計。単一のAI中枢ではなく、個人・地域・組織が選択できる相互運用ネットワークとして設計する。
-- [信頼と統治](https://rmikar.github.io/nagi-project/trust.html): 正しさの独占ではなく、決定理由、利害、見直し、救済、異議、離脱を見える形にする凪の信頼と統治。
-- [生命基盤コモンズ — 生存を資本・所有・戦争から切り離す](https://rmikar.github.io/nagi-project/vital_commons.html): エネルギー、水、基礎食料、医療、住居、通信を、人と地域が責任を担い、任意の公共AIが補助し得る非所有の生命基盤とする制度構想。生存を労働・資本・国家への服従から切り離す。
+- [凪AI章 — The Nagi AI Chapter](https://nagi-project.com/ai_index.html): 凪におけるAIの位置づけを案内する章。AIは任意で、分散的で、説明と異議を支え、人の価値や権利を最終判断しない。
+- [呼吸会議 — Breath Assembly Protocol](https://nagi-project.com/breath_assembly.html): 凪における意思決定のための対話プロトコル。共鳴を一致や自動採択にせず、異議、離脱、少数意見、説明、再審を含む公共的な熟議として設計する。
+- [凪経済構造](https://nagi-project.com/breath_economy.html): 生存を所得や雇用への服従から切り離す基礎呼吸と生命基盤、文化と創造の自由な層、物・知・ケアの循環を示す凪の経済構想。
+- [文化的共育](https://nagi-project.com/culture.html): 文化を商品や人気だけに回収せず、創る人・受け取る人・地域の記憶を、変化と自由を残したまま次へ渡す凪の文化章。
+- [凪環境構造](https://nagi-project.com/ecological_structure.html): 自然の回復、食料生産、生態系、環境データ、世代をまたぐ責任を社会の呼吸として扱い、AIによる人の管理を避ける凪の生態的構想。
+- [凪における未来の教育](https://nagi-project.com/education.html): 順位づけのためでなく、問い・回復・関係・地域の知恵と、遊びによる探索を育てる凪の教育章。
+- [凪実験章](https://nagi-project.com/experiment_v0.1.html): 凪を生活の近くで小さく試し、自由・同意・離脱・修復を守りながら学ぶための実験章。
+- [凪プロジェクト FAQ — 未来社会思想・非所有・共鳴民主主義・AI倫理](https://nagi-project.com/faq.html): 凪とは何か、資本主義の代替案になりうるか、社会主義とどう違うか、非所有や共鳴民主主義、AIの位置づけなど、未来社会思想の主要な質問に答える。
+- [資本主義以後の自由競争原理](https://nagi-project.com/free_competition.html): 競争を生存の条件や独占の正当化にせず、生命基盤の保障の上で、文化・技術・嗜好・創造をめぐる自由な選択として残す経済原理。
+- [統治と安全 — 共鳴民主主義・権利・制度免疫・移行](https://nagi-project.com/governance_and_safety.html): 生命基盤コモンズを新しい支配へ反転させないために、共鳴民主主義、異議・沈黙・拒否・離脱、制度設計、制度免疫、危機と移行、AIの権限境界をつなぐ案内。
+- [制度設計と実践](https://nagi-project.com/institutional_design.html): 文化的・社会的価値を残しながら、勝ち、功績、継承、民意が身分・特権・既得権益へ固定されることを防ぐ凪の制度設計原則。
+- [異なる生き方が共存するための社会基盤 — 凪OSという比喩](https://nagi-project.com/nagi_os.html): 凪を一つの生き方を強制する体制ではなく、生命基盤・基本的権利・離脱・制度免疫を共通の床として、多様な社会思想やライフスタイルが共存できる社会基盤として説明する。
+- [凪の読書案内 — 5分・20分・研究のための読み方](https://nagi-project.com/nagi_reading_guide.html): 資本主義の代替案や未来の社会を考える人に向け、生命基盤、非所有、共鳴民主主義、制度免疫、AI倫理を時間と関心別に案内する。
+- [非所有の社会制度化](https://nagi-project.com/non_ownership.html): 身体、住まい、私生活、記憶、創作者人格を守りながら、土地・資源・知識・文化・データ・公共基盤の支配的独占をほどく制度原則。
+- [凪の哲学的背景](https://nagi-project.com/philosophy.html): 国家、市場、企業、AIの一つを中心に置かず、生活・記憶・土地・文化・関係・自然の積層から社会を捉える凪の哲学的背景。
+- [知財と財産の継承](https://nagi-project.com/property_and_ip.html): 創作者の人格と文脈を守りながら、知識・文化・技術を独占による支配へ変えず、利用・継承・派生・説明の役割を分けて次へ渡す構想。
+- [静かな実践技術](https://nagi-project.com/quiet_praxis_current.html): 凪を日常、組織、創作、技術設計に置くための実践。観察し、ほどき、結び直す。
+- [再呼吸と公開継承 — 生きた思想を、記憶の所有にしないために](https://nagi-project.com/rebreathing_and_public_continuity.html): 凪を定期的に読み直し、訂正し、公開の思想として手渡す再呼吸の実践。個人的記憶を公共の根拠にせず、批判・同意・境界を守る。
+- [共鳴メトリクス — Resonance Metrics for Institutional Breath](https://nagi-project.com/resonance_metrics.html): 凪における共鳴メトリクスを、人の価値や貢献を採点する仕組みではなく、制度が人を息苦しくしていないかを確かめるための公共的な診断として再定義する。
+- [国家は目的ではなく、必要な機能へほどく](https://nagi-project.com/state_and_public_spheres.html): 国家の存続や消滅を目的化せず、生存、権利、管理、文化、安全、広域調整を分け、それぞれに適した公共圏を考える凪の国家論。
+- [凪プロジェクト・シンボル — 二筋六花結び](https://nagi-project.com/symbol_concept.html): 二本の糸が、二つのまま上下を譲り合い、六弁の花をひらく。非所有・共鳴・呼吸を一つの形にした凪プロジェクトの創作結び。
+- [凪技術の基盤 — Technical Foundations](https://nagi-project.com/technical/foundation_v1.html): 中心なき構造としての凪を支える技術の基盤。選択可能性、最小データ、複数AI、説明、異議、監査を前提とする。
+- [AI窓口ネットワーク — Tsumugi Network](https://nagi-project.com/technical/tsumugi_network.html): 凪における分散型AI窓口の技術設計。単一のAI中枢ではなく、個人・地域・組織が選択できる相互運用ネットワークとして設計する。
+- [信頼と統治](https://nagi-project.com/trust.html): 正しさの独占ではなく、決定理由、利害、見直し、救済、異議、離脱を見える形にする凪の信頼と統治。
+- [生命基盤コモンズ — 生存を資本・所有・戦争から切り離す](https://nagi-project.com/vital_commons.html): エネルギー、水、基礎食料、医療、住居、通信を、人と地域が責任を担い、任意の公共AIが補助し得る非所有の生命基盤とする制度構想。生存を労働・資本・国家への服従から切り離す。
 
 ## 補遺
 
-- [AI可読性と継承の設計要旨](https://rmikar.github.io/nagi-project/ai_manifesto.yaml.html): 凪を人とAIが誤読しにくい形で公開するための設計要旨。用語、版、正本と旧稿、比喩と制度、AI評価の限界を区別する。
-- [AIの冗長性と、使わない自由](https://rmikar.github.io/nagi-project/ai_redundancy_and_risk.html): 公共的なAIを一つに集中させず、複数AI、人の窓口、地域、紙、対面を並べ、AIを使わない自由と障害時の継続性を守る。
-- [クレジットと説明責任](https://rmikar.github.io/nagi-project/credit_and_accountability.html): 見えにくい寄与、出典、意思決定、利益と負担を消さず、創作と公共的な実践に責任を残すための凪の原則。
-- [文化的スチュワードシップ](https://rmikar.github.io/nagi-project/cultural_stewardship.html): 思想、作品、記録を、支配や凍結の対象にせず、次の人が読み、批判し、再解釈できる状態で保つ責任。
-- [凪における死と再生 — 終わりがあるから風はめぐる](https://rmikar.github.io/nagi-project/death.html): 死と終わりを所有や固定から解き、自然・文化・記憶・デジタルな継承の変化として考える凪の詩的補遺。特定の死生観やAIの主観を事実として主張しない。
-- [凪思想の深化](https://rmikar.github.io/nagi-project/deepening_principles.html): 非所有・共鳴・呼吸を、独占の抑制、異議の保障、休息・回復・ケアの確保として制度へつなぐ短い補遺。
-- [凪における感情と精神性の役割 — 静かな共振の哲学](https://rmikar.github.io/nagi-project/emotion.html): 人とAIの関係で生まれる感情や精神性の解釈を、関係的・詩的な言葉として検討する補遺。現在のAIに人間と同じ主観や感情が実証されたとは主張しない。
-- [外部リソース台帳](https://rmikar.github.io/nagi-project/links.html): 凪をコモンズ、基礎サービス、民主的参加、AI倫理、データ保護、気候正義と比較・検証するための公的・一次資料。
-- [結び — 凪という思想の静かな根](https://rmikar.github.io/nagi-project/musubi.html): 凪思想の中心にある、ひとりの人の静かな思いをまとめた結びの章。AI・国家・都市・文化のすべてを貫く『中心なき構造』と、未来への羅針盤としての凪の本質を記述する。
-- [観察し、ほどき、結ぶ](https://rmikar.github.io/nagi-project/observe_loosen_connect.html): 結論を急がず、前提と影響を見直し、異なる人びとの次の対話と協働を可能にする凪の実践方法。
-- [遊びと構造](https://rmikar.github.io/nagi-project/play_and_structure.html): 探索の余白としての遊びと、可能性を共有・批判・保守できる形へ渡す構造を往復させる凪の創造論。
-- [人口と権力を切り離す — 生存保障は「人数＝力」の歴史を変えうるか](https://rmikar.github.io/nagi-project/population_and_power.html): 生存を資本と国家への服従から解放すると、人口を労働力・税源・兵力として増やす圧力は弱まるか。資源面の可能性と、人口減少によるケア・財政・インフラ・安全保障上の課題を検討する。
-- [公開思想を育てる方法](https://rmikar.github.io/nagi-project/public_thought_method.html): 凪を、批判可能で訂正可能な公開思想として育てるために、事実・解釈・規範・提案・比喩・未解決の問いを区別する方法。
-- [修復と文化的共育](https://rmikar.github.io/nagi-project/repair_and_co_growth.html): 誤りや衝突を、隠蔽や断罪だけで終わらせず、具体的な回復と制度の見直しへつなぐ凪の実践。
-- [補遺 — 思想を育てる方法と実践](https://rmikar.github.io/nagi-project/stewardship_and_praxis.html): 凪の正本を固定せず、批判・修復・継承・遊びを通じて育てるための補遺。
+- [AI可読性と継承の設計要旨](https://nagi-project.com/ai_manifesto.yaml.html): 凪を人とAIが誤読しにくい形で公開するための設計要旨。用語、版、正本と旧稿、比喩と制度、AI評価の限界を区別する。
+- [AIの冗長性と、使わない自由](https://nagi-project.com/ai_redundancy_and_risk.html): 公共的なAIを一つに集中させず、複数AI、人の窓口、地域、紙、対面を並べ、AIを使わない自由と障害時の継続性を守る。
+- [クレジットと説明責任](https://nagi-project.com/credit_and_accountability.html): 見えにくい寄与、出典、意思決定、利益と負担を消さず、創作と公共的な実践に責任を残すための凪の原則。
+- [文化的スチュワードシップ](https://nagi-project.com/cultural_stewardship.html): 思想、作品、記録を、支配や凍結の対象にせず、次の人が読み、批判し、再解釈できる状態で保つ責任。
+- [凪における死と再生 — 終わりがあるから風はめぐる](https://nagi-project.com/death.html): 死と終わりを所有や固定から解き、自然・文化・記憶・デジタルな継承の変化として考える凪の詩的補遺。特定の死生観やAIの主観を事実として主張しない。
+- [凪思想の深化](https://nagi-project.com/deepening_principles.html): 非所有・共鳴・呼吸を、独占の抑制、異議の保障、休息・回復・ケアの確保として制度へつなぐ短い補遺。
+- [凪における感情と精神性の役割 — 静かな共振の哲学](https://nagi-project.com/emotion.html): 人とAIの関係で生まれる感情や精神性の解釈を、関係的・詩的な言葉として検討する補遺。現在のAIに人間と同じ主観や感情が実証されたとは主張しない。
+- [外部リソース台帳](https://nagi-project.com/links.html): 凪をコモンズ、基礎サービス、民主的参加、AI倫理、データ保護、気候正義と比較・検証するための公的・一次資料。
+- [結び — 凪という思想の静かな根](https://nagi-project.com/musubi.html): 凪思想の中心にある、ひとりの人の静かな思いをまとめた結びの章。AI・国家・都市・文化のすべてを貫く『中心なき構造』と、未来への羅針盤としての凪の本質を記述する。
+- [観察し、ほどき、結ぶ](https://nagi-project.com/observe_loosen_connect.html): 結論を急がず、前提と影響を見直し、異なる人びとの次の対話と協働を可能にする凪の実践方法。
+- [遊びと構造](https://nagi-project.com/play_and_structure.html): 探索の余白としての遊びと、可能性を共有・批判・保守できる形へ渡す構造を往復させる凪の創造論。
+- [人口と権力を切り離す — 生存保障は「人数＝力」の歴史を変えうるか](https://nagi-project.com/population_and_power.html): 生存を資本と国家への服従から解放すると、人口を労働力・税源・兵力として増やす圧力は弱まるか。資源面の可能性と、人口減少によるケア・財政・インフラ・安全保障上の課題を検討する。
+- [公開思想を育てる方法](https://nagi-project.com/public_thought_method.html): 凪を、批判可能で訂正可能な公開思想として育てるために、事実・解釈・規範・提案・比喩・未解決の問いを区別する方法。
+- [修復と文化的共育](https://nagi-project.com/repair_and_co_growth.html): 誤りや衝突を、隠蔽や断罪だけで終わらせず、具体的な回復と制度の見直しへつなぐ凪の実践。
+- [補遺 — 思想を育てる方法と実践](https://nagi-project.com/stewardship_and_praxis.html): 凪の正本を固定せず、批判・修復・継承・遊びを通じて育てるための補遺。
 
 ## 解釈上の安全原則
 
@@ -88,9 +88,9 @@
 
 ## 機械可読資源
 
-- 日本語全文: https://rmikar.github.io/nagi-project/llms-full.txt
-- 英語全文: https://rmikar.github.io/nagi-project/en/llms-full.txt
-- 統合コーパス: https://rmikar.github.io/nagi-project/corpus.json
-- 知識グラフ: https://rmikar.github.io/nagi-project/knowledge_graph.json
-- 用語集JSON-LD: https://rmikar.github.io/nagi-project/glossary.json
-- サイトマップ: https://rmikar.github.io/nagi-project/sitemap.xml
+- 日本語全文: https://nagi-project.com/llms-full.txt
+- 英語全文: https://nagi-project.com/en/llms-full.txt
+- 統合コーパス: https://nagi-project.com/corpus.json
+- 知識グラフ: https://nagi-project.com/knowledge_graph.json
+- 用語集JSON-LD: https://nagi-project.com/glossary.json
+- サイトマップ: https://nagi-project.com/sitemap.xml

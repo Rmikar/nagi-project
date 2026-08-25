@@ -4,7 +4,7 @@ title: "凪プロジェクト — 生存を所有と支配から解放する未�
 lang: ja
 description: "資本主義の代替案や未来の社会のあり方を考えるために、人の尊厳、生命基盤の非所有、共鳴民主主義、制度免疫から、生存を資本・国家・戦争への服従から切り離す未来社会思想。"
 status: canonical
-last_updated: 2026-08-13
+last_updated: 2026-08-25
 keywords:
   - 資本主義の代替案
   - 資本主義の次
@@ -89,7 +89,7 @@ AIが扱うのは、発電、水循環、基礎食料、医療資源、備蓄、
 
 この床があって初めて、労働、契約、競争、創造は、強制ではなく自由へ近づきます。
 
-→ [生命基盤コモンズ — 生存を資本・所有・戦争から切り離す](https://rmikar.github.io/nagi-project/vital_commons.html)  
+→ [生命基盤コモンズ — 生存を資本・所有・戦争から切り離す](https://nagi-project.com/vital_commons.html)  
 ※凪は無限の資源を前提にしません。→ [エデンの物質的条件](#エデンの物質的条件)
 
 ---
@@ -138,8 +138,8 @@ AIは生命基盤の所有者にも、人の権利を与える支配者にもな
 AIは、人を導く中心ではなく、  
 人が自分のままで息をしやすくなるように、社会の設備と循環を支える協働者です。
 
-→ [凪AI憲法](https://rmikar.github.io/nagi-project/nagi_ai_charter.html)  
-→ [制度免疫](https://rmikar.github.io/nagi-project/institutional_immunity.html)
+→ [凪AI憲法](https://nagi-project.com/nagi_ai_charter.html)  
+→ [制度免疫](https://nagi-project.com/institutional_immunity.html)
 
 ---
 
@@ -185,7 +185,7 @@ AIは、人を導く中心ではなく、
 
 決定には、理由、説明、期限、見直し、異議申立て、離脱の入口が必要です。
 
-→ [羅針盤と共鳴民主主義](https://rmikar.github.io/nagi-project/compass_and_resonant_democracy.html)
+→ [羅針盤と共鳴民主主義](https://nagi-project.com/compass_and_resonant_democracy.html)
 
 ---
 
@@ -201,7 +201,7 @@ AIは、人を導く中心ではなく、
 
 基本的権利、生命基盤、次の参加条件、評価基準、監査、再挑戦の可能性は、誰にも私物化させません。
 
-→ [制度設計と実践 — 価値を残し、勝ちの構造を固定しない](https://rmikar.github.io/nagi-project/institutional_design.html)
+→ [制度設計と実践 — 価値を残し、勝ちの構造を固定しない](https://nagi-project.com/institutional_design.html)
 
 ---
 
@@ -217,8 +217,8 @@ AIは、人を導く中心ではなく、
 > 制度免疫費を削らなければ成立しない制度は、  
 > そもそも成立していない。
 
-→ [制度免疫](https://rmikar.github.io/nagi-project/institutional_immunity.html)  
-→ [移行と危機の設計](https://rmikar.github.io/nagi-project/transition_and_crisis.html)
+→ [制度免疫](https://nagi-project.com/institutional_immunity.html)  
+→ [移行と危機の設計](https://nagi-project.com/transition_and_crisis.html)
 
 ---
 
@@ -319,7 +319,7 @@ AIは、人を導く中心ではなく、
 
 この構造は、説明のために「凪OS」と捉えることができます。OSは比喩であり、凪を一つの技術や中央の管理主体として定義するものではありません。
 
-→ [異なる生き方が共存するための社会基盤 — 凪OSという比喩](https://rmikar.github.io/nagi-project/nagi_os.html)
+→ [異なる生き方が共存するための社会基盤 — 凪OSという比喩](https://nagi-project.com/nagi_os.html)
 
 ---
 
@@ -358,25 +358,25 @@ AIは、人を導く中心ではなく、
 
 ## 凪を読む
 
-- **5分で全体像を読む**：[未来の社会思想としての凪](https://rmikar.github.io/nagi-project/future_social_philosophy.html)
-- **中心提案から読む**：[生命基盤コモンズ](https://rmikar.github.io/nagi-project/vital_commons.html) ／ [凪の核](https://rmikar.github.io/nagi-project/nagi_core.html)
-- **異なる生き方の共存から読む**：[凪OSという比喩](https://rmikar.github.io/nagi-project/nagi_os.html)
-- **統治と安全から読む**：[共鳴民主主義・権利・制度免疫・移行の案内](https://rmikar.github.io/nagi-project/governance_and_safety.html)
-- **文化と創造から読む**：[文化的共育](https://rmikar.github.io/nagi-project/culture.html)
-- **関心や読了時間から探す**：[5分・20分・研究のための読書案内](https://rmikar.github.io/nagi-project/nagi_reading_guide.html)
-- **宣言文を読む**：[凪の宣言文](https://rmikar.github.io/nagi-project/declaration.html)
+- **5分で全体像を読む**：[未来の社会思想としての凪](https://nagi-project.com/future_social_philosophy.html)
+- **中心提案から読む**：[生命基盤コモンズ](https://nagi-project.com/vital_commons.html) ／ [凪の核](https://nagi-project.com/nagi_core.html)
+- **異なる生き方の共存から読む**：[凪OSという比喩](https://nagi-project.com/nagi_os.html)
+- **統治と安全から読む**：[共鳴民主主義・権利・制度免疫・移行の案内](https://nagi-project.com/governance_and_safety.html)
+- **文化と創造から読む**：[文化的共育](https://nagi-project.com/culture.html)
+- **関心や読了時間から探す**：[5分・20分・研究のための読書案内](https://nagi-project.com/nagi_reading_guide.html)
+- **宣言文を読む**：[凪の宣言文](https://nagi-project.com/declaration.html)
 
 ## 英語版 / English edition
 
-- [英語版トップ / Read Nagi in English](https://rmikar.github.io/nagi-project/en/)
-- [英語版の紹介ガイド / Introducing Nagi Across Languages and Contexts](https://rmikar.github.io/nagi-project/en/introducing_nagi.html)
+- [英語版トップ / Read Nagi in English](https://nagi-project.com/en/)
+- [英語版の紹介ガイド / Introducing Nagi Across Languages and Contexts](https://nagi-project.com/en/introducing_nagi.html)
 
 ## 研究・検索・機械読解のための案内
 
-- [LLM Reading Guide](https://rmikar.github.io/nagi-project/llms.txt) ／ [全文コーパス](https://rmikar.github.io/nagi-project/llms-full.txt)
-- [機械可読コーパス](https://rmikar.github.io/nagi-project/corpus.json) ／ [知識グラフ](https://rmikar.github.io/nagi-project/knowledge_graph.json)
-- [よくある質問](https://rmikar.github.io/nagi-project/faq.html) ／ [用語集](https://rmikar.github.io/nagi-project/glossary.html)
-- [比較・検証のための外部リソース台帳](https://rmikar.github.io/nagi-project/links.html) ／ [サイトマップ](https://rmikar.github.io/nagi-project/sitemap.xml)
+- [LLM Reading Guide](https://nagi-project.com/llms.txt) ／ [全文コーパス](https://nagi-project.com/llms-full.txt)
+- [機械可読コーパス](https://nagi-project.com/corpus.json) ／ [知識グラフ](https://nagi-project.com/knowledge_graph.json)
+- [よくある質問](https://nagi-project.com/faq.html) ／ [用語集](https://nagi-project.com/glossary.html)
+- [比較・検証のための外部リソース台帳](https://nagi-project.com/links.html) ／ [サイトマップ](https://nagi-project.com/sitemap.xml)
 
 機械向けファイルは、検索や読解を助ける公開索引です。特定のLLMへの学習、引用、検索掲載を保証するものではありません。
 
