@@ -1,11 +1,13 @@
 {% comment %}
 Nagi Project discussion embed.
 The Discourse host controls the topic author and target category.
+Standard comment mode is used because cross-site sign-in inside a full-app iframe
+is not reliable on the hosted Free plan.
 {% endcomment %}
 <section class="nagi-discussion" aria-labelledby="nagi-discussion-title">
   <h2 id="nagi-discussion-title">感じたことを、ひとことから。</h2>
   <p class="nagi-discussion-intro">感想、疑問、思いついたことなど、なんでもどうぞ。うまくまとまっていなくても、ひとことだけでもかまいません。</p>
-  <p class="nagi-discussion-note">会話は公開され、Nagi Projectの対話の場にも保存されます。投稿にはDiscourse IDへのログインが必要です。</p>
+  <p class="nagi-discussion-note">会話はここで読めます。書き込むときは、下の対話へのリンクからDiscourseを開いてください。投稿した内容は、このページにも表示されます。</p>
   <noscript>
     <p><a href="https://nagi-project.discourse.group/">Nagi Projectの対話の場を開く</a></p>
   </noscript>
@@ -14,9 +16,7 @@ The Discourse host controls the topic author and target category.
 <script>
   window.DiscourseEmbed = {
     discourseUrl: {{ 'https://nagi-project.discourse.group/' | jsonify }},
-    discourseEmbedUrl: {{ include.page_url | jsonify }},
-    fullApp: true,
-    embedHeight: '800px'
+    discourseEmbedUrl: {{ include.page_url | jsonify }}
   };
 
   (function () {
