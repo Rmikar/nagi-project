@@ -474,3 +474,42 @@ main.prose {
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
 }
+
+/* Article discussions — Discourse full-app embed */
+.nagi-discussion {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--line);
+}
+
+.nagi-discussion h2 {
+  margin: 0 0 0.75rem;
+  padding: 0;
+  border: 0;
+  font-size: clamp(1.3rem, 3.5vw, 1.65rem);
+}
+
+.nagi-discussion-intro {
+  margin: 0;
+}
+
+.nagi-discussion-note {
+  margin: 0.65rem 0 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+  line-height: 1.7;
+}
+
+#discourse-comments {
+  min-height: 20rem;
+  margin-top: 1.25rem;
+}
+
+#discourse-comments iframe {
+  display: block;
+  width: 100% !important;
+  max-width: 100%;
+  border: 0;
+  border-radius: 0.85rem;
+  background: var(--surface-soft);
+}
