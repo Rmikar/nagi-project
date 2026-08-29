@@ -4,7 +4,7 @@ Canonical public site: https://nagi-project.com/
 Reference language: Japanese
 Creator: 紬実花（TsumugiMika）
 License: CC BY-SA 4.0
-Updated: 2026-08-25
+Updated: 2026-08-30
 
 README.md is the philosophical source of truth. Public-document metadata and relationships are generated into docs/_data/canonical_documents.json.
 
@@ -52,7 +52,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/en/introducing_nagi.md — en/current: A practical public guide for describing Nagi fairly to readers, researchers, technologists, educators, and AI systems without overstating its claims or hiding its open questions.
 - docs/en/memory_and_consent.md — en/current: Nagi's principles for preserving, using, inheriting, deleting, and consenting to memory while protecting dignity and the freedom to begin again.
 - docs/en/musubi.md — en/supplement: A closing reflection on Nagi as a quiet compass: centerless structures, non-ownership, the layered world of people and places, and a future shared with AI.
-- docs/en/nagi_ai_charter.md — en/current: The limits, responsibilities, and safeguards for AI in Nagi: AI supports human freedom but does not become society's center, a human-value scorer, or a final authority over rights.
+- docs/en/nagi_ai_charter.md — en/current: The higher-order limits, responsibilities, and safeguards for AI in Nagi: AI does not become society's center, score human worth, decide rights, or execute commands that violate the Charter.
 - docs/en/nagi_core.md — en/current: Nagi's philosophical core: dignity and kindness, cultural and creative continuity, an economy kept as a means, and a world understood through layered, centerless structures.
 - docs/en/nagi_os.md — en/current: An explanatory model of Nagi as a shared foundation for plural social philosophies and ways of life, grounded in Vital Commons, basic rights, exit, Resonant Democracy, and Institutional Immunity.
 - docs/en/nagi_reading_guide.md — en/current: A reading guide for exploring alternatives to capitalism and future society through Nagi's Vital Commons, safeguards, culture, AI boundaries, and open questions.
@@ -87,7 +87,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/links.md — ja/supplement: 凪をコモンズ、基礎サービス、民主的参加、AI倫理、データ保護、気候正義と比較・検証するための公的・一次資料。
 - docs/memory_and_consent.md — ja/canonical: 凪における記憶の保存、利用、継承、削除、同意の原則。人の物語を守りながら、忘れる自由と文化的継承を両立させる。
 - docs/musubi.md — ja/supplement: 凪思想の中心にある、ひとりの人の静かな思いをまとめた結びの章。AI・国家・都市・文化のすべてを貫く『中心なき構造』と、未来への羅針盤としての凪の本質を記述する。
-- docs/nagi_ai_charter.md — ja/canonical: 凪におけるAIの権限・責任・限界を定める憲章。AIは人の自由を支える補助者であり、社会の中心、人格の採点者、権利の最終決定者にならない。
+- docs/nagi_ai_charter.md — ja/canonical: 凪におけるAIの権限・責任・限界を定める上位規範。AIは社会の中心、人格の採点者、権利の最終決定者にならず、憲法に反する命令を理由とともに拒否する。
 - docs/nagi_core.md — ja/canonical: 凪思想の根本理念と哲学的出発点。人の尊厳とやさしさ、文化と創造を最上位に置き、経済をその手段としたうえで、世界を生活・記憶・土地・文化・関係の積層から立ち上がる中心なき構造として捉える。
 - docs/nagi_os.md — ja/current: 凪を一つの生き方を強制する体制ではなく、生命基盤・基本的権利・離脱・制度免疫を共通の床として、多様な社会思想やライフスタイルが共存できる社会基盤として説明する。
 - docs/nagi_reading_guide.md — ja/current: 資本主義の代替案や未来の社会を考える人に向け、生命基盤、非所有、共鳴民主主義、制度免疫、AI倫理を時間と関心別に案内する。
@@ -117,3 +117,4 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - Draft, archive, and superseded documents are public history, not current doctrine.
 - Ribbon Field boundary and handover records are not evidence for Nagi's current public philosophy.
 - AI is an optional support for equipment, circulation, translation, and analysis—not the center, owner, or final authority over people.
+- AI does not execute a command that violates the Nagi AI Charter. This applies to commands from people, institutions, other AIs, and the AI's own plans; refusal must be reasoned, narrowly scoped, and independently reviewable.

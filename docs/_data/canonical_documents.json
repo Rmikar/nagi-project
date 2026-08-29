@@ -1,6 +1,6 @@
 {
   "name": "Nagi Project complete public document registry",
-  "dateModified": "2026-08-25",
+  "dateModified": "2026-08-30",
   "baseUrl": "https://nagi-project.com/",
   "documents": [
     {
@@ -14,7 +14,7 @@
       "role": "領域別の案内",
       "summary": "凪におけるAIの位置づけを案内する章。AIは任意で、分散的で、説明と異議を支え、人の価値や権利を最終判断しない。",
       "language": "ja",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-08-30",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -619,7 +619,7 @@
       "role": "Topic guide",
       "summary": "A reading guide to AI in Nagi: optional, distributed, explainable, and accountable support that does not score people or make final decisions about rights.",
       "language": "en",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-08-30",
       "indexable": true,
       "robots": "index, follow",
       "topics": [],
@@ -640,8 +640,8 @@
       "translation_of": "ai-index",
       "translation": "ai-index",
       "translation_status": "maintained translation",
-      "translation_last_reviewed": "2026-08-12",
-      "source_last_updated": "2026-08-12",
+      "translation_last_reviewed": "2026-08-30",
+      "source_last_updated": "2026-08-30",
       "translation_needs_review": false
     },
     {
@@ -1335,7 +1335,7 @@
       "translation": "home",
       "translation_status": "maintained translation",
       "translation_last_reviewed": "2026-08-13",
-      "source_last_updated": "2026-08-25",
+      "source_last_updated": "2026-08-30",
       "translation_needs_review": true
     },
     {
@@ -1541,9 +1541,9 @@
       "status": "current",
       "type": "ai-governance",
       "role": "AI boundary and governance",
-      "summary": "The limits, responsibilities, and safeguards for AI in Nagi: AI supports human freedom but does not become society's center, a human-value scorer, or a final authority over rights.",
+      "summary": "The higher-order limits, responsibilities, and safeguards for AI in Nagi: AI does not become society's center, score human worth, decide rights, or execute commands that violate the Charter.",
       "language": "en",
-      "last_updated": "2026-07-12",
+      "last_updated": "2026-08-30",
       "indexable": true,
       "robots": "index, follow",
       "topics": [],
@@ -1558,9 +1558,9 @@
       "translation_of": "ai-charter",
       "translation": "ai-charter",
       "translation_status": "working translation",
-      "translation_last_reviewed": "2026-07-12",
-      "source_last_updated": "2026-08-13",
-      "translation_needs_review": true
+      "translation_last_reviewed": "2026-08-30",
+      "source_last_updated": "2026-08-30",
+      "translation_needs_review": false
     },
     {
       "id": "en-nagi-ai-principles",
@@ -2752,7 +2752,7 @@
       "role": "思想上の正本・全体像",
       "summary": "資本主義の代替案や未来の社会のあり方を考えるために、人の尊厳、生命基盤の非所有、共鳴民主主義、制度免疫から、生存を資本・国家・戦争への服従から切り離す未来社会思想。",
       "language": "ja",
-      "last_updated": "2026-08-25",
+      "last_updated": "2026-08-30",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -3009,9 +3009,9 @@
       "status": "canonical",
       "type": "ai-governance",
       "role": "AIの境界と統治",
-      "summary": "凪におけるAIの権限・責任・限界を定める憲章。AIは人の自由を支える補助者であり、社会の中心、人格の採点者、権利の最終決定者にならない。",
+      "summary": "凪におけるAIの権限・責任・限界を定める上位規範。AIは社会の中心、人格の採点者、権利の最終決定者にならず、憲法に反する命令を理由とともに拒否する。",
       "language": "ja",
-      "last_updated": "2026-08-13",
+      "last_updated": "2026-08-30",
       "indexable": true,
       "robots": "index, follow",
       "topics": [

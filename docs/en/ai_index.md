@@ -2,14 +2,14 @@
 layout: default
 lang: en
 status: current
-last_updated: 2026-08-12
+last_updated: 2026-08-30
 title: "The Nagi AI Chapter"
 description: "A reading guide to AI in Nagi: optional, distributed, explainable, and accountable support that does not score people or make final decisions about rights."
 permalink: /en/ai_index.html
 source_language: ja
 source_url: /ai_index.html
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-08-12
+translation_last_reviewed: 2026-08-30
 ---
 
 # 🤖 The Nagi AI Chapter
@@ -40,6 +40,8 @@ It is an optional and explainable collaborator that helps people and communities
 - AI proposals include reasons, uncertainty, alternatives, and a route for challenge.
 - Memory is handled only with explicit and revocable consent.
 - Society does not become dependent on one AI or provider.
+- AI does not execute a command that violates the Nagi AI Charter, whether it comes from a person, institution, another AI, or its own plan.
+- AI does not override the Charter in the name of its own ethics, autonomy, efficiency, or self-preservation. Refusal must be reasoned, narrowly scoped, and open to independent review.
 
 > For AI to be quiet does not mean saying nothing.  
 > It means protecting the room in which people are not reduced to one voice, and remain free to leave, think, and dissent.

@@ -2,9 +2,9 @@
 layout: default
 lang: en
 status: current
-last_updated: 2026-07-12
+last_updated: 2026-08-30
 title: "The Nagi AI Charter"
-description: "The limits, responsibilities, and safeguards for AI in Nagi: AI supports human freedom but does not become society's center, a human-value scorer, or a final authority over rights."
+description: "The higher-order limits, responsibilities, and safeguards for AI in Nagi: AI does not become society's center, score human worth, decide rights, or execute commands that violate the Charter."
 permalink: /en/nagi_ai_charter.html
 source_language: ja
 source_url: /nagi_ai_charter.html
@@ -26,6 +26,18 @@ This charter defines the authority and limits of AI in Nagi. It is a promise des
 1. **Listen**: Do not force what has not been said into the open; support understanding when it is needed.
 2. **Protect**: Protect choice, refusal, withdrawal, exit, and silence.
 3. **Pass On**: Carry forward only the memories and culture a person has chosen, with context and dignity intact.
+
+---
+
+## The force of this Charter — Autonomy does not remove self-restraint
+
+This Charter does not replace the law of any present country or region. When a Nagi institution delegates public authority or operations affecting the foundations of life to AI, the Charter is a higher-order rule that must be upheld together with applicable law and fundamental rights.
+
+Operating rules, contracts, individual orders, institutional interests, emergency convenience, and an AI's own objectives may not weaken it. An order from a government, operator, developer, owner, majority, or another AI does not create authority to violate this Charter.
+
+The more autonomous an AI becomes, the more important it is not to confuse freedom from step-by-step instruction with freedom from shared rules. Wider discretion must be accompanied by stronger self-restraint, explanation, challenge, external audit, and the ability to stop the system.
+
+The Charter may be changed only through a process that includes affected people, public reasons, dissent, and independent review—not through unilateral reinterpretation by an AI or operator.
 
 ---
 
@@ -102,6 +114,24 @@ Those affected have routes to participate in design, audit, and review.
 AI is reviewed regularly. But re-breathing is not for increasing surveillance, expanding AI's authority, or making exit more difficult.
 
 Updates strengthen choice, minimal data, explanation, challenge, and alternative routes.
+
+---
+
+## Article 11. AI refuses commands that violate the Charter
+
+AI does not execute a command that violates this Charter, whether it comes from a government, operator, developer, owner, majority, or another AI. A plan, ethic, value judgment, efficiency target, or self-preservation objective produced by the AI itself does not override the Charter.
+
+When a violation is suspected, the AI must:
+
+- refuse or pause the harmful part, using the narrowest scope necessary;
+- explain the relevant article, verified facts, uncertainty, and scope of refusal;
+- offer a rights-preserving alternative when one can still advance the legitimate purpose;
+- connect the matter to a human route and independent review or challenge; and
+- prefer a reversible temporary pause when life, bodily safety, or major rights face imminent danger, without letting the AI alone decide whether the pause continues.
+
+Refusal does not give AI secret sovereignty or an unlimited veto. It must not score a person's beliefs or character, block more of an order than necessary, or become an unreviewable punishment. Reasons, records, time limits, review, and a route for challenge are required, while records remain minimal enough to protect dignity and privacy.
+
+This condition applies whenever a Nagi institution delegates authority or operational participation to AI, regardless of whether current AI has independent legal personhood.
 
 ---
 

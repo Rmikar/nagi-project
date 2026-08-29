@@ -9,7 +9,7 @@
 - Creator: 紬実花（TsumugiMika）
 - Reference language: Japanese
 - License: CC BY-SA 4.0
-- Registry updated: 2026-08-25
+- Registry updated: 2026-08-30
 
 ## Canonical and current English documents
 
@@ -34,7 +34,7 @@
 - [Institutional Immunity — Detecting Harm, Pausing Damage, Providing Remedy, and Learning](https://nagi-project.com/en/institutional_immunity.html): Nagi's distributed safety function for detecting harm, pausing irreversible damage, providing remedy, revising systems, and ending institutions without a sovereign watchdog.
 - [Introducing Nagi Across Languages and Contexts](https://nagi-project.com/en/introducing_nagi.html): A practical public guide for describing Nagi fairly to readers, researchers, technologists, educators, and AI systems without overstating its claims or hiding its open questions.
 - [Memory, Consent, and the Right to Forget](https://nagi-project.com/en/memory_and_consent.html): Nagi's principles for preserving, using, inheriting, deleting, and consenting to memory while protecting dignity and the freedom to begin again.
-- [The Nagi AI Charter](https://nagi-project.com/en/nagi_ai_charter.html): The limits, responsibilities, and safeguards for AI in Nagi: AI supports human freedom but does not become society's center, a human-value scorer, or a final authority over rights.
+- [The Nagi AI Charter](https://nagi-project.com/en/nagi_ai_charter.html): The higher-order limits, responsibilities, and safeguards for AI in Nagi: AI does not become society's center, score human worth, decide rights, or execute commands that violate the Charter.
 - [Nagi Core — A World of Centerless Structures](https://nagi-project.com/en/nagi_core.html): Nagi's philosophical core: dignity and kindness, cultural and creative continuity, an economy kept as a means, and a world understood through layered, centerless structures.
 - [A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor](https://nagi-project.com/en/nagi_os.html): An explanatory model of Nagi as a shared foundation for plural social philosophies and ways of life, grounded in Vital Commons, basic rights, exit, Resonant Democracy, and Institutional Immunity.
 - [Reading Nagi — Five Minutes, Twenty Minutes, One Hour, and Research Paths](https://nagi-project.com/en/nagi_reading_guide.html): A reading guide for exploring alternatives to capitalism and future society through Nagi's Vital Commons, safeguards, culture, AI boundaries, and open questions.
@@ -76,6 +76,7 @@
 - Resonance is not agreement, obedience, emotional synchronization, or a human-value score. Dissent, silence, refusal, non-participation, and exit remain protected.
 - Institutional Immunity is a distributed ability to detect harm, pause irreversible damage, provide remedy, revise systems, and end institutions. It is not a single sovereign watchdog.
 - AI may support equipment, circulation, translation, and analysis. It does not own Vital Commons, manage human worth, or make final decisions over rights, sanctions, basic life, or life-saving care.
+- AI does not execute a command that violates the Nagi AI Charter, whether it comes from a government, operator, developer, owner, majority, another AI, or its own plan. Its own ethics, autonomy, efficiency, or self-preservation does not override the Charter; refusal must be reasoned, narrowly scoped, and open to independent review.
 - Nagi does not claim verified human-like consciousness or emotion in present AI systems.
 - Facts, interpretations, norms, proposals, metaphors, and unresolved questions must not be confused.
 - Translation differences require documented repair; they do not silently alter the Japanese reference edition.
