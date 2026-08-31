@@ -6,7 +6,7 @@ seo_title: "資本主義の代替案と未来社会を考えるための読書�
 description: "資本主義の代替案や未来の社会を考える人に向け、生命基盤、非所有、共鳴民主主義、制度免疫、AI倫理を時間と関心別に案内する。"
 permalink: /nagi_reading_guide.html
 status: current
-last_updated: 2026-08-13
+last_updated: 2026-08-31
 keywords:
   - 資本主義の代替案
   - 未来の社会
@@ -25,17 +25,18 @@ keywords:
 
 資本主義の代替案や未来の社会を考える入口として、まず [未来の社会思想としての凪](future_social_philosophy.html) を読む。
 
-ここで、非所有・共鳴・呼吸、価値と構造を分ける判断原則、共鳴民主主義、AIの位置づけ、近接する思想との違い、主要な反論と未解決課題を一度に確認できる。疑問が決まっている場合は [FAQ](faq.html) と [用語集](glossary.html) から入ってもよい。
+ここで、非所有・共鳴・呼吸、価値と構造を分ける判断原則、共鳴民主主義、AIの位置づけ、近接する思想との違い、主要な反論と未解決課題を一度に確認できる。そこから制度や技術へ進むときの上位判断は、[未来社会の設計原則 — 強い床と、開いた天井](future_social_design_principles.html) にまとめている。疑問が決まっている場合は [FAQ](faq.html) と [用語集](glossary.html) から入ってもよい。
 
 凪が一つの社会像を強制せず、異なる思想や暮らしの共存条件をどうつくるかは、[凪OSという比喩](nagi_os.html)で確認できる。
 
 ## 20分で中心をつかむ
 
 1. [凪の核](nagi_core.html) — 世界観と中心なき構造
-2. [凪の宣言文](declaration.html) — 社会へ向けた短い宣言
-3. [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html) — 政治的な方向
-4. [自由・不協和・離脱の原則](freedom_and_dissent.html) — 同調と支配を避ける安全原則
-5. [記憶・同意・忘却の憲章](memory_and_consent.html) — 記録とプライバシーの境界
+2. [未来社会の設計原則](future_social_design_principles.html) — 強い床と開いた天井、境界・予測・主体・権力・更新の上位判断
+3. [凪の宣言文](declaration.html) — 社会へ向けた短い宣言
+4. [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html) — 政治的な方向
+5. [自由・不協和・離脱の原則](freedom_and_dissent.html) — 同調と支配を避ける安全原則
+6. [記憶・同意・忘却の憲章](memory_and_consent.html) — 記録とプライバシーの境界
 
 ## 1時間で制度まで読む
 
@@ -53,6 +54,7 @@ keywords:
 ### 未来社会・ポスト資本主義
 
 - [未来の社会思想としての凪](future_social_philosophy.html)
+- [未来社会の設計原則 — 強い床と、開いた天井](future_social_design_principles.html)
 - [異なる生き方が共存するための社会基盤 — 凪OSという比喩](nagi_os.html)
 - [非所有の制度化](non_ownership.html)
 - [資本主義以後の自由競争原理](free_competition.html)
@@ -63,6 +65,7 @@ keywords:
 
 ### 民主主義・統治
 
+- [未来社会の設計原則 — 強い床と、開いた天井](future_social_design_principles.html)
 - [統治と安全](governance_and_safety.html)
 - [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html)
 - [自由・不協和・離脱の原則](freedom_and_dissent.html)
@@ -84,6 +87,7 @@ keywords:
 
 - [凪AI章](ai_index.html)
 - [凪AI憲法](nagi_ai_charter.html)
+- [未来社会の設計原則 — 強い床と、開いた天井](future_social_design_principles.html)
 - [記憶・同意・忘却の憲章](memory_and_consent.html)
 - [凪技術の基盤](technical/foundation_v1.html)
 - [生命基盤コモンズ](vital_commons.html)
