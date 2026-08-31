@@ -43,6 +43,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/en/experiment_v0.1.md — en/current: Nagi's practice of trying ideas on a small scale near everyday life, protecting freedom, consent, exit, and repair while learning from what happens.
 - docs/en/free_competition.md — en/current: Nagi's approach to competition: preserve creative experimentation and difference while placing Basic Breath outside competition and preventing gain through the destruction of others.
 - docs/en/freedom_and_dissent.md — en/current: The safeguards that keep Nagi's centerless structures from turning resonance into conformity or a condition for basic life.
+- docs/en/future_social_design_principles.md — en/canonical: Nagi's higher-level principles for future institutions, AI, power, subjecthood, boundaries, prediction, and revisable public reasoning.
 - docs/en/future_social_philosophy.md — en/current: For people exploring alternatives to capitalism and the future of society: Nagi's Vital Commons, Non-Ownership, Resonant Democracy, safeguards, AI boundaries, and open questions.
 - docs/en/glossary.md — en/current: Core English terms for reading the Nagi Project without flattening its Japanese philosophical vocabulary.
 - docs/en/governance_and_safety.md — en/current: A guide to Resonant Democracy, dissent and exit, Institutional Immunity, crisis design, and limits on AI power so Vital Commons do not become a new form of domination.

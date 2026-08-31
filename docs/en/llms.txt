@@ -13,7 +13,7 @@
 
 ## Canonical and current English documents
 
-
+- [Future Social Design Principles — A Strong Floor and an Open Ceiling](https://nagi-project.com/en/future_social_design_principles.html): Nagi's higher-level principles for future institutions, AI, power, subjecthood, boundaries, prediction, and revisable public reasoning.
 - [The Nagi AI Chapter](https://nagi-project.com/en/ai_index.html): A reading guide to AI in Nagi: optional, distributed, explainable, and accountable support that does not score people or make final decisions about rights.
 - [Breath Assembly Protocol](https://nagi-project.com/en/breath_assembly.html): Nagi's deliberative protocol for making shared decisions without forcing consensus: it protects dissent, exit, minority voices, explanation, review, and accountable optional AI support.
 - [Nagi Economic Structure](https://nagi-project.com/en/breath_economy.html): Nagi's economic orientation: not competition for ownership, but circulations that sustain life, culture, nature, care, and future generations.

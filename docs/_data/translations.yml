@@ -68,6 +68,8 @@ pages:
     ja: "/free_competition.html"
   "/en/freedom_and_dissent.html":
     ja: "/freedom_and_dissent.html"
+  "/en/future_social_design_principles.html":
+    ja: "/future_social_design_principles.html"
   "/en/future_social_philosophy.html":
     ja: "/future_social_philosophy.html"
   "/en/glossary.html":
@@ -130,6 +132,8 @@ pages:
     en: "/en/free_competition.html"
   "/freedom_and_dissent.html":
     en: "/en/freedom_and_dissent.html"
+  "/future_social_design_principles.html":
+    en: "/en/future_social_design_principles.html"
   "/future_social_philosophy.html":
     en: "/en/future_social_philosophy.html"
   "/glossary.html":

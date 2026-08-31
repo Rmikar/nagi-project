@@ -302,6 +302,15 @@
       "documentType": "governance-and-safeguards"
     },
     {
+      "id": "document:en-future-social-design-principles",
+      "kind": "document",
+      "label": "Future Social Design Principles — A Strong Floor and an Open Ceiling",
+      "url": "https://nagi-project.com/en/future_social_design_principles.html",
+      "status": "canonical",
+      "language": "en",
+      "documentType": "thematic-document"
+    },
+    {
       "id": "document:en-future-social-philosophy",
       "kind": "document",
       "label": "Nagi as a Future Social Philosophy — Post-Capitalism, Resonant Democracy, and AI Ethics",
@@ -974,6 +983,11 @@
       "label": "culture"
     },
     {
+      "id": "concept:dignity",
+      "kind": "concept",
+      "label": "dignity"
+    },
+    {
       "id": "concept:distributed governance",
       "kind": "concept",
       "label": "distributed governance"
@@ -997,6 +1011,11 @@
       "id": "concept:free markets",
       "kind": "concept",
       "label": "free markets"
+    },
+    {
+      "id": "concept:freedom",
+      "kind": "concept",
+      "label": "freedom"
     },
     {
       "id": "concept:future social philosophy",
@@ -1064,6 +1083,11 @@
       "label": "remedy"
     },
     {
+      "id": "concept:renewed authorization",
+      "kind": "concept",
+      "label": "renewed authorization"
+    },
+    {
       "id": "concept:right of exit",
       "kind": "concept",
       "label": "right of exit"
@@ -1074,6 +1098,21 @@
       "label": "rights"
     },
     {
+      "id": "concept:separation of powers",
+      "kind": "concept",
+      "label": "separation of powers"
+    },
+    {
+      "id": "concept:social design",
+      "kind": "concept",
+      "label": "social design"
+    },
+    {
+      "id": "concept:social philosophy",
+      "kind": "concept",
+      "label": "social philosophy"
+    },
+    {
       "id": "concept:solarpunk",
       "kind": "concept",
       "label": "solarpunk"
@@ -1082,6 +1121,11 @@
       "id": "concept:state",
       "kind": "concept",
       "label": "state"
+    },
+    {
+      "id": "concept:subjectivity",
+      "kind": "concept",
+      "label": "subjectivity"
     },
     {
       "id": "concept:subsidiarity",
@@ -3106,6 +3150,136 @@
       "relation": "translationPair"
     },
     {
+      "source": "document:en-future-social-design-principles",
+      "target": "concept:future society",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "concept:social design",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "concept:social philosophy",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "concept:freedom",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "concept:dignity",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "concept:subjectivity",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "concept:AI ethics",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "concept:separation of powers",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "concept:Institutional Immunity",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "concept:Resonant Democracy",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "concept:Non-Ownership",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "concept:renewed authorization",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-home",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-nagi-core",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-freedom-and-dissent",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-nagi-ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-transition-and-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-compass-and-resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-public-thought-method",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-nagi-reading-guide",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:en-home",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:en-future-social-design-principles",
+      "target": "document:future-social-design-principles",
+      "relation": "translationPair"
+    },
+    {
       "source": "document:en-future-social-philosophy",
       "target": "concept:alternatives to capitalism",
       "relation": "about"
@@ -3368,6 +3542,11 @@
     {
       "source": "document:en-home",
       "target": "document:en-nagi-ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-future-social-design-principles",
       "relation": "relatedTo"
     },
     {
@@ -3872,6 +4051,11 @@
     },
     {
       "source": "document:en-nagi-reading-guide",
+      "target": "document:en-future-social-design-principles",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-nagi-reading-guide",
       "target": "document:en-nagi-os",
       "relation": "relatedTo"
     },
@@ -3933,11 +4117,6 @@
     {
       "source": "document:en-nagi-reading-guide",
       "target": "document:en-institutional-immunity",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-nagi-reading-guide",
-      "target": "document:en-state-and-public-spheres",
       "relation": "relatedTo"
     },
     {
@@ -5098,6 +5277,11 @@
       "source": "document:future-social-design-principles",
       "target": "document:home",
       "relation": "isPartOf"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:en-future-social-design-principles",
+      "relation": "translationPair"
     },
     {
       "source": "document:future-social-philosophy",
