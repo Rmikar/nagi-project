@@ -4,7 +4,7 @@ lang: en
 title: "Future Social Design Principles — A Strong Floor and an Open Ceiling"
 seo_title: "Future Social Design Principles — A Strong Floor and an Open Ceiling | Nagi"
 short_title: "Future Social Design Principles"
-description: "Higher-level design principles for extending Nagi's Non-Ownership, Resonance, and Breathing into future institutions, AI, power, and forms of subjecthood: regulate boundaries rather than existence, keep prediction from replacing decision, and keep power and public answers revisable."
+description: "Nagi's higher-level principles for future institutions, AI, power, subjecthood, boundaries, prediction, and revisable public reasoning."
 permalink: /en/future_social_design_principles.html
 status: canonical
 last_updated: 2026-08-31
