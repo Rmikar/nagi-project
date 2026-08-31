@@ -5522,6 +5522,11 @@
     },
     {
       "source": "document:home",
+      "target": "document:future-social-design-principles",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
       "target": "document:resonant-democracy",
       "relation": "relatedTo"
     },
@@ -5543,11 +5548,6 @@
     {
       "source": "document:home",
       "target": "document:declaration",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:en-home",
       "relation": "relatedTo"
     },
     {
