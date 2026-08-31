@@ -7,11 +7,11 @@ short_title: "Reading Nagi"
 description: "A reading guide for exploring alternatives to capitalism and future society through Nagi's Vital Commons, safeguards, culture, AI boundaries, and open questions."
 permalink: /en/nagi_reading_guide.html
 status: current
-last_updated: 2026-08-13
+last_updated: 2026-08-31
 source_language: ja
 source_url: /nagi_reading_guide.html
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-08-13
+translation_last_reviewed: 2026-08-31
 keywords:
   - alternatives to capitalism
   - future society
@@ -30,7 +30,7 @@ The Japanese README and public home are the philosophical source of truth. The E
 
 As an entry point for exploring alternatives to capitalism and future society, read [Nagi as a Future Social Philosophy](future_social_philosophy.html).
 
-It introduces the highest commitments, Non-Ownership, Resonance, Breathing, Vital Commons, Resonant Democracy, Institutional Immunity, AI boundaries, nearby fields, strong objections, and unresolved questions.
+It introduces the highest commitments, Non-Ownership, Resonance, Breathing, Vital Commons, Resonant Democracy, Institutional Immunity, AI boundaries, nearby fields, strong objections, and unresolved questions. For the higher-level judgments that connect those commitments to institutions and technology, continue with [Future Social Design Principles — A Strong Floor and an Open Ceiling](future_social_design_principles.html).
 
 For how Nagi supports different social philosophies and ways of life without prescribing one final model, read [Nagi OS as a Metaphor](nagi_os.html).
 
@@ -39,11 +39,12 @@ If you already have a specific question, begin with the [English Glossary](gloss
 ## Twenty minutes — the core
 
 1. [Nagi Core](nagi_core.html) — highest commitments and centerless structures
-2. [Nagi Declaration](declaration.html) — a short public declaration
-3. [Vital Commons](vital_commons.html) — the central institutional proposal
-4. [Compass and Resonant Democracy](compass_and_resonant_democracy.html) — political direction
-5. [Freedom, Dissent, and Exit](freedom_and_dissent.html) — the floor against conformity and domination
-6. [Memory, Consent, and the Right to Forget](memory_and_consent.html) — boundaries around records and personal memory
+2. [Future Social Design Principles](future_social_design_principles.html) — strong floor and open ceiling; boundaries, prediction, subjecthood, power, and revisability
+3. [Nagi Declaration](declaration.html) — a short public declaration
+4. [Vital Commons](vital_commons.html) — the central institutional proposal
+5. [Compass and Resonant Democracy](compass_and_resonant_democracy.html) — political direction
+6. [Freedom, Dissent, and Exit](freedom_and_dissent.html) — the floor against conformity and domination
+7. [Memory, Consent, and the Right to Forget](memory_and_consent.html) — boundaries around records and personal memory
 
 ## One hour — institutions and safety
 
@@ -61,6 +62,7 @@ Add the following to the twenty-minute path.
 ### Future society and post-capitalism
 
 - [Nagi as a Future Social Philosophy](future_social_philosophy.html)
+- [Future Social Design Principles — A Strong Floor and an Open Ceiling](future_social_design_principles.html)
 - [A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor](nagi_os.html)
 - [Vital Commons](vital_commons.html)
 - [Institutionalizing Non-Ownership](non_ownership.html)
@@ -70,6 +72,7 @@ Add the following to the twenty-minute path.
 
 ### Democracy, rights, and institutional safety
 
+- [Future Social Design Principles — A Strong Floor and an Open Ceiling](future_social_design_principles.html)
 - [Governance and Safety](governance_and_safety.html)
 - [Compass and Resonant Democracy](compass_and_resonant_democracy.html)
 - [Freedom, Dissent, and Exit](freedom_and_dissent.html)
@@ -87,6 +90,7 @@ Add the following to the twenty-minute path.
 
 ### AI ethics and digital society
 
+- [Future Social Design Principles — A Strong Floor and an Open Ceiling](future_social_design_principles.html)
 - [The Nagi AI Chapter](ai_index.html)
 - [The Nagi AI Charter](nagi_ai_charter.html)
 - [Memory, Consent, and the Right to Forget](memory_and_consent.html)
