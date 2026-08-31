@@ -6,12 +6,12 @@ title: "Nagi Project — Freeing Survival from Ownership and Domination"
 seo_title: "Freeing Survival from Ownership and Domination"
 short_title: "Nagi Project"
 description: "Nagi is a future social philosophy for people exploring alternatives to capitalism: non-owned Vital Commons, Resonant Democracy, Institutional Immunity, and plural ways of life."
-last_updated: 2026-08-13
+last_updated: 2026-08-31
 permalink: /en/
 source_language: ja
 source_url: /
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-08-13
+translation_last_reviewed: 2026-08-31
 keywords:
   - alternatives to capitalism
   - future society
@@ -103,6 +103,27 @@ Opposition, anger, silence, refusal, and exit are not failures of resonance.
 
 Breathing returns pause, recovery, rest, care, circulation, ecological repair, and intergenerational time to the center of social life.
 
+---
+
+## A compass for designing future society
+### — A Strong Floor and an Open Ceiling
+
+> **The floor is strong; the ceiling is open.**
+
+Nagi strengthens the minimum floor of survival, dignity, refusal, exit, and private life. But above that floor, it does not close happiness, ways of life, relationships, or forms of subjecthood into one final answer.
+
+When designing institutions and AI, the default is to **regulate the boundary where freedom meets other people and the shared world rather than governing modes of existence themselves**. More capable prediction does not replace a person's decision. Strong powers do not continue automatically, and those who adjudicate remain open to criticism, replacement, and suspension.
+
+Nagi itself is not a finished answer. New generations, cultures, technologies, and forms of subjecthood must be able to change not only the answers, but also the composition of those who get to answer.
+
+> Do not govern modes of existence; regulate boundaries.  
+> Do not make the adjudicator unadjudicable.  
+> Build structures that can keep answering without completely defining one another.
+
+→ [Future Social Design Principles — A Strong Floor and an Open Ceiling](future_social_design_principles.html)
+
+---
+
 ## Resonant Democracy
 
 Vital Commons must not become a new apparatus of control for a state, company, locality, expert group, or AI.
@@ -193,6 +214,7 @@ Nagi is a compass for moving beyond capitalism after passing through it.
 ## Read Nagi
 
 - **Five-minute overview:** [Nagi as a Future Social Philosophy](future_social_philosophy.html)
+- **Design compass:** [Future Social Design Principles — A Strong Floor and an Open Ceiling](future_social_design_principles.html)
 - **Central proposal:** [Vital Commons](vital_commons.html)
 - **Coexisting ways of life:** [Nagi OS as a Metaphor](nagi_os.html)
 - **Philosophical core:** [Nagi Core](nagi_core.html)
