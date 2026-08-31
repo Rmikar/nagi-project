@@ -1,6 +1,6 @@
 {
   "name": "Nagi Project complete public document registry",
-  "dateModified": "2026-08-30",
+  "dateModified": "2026-08-31",
   "baseUrl": "https://nagi-project.com/",
   "documents": [
     {
@@ -1707,8 +1707,8 @@
       "translation": "reading-guide",
       "translation_status": "maintained translation",
       "translation_last_reviewed": "2026-08-13",
-      "source_last_updated": "2026-08-13",
-      "translation_needs_review": false
+      "source_last_updated": "2026-08-31",
+      "translation_needs_review": true
     },
     {
       "id": "en-non-ownership",
@@ -2550,6 +2550,56 @@
       "translation_needs_review": false
     },
     {
+      "id": "future-social-design-principles",
+      "path": "future_social_design_principles.md",
+      "url": "future_social_design_principles.html",
+      "title": "未来社会の設計原則 — 強い床と、開いた天井",
+      "short_title": "未来社会の設計原則",
+      "status": "canonical",
+      "type": "thematic-document",
+      "role": "主題別文書",
+      "summary": "凪の非所有・共鳴・呼吸を、未来社会の制度、AI、権力、主体性へ展開するときの上位設計原則。存在を統治せず境界を調整し、予測を決定権に変えず、権力と答えを再検討可能に保つ。",
+      "language": "ja",
+      "last_updated": "2026-08-31",
+      "indexable": true,
+      "robots": "index, follow",
+      "topics": [
+        "未来社会",
+        "社会設計",
+        "社会思想",
+        "自由",
+        "尊厳",
+        "主体性",
+        "AI倫理",
+        "権力分立",
+        "制度免疫",
+        "共鳴民主主義",
+        "非所有",
+        "再承認"
+      ],
+      "related": [
+        "home",
+        "nagi-core",
+        "future-social-philosophy",
+        "freedom-dissent-exit",
+        "institutional-immunity",
+        "ai-charter",
+        "transition-crisis",
+        "resonant-democracy",
+        "institutional-design",
+        "vital-commons",
+        "public-thought-method",
+        "reading-guide"
+      ],
+      "parent": "home",
+      "translation_of": null,
+      "translation": null,
+      "translation_status": null,
+      "translation_last_reviewed": null,
+      "source_last_updated": null,
+      "translation_needs_review": false
+    },
+    {
       "id": "future-social-philosophy",
       "path": "future_social_philosophy.md",
       "url": "future_social_philosophy.html",
@@ -3186,7 +3236,7 @@
       "role": "時間・関心別の読書案内",
       "summary": "資本主義の代替案や未来の社会を考える人に向け、生命基盤、非所有、共鳴民主主義、制度免疫、AI倫理を時間と関心別に案内する。",
       "language": "ja",
-      "last_updated": "2026-08-13",
+      "last_updated": "2026-08-31",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -3202,6 +3252,7 @@
         "nagi-os",
         "faq",
         "glossary",
+        "future-social-design-principles",
         "nagi-core",
         "declaration",
         "resonant-democracy",
@@ -3211,8 +3262,7 @@
         "governance-and-safety",
         "social-infrastructure-ethics",
         "institutional-immunity",
-        "vital-commons",
-        "transition-crisis"
+        "vital-commons"
       ],
       "parent": "home",
       "translation_of": null,

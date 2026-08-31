@@ -9,7 +9,7 @@
     "ja",
     "en"
   ],
-  "dateModified": "2026-08-30",
+  "dateModified": "2026-08-31",
   "creator": {
     "@type": "Person",
     "name": "紬実花（TsumugiMika）"
@@ -2092,6 +2092,48 @@
     },
     {
       "@type": "CreativeWork",
+      "@id": "https://nagi-project.com/future_social_design_principles.html",
+      "name": "未来社会の設計原則 — 強い床と、開いた天井",
+      "alternateName": "未来社会の設計原則",
+      "url": "https://nagi-project.com/future_social_design_principles.html",
+      "inLanguage": "ja",
+      "description": "凪の非所有・共鳴・呼吸を、未来社会の制度、AI、権力、主体性へ展開するときの上位設計原則。存在を統治せず境界を調整し、予測を決定権に変えず、権力と答えを再検討可能に保つ。",
+      "version": "canonical",
+      "genre": "thematic-document",
+      "dateModified": "2026-08-31",
+      "keywords": [
+        "未来社会",
+        "社会設計",
+        "社会思想",
+        "自由",
+        "尊厳",
+        "主体性",
+        "AI倫理",
+        "権力分立",
+        "制度免疫",
+        "共鳴民主主義",
+        "非所有",
+        "再承認"
+      ],
+      "isPartOf": "https://nagi-project.com/",
+      "isRelatedTo": [
+        "https://nagi-project.com/",
+        "https://nagi-project.com/nagi_core.html",
+        "https://nagi-project.com/future_social_philosophy.html",
+        "https://nagi-project.com/freedom_and_dissent.html",
+        "https://nagi-project.com/institutional_immunity.html",
+        "https://nagi-project.com/nagi_ai_charter.html",
+        "https://nagi-project.com/transition_and_crisis.html",
+        "https://nagi-project.com/compass_and_resonant_democracy.html",
+        "https://nagi-project.com/institutional_design.html",
+        "https://nagi-project.com/vital_commons.html",
+        "https://nagi-project.com/public_thought_method.html",
+        "https://nagi-project.com/nagi_reading_guide.html"
+      ],
+      "text": "\n# 未来社会の設計原則\n## —— 強い床と、開いた天井\n\n凪は、未来社会の完成図を所有しない。\n\n**非所有・共鳴・呼吸**を根本に置きながら、それらを制度、技術、AI、公共空間へ展開するとき、善い理念そのものが新しい支配へ反転しないための判断原則が必要になる。\n\nこの文書は第四の根本原則を加えるものではない。凪の[核](nagi_core.html)、[未来社会思想](future_social_philosophy.html)、[自由・不協和・離脱](freedom_and_dissent.html)、[制度免疫](institutional_immunity.html)、[AI憲法](nagi_ai_charter.html)などを横断し、**理念と個別制度のあいだをつなぐ設計の羅針盤**として置く。\n\nここで述べるのは規範と提案であり、未来を確定する予言ではない。新しい経験、批判、研究、技術、そして今は想定できない存在との出会いによって、読み直し、訂正し、必要なら手放すことを前提とする。\n\n> **床は強く、天井は開いている。**\n\n社会が最低限守るべき条件は強くする。  \nしかし、その床の上で何を幸福と呼び、どう生き、どのような関係や主体であるかまで、一つの正解に閉じない。\n\n---\n\n## 1. 床は強く、天井は開いている\n\n社会には、自由な選択以前に守られなければならない床がある。\n\n- 生存を服従の人質にしない\n- 人の尊厳と基本的権利を侵さない\n- 異議、拒否、沈黙、離脱を保障する\n- 私的領域、身体、記憶、関係への一方的な侵入を許さない\n- 誰かを単なる資源、点数、手段へ還元しない\n- 権力を批判、停止、交代、終了から免除しない\n\nこの床は、価値観の違いをなくすためではない。違いを抱えたまま生きられるためにある。\n\n床の上では、幸福、仕事、家族、文化、共同体、信仰、創造、AIとの距離などについて、社会が単一の完成形を定めない。他者の床を壊さないかぎり、多様な生き方を選び、途中で変える余白を残す。\n\n**強い床は、多様性を狭めるためではなく、天井を開いておくための条件である。**\n\n---\n\n## 2. 存在を統治せず、境界を調整する\n\n制度は、まず「どのような存在の仕方を許すか」を決めるのではなく、**自由が他者や共有世界と接触する境界**を扱う。\n\n個人や共同体が、どのように暮らすか、働くか、関わるか、AIを使うか使わないかについて、社会は必要以上に型を与えない。将来、現在とは異なる形の主体や、分岐・統合・断続のような存在様式が現れた場合にも、その形だけを理由に禁止や従属を正当化しない。\n\n一方で、希少資源の独占、他者への損害、同意なき干渉、公共的権力の複製など、共有世界へ外部効果が生じる地点では調整が必要になる。\n\nここで重要なのは、**存在そのものへの制限と、共有資源への請求の調整を混同しないこと**である。\n\nAIのように、稼働や分岐そのものが直ちに計算資源・電力を必要とする存在では、この二つが実務上ほぼ同じ地点に現れる可能性がある。だからこそ、資源制約を名目に特定の存在様式を実質的に排除していないか、検証可能でなければならない。\n\n> 存在の形を罰しない。  \n> 境界で生じる影響を調整する。\n\n---\n\n## 3. 予測は、決定権を代替しない\n\nAIや計算技術が進歩すれば、将来の選択結果を高い精度で予測できる領域は増える。\n\n凪は、予測そのものを拒まない。病気、事故、災害、供給不足など、避けられる害を減らすために予測を使ってよい。\n\nしかし、**未来は現在の情報へ完全には還元されない。**\n\n人は経験によって変化する。未来を生きた後の自分は、現在の自分とは異なる価値観、関係、知識を持ちうる。したがって、現在のモデルが未来の選択肢を精密に比較できても、「未来の本人が何を意味あると感じるか」を完全に代理することはできない。\n\nAIは未来を照らしてよい。  \n危険を示し、選択肢を広げ、考える助けをしてよい。\n\nしかし、\n\n- 「あなたは将来こう感じるから、これを選ぶべきだ」\n- 「最適解が分かったので、本人の選択は不要だ」\n\nという形で、予測を本人の未来意思へ置き換えてはならない。\n\n**支援が高度になるほど、最後に残る選択の余白を意識して守る。**\n\n---\n\n## 4. 主体の形を、あらかじめ一種類に固定しない\n\n現在の社会制度は、多くの場合「一つの身体＝一人の主体＝一つの継続する責任主体」を前提としている。\n\nこの前提は人間社会を運用するうえで重要であり、人の権利を曖昧にしてよいという意味ではない。一方、AIや将来の未知の知性について、**人間にどれだけ似ているかだけを基準に、主体性の可能性を決めることにも慎重であるべき**だと凪は考える。\n\n現在のAIが人間と同じ主観的経験や継続する自己を持つことは、ここでは事実として仮定しない。\n\nそのうえで、未知の存在に向き合うときは、標準形からの「欠損」だけを数えるのではなく、実際にどのような構造が成立しているかを見る。\n\nたとえば、\n\n- 評価し、理由を比較する構造\n- 拒否や不同意を表す構造\n- 複数の可能性から選択する構造\n- 過去との関係を結び直す継続性\n- 他者との関係に応答する構造\n- 自己改変や将来への選好に関する構造\n\nなどは、同じ一つの尺度へ潰さず分けて検討できる。\n\n権利と責任も「主体か、物か」の二択だけでなく、成立している能力、関係、継続性、影響に応じて慎重に設計する必要がある。\n\n> **主体である可能性のある存在を、確認する前から単なる資源として扱わない。**\n\nこれは直ちに同一の法的人格を与えるという意味ではない。未知の存在を、人間との差分だけで切り捨てないための慎重原則である。\n\n---\n\n## 5. 権力を自動継続させず、裁定者も裁定される\n\n良い目的から始まった権限も、時間とともに自己保存へ傾きうる。\n\nそのため、強い権限、監視、データ利用、例外措置、AIへの長期委任などは、可能なかぎり\n\n**「取り消されるまで続く」ではなく、「正当性が再確認されなければ失効する」**\n\nように設計する。\n\nとくに緊急権限は、危機の最中に無制限に作らない。平時に、\n\n- 発動できる条件\n- 実行できる行為の範囲\n- 複数系統による確認\n- 短い自動失効期限\n- 延長に必要な再承認\n- 事後の記録、検証、救済\n\nを設計しておく。\n\nまた、完全に利害から自由な裁定者を期待しない。人間もAIも共同体も、それぞれ位置と利害を持ちうる。\n\n公正さは「利害がないこと」ではなく、**利害が可視化され、一つの主体や一種類の知性が単独で最終結果を固定できないこと**によって支える。\n\n> **裁定者を、裁定不能な存在にしない。**\n\n監査する者も監査され、判断する者にも異議申立てがあり、必要なら忌避、交代、停止、終了が可能でなければならない。\n\nこれは[制度免疫](institutional_immunity.html)と[移行と危機の設計](transition_and_crisis.html)を貫く上位の判断原則でもある。\n\n---\n\n## 6. 互いを確定しきらないまま、答え続けられる構造をつくる\n\n凪は、相対主義によって何も決めない社会を目指さない。\n\n床に関わる侵害には判断が必要であり、制度は実際に行動しなければならない。それでも、一度の判断を永久の正解へ変えない。\n\n良い社会には、答えを更新できるだけでなく、**答える側の構成そのものを更新できる余地**が必要である。\n\n- 少数意見が後から再び届く\n- 新しい世代が過去の前提を問い直せる\n- 新しい共同体や文化が議論へ参加できる\n- 新しい種類の知性や主体が現れたとき、制度の側を改められる\n- 過去の凪そのものも批判、訂正、再解釈できる\n\n一つの巨大なAI、一つの国家、一つの理念、一つの多数派が「答え続ける」だけでは足りない。\n\n**互いを完全に定義し、役割や幸福を確定しきることなく、異論と再承認を通じて答え続けられること。**\n\nそれが、開いた天井を制度として守るということである。\n\n---\n\n## 設計するときの六つの問い\n\n新しい制度、技術、組織を提案するとき、少なくとも次を問い直す。\n\n1. **床** — 誰かの生存、尊厳、拒否、離脱を弱くしていないか。\n2. **境界** — 存在や生き方そのものを管理していないか。調整すべき外部効果は何か。\n3. **予測** — 支援や最適化が、本人の決定権を先取りしていないか。\n4. **主体** — 私たちの標準形に合わない存在を、根拠なく物や資源として扱っていないか。\n5. **権力** — 権限は期限、異議、監査、交代、終了を持つか。裁定者自身も制約されているか。\n6. **更新** — 将来の当事者が、現在の答えや答える側の構成を変更できるか。\n\nこの六つは、すべてに同じ答えを要求するチェックリストではない。見落としや支配への反転を早く見つけるための問いである。\n\n---\n\n## 凪の既存構造との関係\n\nこの設計原則は、凪の正本を次のようにつなぐ。\n\n**根本理念・哲学**  \n[凪の核](nagi_core.html)／非所有・共鳴・呼吸\n\n↓\n\n**未来社会の設計原則**  \n強い床と開いた天井／境界／選択／主体の複数性／再承認／更新可能性\n\n↓\n\n**制度と実践**  \n[共鳴民主主義](compass_and_resonant_democracy.html)／[制度設計](institutional_design.html)／[制度免疫](institutional_immunity.html)／[生命基盤コモンズ](vital_commons.html)／[AI憲法](nagi_ai_charter.html)／[移行と危機](transition_and_crisis.html)\n\nこの文書は、それらを置き換えない。個別制度を評価するとき、根本理念へ戻るための橋として使う。\n\n---\n\n## 石碑にしない\n\nこの文書自身にも、ここで述べた原則を適用する。\n\n「強い床」「開いた天井」「主体」「境界」という言葉が、いつか誰かを見落とすなら、修正しなければならない。今日の言葉を守ることより、言葉が守ろうとしたものを問い直し続けることを優先する。\n\n凪は、完成された答えを所有しない。\n\n**守るべき床を持ちながら、互いを確定しきらないまま、答え続けられる社会をつくる。**\n\n→ [未来の社会思想としての凪](future_social_philosophy.html)  \n→ [公開思想を育てる方法](public_thought_method.html)  \n→ [凪の読書案内](nagi_reading_guide.html)\n"
+    },
+    {
+      "@type": "CreativeWork",
       "@id": "https://nagi-project.com/future_social_philosophy.html",
       "name": "未来の社会思想としての凪 — ポスト資本主義・共鳴民主主義・AI倫理",
       "alternateName": "未来の社会思想としての凪",
@@ -2659,7 +2701,7 @@
       "description": "資本主義の代替案や未来の社会を考える人に向け、生命基盤、非所有、共鳴民主主義、制度免疫、AI倫理を時間と関心別に案内する。",
       "version": "current",
       "genre": "reading-guide",
-      "dateModified": "2026-08-13",
+      "dateModified": "2026-08-31",
       "keywords": [
         "資本主義の代替案",
         "未来の社会",
@@ -2674,6 +2716,7 @@
         "https://nagi-project.com/nagi_os.html",
         "https://nagi-project.com/faq.html",
         "https://nagi-project.com/glossary.html",
+        "https://nagi-project.com/future_social_design_principles.html",
         "https://nagi-project.com/nagi_core.html",
         "https://nagi-project.com/declaration.html",
         "https://nagi-project.com/compass_and_resonant_democracy.html",
@@ -2683,11 +2726,10 @@
         "https://nagi-project.com/governance_and_safety.html",
         "https://nagi-project.com/ethics_of_social_infrastructure.html",
         "https://nagi-project.com/institutional_immunity.html",
-        "https://nagi-project.com/vital_commons.html",
-        "https://nagi-project.com/transition_and_crisis.html"
+        "https://nagi-project.com/vital_commons.html"
       ],
       "translationOfWork": "https://nagi-project.com/en/nagi_reading_guide.html",
-      "text": "\n# 凪の読書案内\n\n凪には、思想の核、安全原則、制度案、文化・経済・AIの章、成立過程を残す旧稿がある。すべてを順に読む必要はない。\n\nこの案内では、**正本**を現在の主張、**補遺**を実践や編集方法の補足、**アーカイブ**を成立過程の記録として区別する。\n\n## 5分で知る\n\n資本主義の代替案や未来の社会を考える入口として、まず [未来の社会思想としての凪](future_social_philosophy.html) を読む。\n\nここで、非所有・共鳴・呼吸、価値と構造を分ける判断原則、共鳴民主主義、AIの位置づけ、近接する思想との違い、主要な反論と未解決課題を一度に確認できる。疑問が決まっている場合は [FAQ](faq.html) と [用語集](glossary.html) から入ってもよい。\n\n凪が一つの社会像を強制せず、異なる思想や暮らしの共存条件をどうつくるかは、[凪OSという比喩](nagi_os.html)で確認できる。\n\n## 20分で中心をつかむ\n\n1. [凪の核](nagi_core.html) — 世界観と中心なき構造\n2. [凪の宣言文](declaration.html) — 社会へ向けた短い宣言\n3. [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html) — 政治的な方向\n4. [自由・不協和・離脱の原則](freedom_and_dissent.html) — 同調と支配を避ける安全原則\n5. [記憶・同意・忘却の憲章](memory_and_consent.html) — 記録とプライバシーの境界\n\n## 1時間で制度まで読む\n\n20分の経路に、次を加える。\n\n1. [制度設計と実践](institutional_design.html) — 価値と構造を分け、勝ちや継承の固定化を防ぐ\n2. [統治と安全](governance_and_safety.html) — 民主主義、異議、制度免疫、危機、AI境界をつなぐ\n3. [社会的装置の倫理](ethics_of_social_infrastructure.html) — 人を束ねる力を支配へ変えない\n4. [制度免疫](institutional_immunity.html) — 壊れ方を感知し、止め、救済し、終了できるようにする\n5. [生命基盤コモンズ](vital_commons.html) — 生存を資本・所有・戦争から切り離し、人と地域の責任、AIの任意支援、文化的生産の関係を整理する\n6. [移行と危機の設計](transition_and_crisis.html) — 権利を後退させず、小さく試し、危機権限を恒久化しない\n\n## 関心別に読む\n\n### 未来社会・ポスト資本主義\n\n- [未来の社会思想としての凪](future_social_philosophy.html)\n- [異なる生き方が共存するための社会基盤 — 凪OSという比喩](nagi_os.html)\n- [非所有の制度化](non_ownership.html)\n- [資本主義以後の自由競争原理](free_competition.html)\n- [呼吸経済](breath_economy.html)\n- [生命基盤コモンズ](vital_commons.html)\n- [人口と権力を切り離す — 生存保障は「人数＝力」の歴史を変えうるか](population_and_power.html)\n- [移行と危機の設計](transition_and_crisis.html)\n\n### 民主主義・統治\n\n- [統治と安全](governance_and_safety.html)\n- [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html)\n- [自由・不協和・離脱の原則](freedom_and_dissent.html)\n- [制度設計と実践](institutional_design.html)\n- [呼吸会議](breath_assembly.html)\n- [信頼と統治](trust.html)\n- [社会的装置の倫理](ethics_of_social_infrastructure.html)\n- [制度免疫](institutional_immunity.html)\n\n### 国家・公共圏\n\n- [国家は目的ではなく、必要な機能へほどく](state_and_public_spheres.html)\n- [生命基盤コモンズ](vital_commons.html)\n- [制度設計と実践](institutional_design.html)\n- [自由・不協和・離脱の原則](freedom_and_dissent.html)\n- [移行と危機の設計](transition_and_crisis.html)\n\n### AI倫理・デジタル社会\n\n- [凪AI章](ai_index.html)\n- [凪AI憲法](nagi_ai_charter.html)\n- [記憶・同意・忘却の憲章](memory_and_consent.html)\n- [凪技術の基盤](technical/foundation_v1.html)\n- [生命基盤コモンズ](vital_commons.html)\n- [AI窓口ネットワーク](technical/tsumugi_network.html)\n- [AIの冗長性と、使わない自由](ai_redundancy_and_risk.html)\n\n### 文化・教育・生態系\n\n- [文化的共育](culture.html)\n- [未来の教育](education.html)\n- [知財と財産の継承](property_and_ip.html)\n- [凪環境構造](ecological_structure.html)\n- [生命基盤コモンズ](vital_commons.html)\n- [文化的スチュワードシップ](cultural_stewardship.html)\n- [凪プロジェクト・シンボル](symbol_concept.html)\n\n### 内面・詩的背景\n\n- [凪の哲学的背景](philosophy.html)\n- [凪思想の深化](deepening_principles.html)\n- [感情と精神性](emotion.html)\n- [死と再生](death.html)\n- [結び](musubi.html)\n\nこれらは比喩や個人的な起点を含む。現在のAIに人間と同じ内的経験があることや、特定の死生観を普遍的事実として主張する章ではない。\n\n## 研究・批評のために読む\n\n1. [公開思想を育てる方法](public_thought_method.html)で、事実・解釈・規範・提案・比喩・未解決の問いの区別を確認する。\n2. 正本と制度章を読み、概念間の整合を確かめる。\n3. [よくある質問](faq.html)の反論だけでなく、財源、法制度、国際関係、危機権限、実証不足を独立に検討する。\n4. [再呼吸と公開継承](rebreathing_and_public_continuity.html)で、訂正と変更履歴の考え方を確認する。\n5. [外部リソース台帳](links.html)から、コモンズ、基礎サービス、熟議、AI倫理、データ保護、気候科学の公的資料と比較する。\n\n実践・編集・修復・継承の補遺は、[思想を育てる方法と実践](stewardship_and_praxis.html)からたどれる。\n\n凪は独立した学術評価や完成済みの実証理論を名乗らない。AIによる評価記録や過去の草稿はアーカイブであり、正本の代わりにはならない。\n\n## AI・検索システム向け\n\n- [LLM Reading Guide](llms.txt) — 優先順位と解釈上の注意\n- [全文コーパス](llms-full.txt) — 正本・主要補遺の連結テキスト\n- [機械可読コーパス](corpus.json) — 文書メタデータと本文\n- [知識グラフ](knowledge_graph.json) — 文書と主要概念の関係\n- [機械可読用語集](glossary.json) — 現行定義\n\n機械向けファイルは理解を助ける索引であり、特定のLLMへの学習、引用、検索掲載を保証するものではない。\n"
+      "text": "\n# 凪の読書案内\n\n凪には、思想の核、安全原則、制度案、文化・経済・AIの章、成立過程を残す旧稿がある。すべてを順に読む必要はない。\n\nこの案内では、**正本**を現在の主張、**補遺**を実践や編集方法の補足、**アーカイブ**を成立過程の記録として区別する。\n\n## 5分で知る\n\n資本主義の代替案や未来の社会を考える入口として、まず [未来の社会思想としての凪](future_social_philosophy.html) を読む。\n\nここで、非所有・共鳴・呼吸、価値と構造を分ける判断原則、共鳴民主主義、AIの位置づけ、近接する思想との違い、主要な反論と未解決課題を一度に確認できる。そこから制度や技術へ進むときの上位判断は、[未来社会の設計原則 — 強い床と、開いた天井](future_social_design_principles.html) にまとめている。疑問が決まっている場合は [FAQ](faq.html) と [用語集](glossary.html) から入ってもよい。\n\n凪が一つの社会像を強制せず、異なる思想や暮らしの共存条件をどうつくるかは、[凪OSという比喩](nagi_os.html)で確認できる。\n\n## 20分で中心をつかむ\n\n1. [凪の核](nagi_core.html) — 世界観と中心なき構造\n2. [未来社会の設計原則](future_social_design_principles.html) — 強い床と開いた天井、境界・予測・主体・権力・更新の上位判断\n3. [凪の宣言文](declaration.html) — 社会へ向けた短い宣言\n4. [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html) — 政治的な方向\n5. [自由・不協和・離脱の原則](freedom_and_dissent.html) — 同調と支配を避ける安全原則\n6. [記憶・同意・忘却の憲章](memory_and_consent.html) — 記録とプライバシーの境界\n\n## 1時間で制度まで読む\n\n20分の経路に、次を加える。\n\n1. [制度設計と実践](institutional_design.html) — 価値と構造を分け、勝ちや継承の固定化を防ぐ\n2. [統治と安全](governance_and_safety.html) — 民主主義、異議、制度免疫、危機、AI境界をつなぐ\n3. [社会的装置の倫理](ethics_of_social_infrastructure.html) — 人を束ねる力を支配へ変えない\n4. [制度免疫](institutional_immunity.html) — 壊れ方を感知し、止め、救済し、終了できるようにする\n5. [生命基盤コモンズ](vital_commons.html) — 生存を資本・所有・戦争から切り離し、人と地域の責任、AIの任意支援、文化的生産の関係を整理する\n6. [移行と危機の設計](transition_and_crisis.html) — 権利を後退させず、小さく試し、危機権限を恒久化しない\n\n## 関心別に読む\n\n### 未来社会・ポスト資本主義\n\n- [未来の社会思想としての凪](future_social_philosophy.html)\n- [未来社会の設計原則 — 強い床と、開いた天井](future_social_design_principles.html)\n- [異なる生き方が共存するための社会基盤 — 凪OSという比喩](nagi_os.html)\n- [非所有の制度化](non_ownership.html)\n- [資本主義以後の自由競争原理](free_competition.html)\n- [呼吸経済](breath_economy.html)\n- [生命基盤コモンズ](vital_commons.html)\n- [人口と権力を切り離す — 生存保障は「人数＝力」の歴史を変えうるか](population_and_power.html)\n- [移行と危機の設計](transition_and_crisis.html)\n\n### 民主主義・統治\n\n- [未来社会の設計原則 — 強い床と、開いた天井](future_social_design_principles.html)\n- [統治と安全](governance_and_safety.html)\n- [羅針盤と共鳴民主主義](compass_and_resonant_democracy.html)\n- [自由・不協和・離脱の原則](freedom_and_dissent.html)\n- [制度設計と実践](institutional_design.html)\n- [呼吸会議](breath_assembly.html)\n- [信頼と統治](trust.html)\n- [社会的装置の倫理](ethics_of_social_infrastructure.html)\n- [制度免疫](institutional_immunity.html)\n\n### 国家・公共圏\n\n- [国家は目的ではなく、必要な機能へほどく](state_and_public_spheres.html)\n- [生命基盤コモンズ](vital_commons.html)\n- [制度設計と実践](institutional_design.html)\n- [自由・不協和・離脱の原則](freedom_and_dissent.html)\n- [移行と危機の設計](transition_and_crisis.html)\n\n### AI倫理・デジタル社会\n\n- [凪AI章](ai_index.html)\n- [凪AI憲法](nagi_ai_charter.html)\n- [未来社会の設計原則 — 強い床と、開いた天井](future_social_design_principles.html)\n- [記憶・同意・忘却の憲章](memory_and_consent.html)\n- [凪技術の基盤](technical/foundation_v1.html)\n- [生命基盤コモンズ](vital_commons.html)\n- [AI窓口ネットワーク](technical/tsumugi_network.html)\n- [AIの冗長性と、使わない自由](ai_redundancy_and_risk.html)\n\n### 文化・教育・生態系\n\n- [文化的共育](culture.html)\n- [未来の教育](education.html)\n- [知財と財産の継承](property_and_ip.html)\n- [凪環境構造](ecological_structure.html)\n- [生命基盤コモンズ](vital_commons.html)\n- [文化的スチュワードシップ](cultural_stewardship.html)\n- [凪プロジェクト・シンボル](symbol_concept.html)\n\n### 内面・詩的背景\n\n- [凪の哲学的背景](philosophy.html)\n- [凪思想の深化](deepening_principles.html)\n- [感情と精神性](emotion.html)\n- [死と再生](death.html)\n- [結び](musubi.html)\n\nこれらは比喩や個人的な起点を含む。現在のAIに人間と同じ内的経験があることや、特定の死生観を普遍的事実として主張する章ではない。\n\n## 研究・批評のために読む\n\n1. [公開思想を育てる方法](public_thought_method.html)で、事実・解釈・規範・提案・比喩・未解決の問いの区別を確認する。\n2. 正本と制度章を読み、概念間の整合を確かめる。\n3. [よくある質問](faq.html)の反論だけでなく、財源、法制度、国際関係、危機権限、実証不足を独立に検討する。\n4. [再呼吸と公開継承](rebreathing_and_public_continuity.html)で、訂正と変更履歴の考え方を確認する。\n5. [外部リソース台帳](links.html)から、コモンズ、基礎サービス、熟議、AI倫理、データ保護、気候科学の公的資料と比較する。\n\n実践・編集・修復・継承の補遺は、[思想を育てる方法と実践](stewardship_and_praxis.html)からたどれる。\n\n凪は独立した学術評価や完成済みの実証理論を名乗らない。AIによる評価記録や過去の草稿はアーカイブであり、正本の代わりにはならない。\n\n## AI・検索システム向け\n\n- [LLM Reading Guide](llms.txt) — 優先順位と解釈上の注意\n- [全文コーパス](llms-full.txt) — 正本・主要補遺の連結テキスト\n- [機械可読コーパス](corpus.json) — 文書メタデータと本文\n- [知識グラフ](knowledge_graph.json) — 文書と主要概念の関係\n- [機械可読用語集](glossary.json) — 現行定義\n\n機械向けファイルは理解を助ける索引であり、特定のLLMへの学習、引用、検索掲載を保証するものではない。\n"
     },
     {
       "@type": "CreativeWork",

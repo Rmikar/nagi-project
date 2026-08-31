@@ -4,7 +4,7 @@ Canonical public site: https://nagi-project.com/
 Reference language: Japanese
 Creator: 紬実花（TsumugiMika）
 License: CC BY-SA 4.0
-Updated: 2026-08-30
+Updated: 2026-08-31
 
 README.md is the philosophical source of truth. Public-document metadata and relationships are generated into docs/_data/canonical_documents.json.
 
@@ -78,6 +78,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/faq.md — ja/current: 凪とは何か、資本主義の代替案になりうるか、社会主義とどう違うか、非所有や共鳴民主主義、AIの位置づけなど、未来社会思想の主要な質問に答える。
 - docs/free_competition.md — ja/current: 競争を生存の条件や独占の正当化にせず、生命基盤の保障の上で、文化・技術・嗜好・創造をめぐる自由な選択として残す経済原理。
 - docs/freedom_and_dissent.md — ja/canonical: 凪の中心なき構造を守るため、異議、沈黙、拒否、非参加、離脱、役割から降りる自由を保障する原則。
+- docs/future_social_design_principles.md — ja/canonical: 凪の非所有・共鳴・呼吸を、未来社会の制度、AI、権力、主体性へ展開するときの上位設計原則。存在を統治せず境界を調整し、予測を決定権に変えず、権力と答えを再検討可能に保つ。
 - docs/future_social_philosophy.md — ja/canonical: 資本主義の代替案や未来の社会のあり方を探す人に向け、凪の生命基盤コモンズ、非所有、共鳴民主主義、制度免疫、AIの境界と未解決の課題を整理する。
 - docs/glossary.md — ja/canonical: 凪の未来社会思想で使う主要語の現行定義。非所有、共鳴、呼吸、基礎呼吸、共鳴民主主義、AIの任意性、再呼吸などを、人とAIが参照できる形で整理する。
 - docs/governance_and_safety.md — ja/current: 生命基盤コモンズを新しい支配へ反転させないために、共鳴民主主義、異議・沈黙・拒否・離脱、制度設計、制度免疫、危機と移行、AIの権限境界をつなぐ案内。

@@ -3,7 +3,7 @@
 Creator: 紬実花（TsumugiMika）
 Reference language: Japanese
 License: CC BY-SA 4.0
-Updated: 2026-08-30
+Updated: 2026-08-31
 Canonical site: https://nagi-project.com/
 
 The Japanese README and public home are the reference edition. Translation status is part of each document's metadata.

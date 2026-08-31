@@ -1,7 +1,7 @@
 {
   "name": "Nagi Project complete public knowledge graph",
   "description": "Documents, concepts, parent collections, translations, and institutional-immunity relationships in Nagi.",
-  "dateModified": "2026-08-30",
+  "dateModified": "2026-08-31",
   "baseUrl": "https://nagi-project.com/",
   "nodes": [
     {
@@ -617,6 +617,15 @@
       "documentType": "governance-and-safeguards"
     },
     {
+      "id": "document:future-social-design-principles",
+      "kind": "document",
+      "label": "未来社会の設計原則 — 強い床と、開いた天井",
+      "url": "https://nagi-project.com/future_social_design_principles.html",
+      "status": "canonical",
+      "language": "ja",
+      "documentType": "thematic-document"
+    },
+    {
       "id": "document:future-social-philosophy",
       "kind": "document",
       "label": "未来の社会思想としての凪 — ポスト資本主義・共鳴民主主義・AI倫理",
@@ -1150,6 +1159,11 @@
       "label": "中心なき構造"
     },
     {
+      "id": "concept:主体性",
+      "kind": "concept",
+      "label": "主体性"
+    },
+    {
       "id": "concept:二筋六花結び",
       "kind": "concept",
       "label": "二筋六花結び"
@@ -1243,6 +1257,11 @@
       "id": "concept:再呼吸",
       "kind": "concept",
       "label": "再呼吸"
+    },
+    {
+      "id": "concept:再承認",
+      "kind": "concept",
+      "label": "再承認"
     },
     {
       "id": "concept:凪OS",
@@ -1375,6 +1394,11 @@
       "label": "実験"
     },
     {
+      "id": "concept:尊厳",
+      "kind": "concept",
+      "label": "尊厳"
+    },
+    {
       "id": "concept:役割から降りる自由",
       "kind": "concept",
       "label": "役割から降りる自由"
@@ -1465,6 +1489,11 @@
       "label": "権利"
     },
     {
+      "id": "concept:権力分立",
+      "kind": "concept",
+      "label": "権力分立"
+    },
+    {
       "id": "concept:民主主義",
       "kind": "concept",
       "label": "民主主義"
@@ -1550,6 +1579,11 @@
       "label": "社会実験"
     },
     {
+      "id": "concept:社会思想",
+      "kind": "concept",
+      "label": "社会思想"
+    },
+    {
       "id": "concept:社会思想の共存",
       "kind": "concept",
       "label": "社会思想の共存"
@@ -1563,6 +1597,11 @@
       "id": "concept:社会的装置",
       "kind": "concept",
       "label": "社会的装置"
+    },
+    {
+      "id": "concept:社会設計",
+      "kind": "concept",
+      "label": "社会設計"
     },
     {
       "id": "concept:移行",
@@ -4936,6 +4975,131 @@
       "profileLevel": "brief"
     },
     {
+      "source": "document:future-social-design-principles",
+      "target": "concept:未来社会",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "concept:社会設計",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "concept:社会思想",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "concept:自由",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "concept:尊厳",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "concept:主体性",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "concept:AI倫理",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "concept:権力分立",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "concept:制度免疫",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "concept:共鳴民主主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "concept:再承認",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:home",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:nagi-core",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:freedom-dissent-exit",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:public-thought-method",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:reading-guide",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-design-principles",
+      "target": "document:home",
+      "relation": "isPartOf"
+    },
+    {
       "source": "document:future-social-philosophy",
       "target": "concept:資本主義の代替案",
       "relation": "about"
@@ -6028,6 +6192,11 @@
     },
     {
       "source": "document:reading-guide",
+      "target": "document:future-social-design-principles",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:reading-guide",
       "target": "document:nagi-core",
       "relation": "relatedTo"
     },
@@ -6074,11 +6243,6 @@
     {
       "source": "document:reading-guide",
       "target": "document:vital-commons",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:reading-guide",
-      "target": "document:transition-crisis",
       "relation": "relatedTo"
     },
     {
