@@ -1,6 +1,6 @@
 {
   "name": "Nagi Project complete public document registry",
-  "dateModified": "2026-08-31",
+  "dateModified": "2026-09-24",
   "baseUrl": "https://nagi-project.com/",
   "documents": [
     {
@@ -1195,8 +1195,8 @@
       "translation": "future-social-design-principles",
       "translation_status": "maintained translation",
       "translation_last_reviewed": "2026-08-31",
-      "source_last_updated": "2026-08-31",
-      "translation_needs_review": false
+      "source_last_updated": "2026-09-24",
+      "translation_needs_review": true
     },
     {
       "id": "en-future-social-philosophy",
@@ -1310,8 +1310,8 @@
       "translation": "governance-and-safety",
       "translation_status": "maintained translation",
       "translation_last_reviewed": "2026-08-12",
-      "source_last_updated": "2026-08-12",
-      "translation_needs_review": false
+      "source_last_updated": "2026-09-24",
+      "translation_needs_review": true
     },
     {
       "id": "en-implementation",
@@ -1610,8 +1610,8 @@
       "translation": "ai-charter",
       "translation_status": "working translation",
       "translation_last_reviewed": "2026-08-30",
-      "source_last_updated": "2026-08-30",
-      "translation_needs_review": false
+      "source_last_updated": "2026-09-24",
+      "translation_needs_review": true
     },
     {
       "id": "en-nagi-ai-principles",
@@ -2611,7 +2611,7 @@
       "role": "主題別文書",
       "summary": "凪の非所有・共鳴・呼吸を、未来社会の制度、AI、権力、主体性へ展開するときの上位設計原則。存在を統治せず境界を調整し、予測を決定権に変えず、権力と答えを再検討可能に保つ。",
       "language": "ja",
-      "last_updated": "2026-08-31",
+      "last_updated": "2026-09-24",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -2780,7 +2780,7 @@
       "role": "領域別の案内",
       "summary": "生命基盤コモンズを新しい支配へ反転させないために、共鳴民主主義、異議・沈黙・拒否・離脱、制度設計、制度免疫、危機と移行、AIの権限境界をつなぐ案内。",
       "language": "ja",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-09-24",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -2802,6 +2802,7 @@
         "resonance-metrics",
         "social-infrastructure-ethics",
         "transition-crisis",
+        "future-social-design-principles",
         "ai-charter",
         "ai-index",
         "vital-commons",
@@ -3112,7 +3113,7 @@
       "role": "AIの境界と統治",
       "summary": "凪におけるAIの権限・責任・限界を定める上位規範。AIは社会の中心、人格の採点者、権利の最終決定者にならず、憲法に反する命令を理由とともに拒否する。",
       "language": "ja",
-      "last_updated": "2026-08-30",
+      "last_updated": "2026-09-24",
       "indexable": true,
       "robots": "index, follow",
       "topics": [

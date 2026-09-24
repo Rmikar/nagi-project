@@ -4,7 +4,7 @@ Canonical public site: https://nagi-project.com/
 Reference language: Japanese
 Creator: 紬実花（TsumugiMika）
 License: CC BY-SA 4.0
-Updated: 2026-08-31
+Updated: 2026-09-24
 
 README.md is the philosophical source of truth. Public-document metadata and relationships are generated into docs/_data/canonical_documents.json.
 
