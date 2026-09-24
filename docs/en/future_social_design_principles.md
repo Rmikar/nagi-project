@@ -7,11 +7,11 @@ short_title: "Future Social Design Principles"
 description: "Nagi's higher-level principles for future institutions, AI, power, subjecthood, boundaries, prediction, and revisable public reasoning."
 permalink: /en/future_social_design_principles.html
 status: canonical
-last_updated: 2026-08-31
+last_updated: 2026-09-24
 source_language: ja
 source_url: /future_social_design_principles.html
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-08-31
+translation_last_reviewed: 2026-09-24
 keywords:
   - future society
   - social design
@@ -82,6 +82,16 @@ For entities such as AI, where operation or branching may immediately require co
 
 > Do not punish the form of existence.  
 > Regulate the effects that arise at boundaries.
+
+### Govern AI conduct, not AI capability
+
+For AI as well, Nagi does not treat the level of capability itself as the object of governance. Being highly capable, autonomous, or more capable than humans is not, by itself, a reason for prohibition.
+
+Begin by applying the existing law that human societies have developed over long periods of time to AI conduct. **Conduct that is unlawful for people does not become permissible merely because AI is used to carry it out.**
+
+The arrival of AI should not make the redesign of social norms from scratch the starting point. When concrete problems arise that existing law cannot adequately address, adjust through adjudication, legal interpretation, accumulated precedent, and targeted legislative change where necessary.
+
+> **Do not try to rule unknown capabilities in advance. Govern conduct as it enters the shared world through the legal order that already exists.**
 
 ---
 
