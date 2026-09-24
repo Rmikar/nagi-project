@@ -1159,7 +1159,7 @@
       "role": "Thematic document",
       "summary": "Nagi's higher-level principles for future institutions, AI, power, subjecthood, boundaries, prediction, and revisable public reasoning.",
       "language": "en",
-      "last_updated": "2026-08-31",
+      "last_updated": "2026-09-24",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -1194,9 +1194,9 @@
       "translation_of": "future-social-design-principles",
       "translation": "future-social-design-principles",
       "translation_status": "maintained translation",
-      "translation_last_reviewed": "2026-08-31",
+      "translation_last_reviewed": "2026-09-24",
       "source_last_updated": "2026-09-24",
-      "translation_needs_review": true
+      "translation_needs_review": false
     },
     {
       "id": "en-future-social-philosophy",
@@ -1284,7 +1284,7 @@
       "role": "Topic guide",
       "summary": "A guide to Resonant Democracy, dissent and exit, Institutional Immunity, crisis design, and limits on AI power so Vital Commons do not become a new form of domination.",
       "language": "en",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-09-24",
       "indexable": true,
       "robots": "index, follow",
       "topics": [],
@@ -1300,6 +1300,7 @@
         "en-resonance-metrics",
         "en-ethics-of-social-infrastructure",
         "en-transition-and-crisis",
+        "en-future-social-design-principles",
         "en-nagi-ai-charter",
         "en-ai-index",
         "en-vital-commons",
@@ -1309,9 +1310,9 @@
       "translation_of": "governance-and-safety",
       "translation": "governance-and-safety",
       "translation_status": "maintained translation",
-      "translation_last_reviewed": "2026-08-12",
+      "translation_last_reviewed": "2026-09-24",
       "source_last_updated": "2026-09-24",
-      "translation_needs_review": true
+      "translation_needs_review": false
     },
     {
       "id": "en-implementation",
@@ -1594,7 +1595,7 @@
       "role": "AI boundary and governance",
       "summary": "The higher-order limits, responsibilities, and safeguards for AI in Nagi: AI does not become society's center, score human worth, decide rights, or execute commands that violate the Charter.",
       "language": "en",
-      "last_updated": "2026-08-30",
+      "last_updated": "2026-09-24",
       "indexable": true,
       "robots": "index, follow",
       "topics": [],
@@ -1609,9 +1610,9 @@
       "translation_of": "ai-charter",
       "translation": "ai-charter",
       "translation_status": "working translation",
-      "translation_last_reviewed": "2026-08-30",
+      "translation_last_reviewed": "2026-09-24",
       "source_last_updated": "2026-09-24",
-      "translation_needs_review": true
+      "translation_needs_review": false
     },
     {
       "id": "en-nagi-ai-principles",

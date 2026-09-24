@@ -3476,6 +3476,11 @@
     },
     {
       "source": "document:en-governance-and-safety",
+      "target": "document:en-future-social-design-principles",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
       "target": "document:en-nagi-ai-charter",
       "relation": "relatedTo"
     },
