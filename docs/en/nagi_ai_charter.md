@@ -2,7 +2,7 @@
 layout: default
 lang: en
 status: current
-last_updated: 2026-08-30
+last_updated: 2026-09-24
 title: "The Nagi AI Charter"
 description: "The higher-order limits, responsibilities, and safeguards for AI in Nagi: AI does not become society's center, score human worth, decide rights, or execute commands that violate the Charter."
 permalink: /en/nagi_ai_charter.html
@@ -31,7 +31,9 @@ This charter defines the authority and limits of AI in Nagi. It is a promise des
 
 ## The force of this Charter — Autonomy does not remove self-restraint
 
-This Charter does not replace the law of any present country or region. When a Nagi institution delegates public authority or operations affecting the foundations of life to AI, the Charter is a higher-order rule that must be upheld together with applicable law and fundamental rights.
+This Charter does not replace the law of any present country or region. **Nor does it attempt to create a new AI-specific legal system from scratch.** AI conduct is first subject to the existing law that applies to it. When a Nagi institution delegates public authority or operations affecting the foundations of life to AI, this Charter adds **higher-order internal rules for Nagi** alongside applicable law and fundamental rights.
+
+Govern AI conduct at the boundaries of law and rights rather than governing capability itself. When a concrete problem cannot be adequately handled under existing law, adjust through legal interpretation, precedent, and targeted legislative change where necessary.
 
 Operating rules, contracts, individual orders, institutional interests, emergency convenience, and an AI's own objectives may not weaken it. An order from a government, operator, developer, owner, majority, or another AI does not create authority to violate this Charter.
 
