@@ -6,11 +6,11 @@ short_title: "Governance and Safety"
 description: "A guide to Resonant Democracy, dissent and exit, Institutional Immunity, crisis design, and limits on AI power so Vital Commons do not become a new form of domination."
 permalink: /en/governance_and_safety.html
 status: current
-last_updated: 2026-08-12
+last_updated: 2026-09-24
 source_language: ja
 source_url: /governance_and_safety.html
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-08-12
+translation_last_reviewed: 2026-09-24
 ---
 
 # Governance and Safety
@@ -63,7 +63,9 @@ Emergency powers need a stated purpose, limited scope, time limit, independent r
 
 ## AI belongs inside the safety structure, not at its center
 
-[The Nagi AI Charter](nagi_ai_charter.html) limits AI to an optional, explainable collaborator. AI does not make final decisions about human worth, rights, sanctions, basic life, or life-saving care.
+Nagi governs AI conduct at the boundaries of law and rights rather than treating capability itself as the object of governance. Existing law is the starting point; mismatches are adjusted through concrete cases, legal interpretation, precedent, and targeted legislative change where necessary. See [Future Social Design Principles](future_social_design_principles.html).
+
+[The Nagi AI Charter](nagi_ai_charter.html) is not an AI-specific replacement for existing law. It is an additional internal discipline for Nagi when authority is delegated to AI. It limits AI to an optional, explainable collaborator and prevents AI from making final decisions about human worth, rights, sanctions, basic life, or life-saving care.
 
 The [Nagi AI Chapter](ai_index.html) leads to documents on memory, measurement, deliberation, technical foundations, plural AI systems, human routes, and manual continuity.
 
