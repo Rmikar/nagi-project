@@ -1,6 +1,6 @@
 {
   "name": "Nagi Project complete public document registry",
-  "dateModified": "2026-09-24",
+  "dateModified": "2026-10-23",
   "baseUrl": "https://nagi-project.com/",
   "documents": [
     {
@@ -202,7 +202,7 @@
       "role": "生命基盤・経済の制度提案",
       "summary": "生存を所得や雇用への服従から切り離す基礎呼吸と生命基盤、文化と創造の自由な層、物・知・ケアの循環を示す凪の経済構想。",
       "language": "ja",
-      "last_updated": "2026-08-13",
+      "last_updated": "2026-10-23",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -731,7 +731,7 @@
       "translation": "breath-economy",
       "translation_status": "working translation",
       "translation_last_reviewed": "2026-07-12",
-      "source_last_updated": "2026-08-13",
+      "source_last_updated": "2026-10-23",
       "translation_needs_review": true
     },
     {

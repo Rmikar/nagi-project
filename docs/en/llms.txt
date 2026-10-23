@@ -9,7 +9,7 @@
 - Creator: 紬実花（TsumugiMika）
 - Reference language: Japanese
 - License: CC BY-SA 4.0
-- Registry updated: 2026-09-24
+- Registry updated: 2026-10-23
 
 ## Canonical and current English documents
 
