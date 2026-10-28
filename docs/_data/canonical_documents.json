@@ -1,6 +1,6 @@
 {
   "name": "Nagi Project complete public document registry",
-  "dateModified": "2026-10-23",
+  "dateModified": "2026-10-29",
   "baseUrl": "https://nagi-project.com/",
   "documents": [
     {
@@ -2145,8 +2145,8 @@
       "translation": "technical-foundation",
       "translation_status": "working translation",
       "translation_last_reviewed": "2026-07-12",
-      "source_last_updated": "2026-07-12",
-      "translation_needs_review": false
+      "source_last_updated": "2026-10-29",
+      "translation_needs_review": true
     },
     {
       "id": "en-technical-tsumugi-network",
@@ -4012,7 +4012,7 @@
       "role": "技術設計",
       "summary": "中心なき構造としての凪を支える技術の基盤。選択可能性、最小データ、複数AI、説明、異議、監査を前提とする。",
       "language": "ja",
-      "last_updated": "2026-07-12",
+      "last_updated": "2026-10-29",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
