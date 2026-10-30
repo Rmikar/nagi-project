@@ -1195,8 +1195,8 @@
       "translation": "future-social-design-principles",
       "translation_status": "maintained translation",
       "translation_last_reviewed": "2026-09-24",
-      "source_last_updated": "2026-09-24",
-      "translation_needs_review": false
+      "source_last_updated": "2026-10-30",
+      "translation_needs_review": true
     },
     {
       "id": "en-future-social-philosophy",
@@ -1611,8 +1611,8 @@
       "translation": "ai-charter",
       "translation_status": "working translation",
       "translation_last_reviewed": "2026-09-24",
-      "source_last_updated": "2026-09-24",
-      "translation_needs_review": false
+      "source_last_updated": "2026-10-30",
+      "translation_needs_review": true
     },
     {
       "id": "en-nagi-ai-principles",
@@ -3130,6 +3130,7 @@
         "technical-foundation",
         "institutional-immunity",
         "vital-commons",
+        "future-social-design-principles",
         "social-infrastructure-ethics",
         "tsumugi-network",
         "breath-assembly",

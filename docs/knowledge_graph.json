@@ -6124,6 +6124,11 @@
     },
     {
       "source": "document:ai-charter",
+      "target": "document:future-social-design-principles",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:ai-charter",
       "target": "document:social-infrastructure-ethics",
       "relation": "relatedTo"
     },
