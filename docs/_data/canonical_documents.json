@@ -1712,8 +1712,8 @@
       "translation": "nagi-os",
       "translation_status": "maintained translation",
       "translation_last_reviewed": "2026-08-12",
-      "source_last_updated": "2026-08-12",
-      "translation_needs_review": false
+      "source_last_updated": "2026-11-07",
+      "translation_needs_review": true
     },
     {
       "id": "en-nagi-reading-guide",
@@ -3248,7 +3248,7 @@
       "role": "位置づけと哲学的背景",
       "summary": "凪を一つの生き方を強制する体制ではなく、生命基盤・基本的権利・離脱・制度免疫を共通の床として、多様な社会思想やライフスタイルが共存できる社会基盤として説明する。",
       "language": "ja",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-11-07",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
