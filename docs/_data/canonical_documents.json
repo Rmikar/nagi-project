@@ -1,6 +1,6 @@
 {
   "name": "Nagi Project complete public document registry",
-  "dateModified": "2026-10-30",
+  "dateModified": "2026-11-07",
   "baseUrl": "https://nagi-project.com/",
   "documents": [
     {
@@ -2234,8 +2234,8 @@
       "translation": "transition-crisis",
       "translation_status": "working translation",
       "translation_last_reviewed": "2026-07-12",
-      "source_last_updated": "2026-07-12",
-      "translation_needs_review": false
+      "source_last_updated": "2026-11-07",
+      "translation_needs_review": true
     },
     {
       "id": "en-translation-status",
@@ -4143,7 +4143,7 @@
       "role": "統治・権利・安全設計",
       "summary": "資本主義・既存制度の外に理想を投げ出さず、現在の生活保障を守りながら凪へ移るための段階設計と、災害・暴力・希少資源・差別が起きる場面の原則を記す。",
       "language": "ja",
-      "last_updated": "2026-07-12",
+      "last_updated": "2026-11-07",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
