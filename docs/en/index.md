@@ -2,16 +2,16 @@
 layout: default
 lang: en
 status: current
-title: "Nagi Project — Freeing Survival from Ownership and Domination"
-seo_title: "Freeing Survival from Ownership and Domination"
+title: "Nagi Project — Rethinking Capitalism, Religion, and Social Systems"
+seo_title: "Rethinking Capitalism, Religion, and Social Systems"
 short_title: "Nagi Project"
-description: "Nagi is a future social philosophy for people exploring alternatives to capitalism: non-owned Vital Commons, Resonant Democracy, Institutional Immunity, and plural ways of life."
-last_updated: 2026-08-31
+description: "A philosophy for those questioning the limits of capitalism, religion, and today’s social systems. Nagi explores freedom, coexistence, distributed power, and shared responsibility through a new vision of society."
+last_updated: 2026-11-09
 permalink: /en/
 source_language: ja
 source_url: /
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-08-31
+translation_last_reviewed: 2026-11-09
 keywords:
   - alternatives to capitalism
   - future society
@@ -21,8 +21,17 @@ keywords:
   - Resonant Democracy
 ---
 
-# Nagi Project
-**— A future social philosophy that frees survival from ownership and domination, opening freedom and creativity**
+# A philosophy for when capitalism, religion, and the systems we live by no longer seem enough.
+
+**01｜** Must we place our freedom in someone else's hands—and let them own our time—just to survive?  
+**02｜** Must we share the same values to live together in peace?  
+**03｜** Must power be concentrated for society to function?  
+**04｜** Must a few people carry the burden of sustaining society?
+
+**If none of these were necessary, how would society change?**  
+**Could we redesign society by rethinking the assumptions that hold it together?**
+
+---
 
 > **No one should have to obey capital in order to live.**  
 > Water, energy, staple food, health care, shelter, sanitation, and communication.  
