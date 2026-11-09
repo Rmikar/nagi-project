@@ -5,7 +5,7 @@ status: current
 title: "Nagi Project — Rethinking Capitalism, Religion, and Social Systems"
 seo_title: "Rethinking Capitalism, Religion, and Social Systems"
 short_title: "Nagi Project"
-description: "A philosophy for those questioning the limits of capitalism, religion, and today’s social systems. Nagi explores freedom, coexistence, distributed power, and shared responsibility through a new vision of society."
+description: "A philosophy for those questioning capitalism, religion, and today's social systems. Nagi rethinks survival, coexistence, concentrated power, and shared responsibility."
 last_updated: 2026-11-09
 permalink: /en/
 source_language: ja
