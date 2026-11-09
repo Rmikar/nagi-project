@@ -1347,14 +1347,14 @@
       "id": "en-home",
       "path": "en/index.md",
       "url": "en/",
-      "title": "Nagi Project — Freeing Survival from Ownership and Domination",
+      "title": "Nagi Project — Rethinking Capitalism, Religion, and Social Systems",
       "short_title": "Nagi Project",
       "status": "current",
       "type": "overview",
       "role": "Reference overview",
-      "summary": "Nagi is a future social philosophy for people exploring alternatives to capitalism: non-owned Vital Commons, Resonant Democracy, Institutional Immunity, and plural ways of life.",
+      "summary": "A philosophy for those questioning capitalism, religion, and today's social systems. Nagi rethinks survival, coexistence, concentrated power, and shared responsibility.",
       "language": "en",
-      "last_updated": "2026-08-31",
+      "last_updated": "2026-11-09",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -1386,9 +1386,9 @@
       "translation_of": "home",
       "translation": "home",
       "translation_status": "maintained translation",
-      "translation_last_reviewed": "2026-08-31",
+      "translation_last_reviewed": "2026-11-09",
       "source_last_updated": "2026-11-09",
-      "translation_needs_review": true
+      "translation_needs_review": false
     },
     {
       "id": "en-infrastructure",

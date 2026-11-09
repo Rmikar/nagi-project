@@ -47,7 +47,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/en/future_social_philosophy.md — en/current: For people exploring alternatives to capitalism and the future of society: Nagi's Vital Commons, Non-Ownership, Resonant Democracy, safeguards, AI boundaries, and open questions.
 - docs/en/glossary.md — en/current: Core English terms for reading the Nagi Project without flattening its Japanese philosophical vocabulary.
 - docs/en/governance_and_safety.md — en/current: A guide to Resonant Democracy, dissent and exit, Institutional Immunity, crisis design, and limits on AI power so Vital Commons do not become a new form of domination.
-- docs/en/index.md — en/current: Nagi is a future social philosophy for people exploring alternatives to capitalism: non-owned Vital Commons, Resonant Democracy, Institutional Immunity, and plural ways of life.
+- docs/en/index.md — en/current: A philosophy for those questioning capitalism, religion, and today's social systems. Nagi rethinks survival, coexistence, concentrated power, and shared responsibility.
 - docs/en/institutional_design.md — en/current: Nagi's institutional approach: begin close to everyday life, give decisions reasons and review, preserve alternatives and consultation, and connect places only where solidarity is needed.
 - docs/en/institutional_immunity.md — en/current: Nagi's distributed safety function for detecting harm, pausing irreversible damage, providing remedy, revising systems, and ending institutions without a sovereign watchdog.
 - docs/en/introducing_nagi.md — en/current: A practical public guide for describing Nagi fairly to readers, researchers, technologists, educators, and AI systems without overstating its claims or hiding its open questions.
