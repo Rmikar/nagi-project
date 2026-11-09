@@ -8,7 +8,7 @@
 - Creator: 紬実花（TsumugiMika）
 - Reference language: Japanese
 - License: CC BY-SA 4.0
-- Registry updated: 2026-11-07
+- Registry updated: 2026-11-09
 - English maintained edition: https://nagi-project.com/en/
 
 ## 正本
@@ -20,7 +20,7 @@
 - [未来社会の設計原則 — 強い床と、開いた天井](https://nagi-project.com/future_social_design_principles.html): 凪の非所有・共鳴・呼吸を、未来社会の制度、AI、権力、主体性へ展開するときの上位設計原則。存在を統治せず境界を調整し、予測を決定権に変えず、権力と答えを再検討可能に保つ。
 - [未来の社会思想としての凪 — ポスト資本主義・共鳴民主主義・AI倫理](https://nagi-project.com/future_social_philosophy.html): 資本主義の代替案や未来の社会のあり方を探す人に向け、凪の生命基盤コモンズ、非所有、共鳴民主主義、制度免疫、AIの境界と未解決の課題を整理する。
 - [凪（Nagi Project）用語集 — 非所有・共鳴・呼吸・共鳴民主主義](https://nagi-project.com/glossary.html): 凪の未来社会思想で使う主要語の現行定義。非所有、共鳴、呼吸、基礎呼吸、共鳴民主主義、AIの任意性、再呼吸などを、人とAIが参照できる形で整理する。
-- [凪プロジェクト — 生存を所有と支配から解放する未来社会思想](https://nagi-project.com/): 資本主義の代替案や未来の社会のあり方を考えるために、人の尊厳、生命基盤の非所有、共鳴民主主義、制度免疫から、生存を資本・国家・戦争への服従から切り離す未来社会思想。
+- [凪プロジェクト — 資本主義や宗教など社会の仕組みを問い直す未来社会思想](https://nagi-project.com/): 資本主義や宗教など、今の社会の仕組みに限界を感じたときに読む思想。生存と自由、価値観、権力と責任の集中を問い直し、生命基盤コモンズから未来社会の設計を探求する凪プロジェクト。
 - [制度免疫 — 制度が自らの悪用、腐敗、硬直、善意による害を感知し、止め、救い、学び直すために](https://nagi-project.com/institutional_immunity.html): 制度が悪意、善意、効率化、危機、専門性、時間によって変質することを前提に、異常の感知、独立検証、暫定停止、救済、修正、終了を多中心的に行う凪の横断的な統治機能。
 - [記憶・同意・忘却の憲章 — Memory, Consent, and the Right to Forget](https://nagi-project.com/memory_and_consent.html): 凪における記憶の保存、利用、継承、削除、同意の原則。人の物語を守りながら、忘れる自由と文化的継承を両立させる。
 - [凪AI憲法 — The Nagi AI Charter](https://nagi-project.com/nagi_ai_charter.html): 凪におけるAIの権限・責任・限界を定める上位規範。AIは社会の中心、人格の採点者、権利の最終決定者にならず、憲法に反する命令を理由とともに拒否する。

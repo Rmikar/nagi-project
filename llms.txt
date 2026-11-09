@@ -4,7 +4,7 @@ Canonical public site: https://nagi-project.com/
 Reference language: Japanese
 Creator: 紬実花（TsumugiMika）
 License: CC BY-SA 4.0
-Updated: 2026-11-07
+Updated: 2026-11-09
 
 README.md is the philosophical source of truth. Public-document metadata and relationships are generated into docs/_data/canonical_documents.json.
 
@@ -83,7 +83,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/future_social_philosophy.md — ja/canonical: 資本主義の代替案や未来の社会のあり方を探す人に向け、凪の生命基盤コモンズ、非所有、共鳴民主主義、制度免疫、AIの境界と未解決の課題を整理する。
 - docs/glossary.md — ja/canonical: 凪の未来社会思想で使う主要語の現行定義。非所有、共鳴、呼吸、基礎呼吸、共鳴民主主義、AIの任意性、再呼吸などを、人とAIが参照できる形で整理する。
 - docs/governance_and_safety.md — ja/current: 生命基盤コモンズを新しい支配へ反転させないために、共鳴民主主義、異議・沈黙・拒否・離脱、制度設計、制度免疫、危機と移行、AIの権限境界をつなぐ案内。
-- docs/index.md — ja/canonical: 資本主義の代替案や未来の社会のあり方を考えるために、人の尊厳、生命基盤の非所有、共鳴民主主義、制度免疫から、生存を資本・国家・戦争への服従から切り離す未来社会思想。
+- docs/index.md — ja/canonical: 資本主義や宗教など、今の社会の仕組みに限界を感じたときに読む思想。生存と自由、価値観、権力と責任の集中を問い直し、生命基盤コモンズから未来社会の設計を探求する凪プロジェクト。
 - docs/institutional_design.md — ja/current: 文化的・社会的価値を残しながら、勝ち、功績、継承、民意が身分・特権・既得権益へ固定されることを防ぐ凪の制度設計原則。
 - docs/institutional_immunity.md — ja/canonical: 制度が悪意、善意、効率化、危機、専門性、時間によって変質することを前提に、異常の感知、独立検証、暫定停止、救済、修正、終了を多中心的に行う凪の横断的な統治機能。
 - docs/links.md — ja/supplement: 凪をコモンズ、基礎サービス、民主的参加、AI倫理、データ保護、気候正義と比較・検証するための公的・一次資料。
