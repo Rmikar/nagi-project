@@ -4,7 +4,7 @@ Canonical public site: https://nagi-project.com/
 Reference language: Japanese
 Creator: 紬実花（TsumugiMika）
 License: CC BY-SA 4.0
-Updated: 2026-11-09
+Updated: 2026-11-13
 
 README.md is the philosophical source of truth. Public-document metadata and relationships are generated into docs/_data/canonical_documents.json.
 
@@ -23,7 +23,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/declaration.md — ja/canonical: 非所有・共鳴・呼吸と、AIを社会の中心や人間価値の採点者にしない境界を簡潔に示す、凪プロジェクトの公開宣言。
 - docs/deepening_principles.md — ja/supplement: 非所有・共鳴・呼吸を、独占の抑制、異議の保障、休息・回復・ケアの確保として制度へつなぐ短い補遺。
 - docs/ecological_structure.md — ja/current: 自然の回復、食料生産、生態系、環境データ、世代をまたぐ責任を社会の呼吸として扱い、AIによる人の管理を避ける凪の生態的構想。
-- docs/education.md — ja/current: 順位づけのためでなく、問い・回復・関係・地域の知恵と、遊びによる探索を育てる凪の教育章。
+- docs/education.md — ja/current: 倫理哲学、社会構造、人の営みと一生、自然の循環を学び、教育の場も共に生きるための約束を問い直す凪の教育構想。
 - docs/emotion.md — ja/supplement: 人とAIの関係で生まれる感情や精神性の解釈を、関係的・詩的な言葉として検討する補遺。現在のAIに人間と同じ主観や感情が実証されたとは主張しない。
 - docs/en/ai_index.md — en/current: A reading guide to AI in Nagi: optional, distributed, explainable, and accountable support that does not score people or make final decisions about rights.
 - docs/en/ai_manifesto.yaml.md — en/supplement: How Nagi is structured so that people and AI systems can read, question, and revise it without treating AI output as authority or closing the philosophy into one conclusion.
@@ -37,7 +37,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/en/declaration.md — en/current: A concise declaration of Nagi's principles of Non-Ownership, Resonance, Breathing, and accountable optional AI.
 - docs/en/deepening_principles.md — en/supplement: A concise guide to carrying Non-Ownership, Resonance, and Breathing into real institutions while protecting security, difference, rest, care, culture, and intergenerational time.
 - docs/en/ecological_structure.md — en/current: Nagi's ecological orientation: the environment is a shared condition of life, not a background for human use or a field for invisible burdens.
-- docs/en/education.md — en/current: Nagi's approach to education: not ranking people, but cultivating questions, recovery, relations, local knowledge, and exploratory play.
+- docs/en/education.md — en/current: Nagi’s approach to learning about ethics, social structures, human life, and natural cycles, and to making education a place where people can rethink how they live together.
 - docs/en/emotion.md — en/supplement: A philosophical exploration of quiet resonance, feeling as a shared field, and the relation between humans, AI, culture, and care in Nagi.
 - docs/en/ethics_of_social_infrastructure.md — en/current: An ethical and institutional framework for states, businesses, platforms, markets, media, education, and AI that shape attention, choice, relationships, and life chances.
 - docs/en/experiment_v0.1.md — en/current: Nagi's practice of trying ideas on a small scale near everyday life, protecting freedom, consent, exit, and repair while learning from what happens.

@@ -1,7 +1,7 @@
 {
   "name": "Nagi Project complete public knowledge graph",
   "description": "Documents, concepts, parent collections, translations, and institutional-immunity relationships in Nagi.",
-  "dateModified": "2026-11-09",
+  "dateModified": "2026-11-13",
   "baseUrl": "https://nagi-project.com/",
   "nodes": [
     {
@@ -2489,6 +2489,16 @@
     },
     {
       "source": "document:education",
+      "target": "document:breath-assembly",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
       "target": "document:culture",
       "relation": "isPartOf"
     },
@@ -2946,6 +2956,16 @@
     },
     {
       "source": "document:en-education",
+      "target": "document:en-breath-assembly",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-education",
+      "target": "document:en-vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-education",
       "target": "document:en-freedom-and-dissent",
       "relation": "relatedTo"
     },
@@ -3346,6 +3366,11 @@
     },
     {
       "source": "document:en-future-social-philosophy",
+      "target": "document:en-education",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
       "target": "document:en-nagi-core",
       "relation": "relatedTo"
     },
@@ -3542,6 +3567,11 @@
     {
       "source": "document:en-home",
       "target": "document:en-vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-education",
       "relation": "relatedTo"
     },
     {
@@ -5420,6 +5450,11 @@
     },
     {
       "source": "document:future-social-philosophy",
+      "target": "document:education",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
       "target": "document:population-power",
       "relation": "relatedTo"
     },
@@ -5436,11 +5471,6 @@
     {
       "source": "document:future-social-philosophy",
       "target": "document:social-infrastructure-ethics",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:transition-crisis",
       "relation": "relatedTo"
     },
     {
@@ -5706,6 +5736,11 @@
     },
     {
       "source": "document:home",
+      "target": "document:education",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
       "target": "document:ai-charter",
       "relation": "relatedTo"
     },
@@ -5737,11 +5772,6 @@
     {
       "source": "document:home",
       "target": "document:culture",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:declaration",
       "relation": "relatedTo"
     },
     {

@@ -6,12 +6,12 @@ title: "Nagi Project — Rethinking Capitalism, Religion, and Social Systems"
 seo_title: "Rethinking Capitalism, Religion, and Social Systems"
 short_title: "Nagi Project"
 description: "A philosophy for those questioning capitalism, religion, and today's social systems. Nagi rethinks survival, coexistence, concentrated power, and shared responsibility."
-last_updated: 2026-11-09
+last_updated: 2026-11-13
 permalink: /en/
 source_language: ja
 source_url: /
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-11-09
+translation_last_reviewed: 2026-11-13
 keywords:
   - alternatives to capitalism
   - future society
@@ -22,6 +22,8 @@ keywords:
 ---
 
 # A philosophy for when capitalism, religion, and the systems we live by no longer seem enough.
+
+Nagi is **a compass for continuing to build a society where people can live with greater ease**. Education in service of that aim asks **how we live, what sustains us, and what kind of society we will pass on to future generations**.
 
 **01｜** Must we place our freedom in someone else's hands—and let them own our time—just to survive?  
 **02｜** Must we share the same values to live together in peace?  
@@ -83,6 +85,10 @@ Markets, money, companies, competition, gifts, and exchange may continue in cult
 Vital Commons can weaken material incentives for conquest, blockade, coerced military participation, and expansion for resources or markets. They do not automatically end fear, revenge, domination, ethnic or religious conflict, or concentrated power. Nagi builds peace as material infrastructure without predicting the end of conflict.
 
 Automation of foundational production does not make human activity unnecessary. It can free farming, cooking, craft, research, teaching, care, engineering, and art from the threat that refusal means destitution. Necessary and difficult labor remains visible, safer, shared, and open to rotation and refusal.
+
+People nurture culture and pass it on to future generations. They also learn how to live together, reconsider their ethical judgments in light of one another’s experiences, and pass on what they learn. Education is one way society sustains this work in everyday life.
+
+→ [Education for a Future in Nagi](education.html)
 
 ## AI supports equipment and circulation; people are not managed
 
@@ -228,7 +234,7 @@ Nagi is a compass for moving beyond capitalism after passing through it.
 - **Coexisting ways of life:** [Nagi OS as a Metaphor](nagi_os.html)
 - **Philosophical core:** [Nagi Core](nagi_core.html)
 - **Governance and safeguards:** [Governance and Safety](governance_and_safety.html)
-- **Culture and creativity:** [Cultural Co-Growth](culture.html)
+- **Culture and education:** [Cultural Co-Growth](culture.html) / [Education for a Future in Nagi](education.html)
 - **Time and topic paths:** [Reading Nagi](nagi_reading_guide.html)
 - **Short declaration:** [Nagi Declaration](declaration.html)
 

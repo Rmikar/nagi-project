@@ -1,6 +1,6 @@
 {
   "name": "Nagi Project complete public document registry",
-  "dateModified": "2026-11-09",
+  "dateModified": "2026-11-13",
   "baseUrl": "https://nagi-project.com/",
   "documents": [
     {
@@ -557,9 +557,9 @@
       "status": "current",
       "type": "culture-and-continuity",
       "role": "文化・創造・継承",
-      "summary": "順位づけのためでなく、問い・回復・関係・地域の知恵と、遊びによる探索を育てる凪の教育章。",
+      "summary": "倫理哲学、社会構造、人の営みと一生、自然の循環を学び、教育の場も共に生きるための約束を問い直す凪の教育構想。",
       "language": "ja",
-      "last_updated": "2026-07-12",
+      "last_updated": "2026-11-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -572,7 +572,9 @@
         "breath-economy",
         "institutional-immunity",
         "memory-consent",
-        "play-and-structure"
+        "play-and-structure",
+        "breath-assembly",
+        "vital-commons"
       ],
       "parent": "culture",
       "translation_of": null,
@@ -976,24 +978,26 @@
       "status": "current",
       "type": "culture-and-continuity",
       "role": "Culture and continuity",
-      "summary": "Nagi's approach to education: not ranking people, but cultivating questions, recovery, relations, local knowledge, and exploratory play.",
+      "summary": "Nagi’s approach to learning about ethics, social structures, human life, and natural cycles, and to making education a place where people can rethink how they live together.",
       "language": "en",
-      "last_updated": "2026-07-12",
+      "last_updated": "2026-11-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [],
       "related": [
         "en-culture",
         "en-memory-and-consent",
+        "en-breath-assembly",
+        "en-vital-commons",
         "en-freedom-and-dissent",
         "education"
       ],
       "parent": "en-culture",
       "translation_of": "education",
       "translation": "education",
-      "translation_status": "working translation",
-      "translation_last_reviewed": "2026-07-12",
-      "source_last_updated": "2026-07-12",
+      "translation_status": "maintained translation",
+      "translation_last_reviewed": "2026-11-13",
+      "source_last_updated": "2026-11-13",
       "translation_needs_review": false
     },
     {
@@ -1209,7 +1213,7 @@
       "role": "Philosophical context",
       "summary": "For people exploring alternatives to capitalism and the future of society: Nagi's Vital Commons, Non-Ownership, Resonant Democracy, safeguards, AI boundaries, and open questions.",
       "language": "en",
-      "last_updated": "2026-08-13",
+      "last_updated": "2026-11-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -1228,6 +1232,7 @@
         "en-nagi-os",
         "en-vital-commons",
         "en-institutional-design",
+        "en-education",
         "en-nagi-core",
         "en-declaration",
         "en-compass-and-resonant-democracy",
@@ -1243,7 +1248,7 @@
       "translation": "future-social-philosophy",
       "translation_status": "maintained translation",
       "translation_last_reviewed": "2026-08-13",
-      "source_last_updated": "2026-10-30",
+      "source_last_updated": "2026-11-13",
       "translation_needs_review": true
     },
     {
@@ -1354,7 +1359,7 @@
       "role": "Reference overview",
       "summary": "A philosophy for those questioning capitalism, religion, and today's social systems. Nagi rethinks survival, coexistence, concentrated power, and shared responsibility.",
       "language": "en",
-      "last_updated": "2026-11-09",
+      "last_updated": "2026-11-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -1367,6 +1372,7 @@
       ],
       "related": [
         "en-vital-commons",
+        "en-education",
         "en-nagi-ai-charter",
         "en-future-social-design-principles",
         "en-compass-and-resonant-democracy",
@@ -1386,8 +1392,8 @@
       "translation_of": "home",
       "translation": "home",
       "translation_status": "maintained translation",
-      "translation_last_reviewed": "2026-11-09",
-      "source_last_updated": "2026-11-09",
+      "translation_last_reviewed": "2026-11-13",
+      "source_last_updated": "2026-11-13",
       "translation_needs_review": false
     },
     {
@@ -2662,7 +2668,7 @@
       "role": "位置づけと哲学的背景",
       "summary": "資本主義の代替案や未来の社会のあり方を探す人に向け、凪の生命基盤コモンズ、非所有、共鳴民主主義、制度免疫、AIの境界と未解決の課題を整理する。",
       "language": "ja",
-      "last_updated": "2026-10-30",
+      "last_updated": "2026-11-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -2694,11 +2700,11 @@
         "state-public-spheres",
         "vital-commons",
         "nagi-os",
+        "education",
         "population-power",
         "declaration",
         "freedom-dissent-exit",
-        "social-infrastructure-ethics",
-        "transition-crisis"
+        "social-infrastructure-ethics"
       ],
       "parent": "home",
       "translation_of": null,
@@ -2855,7 +2861,7 @@
       "role": "思想上の正本・全体像",
       "summary": "資本主義や宗教など、今の社会の仕組みに限界を感じたときに読む思想。生存と自由、価値観、権力と責任の集中を問い直し、生命基盤コモンズから未来社会の設計を探求する凪プロジェクト。",
       "language": "ja",
-      "last_updated": "2026-11-09",
+      "last_updated": "2026-11-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -2876,14 +2882,14 @@
         "vital-commons",
         "population-power",
         "nagi-os",
+        "education",
         "ai-charter",
         "institutional-immunity",
         "future-social-design-principles",
         "resonant-democracy",
         "transition-crisis",
         "governance-and-safety",
-        "culture",
-        "declaration"
+        "culture"
       ],
       "parent": null,
       "translation_of": null,

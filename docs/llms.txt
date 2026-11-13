@@ -8,7 +8,7 @@
 - Creator: 紬実花（TsumugiMika）
 - Reference language: Japanese
 - License: CC BY-SA 4.0
-- Registry updated: 2026-11-09
+- Registry updated: 2026-11-13
 - English maintained edition: https://nagi-project.com/en/
 
 ## 正本
@@ -34,7 +34,7 @@
 - [凪経済構造](https://nagi-project.com/breath_economy.html): 生存を所得や雇用への服従から切り離す基礎呼吸と生命基盤、文化と創造の自由な層、物・知・ケアの循環を示す凪の経済構想。
 - [文化的共育](https://nagi-project.com/culture.html): 文化を商品や人気だけに回収せず、創る人・受け取る人・地域の記憶を、変化と自由を残したまま次へ渡す凪の文化章。
 - [凪環境構造](https://nagi-project.com/ecological_structure.html): 自然の回復、食料生産、生態系、環境データ、世代をまたぐ責任を社会の呼吸として扱い、AIによる人の管理を避ける凪の生態的構想。
-- [凪における未来の教育](https://nagi-project.com/education.html): 順位づけのためでなく、問い・回復・関係・地域の知恵と、遊びによる探索を育てる凪の教育章。
+- [凪における未来の教育](https://nagi-project.com/education.html): 倫理哲学、社会構造、人の営みと一生、自然の循環を学び、教育の場も共に生きるための約束を問い直す凪の教育構想。
 - [凪実験章](https://nagi-project.com/experiment_v0.1.html): 凪を生活の近くで小さく試し、自由・同意・離脱・修復を守りながら学ぶための実験章。
 - [凪プロジェクト FAQ — 未来社会思想・非所有・共鳴民主主義・AI倫理](https://nagi-project.com/faq.html): 凪とは何か、資本主義の代替案になりうるか、社会主義とどう違うか、非所有や共鳴民主主義、AIの位置づけなど、未来社会思想の主要な質問に答える。
 - [資本主義以後の自由競争原理](https://nagi-project.com/free_competition.html): 競争を生存の条件や独占の正当化にせず、生命基盤の保障の上で、文化・技術・嗜好・創造をめぐる自由な選択として残す経済原理。

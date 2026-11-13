@@ -7,7 +7,7 @@ short_title: "Nagi as a Future Social Philosophy"
 description: "For people exploring alternatives to capitalism and the future of society: Nagi's Vital Commons, Non-Ownership, Resonant Democracy, safeguards, AI boundaries, and open questions."
 permalink: /en/future_social_philosophy.html
 status: current
-last_updated: 2026-08-13
+last_updated: 2026-11-13
 source_language: ja
 source_url: /future_social_philosophy.html
 translation_status: "maintained translation"
@@ -107,6 +107,12 @@ Institutions can be altered by malice, good intentions, optimization, emergency,
 **Institutional Immunity** is therefore part of the cost of an institution, not an optional add-on. It distributes the ability to detect harm, investigate independently, pause severe and hard-to-reverse damage, provide remedy, and revise, reduce, divide, replace, or end a system.
 
 Institutional Immunity is not a fourth principle. It is the transversal function that keeps Non-Ownership from returning to monopoly, Resonance from becoming conformity, and Breathing from becoming a score imposed on people.
+
+## Ethics and education
+
+People can reconsider how to live together by examining the effects of their actions and listening to those affected. Education makes time for this in everyday life. Learners can question the rules around them, and educational institutions can respond by reviewing those rules and checking the effects of any changes.
+
+→ [Education for a Future in Nagi](education.html)
 
 ## Relation to nearby fields
 

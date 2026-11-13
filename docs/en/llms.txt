@@ -9,7 +9,7 @@
 - Creator: 紬実花（TsumugiMika）
 - Reference language: Japanese
 - License: CC BY-SA 4.0
-- Registry updated: 2026-11-09
+- Registry updated: 2026-11-13
 
 ## Canonical and current English documents
 
@@ -21,7 +21,7 @@
 - [Cultural Co-Growth](https://nagi-project.com/en/culture.html): Nagi's cultural chapter: culture is not reduced to products or popularity, but carried among creators, receivers, communities, and memory without erasing difference.
 - [Nagi Declaration](https://nagi-project.com/en/declaration.html): A concise declaration of Nagi's principles of Non-Ownership, Resonance, Breathing, and accountable optional AI.
 - [Nagi Ecological Structure](https://nagi-project.com/en/ecological_structure.html): Nagi's ecological orientation: the environment is a shared condition of life, not a background for human use or a field for invisible burdens.
-- [Education for a Future in Nagi](https://nagi-project.com/en/education.html): Nagi's approach to education: not ranking people, but cultivating questions, recovery, relations, local knowledge, and exploratory play.
+- [Education for a Future in Nagi](https://nagi-project.com/en/education.html): Nagi’s approach to learning about ethics, social structures, human life, and natural cycles, and to making education a place where people can rethink how they live together.
 - [The Ethics of Social Systems — Keeping the Power to Coordinate from Becoming Domination](https://nagi-project.com/en/ethics_of_social_infrastructure.html): An ethical and institutional framework for states, businesses, platforms, markets, media, education, and AI that shape attention, choice, relationships, and life chances.
 - [Nagi Experiments](https://nagi-project.com/en/experiment_v0.1.html): Nagi's practice of trying ideas on a small scale near everyday life, protecting freedom, consent, exit, and repair while learning from what happens.
 - [Principles of Free Competition Beyond Capitalism](https://nagi-project.com/en/free_competition.html): Nagi's approach to competition: preserve creative experimentation and difference while placing Basic Breath outside competition and preventing gain through the destruction of others.

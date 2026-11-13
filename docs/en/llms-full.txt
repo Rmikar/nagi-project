@@ -3,7 +3,7 @@
 Creator: 紬実花（TsumugiMika）
 Reference language: Japanese
 License: CC BY-SA 4.0
-Updated: 2026-11-09
+Updated: 2026-11-13
 Canonical site: https://nagi-project.com/
 
 The Japanese README and public home are the reference edition. Translation status is part of each document's metadata.
@@ -662,8 +662,8 @@ Source: https://nagi-project.com/en/education.html
 Status: current
 Type: culture-and-continuity
 Role: Culture and continuity
-Updated: 2026-07-12
-Summary: Nagi's approach to education: not ranking people, but cultivating questions, recovery, relations, local knowledge, and exploratory play.
+Updated: 2026-11-13
+Summary: Nagi’s approach to learning about ethics, social structures, human life, and natural cycles, and to making education a place where people can rethink how they live together.
 
 
 # Education for a Future in Nagi
@@ -672,7 +672,28 @@ Education in Nagi does not exist to arrange people in rank order alone.
 
 It is a place where learners can carry their own questions, encounter differences in others, and choose ways of relating to the world.
 
-Learning includes knowledge, skills, creation, the body, local memory, care, relations with nature, and the ability to rest.
+Nagi is a compass for continuing to build a society where people can live with greater ease. Education in service of that aim asks how we live, what sustains us, and what kind of society we will pass on to future generations.
+
+## What learning centers on
+
+- **Ethics and philosophy.** Ask what matters and how to make judgments when freedom and safety, or fairness and individual circumstances, pull in different directions. Put reasons into words and reconsider judgments in light of the effects of an action and the experiences of those affected.
+- **Social structures.** Use familiar institutions such as schools, workplaces, local communities, the economy, and public services to ask who makes decisions, who benefits, and who bears the costs.
+- **Human activity and the life cycle.** Connect birth, development, aging, and death with food, work, care, rest, and the passing on of culture. Throughout life, people give and receive support in different ways.
+- **Natural cycles and the knowledge needed to sustain the world we live in.** Study the cycles of water, soil, and living things. Learn how people obtain food, water, energy, housing, and health care, and who keeps those systems running. Trace what happens to resources after use and consider ecological recovery, infrastructure repair, and what is handed on to future generations.
+
+Learning also includes physical experience, creative work, encounters with local memory, and learning how to rest.
+
+Questions from this work guide the choice of technology. Consider what a tool is for, learn the science and techniques needed to use it, and then check whose lives and burdens changed as a result.
+
+## Educational institutions learn, too
+
+Schools and other places of learning make regular time to learn about, practice, and reconsider the ethics of living together. Learners can question the rules of the places where they spend their time. A school lunch, for example, can prompt questions about the soil and water that produced the ingredients, the people who grew and cooked them, the needs of people who cannot eat certain foods, and where leftovers go. Those questions can lead to changes in menus or the way meals are served.
+
+The people running the school make time and provide a way to raise questions. They explain the reasons for existing rules, listen to the people affected, try changes where it is safe to do so, and check together whose experience improved and who took on extra work. The educational institution is responsible for keeping this process open, responding, and carrying through improvements. Learners choose whether to speak.
+
+People nurture and pass on culture. They also develop the ethics of living together through everyday life, reconsider those ethics as circumstances change, and pass on what they learn. Education is one way society sustains this work in everyday life.
+
+## Protecting freedom in learning
 
 - Possibility is not decided by grades, volume of speech, or speed alone.
 - Resting, changing direction, and returning to learning are respected.
@@ -691,10 +712,12 @@ Education does not punish exploration. At the same time, it makes the conditions
 > Education is not the selection of people who can produce the correct answer quickly.  
 > It is helping each person remake their relation to the world in their own words.
 
-→ [Memory, Consent, and the Right to Forget](memory_and_consent.html)  
-→ [Cultural Co-Growth](culture.html)  
-→ [Freedom, Dissent, and Exit](freedom_and_dissent.html)  
-→ [Japanese reference edition](../education.html)
+- [Memory, Consent, and the Right to Forget](memory_and_consent.html)
+- [Cultural Co-Growth](culture.html)
+- [Breath Assembly](breath_assembly.html)
+- [Vital Commons](vital_commons.html)
+- [Freedom, Dissent, and Exit](freedom_and_dissent.html)
+- [Japanese reference edition](../education.html)
 
 
 ---
@@ -1315,7 +1338,7 @@ Source: https://nagi-project.com/en/future_social_philosophy.html
 Status: current
 Type: philosophical-context
 Role: Philosophical context
-Updated: 2026-08-13
+Updated: 2026-11-13
 Summary: For people exploring alternatives to capitalism and the future of society: Nagi's Vital Commons, Non-Ownership, Resonant Democracy, safeguards, AI boundaries, and open questions.
 
 
@@ -1402,6 +1425,12 @@ Institutions can be altered by malice, good intentions, optimization, emergency,
 **Institutional Immunity** is therefore part of the cost of an institution, not an optional add-on. It distributes the ability to detect harm, investigate independently, pause severe and hard-to-reverse damage, provide remedy, and revise, reduce, divide, replace, or end a system.
 
 Institutional Immunity is not a fourth principle. It is the transversal function that keeps Non-Ownership from returning to monopoly, Resonance from becoming conformity, and Breathing from becoming a score imposed on people.
+
+## Ethics and education
+
+People can reconsider how to live together by examining the effects of their actions and listening to those affected. Education makes time for this in everyday life. Learners can question the rules around them, and educational institutions can respond by reviewing those rules and checking the effects of any changes.
+
+→ [Education for a Future in Nagi](education.html)
 
 ## Relation to nearby fields
 
@@ -1660,11 +1689,13 @@ Source: https://nagi-project.com/en/
 Status: current
 Type: overview
 Role: Reference overview
-Updated: 2026-11-09
+Updated: 2026-11-13
 Summary: A philosophy for those questioning capitalism, religion, and today's social systems. Nagi rethinks survival, coexistence, concentrated power, and shared responsibility.
 
 
 # A philosophy for when capitalism, religion, and the systems we live by no longer seem enough.
+
+Nagi is **a compass for continuing to build a society where people can live with greater ease**. Education in service of that aim asks **how we live, what sustains us, and what kind of society we will pass on to future generations**.
 
 **01｜** Must we place our freedom in someone else's hands—and let them own our time—just to survive?  
 **02｜** Must we share the same values to live together in peace?  
@@ -1726,6 +1757,10 @@ Markets, money, companies, competition, gifts, and exchange may continue in cult
 Vital Commons can weaken material incentives for conquest, blockade, coerced military participation, and expansion for resources or markets. They do not automatically end fear, revenge, domination, ethnic or religious conflict, or concentrated power. Nagi builds peace as material infrastructure without predicting the end of conflict.
 
 Automation of foundational production does not make human activity unnecessary. It can free farming, cooking, craft, research, teaching, care, engineering, and art from the threat that refusal means destitution. Necessary and difficult labor remains visible, safer, shared, and open to rotation and refusal.
+
+People nurture culture and pass it on to future generations. They also learn how to live together, reconsider their ethical judgments in light of one another’s experiences, and pass on what they learn. Education is one way society sustains this work in everyday life.
+
+→ [Education for a Future in Nagi](education.html)
 
 ## AI supports equipment and circulation; people are not managed
 
@@ -1871,7 +1906,7 @@ Nagi is a compass for moving beyond capitalism after passing through it.
 - **Coexisting ways of life:** [Nagi OS as a Metaphor](nagi_os.html)
 - **Philosophical core:** [Nagi Core](nagi_core.html)
 - **Governance and safeguards:** [Governance and Safety](governance_and_safety.html)
-- **Culture and creativity:** [Cultural Co-Growth](culture.html)
+- **Culture and education:** [Cultural Co-Growth](culture.html) / [Education for a Future in Nagi](education.html)
 - **Time and topic paths:** [Reading Nagi](nagi_reading_guide.html)
 - **Short declaration:** [Nagi Declaration](declaration.html)
 
