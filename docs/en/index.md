@@ -58,6 +58,9 @@ Nagi is not a finished system that simply rejects capitalism. It is one social p
 
 ## Nagi’s two central proposals
 
+1. [**Free survival from ownership**](#free-survival-from-ownership)
+2. [**Make the ethics that sustain the world’s cycles the highest priority in education**](#make-the-ethics-that-sustain-the-worlds-cycles-the-highest-priority-in-education)
+
 ### Free survival from ownership
 
 **The resources and infrastructure required for life become non-owned Vital Commons.**
