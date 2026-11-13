@@ -1728,7 +1728,9 @@ Nagi is not a finished system that simply rejects capitalism. It is one social p
 
 ---
 
-## The central proposal: free survival from ownership
+## Nagi’s two central proposals
+
+### Free survival from ownership
 
 **The resources and infrastructure required for life become non-owned Vital Commons.**
 
@@ -1749,6 +1751,14 @@ Basic access does not depend on payment capacity, work capacity, reputation, par
 > Refusing an order does not remove food, care, shelter, or safety.
 
 → [Vital Commons](vital_commons.html)
+
+### **Make the ethics that sustain the world’s cycles the highest priority in education**
+
+We learn how human lives unfold and how natural and social cycles sustain everyday life. With that understanding, we ask how to live, how to support one another, and what to pass on to future generations. Nagi puts this ethical inquiry at the heart of education and cultivates it in everyday conduct and social institutions.
+
+We ask which technologies serve that purpose, then learn and use them. Educational institutions also respond to learners’ questions by reviewing their own rules and examining the effects of changes together.
+
+→ [Education for a Future in Nagi](education.html)
 
 ## What changes above that floor
 
@@ -1902,11 +1912,11 @@ Nagi is a compass for moving beyond capitalism after passing through it.
 
 - **Five-minute overview:** [Nagi as a Future Social Philosophy](future_social_philosophy.html)
 - **Design compass:** [Future Social Design Principles — A Strong Floor and an Open Ceiling](future_social_design_principles.html)
-- **Central proposal:** [Vital Commons](vital_commons.html)
+- **Two central proposals:** [Vital Commons](vital_commons.html) / [Education for a Future in Nagi](education.html)
 - **Coexisting ways of life:** [Nagi OS as a Metaphor](nagi_os.html)
 - **Philosophical core:** [Nagi Core](nagi_core.html)
 - **Governance and safeguards:** [Governance and Safety](governance_and_safety.html)
-- **Culture and education:** [Cultural Co-Growth](culture.html) / [Education for a Future in Nagi](education.html)
+- **Culture and creativity:** [Cultural Co-Growth](culture.html)
 - **Time and topic paths:** [Reading Nagi](nagi_reading_guide.html)
 - **Short declaration:** [Nagi Declaration](declaration.html)
 
@@ -2778,7 +2788,7 @@ Source: https://nagi-project.com/en/nagi_os.html
 Status: current
 Type: philosophical-context
 Role: Philosophical context
-Updated: 2026-08-12
+Updated: 2026-11-13
 Summary: An explanatory model of Nagi as a shared foundation for plural social philosophies and ways of life, grounded in Vital Commons, basic rights, exit, Resonant Democracy, and Institutional Immunity.
 
 
@@ -2807,7 +2817,7 @@ OS and application are metaphors only. People are not reducible to users, and cu
 | Fault response | Institutional Immunity, remedy, pause, review, and termination | Harm can be detected, stopped, repaired, and learned from, including harm caused by well-intentioned institutions |
 | Optional support | Human operation, local institutions, and public-interest AI where useful | Equipment and circulation may be supported without managing human worth or rights |
 
-Vital Commons remain the central proposal. Institutional Immunity is a cross-cutting safeguard against the reversal of any institution into domination. AI is an optional support, never the owner, administrator, or final judge of the OS.
+Vital Commons are one of Nagi’s two central proposals and provide a foundation for survival. The other proposal puts the ethics that sustain the world’s cycles at the heart of [education](education.html). Institutional Immunity is a cross-cutting safeguard against the reversal of any institution into domination. AI is an optional support, never the owner, administrator, or final judge of the OS.
 
 ## 2. Conditions shared by every “application”
 
@@ -4137,8 +4147,8 @@ Source: https://nagi-project.com/en/vital_commons.html
 Status: current
 Type: institutional-economic-proposal
 Role: Institutional and economic proposal
-Updated: 2026-08-13
-Summary: Nagi's central proposal: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.
+Updated: 2026-11-13
+Summary: Nagi's proposal for the foundations of survival: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.
 
 
 # Vital Commons

@@ -4,10 +4,10 @@ lang: en
 title: "Vital Commons — Separating Survival from Capital, Ownership, and War"
 seo_title: "Vital Commons — Freeing Survival from Capital and Ownership"
 short_title: "Vital Commons"
-description: "Nagi's central proposal: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid."
+description: "Nagi's proposal for the foundations of survival: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid."
 permalink: /en/vital_commons.html
 status: current
-last_updated: 2026-08-13
+last_updated: 2026-11-13
 source_language: ja
 source_url: /vital_commons.html
 translation_status: "maintained translation"

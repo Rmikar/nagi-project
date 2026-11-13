@@ -6,7 +6,7 @@ short_title: "Nagi OS as a Metaphor"
 description: "An explanatory model of Nagi as a shared foundation for plural social philosophies and ways of life, grounded in Vital Commons, basic rights, exit, Resonant Democracy, and Institutional Immunity."
 permalink: /en/nagi_os.html
 status: current
-last_updated: 2026-08-12
+last_updated: 2026-11-13
 source_language: ja
 source_url: /nagi_os.html
 translation_status: "maintained translation"
@@ -52,7 +52,7 @@ OS and application are metaphors only. People are not reducible to users, and cu
 | Fault response | Institutional Immunity, remedy, pause, review, and termination | Harm can be detected, stopped, repaired, and learned from, including harm caused by well-intentioned institutions |
 | Optional support | Human operation, local institutions, and public-interest AI where useful | Equipment and circulation may be supported without managing human worth or rights |
 
-Vital Commons remain the central proposal. Institutional Immunity is a cross-cutting safeguard against the reversal of any institution into domination. AI is an optional support, never the owner, administrator, or final judge of the OS.
+Vital Commons are one of Nagi’s two central proposals and provide a foundation for survival. The other proposal puts the ethics that sustain the world’s cycles at the heart of [education](education.html). Institutional Immunity is a cross-cutting safeguard against the reversal of any institution into domination. AI is an optional support, never the owner, administrator, or final judge of the OS.
 
 ## 2. Conditions shared by every “application”
 

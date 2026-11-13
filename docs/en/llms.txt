@@ -50,7 +50,7 @@
 - [Transition and Crisis Design](https://nagi-project.com/en/transition_and_crisis.html): Nagi's principles for moving gradually from present institutions while protecting people during disaster, violence, scarcity, discrimination, and social change.
 - [English Edition — Translation Status and Governance](https://nagi-project.com/en/translation_status.html): How Nagi's English edition relates to the Japanese reference, which central chapters are aligned as of August 12, 2026, and how stale translations are identified and repaired.
 - [Trust and Governance](https://nagi-project.com/en/trust.html): Nagi's approach to governance: trust is not the monopoly of correctness, but visible reasons, dissent, review, remedy, and the real possibility of leaving.
-- [Vital Commons — Separating Survival from Capital, Ownership, and War](https://nagi-project.com/en/vital_commons.html): Nagi's central proposal: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.
+- [Vital Commons — Separating Survival from Capital, Ownership, and War](https://nagi-project.com/en/vital_commons.html): Nagi's proposal for the foundations of survival: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.
 
 ## Supplements
 
@@ -71,6 +71,7 @@
 - Protect human dignity and kindness, creative opportunity, and cultural continuity before preserving any institution, market, technology, or implementation.
 - The economy is a means, not an end. Growth and profit do not override these commitments.
 - Vital Commons separate basic survival from income, employment, nationality, ownership, ideological agreement, and AI use.
+- Nagi’s other central proposal puts the ethics that sustain the world’s cycles at the heart of education.
 - Nagi OS is a metaphor for conditions under which different philosophies and ways of life coexist. It is not software, a central administrator, or a fourth principle.
 - Non-Ownership does not abolish bodies, homes, everyday belongings, private memory, or creator personhood. It opposes ownership that becomes power over another person's survival or voice.
 - Resonance is not agreement, obedience, emotional synchronization, or a human-value score. Dissent, silence, refusal, non-participation, and exit remain protected.

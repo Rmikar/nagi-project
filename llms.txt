@@ -73,7 +73,7 @@ README.md is the philosophical source of truth. Public-document metadata and rel
 - docs/en/transition_and_crisis.md — en/current: Nagi's principles for moving gradually from present institutions while protecting people during disaster, violence, scarcity, discrimination, and social change.
 - docs/en/translation_status.md — en/current: How Nagi's English edition relates to the Japanese reference, which central chapters are aligned as of August 12, 2026, and how stale translations are identified and repaired.
 - docs/en/trust.md — en/current: Nagi's approach to governance: trust is not the monopoly of correctness, but visible reasons, dissent, review, remedy, and the real possibility of leaving.
-- docs/en/vital_commons.md — en/current: Nagi's central proposal: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.
+- docs/en/vital_commons.md — en/current: Nagi's proposal for the foundations of survival: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.
 - docs/ethics_of_social_infrastructure.md — ja/canonical: 国家、企業、プラットフォーム、AI、メディアなど、人を束ねて行動や選択に影響を与える装置が、支配へ傾かず協働を支えるための倫理と制度を考える。
 - docs/experiment_v0.1.md — ja/current: 凪を生活の近くで小さく試し、自由・同意・離脱・修復を守りながら学ぶための実験章。
 - docs/faq.md — ja/current: 凪とは何か、資本主義の代替案になりうるか、社会主義とどう違うか、非所有や共鳴民主主義、AIの位置づけなど、未来社会思想の主要な質問に答える。

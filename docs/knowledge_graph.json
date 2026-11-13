@@ -4026,6 +4026,11 @@
     },
     {
       "source": "document:en-nagi-os",
+      "target": "document:en-education",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-nagi-os",
       "target": "document:en-freedom-and-dissent",
       "relation": "relatedTo"
     },
@@ -6357,6 +6362,11 @@
     {
       "source": "document:nagi-os",
       "target": "document:state-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:nagi-os",
+      "target": "document:education",
       "relation": "relatedTo"
     },
     {

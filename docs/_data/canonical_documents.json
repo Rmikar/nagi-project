@@ -1690,7 +1690,7 @@
       "role": "Philosophical context",
       "summary": "An explanatory model of Nagi as a shared foundation for plural social philosophies and ways of life, grounded in Vital Commons, basic rights, exit, Resonant Democracy, and Institutional Immunity.",
       "language": "en",
-      "last_updated": "2026-08-12",
+      "last_updated": "2026-11-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -1709,6 +1709,7 @@
         "en-future-social-philosophy",
         "en-vital-commons",
         "en-institutional-immunity",
+        "en-education",
         "en-freedom-and-dissent",
         "en-compass-and-resonant-democracy",
         "en-state-and-public-spheres"
@@ -1718,7 +1719,7 @@
       "translation": "nagi-os",
       "translation_status": "maintained translation",
       "translation_last_reviewed": "2026-08-12",
-      "source_last_updated": "2026-11-07",
+      "source_last_updated": "2026-11-13",
       "translation_needs_review": true
     },
     {
@@ -2357,9 +2358,9 @@
       "status": "current",
       "type": "institutional-economic-proposal",
       "role": "Institutional and economic proposal",
-      "summary": "Nagi's central proposal: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.",
+      "summary": "Nagi's proposal for the foundations of survival: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.",
       "language": "en",
-      "last_updated": "2026-08-13",
+      "last_updated": "2026-11-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -3254,7 +3255,7 @@
       "role": "位置づけと哲学的背景",
       "summary": "凪を一つの生き方を強制する体制ではなく、生命基盤・基本的権利・離脱・制度免疫を共通の床として、多様な社会思想やライフスタイルが共存できる社会基盤として説明する。",
       "language": "ja",
-      "last_updated": "2026-11-07",
+      "last_updated": "2026-11-13",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -3275,7 +3276,8 @@
         "freedom-dissent-exit",
         "resonant-democracy",
         "institutional-immunity",
-        "state-public-spheres"
+        "state-public-spheres",
+        "education"
       ],
       "parent": "home",
       "translation_of": null,
