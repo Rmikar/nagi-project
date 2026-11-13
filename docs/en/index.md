@@ -61,7 +61,8 @@ Nagi is not a finished system that simply rejects capitalism. It is one social p
 1. [**Free survival from ownership**](#free-survival-from-ownership)
 2. [**Make the ethics that sustain the world’s cycles the highest priority in education**](#make-the-ethics-that-sustain-the-worlds-cycles-the-highest-priority-in-education)
 
-### Free survival from ownership
+### Proposal 1 | Free survival from ownership
+{: #free-survival-from-ownership .central-proposal-heading }
 
 **The resources and infrastructure required for life become non-owned Vital Commons.**
 
@@ -83,7 +84,8 @@ Basic access does not depend on payment capacity, work capacity, reputation, par
 
 → [Vital Commons](vital_commons.html)
 
-### **Make the ethics that sustain the world’s cycles the highest priority in education**
+### Proposal 2 | Make the ethics that sustain the world’s cycles the highest priority in education
+{: #make-the-ethics-that-sustain-the-worlds-cycles-the-highest-priority-in-education .central-proposal-heading }
 
 We learn how human lives unfold and how natural and social cycles sustain everyday life. With that understanding, we ask how to live, how to support one another, and what to pass on to future generations. Nagi puts this ethical inquiry at the heart of education and cultivates it in everyday conduct and social institutions.
 

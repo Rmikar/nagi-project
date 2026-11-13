@@ -263,6 +263,17 @@ main.prose {
   font-size: 1.16rem;
 }
 
+
+.prose h3.central-proposal-heading {
+  margin-top: 2.6rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid var(--sea);
+  background: var(--surface-soft);
+  font-size: clamp(1.25rem, 2.6vw, 1.55rem);
+  overflow-wrap: anywhere;
+}
+
 .prose h4 {
   margin-top: 1.6rem;
   margin-bottom: 0.5rem;
