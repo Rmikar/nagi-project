@@ -1695,7 +1695,7 @@ Summary: A philosophy for those questioning capitalism, religion, and today's so
 
 # A philosophy for when capitalism, religion, and the systems we live by no longer seem enough.
 
-Nagi is **a compass for continuing to build a society where people can live with greater ease**. Education in service of that aim asks **how we live, what sustains us, and what kind of society we will pass on to future generations**.
+Nagi is **a compass for continuing to build a society where people can live with greater ease**. To that end, Nagi asks **how we live, what sustains us, and what kind of society we will pass on to future generations**.
 
 **01｜** Must we place our freedom in someone else's hands—and let them own our time—just to survive?  
 **02｜** Must we share the same values to live together in peace?  
