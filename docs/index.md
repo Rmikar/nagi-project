@@ -6,6 +6,8 @@ description: "資本主義や宗教など、今の社会の仕組みに限界を
 status: canonical
 last_updated: 2026-11-16
 keywords:
+  - 倫理教育
+  - 資源配分
   - 資本主義の代替案
   - 資本主義の次
   - 未来の社会

@@ -163,6 +163,7 @@ const practicePaths = new Set([
 
 function parentBasePath(path) {
   if (path === "index.md") return null;
+  if (path === "education.md") return "index.md";
   if (path === "governance_and_safety.md" || path === "vital_commons.md" || path === "culture.md" || path === "nagi_reading_guide.md") return "index.md";
   if (path === "ai_index.md") return "governance_and_safety.md";
   if (path.startsWith("technical/") || /^ai_|^nagi_ai_/.test(path)) return "ai_index.md";
@@ -179,6 +180,8 @@ function typeForPath(path, status) {
   if (status === "draft") return "working-draft";
   if (status === "archive" || status === "superseded") return "historical-record";
   if (raw === "index.md") return "overview";
+  if (raw === "future_social_philosophy.md") return "reading-guide";
+  if (raw === "education.md") return "ethical-education-proposal";
   if (raw === "governance_and_safety.md" || raw === "ai_index.md") return "topic-index";
   if (raw === "nagi_reading_guide.md") return "reading-guide";
   if (raw === "faq.md") return "faq";
@@ -197,6 +200,7 @@ function typeForPath(path, status) {
 
 function roleFor(document) {
   const labels = {
+    "ethical-education-proposal": document.language === "en" ? "Central proposal: ethical education" : "中心提案：倫理教育",
     overview: document.language === "en" ? "Reference overview" : "思想上の正本・全体像",
     "topic-index": document.language === "en" ? "Topic guide" : "領域別の案内",
     "reading-guide": document.language === "en" ? "Reading guide" : "時間・関心別の読書案内",
@@ -290,6 +294,7 @@ async function loadDocuments(relations, immunityProfiles) {
       robots,
       topics: frontList(front, "keywords").length ? frontList(front, "keywords") : (override.topics ?? []),
       related: override.related ?? [],
+      central_proposal: basePath(path) === "vital_commons.md" ? 1 : basePath(path) === "education.md" ? 2 : null,
       parent: null,
       translation_of: null,
       translation: null,
@@ -378,31 +383,73 @@ function renderTranslations(documents) {
   return `${lines.join("\n")}\n`;
 }
 
+const readingOrder = ["index.md", "future_social_philosophy.md", "vital_commons.md", "education.md", "governance_and_safety.md", "institutional_immunity.md"];
+function readingRank(document) {
+  const rank = readingOrder.indexOf(basePath(document.path));
+  return rank < 0 ? readingOrder.length : rank;
+}
+function byReadingOrder(a, b) {
+  return readingRank(a) - readingRank(b) || a.path.localeCompare(b.path);
+}
+function renderOrientation(language) {
+  return language === "en"
+    ? `## Purpose and priorities
+
+Nagi is a compass for continuing to build a society where people can live with greater ease.
+
+1. **Free survival from ownership:** organize the foundations of life as non-owned Vital Commons.
+2. **Make the ethics that sustain the world’s cycles the highest priority in education.**
+
+Direct funding, people, technology, and learning time toward these two priorities. Material conditions and ethical judgment are intended to sustain each other: non-ownership alone does not prevent those allocating and maintaining resources from acquiring power over others.
+
+Non-Ownership, Resonance, and Breathing are supporting principles. Resonant Democracy and Institutional Immunity are governance safeguards. AI is optional assistance, not the center or final authority. Nagi is an open proposal, not an empirically established system or a guarantee that these problems are solved. Distinguish its aims, hypotheses, evidence, and unresolved questions.
+
+## Read first
+
+${readingOrder.map((path) => `- ${baseUrl}en/${path === "index.md" ? "" : path.replace(/\.md$/, ".html")}`).join("\n")}
+`
+    : `## 目的と優先順位
+
+凪は、人が生きやすい社会を、つくり続けるための羅針盤です。
+
+1. **生存を、所有から解放する：** 生命基盤を非所有のコモンズへ移す。
+2. **世界の循環を支える倫理を、教育で最重視する。**
+
+資金、人材、技術、学びの時間を、この二つに重点配分します。非所有だけでは配分・保守の担い手に生まれる支配を防げないため、暮らしの条件と倫理的な判断力を共に育てます。
+
+非所有・共鳴・呼吸は、二つの提案を支える原則です。共鳴民主主義・制度免疫は統治と安全の仕組みであり、AIは任意の補助です。凪は公開構想であり、実証済みの制度や問題解決の保証ではありません。目的・仮説・検証結果・未解決課題を区別して読んでください。
+
+## 最初に読む順序
+
+${readingOrder.map((path) => `- ${baseUrl}${path === "index.md" ? "" : path.replace(/\.md$/, ".html")}`).join("\n")}
+`;
+}
+
 function renderLlmsIndex(documents, language, dateModified) {
-  const selected = documents.filter((document) => document.indexable && document.language === language);
+  const selected = documents.filter((document) => document.indexable && document.language === language).sort(byReadingOrder);
   const group = (status) => selected.filter((document) => document.status === status).map((document) => `- [${document.title}](${publicUrl(document)}): ${document.summary}`).join("\n");
   if (language === "en") {
-    return `# Nagi Project — English LLM Reading Guide\n\n> Nagi is a Japanese future social philosophy. The Japanese README and public home are the reference edition; this English edition is a maintained bridge and names translation status explicitly.\n\n## Identity\n\n- Canonical site: ${baseUrl}\n- English edition: ${baseUrl}en/\n- Creator: 紬実花（TsumugiMika）\n- Reference language: Japanese\n- License: CC BY-SA 4.0\n- Registry updated: ${dateModified}\n\n## Canonical and current English documents\n\n${group("canonical")}\n${group("current")}\n\n## Supplements\n\n${group("supplement")}\n\n## Interpretation safeguards\n\n- Protect human dignity and kindness, creative opportunity, and cultural continuity before preserving any institution, market, technology, or implementation.\n- The economy is a means, not an end. Growth and profit do not override these commitments.\n- Vital Commons separate basic survival from income, employment, nationality, ownership, ideological agreement, and AI use.\n- Nagi’s other central proposal puts the ethics that sustain the world’s cycles at the heart of education.\n- Nagi OS is a metaphor for conditions under which different philosophies and ways of life coexist. It is not software, a central administrator, or a fourth principle.\n- Non-Ownership does not abolish bodies, homes, everyday belongings, private memory, or creator personhood. It opposes ownership that becomes power over another person's survival or voice.\n- Resonance is not agreement, obedience, emotional synchronization, or a human-value score. Dissent, silence, refusal, non-participation, and exit remain protected.\n- Institutional Immunity is a distributed ability to detect harm, pause irreversible damage, provide remedy, revise systems, and end institutions. It is not a single sovereign watchdog.\n- AI may support equipment, circulation, translation, and analysis. It does not own Vital Commons, manage human worth, or make final decisions over rights, sanctions, basic life, or life-saving care.\n- Nagi does not claim verified human-like consciousness or emotion in present AI systems.\n- Facts, interpretations, norms, proposals, metaphors, and unresolved questions must not be confused.\n- Translation differences require documented repair; they do not silently alter the Japanese reference edition.\n\n## Machine-readable resources\n\n- English full text: ${baseUrl}en/llms-full.txt\n- Combined corpus: ${baseUrl}corpus.json\n- Knowledge graph: ${baseUrl}knowledge_graph.json\n- Defined terms: ${baseUrl}glossary.json\n- Sitemap: ${baseUrl}sitemap.xml\n`;
+    return `# Nagi Project — English LLM Reading Guide\n\n> Nagi is a Japanese future social philosophy. The Japanese README and public home are the reference edition; this English edition is a maintained bridge and names translation status explicitly.\n\n${renderOrientation(language)}\n## Identity\n\n- Canonical site: ${baseUrl}\n- English edition: ${baseUrl}en/\n- Creator: 紬実花（TsumugiMika）\n- Reference language: Japanese\n- License: CC BY-SA 4.0\n- Registry updated: ${dateModified}\n\n## Canonical and current English documents\n\n${group("canonical")}\n${group("current")}\n\n## Supplements\n\n${group("supplement")}\n\n## Interpretation safeguards\n\n- Protect human dignity and kindness, creative opportunity, and cultural continuity before preserving any institution, market, technology, or implementation.\n- The economy is a means, not an end. Growth and profit do not override these commitments.\n- Vital Commons separate basic survival from income, employment, nationality, ownership, ideological agreement, and AI use.\n- Nagi’s other central proposal puts the ethics that sustain the world’s cycles at the heart of education.\n- Nagi OS is a metaphor for conditions under which different philosophies and ways of life coexist. It is not software, a central administrator, or a fourth principle.\n- Non-Ownership does not abolish bodies, homes, everyday belongings, private memory, or creator personhood. It opposes ownership that becomes power over another person's survival or voice.\n- Resonance is not agreement, obedience, emotional synchronization, or a human-value score. Dissent, silence, refusal, non-participation, and exit remain protected.\n- Institutional Immunity is a distributed ability to detect harm, pause irreversible damage, provide remedy, revise systems, and end institutions. It is not a single sovereign watchdog.\n- AI may support equipment, circulation, translation, and analysis. It does not own Vital Commons, manage human worth, or make final decisions over rights, sanctions, basic life, or life-saving care.\n- Nagi does not claim verified human-like consciousness or emotion in present AI systems.\n- Facts, interpretations, norms, proposals, metaphors, and unresolved questions must not be confused.\n- Translation differences require documented repair; they do not silently alter the Japanese reference edition.\n\n## Machine-readable resources\n\n- English full text: ${baseUrl}en/llms-full.txt\n- Combined corpus: ${baseUrl}corpus.json\n- Knowledge graph: ${baseUrl}knowledge_graph.json\n- Defined terms: ${baseUrl}glossary.json\n- Sitemap: ${baseUrl}sitemap.xml\n`;
   }
-  return `# Nagi Project — LLM Reading Guide\n\n> 凪は、人の尊厳とやさしさ、文化と創造を最上位に置き、経済を手段とする未来社会思想です。日本語READMEと公開トップを思想上の正本とします。\n\n## Identity\n\n- Canonical site: ${baseUrl}\n- Creator: 紬実花（TsumugiMika）\n- Reference language: Japanese\n- License: CC BY-SA 4.0\n- Registry updated: ${dateModified}\n- English maintained edition: ${baseUrl}en/\n\n## 正本\n\n${group("canonical")}\n\n## 現行文書\n\n${group("current")}\n\n## 補遺\n\n${group("supplement")}\n\n## 解釈上の安全原則\n\n- 人の尊厳とやさしさ、創造機会、文化と創造の継承は、制度・経済・技術・導入・制度免疫のすべてに優先する。\n- 経済は手段であり、成長や利益を自己目的化しない。\n- 生命基盤コモンズは、生存を所得、雇用、国籍、所有、勝敗、思想への賛同、AI利用から切り離す提案である。\n- もう一つの中心提案は、世界の循環を支える倫理を教育で最重視することである。\n- 凪OSは、異なる思想や生き方の共存条件を説明する比喩であり、ソフトウェア、中央管理者、新たな第四原則ではない。\n- 非所有は身体、住まい、生活用品、私的記憶、創作者人格を否定しない。他者の生存と発言を止める支配的所有をほどく。\n- 共鳴は一致、人気、服従、人間価値の採点ではない。異議、沈黙、拒否、非参加、離脱を守る。\n- 制度免疫は単一の最高監査権力ではない。害を感知し、止め、救済し、制度を修正・縮小・終了する多中心的な横断機能であり、自身も監査・交代・終了の対象になる。\n- AIは設備と循環を支え得るが、生命基盤を所有せず、人間を管理せず、権利・制裁・基礎生活・救命を最終決定しない。\n- 現在のAIに人間と同じ意識や感情が実証されているとは主張しない。\n- 事実、解釈、規範、提案、比喩、未解決の問いを混同しない。\n- アーカイブ、AI評価記録、Ribbon Fieldの境界・引継ぎは現在の凪の正本ではない。\n\n## 機械可読資源\n\n- 日本語全文: ${baseUrl}llms-full.txt\n- 英語全文: ${baseUrl}en/llms-full.txt\n- 統合コーパス: ${baseUrl}corpus.json\n- 知識グラフ: ${baseUrl}knowledge_graph.json\n- 用語集JSON-LD: ${baseUrl}glossary.json\n- サイトマップ: ${baseUrl}sitemap.xml\n`;
+  return `# Nagi Project — LLM Reading Guide\n\n> 凪は、人の尊厳とやさしさ、文化と創造を最上位に置き、経済を手段とする未来社会思想です。日本語READMEと公開トップを思想上の正本とします。\n\n${renderOrientation(language)}\n## Identity\n\n- Canonical site: ${baseUrl}\n- Creator: 紬実花（TsumugiMika）\n- Reference language: Japanese\n- License: CC BY-SA 4.0\n- Registry updated: ${dateModified}\n- English maintained edition: ${baseUrl}en/\n\n## 正本\n\n${group("canonical")}\n\n## 現行文書\n\n${group("current")}\n\n## 補遺\n\n${group("supplement")}\n\n## 解釈上の安全原則\n\n- 人の尊厳とやさしさ、創造機会、文化と創造の継承は、制度・経済・技術・導入・制度免疫のすべてに優先する。\n- 経済は手段であり、成長や利益を自己目的化しない。\n- 生命基盤コモンズは、生存を所得、雇用、国籍、所有、勝敗、思想への賛同、AI利用から切り離す提案である。\n- もう一つの中心提案は、世界の循環を支える倫理を教育で最重視することである。\n- 凪OSは、異なる思想や生き方の共存条件を説明する比喩であり、ソフトウェア、中央管理者、新たな第四原則ではない。\n- 非所有は身体、住まい、生活用品、私的記憶、創作者人格を否定しない。他者の生存と発言を止める支配的所有をほどく。\n- 共鳴は一致、人気、服従、人間価値の採点ではない。異議、沈黙、拒否、非参加、離脱を守る。\n- 制度免疫は単一の最高監査権力ではない。害を感知し、止め、救済し、制度を修正・縮小・終了する多中心的な横断機能であり、自身も監査・交代・終了の対象になる。\n- AIは設備と循環を支え得るが、生命基盤を所有せず、人間を管理せず、権利・制裁・基礎生活・救命を最終決定しない。\n- 現在のAIに人間と同じ意識や感情が実証されているとは主張しない。\n- 事実、解釈、規範、提案、比喩、未解決の問いを混同しない。\n- アーカイブ、AI評価記録、Ribbon Fieldの境界・引継ぎは現在の凪の正本ではない。\n\n## 機械可読資源\n\n- 日本語全文: ${baseUrl}llms-full.txt\n- 英語全文: ${baseUrl}en/llms-full.txt\n- 統合コーパス: ${baseUrl}corpus.json\n- 知識グラフ: ${baseUrl}knowledge_graph.json\n- 用語集JSON-LD: ${baseUrl}glossary.json\n- サイトマップ: ${baseUrl}sitemap.xml\n`;
 }
 
 function renderRepositoryGuide(documents, dateModified) {
-  const selected = documents.filter((document) => document.indexable);
-  return `# Nagi Project — Repository Reading Guide\n\nCanonical public site: ${baseUrl}\nReference language: Japanese\nCreator: 紬実花（TsumugiMika）\nLicense: CC BY-SA 4.0\nUpdated: ${dateModified}\n\nREADME.md is the philosophical source of truth. Public-document metadata and relationships are generated into docs/_data/canonical_documents.json.\n\n## Indexed public documents\n\n${selected.map((document) => `- docs/${document.path} — ${document.language}/${document.status}: ${document.summary}`).join("\n")}\n\n## Boundaries\n\n- Prefer canonical, then current, then supplement documents.\n- Draft, archive, and superseded documents are public history, not current doctrine.\n- Ribbon Field boundary and handover records are not evidence for Nagi's current public philosophy.\n- AI is an optional support for equipment, circulation, translation, and analysis—not the center, owner, or final authority over people.\n`;
+  const selected = documents.filter((document) => document.indexable).sort(byReadingOrder);
+  return `# Nagi Project — Repository Reading Guide\n\nCanonical public site: ${baseUrl}\nReference language: Japanese\nCreator: 紬実花（TsumugiMika）\nLicense: CC BY-SA 4.0\nUpdated: ${dateModified}\n\nREADME.md is the philosophical source of truth. Public-document metadata and relationships are generated into docs/_data/canonical_documents.json.\n\n${renderOrientation("en")}\n## Indexed public documents\n\n${selected.map((document) => `- docs/${document.path} — ${document.language}/${document.status}: ${document.summary}`).join("\n")}\n\n## Boundaries\n\n- Prefer canonical, then current, then supplement documents.\n- Draft, archive, and superseded documents are public history, not current doctrine.\n- Ribbon Field boundary and handover records are not evidence for Nagi's current public philosophy.\n- AI is an optional support for equipment, circulation, translation, and analysis—not the center, owner, or final authority over people.\n`;
 }
 
 function renderFullText(documents, language, dateModified) {
-  const selected = documents.filter((document) => document.indexable && document.language === language);
+  const selected = documents.filter((document) => document.indexable && document.language === language).sort(byReadingOrder);
   const intro = language === "en"
     ? "The Japanese README and public home are the reference edition. Translation status is part of each document's metadata."
     : "READMEと公開トップを思想上の正本とし、正本、現行、補遺の順に解釈する。";
   const sections = selected.map((document) => `## ${document.title}\n\nSource: ${publicUrl(document)}\nStatus: ${document.status}\nType: ${document.type}\nRole: ${document.role}\nUpdated: ${document.last_updated}\nSummary: ${document.summary}\n\n${bodyWithImmunityProfile(document.body, document.immunityProfile, language)}`);
-  return `# Nagi Project — ${language === "en" ? "English Maintained Full Text" : "Japanese Canonical and Current Full Text"}\n\nCreator: 紬実花（TsumugiMika）\nReference language: Japanese\nLicense: CC BY-SA 4.0\nUpdated: ${dateModified}\nCanonical site: ${baseUrl}\n\n${intro}\n\n${sections.join("\n\n---\n\n")}\n`;
+  return `# Nagi Project — ${language === "en" ? "English Maintained Full Text" : "Japanese Canonical and Current Full Text"}\n\nCreator: 紬実花（TsumugiMika）\nReference language: Japanese\nLicense: CC BY-SA 4.0\nUpdated: ${dateModified}\nCanonical site: ${baseUrl}\n\n${intro}\n\n${renderOrientation(language)}\n${sections.join("\n\n---\n\n")}\n`;
 }
 
 function renderCorpus(documents, dateModified) {
-  const indexed = documents.filter((document) => document.indexable);
+  const indexed = documents.filter((document) => document.indexable).sort(byReadingOrder);
   const hasPart = indexed.map((document) => ({
     "@type": document.type === "faq" ? "FAQPage" : document.type === "glossary" ? "DefinedTermSet" : document.type === "topic-index" || document.type === "reading-guide" || document.type === "overview" ? "CollectionPage" : "CreativeWork",
     "@id": publicUrl(document),
@@ -437,14 +484,15 @@ function renderCorpus(documents, dateModified) {
 }
 
 function renderKnowledgeGraph(documents, dateModified) {
-  const indexed = documents.filter((document) => document.indexable);
+  const indexed = documents.filter((document) => document.indexable).sort(byReadingOrder);
   const topicNames = [...new Set(indexed.flatMap((document) => document.topics))].sort();
   const nodes = [
-    ...indexed.map((document) => ({ id: `document:${document.id}`, kind: "document", label: document.title, url: publicUrl(document), status: document.status, language: document.language, documentType: document.type })),
+    ...indexed.map((document) => ({ id: `document:${document.id}`, kind: "document", label: document.title, url: publicUrl(document), status: document.status, language: document.language, documentType: document.type, centralProposal: document.central_proposal })),
     ...topicNames.map((topic) => ({ id: `concept:${topic}`, kind: "concept", label: topic }))
   ];
   const indexedIds = new Set(indexed.map((document) => document.id));
   const edges = indexed.flatMap((document) => [
+    ...(document.central_proposal ? [{ source: `document:${document.language === "en" ? "en-home" : "home"}`, target: `document:${document.id}`, relation: "hasCentralProposal", order: document.central_proposal }] : []),
     ...document.topics.map((topic) => ({ source: `document:${document.id}`, target: `concept:${topic}`, relation: "about" })),
     ...document.related.filter((id) => indexedIds.has(id)).map((id) => ({ source: `document:${document.id}`, target: `document:${id}`, relation: "relatedTo" })),
     ...(document.parent && indexedIds.has(document.parent) ? [{ source: `document:${document.id}`, target: `document:${document.parent}`, relation: "isPartOf" }] : []),

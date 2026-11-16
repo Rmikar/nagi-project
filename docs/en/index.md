@@ -13,6 +13,8 @@ source_url: /
 translation_status: "maintained translation"
 translation_last_reviewed: 2026-11-16
 keywords:
+  - ethical education
+  - resource priorities
   - alternatives to capitalism
   - future society
   - future social philosophy

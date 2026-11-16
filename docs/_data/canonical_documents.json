@@ -35,6 +35,7 @@
         "tsumugi-network",
         "ai-redundancy-and-risk"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-ai-index",
@@ -64,6 +65,7 @@
         "governance-and-safety",
         "institutional-immunity"
       ],
+      "central_proposal": null,
       "parent": "ai-index",
       "translation_of": null,
       "translation": "en-ai-manifesto.yaml",
@@ -91,6 +93,7 @@
         "ai-index",
         "ai-charter"
       ],
+      "central_proposal": null,
       "parent": "ai-index",
       "translation_of": null,
       "translation": null,
@@ -118,6 +121,7 @@
         "ai-index",
         "technical-foundation"
       ],
+      "central_proposal": null,
       "parent": "ai-index",
       "translation_of": null,
       "translation": null,
@@ -146,6 +150,7 @@
         "ecology",
         "experiment"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -183,6 +188,7 @@
         "transition-crisis",
         "freedom-dissent-exit"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-breath-assembly",
@@ -220,6 +226,7 @@
         "transition-crisis",
         "resonance-metrics"
       ],
+      "central_proposal": null,
       "parent": "vital-commons",
       "translation_of": null,
       "translation": "en-breath-economy",
@@ -247,6 +254,7 @@
         "home",
         "breath-assembly"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -276,6 +284,7 @@
         "culture",
         "trust"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -313,6 +322,7 @@
         "nagi-core",
         "social-infrastructure-ethics"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-compass-and-resonant-democracy",
@@ -342,6 +352,7 @@
         "public-thought-method",
         "cultural-stewardship"
       ],
+      "central_proposal": null,
       "parent": "stewardship-and-praxis",
       "translation_of": null,
       "translation": "en-credit-and-accountability",
@@ -376,6 +387,7 @@
         "rebreathing",
         "property-ip"
       ],
+      "central_proposal": null,
       "parent": "culture",
       "translation_of": null,
       "translation": "en-cultural-stewardship",
@@ -418,6 +430,7 @@
         "credit-and-accountability",
         "repair-and-co-growth"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-culture",
@@ -444,6 +457,7 @@
       "related": [
         "culture"
       ],
+      "central_proposal": null,
       "parent": "culture",
       "translation_of": null,
       "translation": "en-death",
@@ -478,6 +492,7 @@
         "resonant-democracy",
         "freedom-dissent-exit"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-declaration",
@@ -505,6 +520,7 @@
         "home",
         "freedom-dissent-exit"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-deepening-principles",
@@ -540,6 +556,7 @@
         "institutional-immunity",
         "vital-commons"
       ],
+      "central_proposal": null,
       "parent": "culture",
       "translation_of": null,
       "translation": "en-ecological-structure",
@@ -555,19 +572,19 @@
       "title": "凪における未来の教育",
       "short_title": "凪における未来の教育",
       "status": "current",
-      "type": "culture-and-continuity",
-      "role": "文化・創造・継承",
-      "summary": "倫理哲学、社会構造、人の営みと一生、自然の循環を学び、教育の場も共に生きるための約束を問い直す凪の教育構想。",
+      "type": "ethical-education-proposal",
+      "role": "中心提案：倫理教育",
+      "summary": "凪の第二の中心提案。世界の循環を支える倫理の育成へ教育資源を重点配分し、相互依存、支配の害、判断の見直しを学ぶ。",
       "language": "ja",
-      "last_updated": "2026-11-13",
+      "last_updated": "2026-11-16",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
-        "教育",
-        "学び直し",
-        "文化的共育"
+        "ethical education",
+        "resource priorities"
       ],
       "related": [
+        "home",
         "culture",
         "breath-economy",
         "institutional-immunity",
@@ -576,7 +593,8 @@
         "breath-assembly",
         "vital-commons"
       ],
-      "parent": "culture",
+      "central_proposal": 2,
+      "parent": "home",
       "translation_of": null,
       "translation": "en-education",
       "translation_status": null,
@@ -602,6 +620,7 @@
       "related": [
         "culture"
       ],
+      "central_proposal": null,
       "parent": "culture",
       "translation_of": null,
       "translation": "en-emotion",
@@ -638,6 +657,7 @@
         "en-technical-tsumugi-network",
         "ai-index"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "ai-index",
       "translation": "ai-index",
@@ -668,6 +688,7 @@
         "en-institutional-immunity",
         "ai-manifesto.yaml"
       ],
+      "central_proposal": null,
       "parent": "en-ai-index",
       "translation_of": "ai-manifesto.yaml",
       "translation": "ai-manifesto.yaml",
@@ -699,6 +720,7 @@
         "en-nagi-ai-charter",
         "breath-assembly"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "breath-assembly",
       "translation": "breath-assembly",
@@ -728,6 +750,7 @@
         "en-ethics-of-social-infrastructure",
         "breath-economy"
       ],
+      "central_proposal": null,
       "parent": "en-vital-commons",
       "translation_of": "breath-economy",
       "translation": "breath-economy",
@@ -759,6 +782,7 @@
         "breath-assembly",
         "resonant-democracy"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "resonant-democracy",
       "translation": "resonant-democracy",
@@ -788,6 +812,7 @@
         "en-cultural-stewardship",
         "credit-and-accountability"
       ],
+      "central_proposal": null,
       "parent": null,
       "translation_of": "credit-and-accountability",
       "translation": "credit-and-accountability",
@@ -817,6 +842,7 @@
         "en-credit-and-accountability",
         "cultural-stewardship"
       ],
+      "central_proposal": null,
       "parent": "en-culture",
       "translation_of": "cultural-stewardship",
       "translation": "cultural-stewardship",
@@ -847,6 +873,7 @@
         "en-ethics-of-social-infrastructure",
         "culture"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "culture",
       "translation": "culture",
@@ -875,6 +902,7 @@
         "en-memory-and-consent",
         "death"
       ],
+      "central_proposal": null,
       "parent": "en-culture",
       "translation_of": "death",
       "translation": "death",
@@ -904,6 +932,7 @@
         "en-freedom-and-dissent",
         "declaration"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "declaration",
       "translation": "declaration",
@@ -932,6 +961,7 @@
         "en-freedom-and-dissent",
         "deepening-principles"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "deepening-principles",
       "translation": "deepening-principles",
@@ -961,6 +991,7 @@
         "en-ethics-of-social-infrastructure",
         "ecology"
       ],
+      "central_proposal": null,
       "parent": "en-culture",
       "translation_of": "ecology",
       "translation": "ecology",
@@ -976,28 +1007,33 @@
       "title": "Education for a Future in Nagi",
       "short_title": "Education for a Future in Nagi",
       "status": "current",
-      "type": "culture-and-continuity",
-      "role": "Culture and continuity",
-      "summary": "Nagi’s approach to learning about ethics, social structures, human life, and natural cycles, and to making education a place where people can rethink how they live together.",
+      "type": "ethical-education-proposal",
+      "role": "Central proposal: ethical education",
+      "summary": "Nagi’s second central proposal: prioritize ethical education and resources for understanding interdependence, questioning domination, and revising judgments.",
       "language": "en",
-      "last_updated": "2026-11-13",
+      "last_updated": "2026-11-16",
       "indexable": true,
       "robots": "index, follow",
-      "topics": [],
+      "topics": [
+        "ethical education",
+        "resource priorities"
+      ],
       "related": [
-        "en-culture",
+        "en-home",
         "en-memory-and-consent",
+        "en-culture",
         "en-breath-assembly",
         "en-vital-commons",
         "en-freedom-and-dissent",
         "education"
       ],
-      "parent": "en-culture",
+      "central_proposal": 2,
+      "parent": "en-home",
       "translation_of": "education",
       "translation": "education",
       "translation_status": "maintained translation",
-      "translation_last_reviewed": "2026-11-13",
-      "source_last_updated": "2026-11-13",
+      "translation_last_reviewed": "2026-11-16",
+      "source_last_updated": "2026-11-16",
       "translation_needs_review": false
     },
     {
@@ -1022,6 +1058,7 @@
         "en-nagi-ai-charter",
         "emotion"
       ],
+      "central_proposal": null,
       "parent": "en-culture",
       "translation_of": "emotion",
       "translation": "emotion",
@@ -1054,6 +1091,7 @@
         "en-technical-foundation-v1",
         "social-infrastructure-ethics"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "social-infrastructure-ethics",
       "translation": "social-infrastructure-ethics",
@@ -1085,6 +1123,7 @@
         "en-repair-and-co-growth",
         "experiment"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "experiment",
       "translation": "experiment",
@@ -1114,6 +1153,7 @@
         "en-freedom-and-dissent",
         "free-competition"
       ],
+      "central_proposal": null,
       "parent": "en-vital-commons",
       "translation_of": "free-competition",
       "translation": "free-competition",
@@ -1144,6 +1184,7 @@
         "en-ethics-of-social-infrastructure",
         "freedom-dissent-exit"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "freedom-dissent-exit",
       "translation": "freedom-dissent-exit",
@@ -1194,6 +1235,7 @@
         "en-public-thought-method",
         "en-nagi-reading-guide"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "future-social-design-principles",
       "translation": "future-social-design-principles",
@@ -1209,14 +1251,16 @@
       "title": "Nagi in Five Minutes — Two Central Proposals",
       "short_title": "Nagi in Five Minutes",
       "status": "current",
-      "type": "philosophical-context",
-      "role": "Philosophical context",
+      "type": "reading-guide",
+      "role": "Reading guide",
       "summary": "A five-minute introduction to Nagi: non-owned foundations of life, ethical education, priorities for resources, safeguards, and unresolved questions.",
       "language": "en",
       "last_updated": "2026-11-16",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
+        "ethical education",
+        "resource priorities",
         "alternatives to capitalism",
         "future society",
         "future social philosophy",
@@ -1236,6 +1280,7 @@
         "en-transition-and-crisis",
         "en-nagi-reading-guide"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "future-social-philosophy",
       "translation": "future-social-philosophy",
@@ -1263,6 +1308,7 @@
         "en-home",
         "glossary"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "glossary",
       "translation": "glossary",
@@ -1304,6 +1350,7 @@
         "en-vital-commons",
         "en-nagi-reading-guide"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "governance-and-safety",
       "translation": "governance-and-safety",
@@ -1333,6 +1380,7 @@
         "en-experiment-v0.1",
         "implementation"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "implementation",
       "translation": "implementation",
@@ -1356,6 +1404,8 @@
       "indexable": true,
       "robots": "index, follow",
       "topics": [
+        "ethical education",
+        "resource priorities",
         "alternatives to capitalism",
         "future society",
         "future social philosophy",
@@ -1381,6 +1431,7 @@
         "en-translation-status",
         "en-glossary"
       ],
+      "central_proposal": null,
       "parent": null,
       "translation_of": "home",
       "translation": "home",
@@ -1411,6 +1462,7 @@
         "en-transition-and-crisis",
         "infrastructure"
       ],
+      "central_proposal": null,
       "parent": "en-vital-commons",
       "translation_of": "infrastructure",
       "translation": "infrastructure",
@@ -1441,6 +1493,7 @@
         "en-trust",
         "institutional-design"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "institutional-design",
       "translation": "institutional-design",
@@ -1476,6 +1529,7 @@
         "en-transition-and-crisis",
         "en-vital-commons"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "institutional-immunity",
       "translation": "institutional-immunity",
@@ -1517,6 +1571,7 @@
         "en-institutional-immunity",
         "en-transition-and-crisis"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": null,
       "translation": null,
@@ -1546,6 +1601,7 @@
         "en-nagi-ai-charter",
         "memory-consent"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "memory-consent",
       "translation": "memory-consent",
@@ -1575,6 +1631,7 @@
         "en-ethics-of-social-infrastructure",
         "musubi"
       ],
+      "central_proposal": null,
       "parent": "en-culture",
       "translation_of": "musubi",
       "translation": "musubi",
@@ -1605,6 +1662,7 @@
         "en-technical-foundation-v1",
         "ai-charter"
       ],
+      "central_proposal": null,
       "parent": "en-ai-index",
       "translation_of": "ai-charter",
       "translation": "ai-charter",
@@ -1633,6 +1691,7 @@
         "en-nagi-ai-charter",
         "nagi-ai-principles"
       ],
+      "central_proposal": null,
       "parent": "en-ai-index",
       "translation_of": "nagi-ai-principles",
       "translation": "nagi-ai-principles",
@@ -1664,6 +1723,7 @@
         "en-freedom-and-dissent",
         "nagi-core"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "nagi-core",
       "translation": "nagi-core",
@@ -1707,6 +1767,7 @@
         "en-compass-and-resonant-democracy",
         "en-state-and-public-spheres"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "nagi-os",
       "translation": "nagi-os",
@@ -1754,6 +1815,7 @@
         "en-ethics-of-social-infrastructure",
         "en-institutional-immunity"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "reading-guide",
       "translation": "reading-guide",
@@ -1783,6 +1845,7 @@
         "en-ethics-of-social-infrastructure",
         "non-ownership"
       ],
+      "central_proposal": null,
       "parent": "en-vital-commons",
       "translation_of": "non-ownership",
       "translation": "non-ownership",
@@ -1812,6 +1875,7 @@
         "en-freedom-and-dissent",
         "observe-loosen-connect"
       ],
+      "central_proposal": null,
       "parent": null,
       "translation_of": "observe-loosen-connect",
       "translation": "observe-loosen-connect",
@@ -1840,6 +1904,7 @@
         "en-nagi-core",
         "philosophy-background"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "philosophy-background",
       "translation": "philosophy-background",
@@ -1870,6 +1935,7 @@
         "en-quiet-praxis-current",
         "play-and-structure"
       ],
+      "central_proposal": null,
       "parent": "en-culture",
       "translation_of": "play-and-structure",
       "translation": "play-and-structure",
@@ -1899,6 +1965,7 @@
         "en-ethics-of-social-infrastructure",
         "property-ip"
       ],
+      "central_proposal": null,
       "parent": "en-culture",
       "translation_of": "property-ip",
       "translation": "property-ip",
@@ -1928,6 +1995,7 @@
         "en-repair-and-co-growth",
         "public-thought-method"
       ],
+      "central_proposal": null,
       "parent": null,
       "translation_of": "public-thought-method",
       "translation": "public-thought-method",
@@ -1955,6 +2023,7 @@
         "en-quiet-praxis-current",
         "quiet-praxis-current"
       ],
+      "central_proposal": null,
       "parent": null,
       "translation_of": "quiet-praxis",
       "translation": "quiet-praxis",
@@ -1984,6 +2053,7 @@
         "en-repair-and-co-growth",
         "quiet-praxis-current"
       ],
+      "central_proposal": null,
       "parent": null,
       "translation_of": "quiet-praxis-current",
       "translation": "quiet-praxis-current",
@@ -2013,6 +2083,7 @@
         "en-cultural-stewardship",
         "en-translation-status"
       ],
+      "central_proposal": null,
       "parent": null,
       "translation_of": "rebreathing",
       "translation": "rebreathing",
@@ -2042,6 +2113,7 @@
         "en-freedom-and-dissent",
         "repair-and-co-growth"
       ],
+      "central_proposal": null,
       "parent": "en-culture",
       "translation_of": "repair-and-co-growth",
       "translation": "repair-and-co-growth",
@@ -2072,6 +2144,7 @@
         "en-freedom-and-dissent",
         "resonance-metrics"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "resonance-metrics",
       "translation": "resonance-metrics",
@@ -2109,6 +2182,7 @@
         "en-freedom-and-dissent",
         "en-institutional-immunity"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "state-public-spheres",
       "translation": "state-public-spheres",
@@ -2140,6 +2214,7 @@
         "en-ethics-of-social-infrastructure",
         "technical-foundation"
       ],
+      "central_proposal": null,
       "parent": "en-ai-index",
       "translation_of": "technical-foundation",
       "translation": "technical-foundation",
@@ -2171,6 +2246,7 @@
         "en-freedom-and-dissent",
         "tsumugi-network"
       ],
+      "central_proposal": null,
       "parent": "en-ai-index",
       "translation_of": "tsumugi-network",
       "translation": "tsumugi-network",
@@ -2200,6 +2276,7 @@
         "en-technical-tsumugi-network",
         "technical-whitepaper"
       ],
+      "central_proposal": null,
       "parent": "en-ai-index",
       "translation_of": "technical-whitepaper",
       "translation": "technical-whitepaper",
@@ -2229,6 +2306,7 @@
         "en-ethics-of-social-infrastructure",
         "transition-crisis"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "transition-crisis",
       "translation": "transition-crisis",
@@ -2268,6 +2346,7 @@
         "en-nagi-reading-guide",
         "home"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": null,
       "translation": null,
@@ -2297,6 +2376,7 @@
         "en-breath-assembly",
         "trust"
       ],
+      "central_proposal": null,
       "parent": "en-governance-and-safety",
       "translation_of": "trust",
       "translation": "trust",
@@ -2334,6 +2414,7 @@
         "en-technical-tsumugi-network",
         "v1-1-overview"
       ],
+      "central_proposal": null,
       "parent": "en-home",
       "translation_of": "v1-1-overview",
       "translation": "v1-1-overview",
@@ -2374,6 +2455,7 @@
         "en-governance-and-safety",
         "en-nagi-ai-charter"
       ],
+      "central_proposal": 1,
       "parent": "en-home",
       "translation_of": "vital-commons",
       "translation": "vital-commons",
@@ -2414,6 +2496,7 @@
         "technical-foundation",
         "trust"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-ethics-of-social-infrastructure",
@@ -2441,6 +2524,7 @@
         "home",
         "v1-1-overview"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -2479,6 +2563,7 @@
         "observe-loosen-connect",
         "repair-and-co-growth"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-experiment-v0.1",
@@ -2517,6 +2602,7 @@
         "nagi-core",
         "freedom-dissent-exit"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -2552,6 +2638,7 @@
         "transition-crisis",
         "institutional-immunity"
       ],
+      "central_proposal": null,
       "parent": "vital-commons",
       "translation_of": null,
       "translation": "en-free-competition",
@@ -2593,6 +2680,7 @@
         "breath-assembly",
         "social-infrastructure-ethics"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-freedom-and-dissent",
@@ -2643,6 +2731,7 @@
         "public-thought-method",
         "reading-guide"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-future-social-design-principles",
@@ -2656,16 +2745,18 @@
       "path": "future_social_philosophy.md",
       "url": "future_social_philosophy.html",
       "title": "5分で読む凪 — 二つの中心提案と社会の全体像",
-      "short_title": "未来の社会思想としての凪",
+      "short_title": "5分で読む凪",
       "status": "canonical",
-      "type": "philosophical-context",
-      "role": "位置づけと哲学的背景",
+      "type": "reading-guide",
+      "role": "時間・関心別の読書案内",
       "summary": "生命基盤の非所有化と倫理教育への重点配分を軸に、凪が目指す暮らし、支配を防ぐ原則、未解決の課題を5分で読む入門。",
       "language": "ja",
       "last_updated": "2026-11-16",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
+        "倫理教育",
+        "資源配分",
         "資本主義の代替案",
         "資本主義の次",
         "未来の社会",
@@ -2684,20 +2775,17 @@
       ],
       "related": [
         "home",
-        "nagi-core",
-        "resonant-democracy",
-        "faq",
-        "glossary",
-        "research-links",
-        "institutional-immunity",
-        "institutional-design",
-        "state-public-spheres",
         "vital-commons",
-        "nagi-os",
         "education",
+        "governance-and-safety",
+        "institutional-immunity",
+        "reading-guide",
+        "nagi-os",
         "transition-crisis",
-        "reading-guide"
+        "faq",
+        "research-links"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-future-social-philosophy",
@@ -2725,6 +2813,7 @@
         "home",
         "ribbon-field-handover-2026-06-28"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -2760,6 +2849,7 @@
         "faq",
         "nagi-core"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-glossary",
@@ -2807,6 +2897,7 @@
         "vital-commons",
         "reading-guide"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-governance-and-safety",
@@ -2834,6 +2925,7 @@
         "home",
         "transition-crisis"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-implementation",
@@ -2857,6 +2949,8 @@
       "indexable": true,
       "robots": "index, follow",
       "topics": [
+        "倫理教育",
+        "資源配分",
         "資本主義の代替案",
         "資本主義の次",
         "未来の社会",
@@ -2883,6 +2977,7 @@
         "governance-and-safety",
         "culture"
       ],
+      "central_proposal": null,
       "parent": null,
       "translation_of": null,
       "translation": "en-home",
@@ -2912,6 +3007,7 @@
         "technical-foundation",
         "transition-crisis"
       ],
+      "central_proposal": null,
       "parent": "vital-commons",
       "translation_of": null,
       "translation": "en-infrastructure",
@@ -2954,6 +3050,7 @@
         "trust",
         "experiment"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-institutional-design",
@@ -2993,6 +3090,7 @@
         "ai-charter",
         "vital-commons"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-institutional-immunity",
@@ -3030,6 +3128,7 @@
         "ecology",
         "ai-charter"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -3067,6 +3166,7 @@
         "institutional-immunity",
         "ai-index"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-memory-and-consent",
@@ -3093,6 +3193,7 @@
       "related": [
         "culture"
       ],
+      "central_proposal": null,
       "parent": "culture",
       "translation_of": null,
       "translation": "en-musubi",
@@ -3134,6 +3235,7 @@
         "breath-assembly",
         "freedom-dissent-exit"
       ],
+      "central_proposal": null,
       "parent": "ai-index",
       "translation_of": null,
       "translation": "en-nagi-ai-charter",
@@ -3161,6 +3263,7 @@
         "ai-index",
         "ai-charter"
       ],
+      "central_proposal": null,
       "parent": "ai-index",
       "translation_of": null,
       "translation": "en-nagi-ai-principles",
@@ -3201,6 +3304,7 @@
         "state-public-spheres",
         "social-infrastructure-ethics"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-nagi-core",
@@ -3227,6 +3331,7 @@
       "related": [
         "home"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -3270,6 +3375,7 @@
         "state-public-spheres",
         "education"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-nagi-os",
@@ -3317,6 +3423,7 @@
         "institutional-immunity",
         "vital-commons"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-nagi-reading-guide",
@@ -3344,6 +3451,7 @@
         "home",
         "v1-1-overview"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -3379,6 +3487,7 @@
         "breath-economy",
         "institutional-immunity"
       ],
+      "central_proposal": null,
       "parent": "vital-commons",
       "translation_of": null,
       "translation": "en-non-ownership",
@@ -3408,6 +3517,7 @@
         "repair-and-co-growth",
         "freedom-dissent-exit"
       ],
+      "central_proposal": null,
       "parent": "stewardship-and-praxis",
       "translation_of": null,
       "translation": "en-observe-loosen-connect",
@@ -3441,6 +3551,7 @@
         "nagi-core",
         "state-public-spheres"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-philosophy",
@@ -3467,6 +3578,7 @@
       "related": [
         "home"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -3496,6 +3608,7 @@
         "experiment",
         "quiet-praxis-current"
       ],
+      "central_proposal": null,
       "parent": "culture",
       "translation_of": null,
       "translation": "en-play-and-structure",
@@ -3535,6 +3648,7 @@
         "transition-crisis",
         "future-social-philosophy"
       ],
+      "central_proposal": null,
       "parent": "vital-commons",
       "translation_of": null,
       "translation": null,
@@ -3570,6 +3684,7 @@
         "institutional-immunity",
         "memory-consent"
       ],
+      "central_proposal": null,
       "parent": "culture",
       "translation_of": null,
       "translation": "en-property-and-ip",
@@ -3606,6 +3721,7 @@
         "institutional-immunity",
         "credit-and-accountability"
       ],
+      "central_proposal": null,
       "parent": "stewardship-and-praxis",
       "translation_of": null,
       "translation": "en-public-thought-method",
@@ -3633,6 +3749,7 @@
         "stewardship-and-praxis",
         "quiet-praxis-current"
       ],
+      "central_proposal": null,
       "parent": "stewardship-and-praxis",
       "translation_of": null,
       "translation": "en-quiet-praxis",
@@ -3662,6 +3779,7 @@
         "freedom-dissent-exit",
         "repair-and-co-growth"
       ],
+      "central_proposal": null,
       "parent": "stewardship-and-praxis",
       "translation_of": null,
       "translation": "en-quiet-praxis-current",
@@ -3699,6 +3817,7 @@
         "institutional-immunity",
         "nagi-core"
       ],
+      "central_proposal": null,
       "parent": "stewardship-and-praxis",
       "translation_of": null,
       "translation": "en-rebreathing-and-public-continuity",
@@ -3727,6 +3846,7 @@
         "experiment",
         "freedom-dissent-exit"
       ],
+      "central_proposal": null,
       "parent": "culture",
       "translation_of": null,
       "translation": "en-repair-and-co-growth",
@@ -3764,6 +3884,7 @@
         "memory-consent",
         "freedom-dissent-exit"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-resonance-metrics",
@@ -3792,6 +3913,7 @@
         "public-thought-method",
         "ribbon-field-handover-2026-06-28"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -3818,6 +3940,7 @@
       "related": [
         "home"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -3852,6 +3975,7 @@
         "home",
         "ai-manifesto.yaml"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -3891,6 +4015,7 @@
         "vital-commons",
         "culture"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-state-and-public-spheres",
@@ -3927,6 +4052,7 @@
         "declaration",
         "freedom-dissent-exit"
       ],
+      "central_proposal": null,
       "parent": "reading-guide",
       "translation_of": null,
       "translation": null,
@@ -3957,6 +4083,7 @@
         "freedom-dissent-exit",
         "memory-consent"
       ],
+      "central_proposal": null,
       "parent": "vital-commons",
       "translation_of": null,
       "translation": null,
@@ -3993,6 +4120,7 @@
       "related": [
         "home"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": null,
@@ -4033,6 +4161,7 @@
         "breath-assembly",
         "breath-economy"
       ],
+      "central_proposal": null,
       "parent": "ai-index",
       "translation_of": null,
       "translation": "en-technical-foundation-v1",
@@ -4060,6 +4189,7 @@
         "ai-index",
         "tsumugi-network"
       ],
+      "central_proposal": null,
       "parent": "ai-index",
       "translation_of": null,
       "translation": null,
@@ -4096,6 +4226,7 @@
         "memory-consent",
         "freedom-dissent-exit"
       ],
+      "central_proposal": null,
       "parent": "ai-index",
       "translation_of": null,
       "translation": "en-technical-tsumugi-network",
@@ -4123,6 +4254,7 @@
         "ai-index",
         "technical-foundation"
       ],
+      "central_proposal": null,
       "parent": "ai-index",
       "translation_of": null,
       "translation": "en-technical-whitepaper",
@@ -4162,6 +4294,7 @@
         "breath-economy",
         "quiet-praxis-current"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-transition-and-crisis",
@@ -4197,6 +4330,7 @@
         "institutional-immunity",
         "breath-assembly"
       ],
+      "central_proposal": null,
       "parent": "governance-and-safety",
       "translation_of": null,
       "translation": "en-trust",
@@ -4233,6 +4367,7 @@
         "technical-foundation",
         "tsumugi-network"
       ],
+      "central_proposal": null,
       "parent": "home",
       "translation_of": null,
       "translation": "en-v1-1-overview",
@@ -4279,6 +4414,7 @@
         "population-power",
         "institutional-immunity"
       ],
+      "central_proposal": 1,
       "parent": "home",
       "translation_of": null,
       "translation": "en-vital-commons",

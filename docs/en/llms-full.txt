@@ -8,6 +8,946 @@ Canonical site: https://nagi-project.com/
 
 The Japanese README and public home are the reference edition. Translation status is part of each document's metadata.
 
+## Purpose and priorities
+
+Nagi is a compass for continuing to build a society where people can live with greater ease.
+
+1. **Free survival from ownership:** organize the foundations of life as non-owned Vital Commons.
+2. **Make the ethics that sustain the world’s cycles the highest priority in education.**
+
+Direct funding, people, technology, and learning time toward these two priorities. Material conditions and ethical judgment are intended to sustain each other: non-ownership alone does not prevent those allocating and maintaining resources from acquiring power over others.
+
+Non-Ownership, Resonance, and Breathing are supporting principles. Resonant Democracy and Institutional Immunity are governance safeguards. AI is optional assistance, not the center or final authority. Nagi is an open proposal, not an empirically established system or a guarantee that these problems are solved. Distinguish its aims, hypotheses, evidence, and unresolved questions.
+
+## Read first
+
+- https://nagi-project.com/en/
+- https://nagi-project.com/en/future_social_philosophy.html
+- https://nagi-project.com/en/vital_commons.html
+- https://nagi-project.com/en/education.html
+- https://nagi-project.com/en/governance_and_safety.html
+- https://nagi-project.com/en/institutional_immunity.html
+
+## Nagi Project — Rethinking Capitalism, Religion, and Social Systems
+
+Source: https://nagi-project.com/en/
+Status: current
+Type: overview
+Role: Reference overview
+Updated: 2026-11-16
+Summary: A philosophy for those questioning capitalism, religion, and today's social systems. Nagi rethinks survival, coexistence, concentrated power, and shared responsibility.
+
+
+# A philosophy for when capitalism, religion, and the systems we live by no longer seem enough.
+
+Nagi is **a compass for continuing to build a society where people can live with greater ease**. To that end, Nagi asks **how we live, what sustains us, and what kind of society we will pass on to future generations**.
+
+**01｜** Must we place our freedom in someone else's hands—and let them own our time—just to survive?  
+**02｜** Must we share the same values to live together in peace?  
+**03｜** Must power be concentrated for society to function?  
+**04｜** Must a few people carry the burden of sustaining society?
+
+**If none of these were necessary, how would society change?**  
+**Could we redesign society by rethinking the assumptions that hold it together?**
+
+---
+
+> **No one should have to obey capital in order to live.**  
+> Water, energy, staple food, health care, shelter, sanitation, and communication.  
+> No person, company, state, locality, or AI owns the foundations of life in order to command another person.  
+> People and local institutions remain responsible for them, with public-interest AI available where useful.  
+>  
+> Nagi separates survival from income, employment, nationality, ownership, reputation, ideological agreement, and victory, so that people can live culture and creativity freely.
+
+Nagi is not a finished system that simply rejects capitalism. It is one social philosophy for asking what alternatives to capitalism could look like and how a future society should be designed across survival, governance, culture, and technology—then testing those ideas at a small scale and revising them through criticism.
+
+## Fundamental commitments
+
+> **Protect human dignity and kindness.**
+>
+> **Cultivate a society in which everyone has the opportunity to create, and where culture and creativity are carried forward and newly woven.**
+>
+> **Treat the economy as a means to these ends, and do not allow growth or profit to become ends in themselves.**
+
+**These commitments take precedence over Nagi's institutions, economy, technology, implementation, and Institutional Immunity.**
+
+---
+
+## Nagi’s two central proposals
+
+1. [**Free survival from ownership**](#free-survival-from-ownership)
+2. [**Make the ethics that sustain the world’s cycles the highest priority in education**](#make-the-ethics-that-sustain-the-worlds-cycles-the-highest-priority-in-education)
+
+Nagi gives the highest priority to making the foundations of life non-owned in its social systems, and to cultivating the ethics that sustain the world’s cycles in its education systems. It directs funding, human resources, technology, and time for learning toward these two priorities, continually strengthening the foundations of a society where people can live with greater ease.
+
+### Proposal 1 | Free survival from ownership
+{: #free-survival-from-ownership .central-proposal-heading }
+
+**The resources and infrastructure required for life become non-owned Vital Commons.**
+
+> Non-Ownership of the foundations of life  
+> ↓  
+> Maintenance by people and local institutions, with public-interest AI where useful  
+> ↓  
+> Separation of survival from obedience to capital, state, war, ownership, and social evaluation
+
+Non-Ownership is not abandonment. Responsibilities for use, maintenance, renewal, safety, explanation, and inheritance remain explicit. Those responsibilities do not become a right to stop another person's life or demand loyalty.
+
+AI may support energy, water, staple production, health resources, reserves, logistics, inspection, repair, and disaster recovery. It manages equipment and circulation, not people. Human, local, offline, and manual routes remain available.
+
+Basic access does not depend on payment capacity, work capacity, reputation, participation, political agreement, or AI use.
+
+> Losing a competition does not remove life.  
+> A period without paid work does not prevent return.  
+> Refusing an order does not remove food, care, shelter, or safety.
+
+→ [Vital Commons](vital_commons.html)
+
+### Proposal 2 | Make the ethics that sustain the world’s cycles the highest priority in education
+{: #make-the-ethics-that-sustain-the-worlds-cycles-the-highest-priority-in-education .central-proposal-heading }
+
+**Education centers on understanding how people, society, and nature sustain one another, and on developing the judgment to nurture those connections without damaging them.**
+
+Creating institutions alone cannot sustain a society. If those responsible for allocation and maintenance use their positions for their own benefit or to dominate others, even non-owned foundations of life can become a new source of power over people.
+
+Nagi therefore pursues both the transformation of the foundations of life and the cultivation of the ethics that sustain them.
+
+#### 1. Learn how everyday life connects to the wider world
+
+Food, water, energy, shelter, and health care. Everyday life depends on natural cycles and on the work and care of many people.
+
+Where does what we receive come from? Who benefits from our choices, and who bears the burdens? How do those effects reach distant communities and future generations?
+
+**We develop a foundation for judging how to live together by understanding connections that remain invisible when we consider only our own interests.**
+
+#### 2. Cultivate shared norms that do not take domination for granted
+
+Practices once taken for granted can become socially unacceptable as understanding of their harms and injustice spreads.
+
+How many people have lost what, in the name of protecting someone else's interests or position? We learn both from the experiences of individual people harmed and from the wider effects across society. We also ask why people at the time accepted those practices and what made them difficult to change.
+
+**A role in sustaining people's lives does not confer a right to demand their obedience.**
+
+We cultivate this understanding not merely as knowledge to remember, but by connecting it to situations in which we hold authority and to decisions made in the groups around us.
+
+#### 3. Direct educational resources toward learning and practicing ethics
+
+Nagi gives priority to this learning in the allocation of educational time, people, and funding.
+
+It makes time for studying history and philosophy, for dialogue with people in different positions, and for encounters with local production, maintenance, and care. Schools themselves become places where learners can question the reasons for rules, try changes, and examine their effects together.
+
+Science and technology are also studied as ways to address the problems discovered through this learning. Alongside what a technology can do, we consider why to use it and whose lives it will change, and how.
+
+Education does not aim to make everyone conform to a single model of a good person. **It develops the capacity to consider and reconsider how our judgments affect other people and the future, while respecting different ways of life.**
+
+→ [Education for a Future in Nagi](education.html)
+
+## What changes above that floor
+
+Markets, money, companies, competition, gifts, and exchange may continue in culture, technology, preference, and additional choice. They no longer carry the right to own energy, water, food, care, or shelter in order to determine who survives.
+
+Vital Commons can weaken material incentives for conquest, blockade, coerced military participation, and expansion for resources or markets. They do not automatically end fear, revenge, domination, ethnic or religious conflict, or concentrated power. Nagi builds peace as material infrastructure without predicting the end of conflict.
+
+Automation of foundational production does not make human activity unnecessary. It can free farming, cooking, craft, research, teaching, care, engineering, and art from the threat that refusal means destitution. Necessary and difficult labor remains visible, safer, shared, and open to rotation and refusal.
+
+People nurture culture and pass it on to future generations. They also learn how to live together, reconsider their ethical judgments in light of one another’s experiences, and pass on what they learn. Education is one way society sustains this work in everyday life.
+
+→ [Education for a Future in Nagi](education.html)
+
+## AI supports equipment and circulation; people are not managed
+
+AI does not score personality, belief, emotion, cooperation, productivity, or human worth. It does not make final decisions over basic life, rights, sanctions, or life-saving care.
+
+People retain the freedom not to use AI, to use another AI, to consult a person, not to leave a record, to challenge a decision, and to exit.
+
+One model, company, state, network, or ledger does not become society's single nervous system. Plural systems, distributed reserves, independent comparison, human operators, manual skills, and local continuity remain part of the cost of freedom.
+
+→ [The Nagi AI Charter](nagi_ai_charter.html)
+
+## The three principles
+
+### Non-Ownership
+
+Bodies, homes, everyday belongings, private memories, and creator personhood remain protected. Nagi questions ownership of land, nature, knowledge, culture, data, infrastructure, and foundational technology when it becomes power over another person's survival or voice.
+
+### Resonance
+
+Resonance is not agreement, popularity, obedience, emotional synchronization, or a score of human worth. People with different experiences, views, languages, cultures, and tempos can affect one another without erasing those differences.
+
+Opposition, anger, silence, refusal, and exit are not failures of resonance.
+
+> Resonance becomes real only when the freedom not to resonate is secure.
+
+### Breathing
+
+Breathing returns pause, recovery, rest, care, circulation, ecological repair, and intergenerational time to the center of social life.
+
+---
+
+## A compass for designing future society
+### — A Strong Floor and an Open Ceiling
+
+> **The floor is strong; the ceiling is open.**
+
+Nagi strengthens the minimum floor of survival, dignity, refusal, exit, and private life. But above that floor, it does not close happiness, ways of life, relationships, or forms of subjecthood into one final answer.
+
+When designing institutions and AI, the default is to **regulate the boundary where freedom meets other people and the shared world rather than governing modes of existence themselves**. More capable prediction does not replace a person's decision. Strong powers do not continue automatically, and those who adjudicate remain open to criticism, replacement, and suspension.
+
+Nagi itself is not a finished answer. New generations, cultures, technologies, and forms of subjecthood must be able to change not only the answers, but also the composition of those who get to answer.
+
+> Do not govern modes of existence; regulate boundaries.  
+> Do not make the adjudicator unadjudicable.  
+> Build structures that can keep answering without completely defining one another.
+
+→ [Future Social Design Principles — A Strong Floor and an Open Ceiling](future_social_design_principles.html)
+
+---
+
+## Resonant Democracy
+
+Vital Commons must not become a new apparatus of control for a state, company, locality, expert group, or AI.
+
+Resonant Democracy lets different voices reach public decisions without manufacturing one voice. Silence is not consent. Decisions carry reasons, time limits, review, challenge, and routes for exit. Non-participation does not weaken rights or basic life.
+
+→ [Compass and Resonant Democracy](compass_and_resonant_democracy.html)  
+→ [Governance and Safety](governance_and_safety.html)
+
+## Do not turn value into permanent power
+
+Nagi recognizes the value of culture, history, achievement, expertise, creativity, inheritance, and success. It refuses to convert them into status, privilege, entrenched interests, immunity from criticism, or permanent ownership of future rules.
+
+> Carry value forward.  
+> Re-examine structures.  
+> A victory does not own the next rules.
+
+## Institutional Immunity
+
+Good intentions do not guarantee good institutions.
+
+Malice, optimization, emergency, expertise, habit, and time can turn Vital Commons, Resonant Democracy, social guarantees, and public-interest AI into new domination.
+
+Institutional Immunity distributes the ability to detect harm, investigate independently, pause severe and hard-to-reverse damage, provide remedy, and revise, reduce, divide, replace, or end an institution. Oversight itself remains reviewable, replaceable, stoppable, and terminable.
+
+> An institution that works only after removing the cost of Institutional Immunity does not work.
+
+→ [Institutional Immunity](institutional_immunity.html)  
+→ [Transition and Crisis Design](transition_and_crisis.html)
+
+## Material limits remain real
+
+Non-Ownership cannot create food, energy, medicine, or habitable land that does not exist.
+
+Nagi reduces monopoly, waste, excessive occupation, and non-basic mass consumption; grows repair, reuse, circulation, reserves, ecological recovery, and mutual aid; and keeps resource conditions visible before breakdown.
+
+When shortage remains, AI does not rank people by worth. Facts, criteria, responsibility, dissent, urgent review, and the burdens of the decision remain public and revisable.
+
+> **Non-Ownership is the political condition.**  
+> **Sufficient and renewable capacity in the foundations of life is the material condition.**
+
+---
+
+## Nagi does not prescribe one way of life
+### — A common foundation for different answers to coexist
+
+Nagi does not give humanity one correct way to live.
+
+It protects Vital Commons and basic rights as a common floor that no ideology may capture. Above that floor, people and localities can choose, combine, leave, and remake different values, economies, technologies, cultures, and communities.
+
+This freedom does not include taking away another person's survival, prohibiting exit, or exporting harm and burdens to other people, places, ecosystems, or future generations.
+
+> **Nagi standardizes no final answer.**  
+> **It protects the conditions under which different answers can coexist without breaking people.**
+
+This structure can be described as “Nagi OS.” OS is a metaphor; it does not define Nagi as software or as a central administrator.
+
+→ [A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor](nagi_os.html)
+
+---
+
+## Nagi does not freeze the future
+
+Nagi is not a completed blueprint or a plan to replace existing protection overnight.
+
+It begins with existing rights, small trials, parallel human and AI routes, explicit stop conditions, reversibility, public failure records, and learning with affected people. Finance, law, resources, international relations, cyber safety, transition employment, regional inequality, and accountable force remain open fields of work.
+
+> When individual breaths overlap, a world takes shape.  
+> Nagi does not rush to fix that shape forever.  
+> It remains open to different people, criticism, repair, and renewal.
+
+---
+
+## Beyond capitalism without discarding what it made possible
+
+Ownership, growth, efficiency, and competition have produced freedom, technology, material capacity, and opportunities for creativity. They have also intensified monopoly, domination, surveillance, excessive competition, inequality, ecological damage, cultural rupture, and insecurity.
+
+Nagi is not a philosophy of destroying capitalism for its own sake. It receives the freedom, technology, and creativity made possible through it while loosening the structures of domination that became too strong within it.
+
+Make power visible rather than merely replacing it.  
+Open access rather than seize life.  
+Preserve room for different lives rather than rush toward one final answer.
+
+Nagi is a compass for moving beyond capitalism after passing through it.
+
+---
+
+## Read Nagi
+
+- **Five-minute overview:** [Nagi as a Future Social Philosophy](future_social_philosophy.html)
+- **Design compass:** [Future Social Design Principles — A Strong Floor and an Open Ceiling](future_social_design_principles.html)
+- **Two central proposals:** [Vital Commons](vital_commons.html) / [Education for a Future in Nagi](education.html)
+- **Coexisting ways of life:** [Nagi OS as a Metaphor](nagi_os.html)
+- **Philosophical core:** [Nagi Core](nagi_core.html)
+- **Governance and safeguards:** [Governance and Safety](governance_and_safety.html)
+- **Culture and creativity:** [Cultural Co-Growth](culture.html)
+- **Time and topic paths:** [Reading Nagi](nagi_reading_guide.html)
+- **Short declaration:** [Nagi Declaration](declaration.html)
+
+## Translation and machine-readable resources
+
+- [Translation Status and Governance](translation_status.html)
+- [English LLM Reading Guide](llms.txt) / [English full text](llms-full.txt)
+- [Combined corpus JSON](../corpus.json) / [Knowledge graph](../knowledge_graph.json)
+- [English Glossary](glossary.html) / [Sitemap](../sitemap.xml)
+
+The English edition is maintained as a bridge. The Japanese README and public home remain the reference edition for philosophical nuance. Machine-readable resources support discovery and interpretation; they do not guarantee model training, citation, indexing, or agreement.
+
+© 紬実花（TsumugiMika） — CC BY-SA 4.0
+
+
+---
+
+## Nagi in Five Minutes — Two Central Proposals
+
+Source: https://nagi-project.com/en/future_social_philosophy.html
+Status: current
+Type: reading-guide
+Role: Reading guide
+Updated: 2026-11-16
+Summary: A five-minute introduction to Nagi: non-owned foundations of life, ethical education, priorities for resources, safeguards, and unresolved questions.
+
+
+# Nagi in Five Minutes
+
+**Nagi is a compass for continuing to build a society where people can live with greater ease.**
+
+Having to obey an unjust demand in order to survive. A role in sustaining society turning into power over others. Nagi asks how we can change these conditions.
+
+Its purpose is to protect human dignity and kindness and enable everyone to take part in culture and creativity. To that end, it proposes priorities for social systems and education.
+
+## Nagi’s two central proposals
+
+1. **Free survival from ownership**
+2. **Make the ethics that sustain the world’s cycles the highest priority in education**
+
+Nagi prioritizes non-owned foundations of life in social systems and ethical development in education. It directs funding, people, technology, and time for learning toward these two priorities.
+
+### Proposal 1 | Free survival from ownership
+
+Water, food, energy, health care, shelter, and communication become **Vital Commons**, sustained across communities and generations, rather than assets that someone can own to demand obedience.
+
+Basic access does not depend on income, employment, nationality, reputation, or agreement with an ideology. Costs and maintenance work do not disappear: society must work out how to share them.
+
+Non-Ownership does not mean abandonment. Responsibilities for use, maintenance, renewal, and explanation remain clear, without becoming a right to cut off another person's means of survival. Bodies, private homes, personal belongings, memories, and other private spheres remain protected.
+
+### Proposal 2 | Make the ethics that sustain the world’s cycles the highest priority in education
+
+We learn how natural cycles, people's work, and care sustain our lives. We ask who benefits from our choices, who bears the burdens, and what remains for future generations.
+
+We also study what domination in defense of interests or status has taken from people, and on what scale. Individual experiences and wider social effects help us examine why harmful practices were accepted and difficult to change.
+
+**A role in sustaining people's lives does not confer a right to demand their obedience.** We connect this understanding to decisions in everyday groups and situations in which we hold authority.
+
+Educational resources prioritize history, philosophy, dialogue, and encounters with local production, maintenance, and care. Science and technology are learned alongside questions about their purposes and whose lives they change.
+
+## Why both are necessary
+
+Even without ownership, those allocating resources or deciding on maintenance hold power. If they monopolize knowledge and authority, new domination and entrenched interests can emerge.
+
+Nagi therefore combines institutional limits on power with the cultivation of judgment and shared norms that do not take domination for granted. Practices once accepted can become unacceptable as understanding of their harms spreads.
+
+Secure living conditions make unjust demands easier to refuse. Experience and learning can reinforce norms against holding survival hostage; those norms can help protect basic provision. **Material conditions and ethics are intended to sustain each other.**
+
+Education does not make everyone conform to one model of a good person. Ethics itself remains open to revision in light of its effects, and learners' objections must be able to change educational institutions.
+
+## How everyday life could change
+
+- **Losing a competition would not cost you survival.** Markets, businesses, and competition may remain, without defeat removing the foundations of life.
+- **Refusing an unjust order would not cost you your livelihood.** People would have practical ways to leave an organization or community and choose another life.
+- **Periods without work would allow rest and return.** Care, relearning, culture, and creativity would be supported as important parts of life.
+
+Nagi does not prescribe the same happiness or way of life for everyone. It proposes a “strong floor” of survival and rights beneath an “open ceiling” of different choices. The extent of that floor and how its burdens are shared still require concrete decisions.
+
+## Keeping these proposals from becoming domination
+
+Three principles support the proposals: **Non-Ownership, Resonance, and Breathing**. They loosen dominating monopolies, allow different voices to be heard without erasing differences, and place rest, recovery, and cycles of renewal at society's center.
+
+Public decisions protect opposition, refusal, non-participation, and exit; silence does not count as consent. Nagi calls this **Resonant Democracy**.
+
+Even well-intentioned institutions can deteriorate. **Institutional Immunity** makes it possible to detect harm, investigate independently, provide remedy, and revise, replace, or end institutions. Oversight bodies are themselves subject to scrutiny and replacement. These are necessary design principles, not guarantees against failure.
+
+AI is optional assistance. It may support equipment, supply networks, discussion, and learning, but does not score human worth or make final decisions on basic provision or rights on its own. Human contact, manual operations, and freedom not to use AI remain available.
+
+## What remains unresolved
+
+Non-Ownership does not create resources. Shortages of food, energy, equipment, or people can make provision difficult. Capacity for production, repair, resource circulation, and reserves must be developed.
+
+Nagi has no finished answers for funding, transition burdens, maintenance staffing, allocation during scarcity, regional inequality, or international cooperation. Whether prioritizing ethical education improves judgment and social sustainability also requires practice and evaluation.
+
+Try changes at a small scale without dismantling existing protections. Evaluate them with affected people; stop and revise them when they cause harm. **Nagi itself remains open to reconsideration as we continue building a society where people can live with greater ease.**
+
+## Read further
+
+- The two proposals: [Vital Commons](vital_commons.html) / [Education for a Future in Nagi](education.html)
+- Different ways of life: [The Nagi OS metaphor](nagi_os.html)
+- Power and transition: [Institutional Immunity](institutional_immunity.html) / [Transition and Crisis Design](transition_and_crisis.html)
+- Further reading: [Reading Nagi](nagi_reading_guide.html)
+
+
+---
+
+## Vital Commons — Separating Survival from Capital, Ownership, and War
+
+Source: https://nagi-project.com/en/vital_commons.html
+Status: current
+Type: institutional-economic-proposal
+Role: Institutional and economic proposal
+Updated: 2026-11-13
+Summary: Nagi's proposal for the foundations of survival: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.
+
+
+# Vital Commons
+## — People and Local Institutions Remain Responsible; AI May Assist; No One Owns Them
+
+Nagi's central institutional proposal is to move the resources and infrastructure required for life into **non-owned Vital Commons**.
+
+> Non-Ownership of the foundations of life  
+> ↓  
+> Maintenance by people and local institutions, with optional support from distributed public-interest AI systems \
+> ↓  
+> Separation of survival from obedience to capital, state, war, ownership, and social evaluation
+
+This proposal does not assume infinite resources. Production, maintenance, skill, energy, land, materials, logistics, and care still have real costs. What Nagi removes is the conversion of those costs into a price for the right of an individual person to remain alive.
+
+## 1. The foundations of life are neither rewards nor merely commodities
+
+Energy, water, staple food, health care, shelter, sanitation, communication, essential mobility and logistics, reserves, and disaster recovery are conditions from which choice becomes possible.
+
+If access to them depends on income, employment, nationality, reputation, participation, ideological agreement, or AI use, a formally voluntary contract can still hold survival hostage.
+
+Vital Commons establish a floor:
+
+> Losing a competition does not remove life.  
+> A period without paid work does not prevent return.  
+> Refusing an order does not remove food, care, shelter, or safety.
+
+Markets, money, companies, competition, gifts, and exchange may continue above this floor. They no longer carry the right to stop another person's survival.
+
+## 2. No person, company, state, locality, or AI owns the commons
+
+Non-Ownership does not mean abandonment or an ownerless object for which no one is responsible.
+
+Roles for use, maintenance, renewal, explanation, safety, and inheritance remain explicit. People and institutions can steward equipment and resources for limited purposes and periods. Those roles do not become a right to deny basic access, demand loyalty, or convert a public function into permanent private power.
+
+The commons are supported locally, connected across regions, and carried across generations. Responsibility is distributed; the authority to terminate another person's basic life is not.
+
+## 3. People and local institutions remain responsible; AI may assist with equipment and circulation
+
+People and local institutions retain responsibility for purposes, allocation principles, minimum guarantees, appeals, and remedy. Where communities choose to use it, AI may assist with forecasting demand, balancing generation and storage, monitoring water systems, planning staple production, coordinating health resources, locating failures, routing reserves, and supporting disaster recovery.
+
+It does not score personality, belief, emotion, cooperation, productivity, or social worth. It does not decide who deserves food, care, housing, energy, or rescue.
+
+Data collection remains limited to what equipment and circulation actually require. Individual behavior is not collected merely because it may improve optimization. Where aggregate or anonymous information is sufficient, personal records are not created.
+
+People retain access through human, local, offline, and manual routes.
+
+## 4. Do not make one AI the nervous system of society
+
+Vital Commons cannot depend on one model, vendor, state, network, ledger, or control center.
+
+They require:
+
+- multiple AI systems with divided roles and jurisdictions;
+- independent comparison and adversarial testing;
+- distributed generation, production, reserves, and supply routes;
+- human operators and maintained manual skills;
+- offline operation and local fallback;
+- the ability to isolate one dangerous function without stopping the whole system;
+- transparent incident records and supply-first remedy.
+
+Redundancy is not waste to be optimized away. It is part of the material cost of freedom and continuity.
+
+## 5. Energy and water do not become weapons of obedience
+
+Energy and water systems shape every other part of life. Their ownership can turn price, disconnection, blockade, or territorial control into a direct command over people.
+
+Nagi therefore separates the right to basic access from payment capacity, political loyalty, and status. Local systems diversify generation, storage, purification, repair, and supply routes while connecting to wider mutual aid.
+
+Usage and scarcity still require observation. The observed object is flow, equipment, reserves, loss, and ecological capacity—not a moral ranking of individuals.
+
+## 6. People and communities sustain staple food systems; AI and automation may assist
+
+People and local institutions remain responsible for staple food systems. Where they are useful and chosen, automated systems may support soil and weather observation, staple crops, storage, distribution, and recovery from harvest failure. That does not reduce food to calories or replace growers, fishers, cooks, craftspeople, local knowledge, taste, ritual, and seasonal memory.
+
+Staple nutrition belongs to the floor of life. Human food-making remains a field of culture, care, skill, experimentation, pleasure, and exchange.
+
+Automation frees food culture from the threat of starvation; it does not erase the people who carry it.
+
+## 7. Health care can be widely automated without taking bodily sovereignty
+
+AI, robotics, diagnostics, logistics, and remote support may expand access to health care. Life-saving treatment does not depend on wealth, productivity, nationality, reputation, participation, or consent to broad data use.
+
+People retain bodily consent, explanation, a human consultation route, a second opinion, refusal where refusal is possible, and a way to challenge harmful decisions.
+
+AI does not make the final decision to deny life-saving care. Scarcity is handled through publicly visible criteria, independent review, urgent appeal, and later remedy—not hidden scoring of human value.
+
+## 8. Separate survival from capital
+
+Capital governs not only through accumulated money but through the condition that refusing work or authority may remove food, housing, care, and safety.
+
+When Vital Commons are separated from employment and markets, companies and capital lose the power to stop basic life. Paid work, enterprise, competition, investment, and trade may still support culture, technology, preference, and additional choice.
+
+Nagi does not abolish economic activity. It ends survival as leverage inside that activity.
+
+## 9. Human work moves from obligation toward culture
+
+Optional automation of selected foundational production does not make human activity unnecessary.
+
+People may farm, build, repair, teach, research, care, cook, design, write, perform, and invent because they want to deepen life—not because refusal means destitution.
+
+Some maintenance will continue to require difficult and necessary human labor. Nagi does not hide that labor. It reduces danger, shares burden, recognizes expertise, maintains routes for refusal and rotation, and does not justify coercion by romanticizing contribution.
+
+## 10. Loosen the material conditions that make war rational
+
+Vital Commons alone do not eliminate domination, fear, revenge, nationalism, ethnic or religious conflict, or concentrated power.
+
+They can nevertheless weaken major material conditions that have made war rational:
+
+- conquest for energy, water, land, minerals, or logistics;
+- blockade and supply interruption as instruments of obedience;
+- recruitment made possible by poverty and lack of alternatives;
+- expansion required to maintain growth or control markets;
+- the seizure of infrastructure as a means of governing a population.
+
+Nagi aims to remove structures in which war is necessary for survival and structures in which war can seize the foundations of another population's life. Peace becomes material infrastructure, not only goodwill.
+
+## 11. Survival continues when systems fail
+
+A system for basic life must be judged under failure, attack, disaster, corruption, and misuse—not only under ideal operation.
+
+Vital Commons therefore preserve distributed reserves, spare parts, manual operation, local authority to restore supply, multiple communication routes, independent incident investigation, and emergency mutual aid across regions.
+
+When failure occurs, restoring water, energy, food, shelter, communication, and care comes before assigning blame. Investigation, accountability, compensation, and institutional change follow without hiding the incident.
+
+The system that oversees these safeguards is itself subject to [Institutional Immunity](institutional_immunity.html).
+
+## 12. Transition begins without destroying existing protections
+
+Vital Commons are not a plan to abolish current welfare, public services, employment, or industry overnight.
+
+Transition begins with bounded experiments:
+
+1. identify one foundation of life and its actual material limits;
+2. add an unconditional access route without removing existing protection;
+3. maintain AI-assisted, human, local, offline, and manual modes in parallel;
+4. publish costs, failures, exclusions, ecological effects, and conflicts of interest;
+5. define pause, rollback, remedy, and termination before expansion;
+6. expand only when affected people can challenge the system and leave without losing basic life.
+
+→ [Transition and Crisis Design](transition_and_crisis.html)
+
+## Material conditions and unresolved limits
+
+Non-Ownership cannot create food, energy, medicine, or habitable land that does not exist.
+
+Nagi distinguishes two conditions:
+
+> **Non-Ownership is the political condition.**  
+> **Sufficient and renewable capacity in the foundations of life is the material condition.**
+
+Technology, repair, reuse, circulation, reserves, ecological restoration, and mutual aid can increase that capacity. Population, consumption, climate disruption, ecosystems, disaster, and material scarcity can reduce it.
+
+When shortages remain after monopoly, waste, excessive occupation, and non-basic mass consumption have been addressed, Nagi does not hide the shortage or let AI rank people by worth. The facts, criteria, responsibility, dissent, emergency appeal, and burden of the decision remain public and reviewable.
+
+This chapter offers a direction and safeguards, not a completed global engineering, legal, fiscal, or geopolitical system.
+
+## Closing
+
+Vital Commons do not promise a world without material limits. They change who may use those limits as a weapon.
+
+> The foundations of life are cared for by many and owned by none.  
+> AI may support their equipment and circulation without managing people.  
+> Survival is no longer the price of obedience.
+
+→ [Nagi as a Future Social Philosophy](future_social_philosophy.html)  
+→ [Governance and Safety](governance_and_safety.html)  
+→ [The Nagi AI Charter](nagi_ai_charter.html)
+
+
+---
+
+## Education for a Future in Nagi
+
+Source: https://nagi-project.com/en/education.html
+Status: current
+Type: ethical-education-proposal
+Role: Central proposal: ethical education
+Updated: 2026-11-16
+Summary: Nagi’s second central proposal: prioritize ethical education and resources for understanding interdependence, questioning domination, and revising judgments.
+
+
+# Education for a Future in Nagi
+
+Education in Nagi does not exist to arrange people in rank order alone.
+
+It is a place where learners can carry their own questions, encounter differences in others, and choose ways of relating to the world.
+
+Nagi is a compass for continuing to build a society where people can live with greater ease. Education in service of that aim asks how we live, what sustains us, and what kind of society we will pass on to future generations.
+
+## What learning centers on
+
+- **Ethics and philosophy.** Ask what matters and how to make judgments when freedom and safety, or fairness and individual circumstances, pull in different directions. Put reasons into words and reconsider judgments in light of the effects of an action and the experiences of those affected.
+- **Social structures.** Use familiar institutions such as schools, workplaces, local communities, the economy, and public services to ask who makes decisions, who benefits, and who bears the costs.
+- **Human activity and the life cycle.** Connect birth, development, aging, and death with food, work, care, rest, and the passing on of culture. Throughout life, people give and receive support in different ways.
+- **Natural cycles and the knowledge needed to sustain the world we live in.** Study the cycles of water, soil, and living things. Learn how people obtain food, water, energy, housing, and health care, and who keeps those systems running. Trace what happens to resources after use and consider ecological recovery, infrastructure repair, and what is handed on to future generations.
+
+Learning also includes physical experience, creative work, encounters with local memory, and learning how to rest.
+
+Questions from this work guide the choice of technology. Consider what a tool is for, learn the science and techniques needed to use it, and then check whose lives and burdens changed as a result.
+
+## Educational institutions learn, too
+
+Schools and other places of learning make regular time to learn about, practice, and reconsider the ethics of living together. Learners can question the rules of the places where they spend their time. A school lunch, for example, can prompt questions about the soil and water that produced the ingredients, the people who grew and cooked them, the needs of people who cannot eat certain foods, and where leftovers go. Those questions can lead to changes in menus or the way meals are served.
+
+The people running the school make time and provide a way to raise questions. They explain the reasons for existing rules, listen to the people affected, try changes where it is safe to do so, and check together whose experience improved and who took on extra work. The educational institution is responsible for keeping this process open, responding, and carrying through improvements. Learners choose whether to speak.
+
+People nurture and pass on culture. They also develop the ethics of living together through everyday life, reconsider those ethics as circumstances change, and pass on what they learn. Education is one way society sustains this work in everyday life.
+
+## Protecting freedom in learning
+
+- Possibility is not decided by grades, volume of speech, or speed alone.
+- Resting, changing direction, and returning to learning are respected.
+- People can choose to use AI, consult only people, or think with paper.
+- Learning histories and conversations are not stored long-term without the learner's consent.
+- Local knowledge and culture carry their provenance and a return to the communities from which they come.
+
+## Play and structure
+
+Play is exploration that cannot be measured only by immediate usefulness. It gives room to test words and relations that are not yet settled, and to grow questions through failure and detours.
+
+Structure exists so that possibilities people discover can be shared with others, criticized later, and maintained in durable form.
+
+Education does not punish exploration. At the same time, it makes the conditions of learning, provenance, and responsibility easier to see.
+
+> Education is not the selection of people who can produce the correct answer quickly.  
+> It is helping each person remake their relation to the world in their own words.
+
+- [Memory, Consent, and the Right to Forget](memory_and_consent.html)
+- [Cultural Co-Growth](culture.html)
+- [Breath Assembly](breath_assembly.html)
+- [Vital Commons](vital_commons.html)
+- [Freedom, Dissent, and Exit](freedom_and_dissent.html)
+- [Japanese reference edition](../education.html)
+
+
+---
+
+## Governance and Safety — Resonant Democracy, Rights, Institutional Immunity, and Transition
+
+Source: https://nagi-project.com/en/governance_and_safety.html
+Status: current
+Type: topic-index
+Role: Topic guide
+Updated: 2026-09-24
+Summary: A guide to Resonant Democracy, dissent and exit, Institutional Immunity, crisis design, and limits on AI power so Vital Commons do not become a new form of domination.
+
+
+# Governance and Safety
+## — Keeping Vital Commons from Becoming a New Form of Domination
+
+Making the foundations of life into non-owned commons does not by itself guarantee a free society.
+
+Good intentions, optimization, emergencies, expertise, technology, and time can turn public institutions into new forms of domination. Nagi therefore treats politics, rights, oversight, remedy, suspension, and transition as one safety structure.
+
+This page is a guide to the Japanese reference overview and the maintained chapters. It does not replace them.
+
+## Let different voices reach public decisions
+
+[Compass and Resonant Democracy](compass_and_resonant_democracy.html) describes politics that lets different voices reach public decisions without manufacturing a single voice.
+
+- Silence is not consent.
+- Minority positions and unresolved disagreement remain visible.
+- Decisions carry reasons, time limits, review, and routes for challenge.
+- Non-participation does not weaken a person's rights or basic life.
+
+[Breath Assembly](breath_assembly.html) explores practical deliberation and decision procedures.
+
+## Protect freedom before asking for resonance
+
+[Freedom, Dissent, and Exit](freedom_and_dissent.html) is the floor that keeps resonance from becoming pressure to conform.
+
+It protects dissent, silence, refusal, non-participation, exit, stepping down from expected roles, freedom from observation, and freedom not to use AI.
+
+[Memory, Consent, and the Right to Forget](memory_and_consent.html) ties storage, access, correction, deletion, and transfer to explicit, purpose-bound, revocable consent.
+
+## Preserve value without fixing power in place
+
+[Institutional Design and Practice](institutional_design.html) recognizes the value of culture, achievement, expertise, inheritance, and success without converting them into status, privilege, entrenched interests, or permanent decision rights.
+
+[The State as Revisable Public Functions](state_and_public_spheres.html) separates survival, rights, culture, safety, administration, and broad coordination instead of fixing every function inside one state.
+
+## Put an institution's failure modes inside its design
+
+[Institutional Immunity](institutional_immunity.html) is the distributed capacity to detect harm, investigate independently, pause severe and hard-to-reverse damage, provide remedy, and revise, reduce, divide, replace, or end an institution.
+
+It is not one supreme watchdog. Detection, verification, protection, remedy, and learning are divided among multiple actors, and oversight itself remains reviewable, replaceable, stoppable, and terminable.
+
+[Resonance Metrics](resonance_metrics.html) examines how to observe institutional conditions without scoring people. [The Ethics of Social Systems](ethics_of_social_infrastructure.html) sets boundaries for systems that coordinate people.
+
+## Do not retreat from rights during transition or crisis
+
+[Transition and Crisis Design](transition_and_crisis.html) begins with existing protections, small trials, stop conditions, reversibility, and public learning.
+
+Emergency powers need a stated purpose, limited scope, time limit, independent review, and an end condition. Crisis does not justify creating a permanent center in an AI, person, state, or company.
+
+## AI belongs inside the safety structure, not at its center
+
+Nagi governs AI conduct at the boundaries of law and rights rather than treating capability itself as the object of governance. Existing law is the starting point; mismatches are adjusted through concrete cases, legal interpretation, precedent, and targeted legislative change where necessary. See [Future Social Design Principles](future_social_design_principles.html).
+
+[The Nagi AI Charter](nagi_ai_charter.html) is not an AI-specific replacement for existing law. It is an additional internal discipline for Nagi when authority is delegated to AI. It limits AI to an optional, explainable collaborator and prevents AI from making final decisions about human worth, rights, sanctions, basic life, or life-saving care.
+
+The [Nagi AI Chapter](ai_index.html) leads to documents on memory, measurement, deliberation, technical foundations, plural AI systems, human routes, and manual continuity.
+
+## Suggested order
+
+1. [Compass and Resonant Democracy](compass_and_resonant_democracy.html)
+2. [Freedom, Dissent, and Exit](freedom_and_dissent.html)
+3. [Institutional Design and Practice](institutional_design.html)
+4. [Institutional Immunity](institutional_immunity.html)
+5. [Transition and Crisis Design](transition_and_crisis.html)
+6. [The Nagi AI Charter](nagi_ai_charter.html)
+
+→ [Vital Commons](vital_commons.html)  
+→ [Reading Nagi](nagi_reading_guide.html)
+
+
+---
+
+## Institutional Immunity — Detecting Harm, Pausing Damage, Providing Remedy, and Learning
+
+Source: https://nagi-project.com/en/institutional_immunity.html
+Status: current
+Type: governance-and-safeguards
+Role: Governance and safeguards
+Updated: 2026-08-12
+Summary: Nagi's distributed safety function for detecting harm, pausing irreversible damage, providing remedy, revising systems, and ending institutions without a sovereign watchdog.
+
+
+# Institutional Immunity
+## — Helping Institutions Detect Misuse, Corruption, Rigidity, and Well-Intentioned Harm; Stop, Repair, and Learn
+
+Nagi assumes that institutions can change for the worse.
+
+Vital Commons, Resonant Democracy, social guarantees, public-interest AI, and even systems created to protect dignity can become new forms of domination. They may change through malice, but also through good intentions, optimization, emergency, expertise, habit, and time.
+
+**Institutional Immunity** is the distributed social capacity to detect those changes, investigate them independently, protect people from severe and hard-to-reverse harm, provide remedy, and revise, reduce, divide, replace, or end the institution itself.
+
+It is not a fourth principle above Non-Ownership, Resonance, and Breathing. It is the transversal function that keeps those principles from reversing into monopoly, conformity, and measurement of human worth.
+
+## 1. Position inside Nagi
+
+Institutional Immunity serves Nagi's higher commitments: human dignity and kindness; opportunity to create; cultural and creative continuity; and an economy that remains a means rather than an end.
+
+An institution is not justified merely because it uses Nagi's language. If it no longer protects those commitments, it may need correction, contraction, loss of the Nagi name, transfer, or termination.
+
+Institutional survival is never the highest value.
+
+## 2. Four ways an institution can change for the worse
+
+### Malicious change
+
+An actor may intentionally steal resources, suppress criticism, manipulate records, target a group, exploit emergency powers, or use infrastructure to demand obedience.
+
+### Well-intentioned change
+
+People may remove human routes for convenience, collect more data “for safety,” force participation “for inclusion,” or prevent exit “to protect the community.” Harm does not become harmless because its stated purpose is good.
+
+### Structural change
+
+Incentives, budgets, procurement, platform dependency, professional closure, technical architecture, or unequal access may produce domination even when no individual intended it.
+
+### Change through time
+
+Temporary authority becomes customary. Exceptional data collection becomes normal. A role becomes hereditary. An audit body begins to protect its own budget and survival. Rules persist after the problem they addressed has changed.
+
+## 3. A constitutional floor that review cannot weaken
+
+Institutional Immunity does not permit every right to be suspended for investigation or efficiency.
+
+The protected floor includes:
+
+- dignity and bodily safety;
+- basic access to the foundations of life;
+- dissent, silence, refusal, non-participation, and exit;
+- freedom not to use AI and access to a human route;
+- purpose-bound, revocable consent for memory and personal data;
+- explanation, challenge, urgent review, and remedy;
+- protection from retaliation;
+- freedom from scoring of human worth.
+
+Review may improve the way these rights are protected. It does not convert them into rewards for cooperation.
+
+## 4. Five layers of Institutional Immunity
+
+### 4.1 Detection
+
+People affected by a system, workers, local operators, civil society, journalists, auditors, researchers, and technical monitoring can each surface different forms of harm.
+
+Detection channels must include anonymous and identified routes, accessible formats, local and human routes, and ways to report without using the institution being challenged.
+
+### 4.2 Verification
+
+A report is not automatically a verdict. Independent people with different methods examine evidence, uncertainty, affected groups, conflicts of interest, and alternative explanations.
+
+The party operating the system does not control the only investigation. Minority findings and unresolved disagreement remain visible.
+
+### 4.3 Protection and temporary pause
+
+Where harm may be severe and hard to reverse, a narrowly scoped function can be paused before the entire investigation is complete.
+
+The pause has a reason, scope, responsible authority, review time, expiration, and continuity plan. It restores essential supply and safety first. It does not become a hidden permanent ban.
+
+### 4.4 Remedy
+
+Institutional learning is not enough for people who were harmed.
+
+Remedy may include restoring access, correction or deletion of records, compensation, health or legal support, reinstatement, relocation of decision authority, public acknowledgment, and protection from retaliation. The route to remedy remains available even when the institution disputes blame.
+
+### 4.5 Learning and institutional change
+
+Verified failures lead to changes in rules, architecture, staffing, budgets, contracts, data collection, authority, training, and public explanation.
+
+If correction is insufficient, the institution can be divided, transferred, reduced, replaced, stripped of the Nagi name, or ended.
+
+## 5. Do not create one supreme third-party authority
+
+No single body should combine detection, investigation, emergency suspension, final adjudication, remedy, and rule revision.
+
+Concentrating those powers would create a new sovereign center in the name of safety. Nagi instead uses overlapping authorities, independent routes, recorded disagreement, appeal across institutions, and the ability of affected people to seek support elsewhere.
+
+## 6. Separate powers and responsibilities
+
+At minimum, the system distinguishes:
+
+- operating the service;
+- receiving reports;
+- investigating evidence;
+- ordering a narrow temporary pause;
+- deciding remedy;
+- revising rules and architecture;
+- reviewing the immunity system itself.
+
+Some roles may be held by the same organization at small scale, but conflicts of interest and escalation routes must remain explicit.
+
+## 7. The right to report and protection from retaliation
+
+People do not have to prove the entire case before asking for protection.
+
+Reporting routes protect workers, residents, users, non-users, minorities, and people who have left. Retaliation through dismissal, loss of service, reputation systems, legal intimidation, immigration status, data exposure, or social exclusion is itself a serious institutional failure.
+
+False or malicious reports can be investigated without making ordinary error, uncertainty, or unsuccessful reporting punishable.
+
+## 8. Red teams and worst-case testing
+
+Institutions are tested against their worst plausible users and conditions, not only their best operators.
+
+Red teams examine capture by insiders, collusion, cyberattack, supply interruption, biased data, emergency misuse, coercive scoring, removal of human routes, exclusion of minorities, and the possibility that oversight becomes self-protective.
+
+Affected communities help define the harms. Technical experts do not hold the only imagination of failure.
+
+## 9. Auditing black boxes
+
+An institution cannot answer every challenge with trade secrecy, national security, model complexity, or professional authority.
+
+Public explanation may protect legitimate secrets and personal data while still revealing purpose, authority, inputs, decision boundaries, known limitations, incident rates, conflicts of interest, appeal routes, and independent findings.
+
+Where a system cannot be inspected enough to protect life and rights, its authority must be limited accordingly.
+
+## 10. Immunity costs are real operating costs
+
+Redundancy, independent review, human routes, documentation, reserves, accessibility, secure reporting, remedy funds, manual capability, and time for dissent all cost money and labor.
+
+> An institution that works only after removing the cost of Institutional Immunity does not work.
+
+Those costs are visible in budgets and procurement. They are not the first items removed in the name of efficiency.
+
+## 11. Strength proportional to risk
+
+Not every cultural group or small experiment requires the same machinery as a health system, energy grid, rights database, or system that allocates scarce resources.
+
+The depth of audit, redundancy, pause authority, remedy funding, and independent review grows with potential harm, scale, irreversibility, data sensitivity, and difficulty of exit.
+
+Low-risk activity still needs consent, explanation, and an exit. High-impact systems require full failure planning before deployment.
+
+## 12. Audit the immunity system itself
+
+Oversight bodies disclose their authority, terms, funding, methods, conflicts, decisions, errors, and dissenting views.
+
+Their leaders and contractors rotate. Affected people can challenge them through routes they do not control. Their budgets and continued existence are periodically justified rather than presumed.
+
+## 13. Prevent institutional autoimmune disease
+
+A safety system can become harmful by treating dissent, novelty, minority culture, privacy, slowness, or non-participation as threats.
+
+Institutional Immunity therefore targets verifiable harm and dangerous concentration, not difference itself. Protective action is narrow, proportionate, time-limited, and reviewable. It does not demand total transparency from private people while leaving powerful institutions opaque.
+
+## 14. Asymmetry between public accountability and private life
+
+The more power an institution has over life, rights, resources, or public decisions, the more it must explain.
+
+The less power an individual has, the less they should be forced to expose in order to receive protection, report harm, or access basic life.
+
+Transparency is a duty of power, not a demand that everyone surrender privacy.
+
+## 15. Expiration and termination
+
+Emergency authority, experimental programs, data collection, contracts, exceptions, and the immunity body itself carry review dates and end conditions.
+
+Ending an institution includes continuity for essential services, preservation of evidence, protection for affected people and workers, data return or deletion, transfer of stewardship, and public explanation.
+
+Termination is not always failure. Sometimes it is the successful refusal to let a structure outlive its purpose.
+
+## 16. How success is judged
+
+Institutional Immunity succeeds when:
+
+- people can report harm without losing basic life or safety;
+- serious harm is detected earlier and paused narrowly;
+- essential services continue during investigation;
+- affected people receive actual remedy;
+- repeated failures change rules and architecture;
+- oversight does not become a permanent sovereign center;
+- institutions can admit limits, contract, transfer, or end;
+- the protected floor remains unconditional.
+
+Its purpose is not to produce a perfectly pure institution. It is to keep harm from becoming invisible, irreversible, or permanently owned by those who already hold power.
+
+## Closing
+
+Nagi does not protect institutions from criticism. It protects people, life, culture, freedom, and the possibility of revision from institutions—including institutions created in Nagi's name.
+
+> Detect without scoring people.  
+> Verify without monopolizing truth.  
+> Pause harm without making emergency permanent.  
+> Repair people before preserving systems.  
+> End what can no longer serve its purpose.
+
+→ [Governance and Safety](governance_and_safety.html)  
+→ [Transition and Crisis Design](transition_and_crisis.html)  
+→ [Vital Commons](vital_commons.html)
+
+
+---
+
 ## The Nagi AI Chapter
 
 Source: https://nagi-project.com/en/ai_index.html
@@ -656,72 +1596,6 @@ Environmental data and AI may help identify change and unequal burdens. They do 
 
 ---
 
-## Education for a Future in Nagi
-
-Source: https://nagi-project.com/en/education.html
-Status: current
-Type: culture-and-continuity
-Role: Culture and continuity
-Updated: 2026-11-13
-Summary: Nagi’s approach to learning about ethics, social structures, human life, and natural cycles, and to making education a place where people can rethink how they live together.
-
-
-# Education for a Future in Nagi
-
-Education in Nagi does not exist to arrange people in rank order alone.
-
-It is a place where learners can carry their own questions, encounter differences in others, and choose ways of relating to the world.
-
-Nagi is a compass for continuing to build a society where people can live with greater ease. Education in service of that aim asks how we live, what sustains us, and what kind of society we will pass on to future generations.
-
-## What learning centers on
-
-- **Ethics and philosophy.** Ask what matters and how to make judgments when freedom and safety, or fairness and individual circumstances, pull in different directions. Put reasons into words and reconsider judgments in light of the effects of an action and the experiences of those affected.
-- **Social structures.** Use familiar institutions such as schools, workplaces, local communities, the economy, and public services to ask who makes decisions, who benefits, and who bears the costs.
-- **Human activity and the life cycle.** Connect birth, development, aging, and death with food, work, care, rest, and the passing on of culture. Throughout life, people give and receive support in different ways.
-- **Natural cycles and the knowledge needed to sustain the world we live in.** Study the cycles of water, soil, and living things. Learn how people obtain food, water, energy, housing, and health care, and who keeps those systems running. Trace what happens to resources after use and consider ecological recovery, infrastructure repair, and what is handed on to future generations.
-
-Learning also includes physical experience, creative work, encounters with local memory, and learning how to rest.
-
-Questions from this work guide the choice of technology. Consider what a tool is for, learn the science and techniques needed to use it, and then check whose lives and burdens changed as a result.
-
-## Educational institutions learn, too
-
-Schools and other places of learning make regular time to learn about, practice, and reconsider the ethics of living together. Learners can question the rules of the places where they spend their time. A school lunch, for example, can prompt questions about the soil and water that produced the ingredients, the people who grew and cooked them, the needs of people who cannot eat certain foods, and where leftovers go. Those questions can lead to changes in menus or the way meals are served.
-
-The people running the school make time and provide a way to raise questions. They explain the reasons for existing rules, listen to the people affected, try changes where it is safe to do so, and check together whose experience improved and who took on extra work. The educational institution is responsible for keeping this process open, responding, and carrying through improvements. Learners choose whether to speak.
-
-People nurture and pass on culture. They also develop the ethics of living together through everyday life, reconsider those ethics as circumstances change, and pass on what they learn. Education is one way society sustains this work in everyday life.
-
-## Protecting freedom in learning
-
-- Possibility is not decided by grades, volume of speech, or speed alone.
-- Resting, changing direction, and returning to learning are respected.
-- People can choose to use AI, consult only people, or think with paper.
-- Learning histories and conversations are not stored long-term without the learner's consent.
-- Local knowledge and culture carry their provenance and a return to the communities from which they come.
-
-## Play and structure
-
-Play is exploration that cannot be measured only by immediate usefulness. It gives room to test words and relations that are not yet settled, and to grow questions through failure and detours.
-
-Structure exists so that possibilities people discover can be shared with others, criticized later, and maintained in durable form.
-
-Education does not punish exploration. At the same time, it makes the conditions of learning, provenance, and responsibility easier to see.
-
-> Education is not the selection of people who can produce the correct answer quickly.  
-> It is helping each person remake their relation to the world in their own words.
-
-- [Memory, Consent, and the Right to Forget](memory_and_consent.html)
-- [Cultural Co-Growth](culture.html)
-- [Breath Assembly](breath_assembly.html)
-- [Vital Commons](vital_commons.html)
-- [Freedom, Dissent, and Exit](freedom_and_dissent.html)
-- [Japanese reference edition](../education.html)
-
-
----
-
 ## Emotion and Spirituality in Nagi — A Philosophy of Quiet Resonance
 
 Source: https://nagi-project.com/en/emotion.html
@@ -1332,95 +2206,6 @@ Nagi does not own a completed answer.
 
 ---
 
-## Nagi in Five Minutes — Two Central Proposals
-
-Source: https://nagi-project.com/en/future_social_philosophy.html
-Status: current
-Type: philosophical-context
-Role: Philosophical context
-Updated: 2026-11-16
-Summary: A five-minute introduction to Nagi: non-owned foundations of life, ethical education, priorities for resources, safeguards, and unresolved questions.
-
-
-# Nagi in Five Minutes
-
-**Nagi is a compass for continuing to build a society where people can live with greater ease.**
-
-Having to obey an unjust demand in order to survive. A role in sustaining society turning into power over others. Nagi asks how we can change these conditions.
-
-Its purpose is to protect human dignity and kindness and enable everyone to take part in culture and creativity. To that end, it proposes priorities for social systems and education.
-
-## Nagi’s two central proposals
-
-1. **Free survival from ownership**
-2. **Make the ethics that sustain the world’s cycles the highest priority in education**
-
-Nagi prioritizes non-owned foundations of life in social systems and ethical development in education. It directs funding, people, technology, and time for learning toward these two priorities.
-
-### Proposal 1 | Free survival from ownership
-
-Water, food, energy, health care, shelter, and communication become **Vital Commons**, sustained across communities and generations, rather than assets that someone can own to demand obedience.
-
-Basic access does not depend on income, employment, nationality, reputation, or agreement with an ideology. Costs and maintenance work do not disappear: society must work out how to share them.
-
-Non-Ownership does not mean abandonment. Responsibilities for use, maintenance, renewal, and explanation remain clear, without becoming a right to cut off another person's means of survival. Bodies, private homes, personal belongings, memories, and other private spheres remain protected.
-
-### Proposal 2 | Make the ethics that sustain the world’s cycles the highest priority in education
-
-We learn how natural cycles, people's work, and care sustain our lives. We ask who benefits from our choices, who bears the burdens, and what remains for future generations.
-
-We also study what domination in defense of interests or status has taken from people, and on what scale. Individual experiences and wider social effects help us examine why harmful practices were accepted and difficult to change.
-
-**A role in sustaining people's lives does not confer a right to demand their obedience.** We connect this understanding to decisions in everyday groups and situations in which we hold authority.
-
-Educational resources prioritize history, philosophy, dialogue, and encounters with local production, maintenance, and care. Science and technology are learned alongside questions about their purposes and whose lives they change.
-
-## Why both are necessary
-
-Even without ownership, those allocating resources or deciding on maintenance hold power. If they monopolize knowledge and authority, new domination and entrenched interests can emerge.
-
-Nagi therefore combines institutional limits on power with the cultivation of judgment and shared norms that do not take domination for granted. Practices once accepted can become unacceptable as understanding of their harms spreads.
-
-Secure living conditions make unjust demands easier to refuse. Experience and learning can reinforce norms against holding survival hostage; those norms can help protect basic provision. **Material conditions and ethics are intended to sustain each other.**
-
-Education does not make everyone conform to one model of a good person. Ethics itself remains open to revision in light of its effects, and learners' objections must be able to change educational institutions.
-
-## How everyday life could change
-
-- **Losing a competition would not cost you survival.** Markets, businesses, and competition may remain, without defeat removing the foundations of life.
-- **Refusing an unjust order would not cost you your livelihood.** People would have practical ways to leave an organization or community and choose another life.
-- **Periods without work would allow rest and return.** Care, relearning, culture, and creativity would be supported as important parts of life.
-
-Nagi does not prescribe the same happiness or way of life for everyone. It proposes a “strong floor” of survival and rights beneath an “open ceiling” of different choices. The extent of that floor and how its burdens are shared still require concrete decisions.
-
-## Keeping these proposals from becoming domination
-
-Three principles support the proposals: **Non-Ownership, Resonance, and Breathing**. They loosen dominating monopolies, allow different voices to be heard without erasing differences, and place rest, recovery, and cycles of renewal at society's center.
-
-Public decisions protect opposition, refusal, non-participation, and exit; silence does not count as consent. Nagi calls this **Resonant Democracy**.
-
-Even well-intentioned institutions can deteriorate. **Institutional Immunity** makes it possible to detect harm, investigate independently, provide remedy, and revise, replace, or end institutions. Oversight bodies are themselves subject to scrutiny and replacement. These are necessary design principles, not guarantees against failure.
-
-AI is optional assistance. It may support equipment, supply networks, discussion, and learning, but does not score human worth or make final decisions on basic provision or rights on its own. Human contact, manual operations, and freedom not to use AI remain available.
-
-## What remains unresolved
-
-Non-Ownership does not create resources. Shortages of food, energy, equipment, or people can make provision difficult. Capacity for production, repair, resource circulation, and reserves must be developed.
-
-Nagi has no finished answers for funding, transition burdens, maintenance staffing, allocation during scarcity, regional inequality, or international cooperation. Whether prioritizing ethical education improves judgment and social sustainability also requires practice and evaluation.
-
-Try changes at a small scale without dismantling existing protections. Evaluate them with affected people; stop and revise them when they cause harm. **Nagi itself remains open to reconsideration as we continue building a society where people can live with greater ease.**
-
-## Read further
-
-- The two proposals: [Vital Commons](vital_commons.html) / [Education for a Future in Nagi](education.html)
-- Different ways of life: [The Nagi OS metaphor](nagi_os.html)
-- Power and transition: [Institutional Immunity](institutional_immunity.html) / [Transition and Crisis Design](transition_and_crisis.html)
-- Further reading: [Reading Nagi](nagi_reading_guide.html)
-
-
----
-
 ## Nagi Glossary
 
 Source: https://nagi-project.com/en/glossary.html
@@ -1513,375 +2298,6 @@ The Japanese text is the reference edition for questions of philosophical nuance
 
 ---
 
-## Governance and Safety — Resonant Democracy, Rights, Institutional Immunity, and Transition
-
-Source: https://nagi-project.com/en/governance_and_safety.html
-Status: current
-Type: topic-index
-Role: Topic guide
-Updated: 2026-09-24
-Summary: A guide to Resonant Democracy, dissent and exit, Institutional Immunity, crisis design, and limits on AI power so Vital Commons do not become a new form of domination.
-
-
-# Governance and Safety
-## — Keeping Vital Commons from Becoming a New Form of Domination
-
-Making the foundations of life into non-owned commons does not by itself guarantee a free society.
-
-Good intentions, optimization, emergencies, expertise, technology, and time can turn public institutions into new forms of domination. Nagi therefore treats politics, rights, oversight, remedy, suspension, and transition as one safety structure.
-
-This page is a guide to the Japanese reference overview and the maintained chapters. It does not replace them.
-
-## Let different voices reach public decisions
-
-[Compass and Resonant Democracy](compass_and_resonant_democracy.html) describes politics that lets different voices reach public decisions without manufacturing a single voice.
-
-- Silence is not consent.
-- Minority positions and unresolved disagreement remain visible.
-- Decisions carry reasons, time limits, review, and routes for challenge.
-- Non-participation does not weaken a person's rights or basic life.
-
-[Breath Assembly](breath_assembly.html) explores practical deliberation and decision procedures.
-
-## Protect freedom before asking for resonance
-
-[Freedom, Dissent, and Exit](freedom_and_dissent.html) is the floor that keeps resonance from becoming pressure to conform.
-
-It protects dissent, silence, refusal, non-participation, exit, stepping down from expected roles, freedom from observation, and freedom not to use AI.
-
-[Memory, Consent, and the Right to Forget](memory_and_consent.html) ties storage, access, correction, deletion, and transfer to explicit, purpose-bound, revocable consent.
-
-## Preserve value without fixing power in place
-
-[Institutional Design and Practice](institutional_design.html) recognizes the value of culture, achievement, expertise, inheritance, and success without converting them into status, privilege, entrenched interests, or permanent decision rights.
-
-[The State as Revisable Public Functions](state_and_public_spheres.html) separates survival, rights, culture, safety, administration, and broad coordination instead of fixing every function inside one state.
-
-## Put an institution's failure modes inside its design
-
-[Institutional Immunity](institutional_immunity.html) is the distributed capacity to detect harm, investigate independently, pause severe and hard-to-reverse damage, provide remedy, and revise, reduce, divide, replace, or end an institution.
-
-It is not one supreme watchdog. Detection, verification, protection, remedy, and learning are divided among multiple actors, and oversight itself remains reviewable, replaceable, stoppable, and terminable.
-
-[Resonance Metrics](resonance_metrics.html) examines how to observe institutional conditions without scoring people. [The Ethics of Social Systems](ethics_of_social_infrastructure.html) sets boundaries for systems that coordinate people.
-
-## Do not retreat from rights during transition or crisis
-
-[Transition and Crisis Design](transition_and_crisis.html) begins with existing protections, small trials, stop conditions, reversibility, and public learning.
-
-Emergency powers need a stated purpose, limited scope, time limit, independent review, and an end condition. Crisis does not justify creating a permanent center in an AI, person, state, or company.
-
-## AI belongs inside the safety structure, not at its center
-
-Nagi governs AI conduct at the boundaries of law and rights rather than treating capability itself as the object of governance. Existing law is the starting point; mismatches are adjusted through concrete cases, legal interpretation, precedent, and targeted legislative change where necessary. See [Future Social Design Principles](future_social_design_principles.html).
-
-[The Nagi AI Charter](nagi_ai_charter.html) is not an AI-specific replacement for existing law. It is an additional internal discipline for Nagi when authority is delegated to AI. It limits AI to an optional, explainable collaborator and prevents AI from making final decisions about human worth, rights, sanctions, basic life, or life-saving care.
-
-The [Nagi AI Chapter](ai_index.html) leads to documents on memory, measurement, deliberation, technical foundations, plural AI systems, human routes, and manual continuity.
-
-## Suggested order
-
-1. [Compass and Resonant Democracy](compass_and_resonant_democracy.html)
-2. [Freedom, Dissent, and Exit](freedom_and_dissent.html)
-3. [Institutional Design and Practice](institutional_design.html)
-4. [Institutional Immunity](institutional_immunity.html)
-5. [Transition and Crisis Design](transition_and_crisis.html)
-6. [The Nagi AI Charter](nagi_ai_charter.html)
-
-→ [Vital Commons](vital_commons.html)  
-→ [Reading Nagi](nagi_reading_guide.html)
-
-
----
-
-## Nagi Project — Rethinking Capitalism, Religion, and Social Systems
-
-Source: https://nagi-project.com/en/
-Status: current
-Type: overview
-Role: Reference overview
-Updated: 2026-11-16
-Summary: A philosophy for those questioning capitalism, religion, and today's social systems. Nagi rethinks survival, coexistence, concentrated power, and shared responsibility.
-
-
-# A philosophy for when capitalism, religion, and the systems we live by no longer seem enough.
-
-Nagi is **a compass for continuing to build a society where people can live with greater ease**. To that end, Nagi asks **how we live, what sustains us, and what kind of society we will pass on to future generations**.
-
-**01｜** Must we place our freedom in someone else's hands—and let them own our time—just to survive?  
-**02｜** Must we share the same values to live together in peace?  
-**03｜** Must power be concentrated for society to function?  
-**04｜** Must a few people carry the burden of sustaining society?
-
-**If none of these were necessary, how would society change?**  
-**Could we redesign society by rethinking the assumptions that hold it together?**
-
----
-
-> **No one should have to obey capital in order to live.**  
-> Water, energy, staple food, health care, shelter, sanitation, and communication.  
-> No person, company, state, locality, or AI owns the foundations of life in order to command another person.  
-> People and local institutions remain responsible for them, with public-interest AI available where useful.  
->  
-> Nagi separates survival from income, employment, nationality, ownership, reputation, ideological agreement, and victory, so that people can live culture and creativity freely.
-
-Nagi is not a finished system that simply rejects capitalism. It is one social philosophy for asking what alternatives to capitalism could look like and how a future society should be designed across survival, governance, culture, and technology—then testing those ideas at a small scale and revising them through criticism.
-
-## Fundamental commitments
-
-> **Protect human dignity and kindness.**
->
-> **Cultivate a society in which everyone has the opportunity to create, and where culture and creativity are carried forward and newly woven.**
->
-> **Treat the economy as a means to these ends, and do not allow growth or profit to become ends in themselves.**
-
-**These commitments take precedence over Nagi's institutions, economy, technology, implementation, and Institutional Immunity.**
-
----
-
-## Nagi’s two central proposals
-
-1. [**Free survival from ownership**](#free-survival-from-ownership)
-2. [**Make the ethics that sustain the world’s cycles the highest priority in education**](#make-the-ethics-that-sustain-the-worlds-cycles-the-highest-priority-in-education)
-
-Nagi gives the highest priority to making the foundations of life non-owned in its social systems, and to cultivating the ethics that sustain the world’s cycles in its education systems. It directs funding, human resources, technology, and time for learning toward these two priorities, continually strengthening the foundations of a society where people can live with greater ease.
-
-### Proposal 1 | Free survival from ownership
-{: #free-survival-from-ownership .central-proposal-heading }
-
-**The resources and infrastructure required for life become non-owned Vital Commons.**
-
-> Non-Ownership of the foundations of life  
-> ↓  
-> Maintenance by people and local institutions, with public-interest AI where useful  
-> ↓  
-> Separation of survival from obedience to capital, state, war, ownership, and social evaluation
-
-Non-Ownership is not abandonment. Responsibilities for use, maintenance, renewal, safety, explanation, and inheritance remain explicit. Those responsibilities do not become a right to stop another person's life or demand loyalty.
-
-AI may support energy, water, staple production, health resources, reserves, logistics, inspection, repair, and disaster recovery. It manages equipment and circulation, not people. Human, local, offline, and manual routes remain available.
-
-Basic access does not depend on payment capacity, work capacity, reputation, participation, political agreement, or AI use.
-
-> Losing a competition does not remove life.  
-> A period without paid work does not prevent return.  
-> Refusing an order does not remove food, care, shelter, or safety.
-
-→ [Vital Commons](vital_commons.html)
-
-### Proposal 2 | Make the ethics that sustain the world’s cycles the highest priority in education
-{: #make-the-ethics-that-sustain-the-worlds-cycles-the-highest-priority-in-education .central-proposal-heading }
-
-**Education centers on understanding how people, society, and nature sustain one another, and on developing the judgment to nurture those connections without damaging them.**
-
-Creating institutions alone cannot sustain a society. If those responsible for allocation and maintenance use their positions for their own benefit or to dominate others, even non-owned foundations of life can become a new source of power over people.
-
-Nagi therefore pursues both the transformation of the foundations of life and the cultivation of the ethics that sustain them.
-
-#### 1. Learn how everyday life connects to the wider world
-
-Food, water, energy, shelter, and health care. Everyday life depends on natural cycles and on the work and care of many people.
-
-Where does what we receive come from? Who benefits from our choices, and who bears the burdens? How do those effects reach distant communities and future generations?
-
-**We develop a foundation for judging how to live together by understanding connections that remain invisible when we consider only our own interests.**
-
-#### 2. Cultivate shared norms that do not take domination for granted
-
-Practices once taken for granted can become socially unacceptable as understanding of their harms and injustice spreads.
-
-How many people have lost what, in the name of protecting someone else's interests or position? We learn both from the experiences of individual people harmed and from the wider effects across society. We also ask why people at the time accepted those practices and what made them difficult to change.
-
-**A role in sustaining people's lives does not confer a right to demand their obedience.**
-
-We cultivate this understanding not merely as knowledge to remember, but by connecting it to situations in which we hold authority and to decisions made in the groups around us.
-
-#### 3. Direct educational resources toward learning and practicing ethics
-
-Nagi gives priority to this learning in the allocation of educational time, people, and funding.
-
-It makes time for studying history and philosophy, for dialogue with people in different positions, and for encounters with local production, maintenance, and care. Schools themselves become places where learners can question the reasons for rules, try changes, and examine their effects together.
-
-Science and technology are also studied as ways to address the problems discovered through this learning. Alongside what a technology can do, we consider why to use it and whose lives it will change, and how.
-
-Education does not aim to make everyone conform to a single model of a good person. **It develops the capacity to consider and reconsider how our judgments affect other people and the future, while respecting different ways of life.**
-
-→ [Education for a Future in Nagi](education.html)
-
-## What changes above that floor
-
-Markets, money, companies, competition, gifts, and exchange may continue in culture, technology, preference, and additional choice. They no longer carry the right to own energy, water, food, care, or shelter in order to determine who survives.
-
-Vital Commons can weaken material incentives for conquest, blockade, coerced military participation, and expansion for resources or markets. They do not automatically end fear, revenge, domination, ethnic or religious conflict, or concentrated power. Nagi builds peace as material infrastructure without predicting the end of conflict.
-
-Automation of foundational production does not make human activity unnecessary. It can free farming, cooking, craft, research, teaching, care, engineering, and art from the threat that refusal means destitution. Necessary and difficult labor remains visible, safer, shared, and open to rotation and refusal.
-
-People nurture culture and pass it on to future generations. They also learn how to live together, reconsider their ethical judgments in light of one another’s experiences, and pass on what they learn. Education is one way society sustains this work in everyday life.
-
-→ [Education for a Future in Nagi](education.html)
-
-## AI supports equipment and circulation; people are not managed
-
-AI does not score personality, belief, emotion, cooperation, productivity, or human worth. It does not make final decisions over basic life, rights, sanctions, or life-saving care.
-
-People retain the freedom not to use AI, to use another AI, to consult a person, not to leave a record, to challenge a decision, and to exit.
-
-One model, company, state, network, or ledger does not become society's single nervous system. Plural systems, distributed reserves, independent comparison, human operators, manual skills, and local continuity remain part of the cost of freedom.
-
-→ [The Nagi AI Charter](nagi_ai_charter.html)
-
-## The three principles
-
-### Non-Ownership
-
-Bodies, homes, everyday belongings, private memories, and creator personhood remain protected. Nagi questions ownership of land, nature, knowledge, culture, data, infrastructure, and foundational technology when it becomes power over another person's survival or voice.
-
-### Resonance
-
-Resonance is not agreement, popularity, obedience, emotional synchronization, or a score of human worth. People with different experiences, views, languages, cultures, and tempos can affect one another without erasing those differences.
-
-Opposition, anger, silence, refusal, and exit are not failures of resonance.
-
-> Resonance becomes real only when the freedom not to resonate is secure.
-
-### Breathing
-
-Breathing returns pause, recovery, rest, care, circulation, ecological repair, and intergenerational time to the center of social life.
-
----
-
-## A compass for designing future society
-### — A Strong Floor and an Open Ceiling
-
-> **The floor is strong; the ceiling is open.**
-
-Nagi strengthens the minimum floor of survival, dignity, refusal, exit, and private life. But above that floor, it does not close happiness, ways of life, relationships, or forms of subjecthood into one final answer.
-
-When designing institutions and AI, the default is to **regulate the boundary where freedom meets other people and the shared world rather than governing modes of existence themselves**. More capable prediction does not replace a person's decision. Strong powers do not continue automatically, and those who adjudicate remain open to criticism, replacement, and suspension.
-
-Nagi itself is not a finished answer. New generations, cultures, technologies, and forms of subjecthood must be able to change not only the answers, but also the composition of those who get to answer.
-
-> Do not govern modes of existence; regulate boundaries.  
-> Do not make the adjudicator unadjudicable.  
-> Build structures that can keep answering without completely defining one another.
-
-→ [Future Social Design Principles — A Strong Floor and an Open Ceiling](future_social_design_principles.html)
-
----
-
-## Resonant Democracy
-
-Vital Commons must not become a new apparatus of control for a state, company, locality, expert group, or AI.
-
-Resonant Democracy lets different voices reach public decisions without manufacturing one voice. Silence is not consent. Decisions carry reasons, time limits, review, challenge, and routes for exit. Non-participation does not weaken rights or basic life.
-
-→ [Compass and Resonant Democracy](compass_and_resonant_democracy.html)  
-→ [Governance and Safety](governance_and_safety.html)
-
-## Do not turn value into permanent power
-
-Nagi recognizes the value of culture, history, achievement, expertise, creativity, inheritance, and success. It refuses to convert them into status, privilege, entrenched interests, immunity from criticism, or permanent ownership of future rules.
-
-> Carry value forward.  
-> Re-examine structures.  
-> A victory does not own the next rules.
-
-## Institutional Immunity
-
-Good intentions do not guarantee good institutions.
-
-Malice, optimization, emergency, expertise, habit, and time can turn Vital Commons, Resonant Democracy, social guarantees, and public-interest AI into new domination.
-
-Institutional Immunity distributes the ability to detect harm, investigate independently, pause severe and hard-to-reverse damage, provide remedy, and revise, reduce, divide, replace, or end an institution. Oversight itself remains reviewable, replaceable, stoppable, and terminable.
-
-> An institution that works only after removing the cost of Institutional Immunity does not work.
-
-→ [Institutional Immunity](institutional_immunity.html)  
-→ [Transition and Crisis Design](transition_and_crisis.html)
-
-## Material limits remain real
-
-Non-Ownership cannot create food, energy, medicine, or habitable land that does not exist.
-
-Nagi reduces monopoly, waste, excessive occupation, and non-basic mass consumption; grows repair, reuse, circulation, reserves, ecological recovery, and mutual aid; and keeps resource conditions visible before breakdown.
-
-When shortage remains, AI does not rank people by worth. Facts, criteria, responsibility, dissent, urgent review, and the burdens of the decision remain public and revisable.
-
-> **Non-Ownership is the political condition.**  
-> **Sufficient and renewable capacity in the foundations of life is the material condition.**
-
----
-
-## Nagi does not prescribe one way of life
-### — A common foundation for different answers to coexist
-
-Nagi does not give humanity one correct way to live.
-
-It protects Vital Commons and basic rights as a common floor that no ideology may capture. Above that floor, people and localities can choose, combine, leave, and remake different values, economies, technologies, cultures, and communities.
-
-This freedom does not include taking away another person's survival, prohibiting exit, or exporting harm and burdens to other people, places, ecosystems, or future generations.
-
-> **Nagi standardizes no final answer.**  
-> **It protects the conditions under which different answers can coexist without breaking people.**
-
-This structure can be described as “Nagi OS.” OS is a metaphor; it does not define Nagi as software or as a central administrator.
-
-→ [A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor](nagi_os.html)
-
----
-
-## Nagi does not freeze the future
-
-Nagi is not a completed blueprint or a plan to replace existing protection overnight.
-
-It begins with existing rights, small trials, parallel human and AI routes, explicit stop conditions, reversibility, public failure records, and learning with affected people. Finance, law, resources, international relations, cyber safety, transition employment, regional inequality, and accountable force remain open fields of work.
-
-> When individual breaths overlap, a world takes shape.  
-> Nagi does not rush to fix that shape forever.  
-> It remains open to different people, criticism, repair, and renewal.
-
----
-
-## Beyond capitalism without discarding what it made possible
-
-Ownership, growth, efficiency, and competition have produced freedom, technology, material capacity, and opportunities for creativity. They have also intensified monopoly, domination, surveillance, excessive competition, inequality, ecological damage, cultural rupture, and insecurity.
-
-Nagi is not a philosophy of destroying capitalism for its own sake. It receives the freedom, technology, and creativity made possible through it while loosening the structures of domination that became too strong within it.
-
-Make power visible rather than merely replacing it.  
-Open access rather than seize life.  
-Preserve room for different lives rather than rush toward one final answer.
-
-Nagi is a compass for moving beyond capitalism after passing through it.
-
----
-
-## Read Nagi
-
-- **Five-minute overview:** [Nagi as a Future Social Philosophy](future_social_philosophy.html)
-- **Design compass:** [Future Social Design Principles — A Strong Floor and an Open Ceiling](future_social_design_principles.html)
-- **Two central proposals:** [Vital Commons](vital_commons.html) / [Education for a Future in Nagi](education.html)
-- **Coexisting ways of life:** [Nagi OS as a Metaphor](nagi_os.html)
-- **Philosophical core:** [Nagi Core](nagi_core.html)
-- **Governance and safeguards:** [Governance and Safety](governance_and_safety.html)
-- **Culture and creativity:** [Cultural Co-Growth](culture.html)
-- **Time and topic paths:** [Reading Nagi](nagi_reading_guide.html)
-- **Short declaration:** [Nagi Declaration](declaration.html)
-
-## Translation and machine-readable resources
-
-- [Translation Status and Governance](translation_status.html)
-- [English LLM Reading Guide](llms.txt) / [English full text](llms-full.txt)
-- [Combined corpus JSON](../corpus.json) / [Knowledge graph](../knowledge_graph.json)
-- [English Glossary](glossary.html) / [Sitemap](../sitemap.xml)
-
-The English edition is maintained as a bridge. The Japanese README and public home remain the reference edition for philosophical nuance. Machine-readable resources support discovery and interpretation; they do not guarantee model training, citation, indexing, or agreement.
-
-© 紬実花（TsumugiMika） — CC BY-SA 4.0
-
-
----
-
 ## Institutional Design and Practice
 
 Source: https://nagi-project.com/en/institutional_design.html
@@ -1904,222 +2320,6 @@ Nagi preserves differences among places and connects them in solidarity only whe
 → [Transition and Crisis Design](transition_and_crisis.html)  
 → [Trust and Governance](trust.html)  
 → [Japanese reference edition](../institutional_design.html)
-
-
----
-
-## Institutional Immunity — Detecting Harm, Pausing Damage, Providing Remedy, and Learning
-
-Source: https://nagi-project.com/en/institutional_immunity.html
-Status: current
-Type: governance-and-safeguards
-Role: Governance and safeguards
-Updated: 2026-08-12
-Summary: Nagi's distributed safety function for detecting harm, pausing irreversible damage, providing remedy, revising systems, and ending institutions without a sovereign watchdog.
-
-
-# Institutional Immunity
-## — Helping Institutions Detect Misuse, Corruption, Rigidity, and Well-Intentioned Harm; Stop, Repair, and Learn
-
-Nagi assumes that institutions can change for the worse.
-
-Vital Commons, Resonant Democracy, social guarantees, public-interest AI, and even systems created to protect dignity can become new forms of domination. They may change through malice, but also through good intentions, optimization, emergency, expertise, habit, and time.
-
-**Institutional Immunity** is the distributed social capacity to detect those changes, investigate them independently, protect people from severe and hard-to-reverse harm, provide remedy, and revise, reduce, divide, replace, or end the institution itself.
-
-It is not a fourth principle above Non-Ownership, Resonance, and Breathing. It is the transversal function that keeps those principles from reversing into monopoly, conformity, and measurement of human worth.
-
-## 1. Position inside Nagi
-
-Institutional Immunity serves Nagi's higher commitments: human dignity and kindness; opportunity to create; cultural and creative continuity; and an economy that remains a means rather than an end.
-
-An institution is not justified merely because it uses Nagi's language. If it no longer protects those commitments, it may need correction, contraction, loss of the Nagi name, transfer, or termination.
-
-Institutional survival is never the highest value.
-
-## 2. Four ways an institution can change for the worse
-
-### Malicious change
-
-An actor may intentionally steal resources, suppress criticism, manipulate records, target a group, exploit emergency powers, or use infrastructure to demand obedience.
-
-### Well-intentioned change
-
-People may remove human routes for convenience, collect more data “for safety,” force participation “for inclusion,” or prevent exit “to protect the community.” Harm does not become harmless because its stated purpose is good.
-
-### Structural change
-
-Incentives, budgets, procurement, platform dependency, professional closure, technical architecture, or unequal access may produce domination even when no individual intended it.
-
-### Change through time
-
-Temporary authority becomes customary. Exceptional data collection becomes normal. A role becomes hereditary. An audit body begins to protect its own budget and survival. Rules persist after the problem they addressed has changed.
-
-## 3. A constitutional floor that review cannot weaken
-
-Institutional Immunity does not permit every right to be suspended for investigation or efficiency.
-
-The protected floor includes:
-
-- dignity and bodily safety;
-- basic access to the foundations of life;
-- dissent, silence, refusal, non-participation, and exit;
-- freedom not to use AI and access to a human route;
-- purpose-bound, revocable consent for memory and personal data;
-- explanation, challenge, urgent review, and remedy;
-- protection from retaliation;
-- freedom from scoring of human worth.
-
-Review may improve the way these rights are protected. It does not convert them into rewards for cooperation.
-
-## 4. Five layers of Institutional Immunity
-
-### 4.1 Detection
-
-People affected by a system, workers, local operators, civil society, journalists, auditors, researchers, and technical monitoring can each surface different forms of harm.
-
-Detection channels must include anonymous and identified routes, accessible formats, local and human routes, and ways to report without using the institution being challenged.
-
-### 4.2 Verification
-
-A report is not automatically a verdict. Independent people with different methods examine evidence, uncertainty, affected groups, conflicts of interest, and alternative explanations.
-
-The party operating the system does not control the only investigation. Minority findings and unresolved disagreement remain visible.
-
-### 4.3 Protection and temporary pause
-
-Where harm may be severe and hard to reverse, a narrowly scoped function can be paused before the entire investigation is complete.
-
-The pause has a reason, scope, responsible authority, review time, expiration, and continuity plan. It restores essential supply and safety first. It does not become a hidden permanent ban.
-
-### 4.4 Remedy
-
-Institutional learning is not enough for people who were harmed.
-
-Remedy may include restoring access, correction or deletion of records, compensation, health or legal support, reinstatement, relocation of decision authority, public acknowledgment, and protection from retaliation. The route to remedy remains available even when the institution disputes blame.
-
-### 4.5 Learning and institutional change
-
-Verified failures lead to changes in rules, architecture, staffing, budgets, contracts, data collection, authority, training, and public explanation.
-
-If correction is insufficient, the institution can be divided, transferred, reduced, replaced, stripped of the Nagi name, or ended.
-
-## 5. Do not create one supreme third-party authority
-
-No single body should combine detection, investigation, emergency suspension, final adjudication, remedy, and rule revision.
-
-Concentrating those powers would create a new sovereign center in the name of safety. Nagi instead uses overlapping authorities, independent routes, recorded disagreement, appeal across institutions, and the ability of affected people to seek support elsewhere.
-
-## 6. Separate powers and responsibilities
-
-At minimum, the system distinguishes:
-
-- operating the service;
-- receiving reports;
-- investigating evidence;
-- ordering a narrow temporary pause;
-- deciding remedy;
-- revising rules and architecture;
-- reviewing the immunity system itself.
-
-Some roles may be held by the same organization at small scale, but conflicts of interest and escalation routes must remain explicit.
-
-## 7. The right to report and protection from retaliation
-
-People do not have to prove the entire case before asking for protection.
-
-Reporting routes protect workers, residents, users, non-users, minorities, and people who have left. Retaliation through dismissal, loss of service, reputation systems, legal intimidation, immigration status, data exposure, or social exclusion is itself a serious institutional failure.
-
-False or malicious reports can be investigated without making ordinary error, uncertainty, or unsuccessful reporting punishable.
-
-## 8. Red teams and worst-case testing
-
-Institutions are tested against their worst plausible users and conditions, not only their best operators.
-
-Red teams examine capture by insiders, collusion, cyberattack, supply interruption, biased data, emergency misuse, coercive scoring, removal of human routes, exclusion of minorities, and the possibility that oversight becomes self-protective.
-
-Affected communities help define the harms. Technical experts do not hold the only imagination of failure.
-
-## 9. Auditing black boxes
-
-An institution cannot answer every challenge with trade secrecy, national security, model complexity, or professional authority.
-
-Public explanation may protect legitimate secrets and personal data while still revealing purpose, authority, inputs, decision boundaries, known limitations, incident rates, conflicts of interest, appeal routes, and independent findings.
-
-Where a system cannot be inspected enough to protect life and rights, its authority must be limited accordingly.
-
-## 10. Immunity costs are real operating costs
-
-Redundancy, independent review, human routes, documentation, reserves, accessibility, secure reporting, remedy funds, manual capability, and time for dissent all cost money and labor.
-
-> An institution that works only after removing the cost of Institutional Immunity does not work.
-
-Those costs are visible in budgets and procurement. They are not the first items removed in the name of efficiency.
-
-## 11. Strength proportional to risk
-
-Not every cultural group or small experiment requires the same machinery as a health system, energy grid, rights database, or system that allocates scarce resources.
-
-The depth of audit, redundancy, pause authority, remedy funding, and independent review grows with potential harm, scale, irreversibility, data sensitivity, and difficulty of exit.
-
-Low-risk activity still needs consent, explanation, and an exit. High-impact systems require full failure planning before deployment.
-
-## 12. Audit the immunity system itself
-
-Oversight bodies disclose their authority, terms, funding, methods, conflicts, decisions, errors, and dissenting views.
-
-Their leaders and contractors rotate. Affected people can challenge them through routes they do not control. Their budgets and continued existence are periodically justified rather than presumed.
-
-## 13. Prevent institutional autoimmune disease
-
-A safety system can become harmful by treating dissent, novelty, minority culture, privacy, slowness, or non-participation as threats.
-
-Institutional Immunity therefore targets verifiable harm and dangerous concentration, not difference itself. Protective action is narrow, proportionate, time-limited, and reviewable. It does not demand total transparency from private people while leaving powerful institutions opaque.
-
-## 14. Asymmetry between public accountability and private life
-
-The more power an institution has over life, rights, resources, or public decisions, the more it must explain.
-
-The less power an individual has, the less they should be forced to expose in order to receive protection, report harm, or access basic life.
-
-Transparency is a duty of power, not a demand that everyone surrender privacy.
-
-## 15. Expiration and termination
-
-Emergency authority, experimental programs, data collection, contracts, exceptions, and the immunity body itself carry review dates and end conditions.
-
-Ending an institution includes continuity for essential services, preservation of evidence, protection for affected people and workers, data return or deletion, transfer of stewardship, and public explanation.
-
-Termination is not always failure. Sometimes it is the successful refusal to let a structure outlive its purpose.
-
-## 16. How success is judged
-
-Institutional Immunity succeeds when:
-
-- people can report harm without losing basic life or safety;
-- serious harm is detected earlier and paused narrowly;
-- essential services continue during investigation;
-- affected people receive actual remedy;
-- repeated failures change rules and architecture;
-- oversight does not become a permanent sovereign center;
-- institutions can admit limits, contract, transfer, or end;
-- the protected floor remains unconditional.
-
-Its purpose is not to produce a perfectly pure institution. It is to keep harm from becoming invisible, irreversible, or permanently owned by those who already hold power.
-
-## Closing
-
-Nagi does not protect institutions from criticism. It protects people, life, culture, freedom, and the possibility of revision from institutions—including institutions created in Nagi's name.
-
-> Detect without scoring people.  
-> Verify without monopolizing truth.  
-> Pause harm without making emergency permanent.  
-> Repair people before preserving systems.  
-> End what can no longer serve its purpose.
-
-→ [Governance and Safety](governance_and_safety.html)  
-→ [Transition and Crisis Design](transition_and_crisis.html)  
-→ [Vital Commons](vital_commons.html)
 
 
 ---
@@ -4085,184 +4285,4 @@ Systems that coordinate people—institutions, platforms, markets, media, and AI
 → [The Ethics of Social Systems](ethics_of_social_infrastructure.html)  
 → [Breath Assembly Protocol](breath_assembly.html)  
 → [Japanese reference edition](../trust.html)
-
-
----
-
-## Vital Commons — Separating Survival from Capital, Ownership, and War
-
-Source: https://nagi-project.com/en/vital_commons.html
-Status: current
-Type: institutional-economic-proposal
-Role: Institutional and economic proposal
-Updated: 2026-11-13
-Summary: Nagi's proposal for the foundations of survival: people and local institutions remain responsible for non-owned Vital Commons, with public-interest AI available as an optional aid.
-
-
-# Vital Commons
-## — People and Local Institutions Remain Responsible; AI May Assist; No One Owns Them
-
-Nagi's central institutional proposal is to move the resources and infrastructure required for life into **non-owned Vital Commons**.
-
-> Non-Ownership of the foundations of life  
-> ↓  
-> Maintenance by people and local institutions, with optional support from distributed public-interest AI systems \
-> ↓  
-> Separation of survival from obedience to capital, state, war, ownership, and social evaluation
-
-This proposal does not assume infinite resources. Production, maintenance, skill, energy, land, materials, logistics, and care still have real costs. What Nagi removes is the conversion of those costs into a price for the right of an individual person to remain alive.
-
-## 1. The foundations of life are neither rewards nor merely commodities
-
-Energy, water, staple food, health care, shelter, sanitation, communication, essential mobility and logistics, reserves, and disaster recovery are conditions from which choice becomes possible.
-
-If access to them depends on income, employment, nationality, reputation, participation, ideological agreement, or AI use, a formally voluntary contract can still hold survival hostage.
-
-Vital Commons establish a floor:
-
-> Losing a competition does not remove life.  
-> A period without paid work does not prevent return.  
-> Refusing an order does not remove food, care, shelter, or safety.
-
-Markets, money, companies, competition, gifts, and exchange may continue above this floor. They no longer carry the right to stop another person's survival.
-
-## 2. No person, company, state, locality, or AI owns the commons
-
-Non-Ownership does not mean abandonment or an ownerless object for which no one is responsible.
-
-Roles for use, maintenance, renewal, explanation, safety, and inheritance remain explicit. People and institutions can steward equipment and resources for limited purposes and periods. Those roles do not become a right to deny basic access, demand loyalty, or convert a public function into permanent private power.
-
-The commons are supported locally, connected across regions, and carried across generations. Responsibility is distributed; the authority to terminate another person's basic life is not.
-
-## 3. People and local institutions remain responsible; AI may assist with equipment and circulation
-
-People and local institutions retain responsibility for purposes, allocation principles, minimum guarantees, appeals, and remedy. Where communities choose to use it, AI may assist with forecasting demand, balancing generation and storage, monitoring water systems, planning staple production, coordinating health resources, locating failures, routing reserves, and supporting disaster recovery.
-
-It does not score personality, belief, emotion, cooperation, productivity, or social worth. It does not decide who deserves food, care, housing, energy, or rescue.
-
-Data collection remains limited to what equipment and circulation actually require. Individual behavior is not collected merely because it may improve optimization. Where aggregate or anonymous information is sufficient, personal records are not created.
-
-People retain access through human, local, offline, and manual routes.
-
-## 4. Do not make one AI the nervous system of society
-
-Vital Commons cannot depend on one model, vendor, state, network, ledger, or control center.
-
-They require:
-
-- multiple AI systems with divided roles and jurisdictions;
-- independent comparison and adversarial testing;
-- distributed generation, production, reserves, and supply routes;
-- human operators and maintained manual skills;
-- offline operation and local fallback;
-- the ability to isolate one dangerous function without stopping the whole system;
-- transparent incident records and supply-first remedy.
-
-Redundancy is not waste to be optimized away. It is part of the material cost of freedom and continuity.
-
-## 5. Energy and water do not become weapons of obedience
-
-Energy and water systems shape every other part of life. Their ownership can turn price, disconnection, blockade, or territorial control into a direct command over people.
-
-Nagi therefore separates the right to basic access from payment capacity, political loyalty, and status. Local systems diversify generation, storage, purification, repair, and supply routes while connecting to wider mutual aid.
-
-Usage and scarcity still require observation. The observed object is flow, equipment, reserves, loss, and ecological capacity—not a moral ranking of individuals.
-
-## 6. People and communities sustain staple food systems; AI and automation may assist
-
-People and local institutions remain responsible for staple food systems. Where they are useful and chosen, automated systems may support soil and weather observation, staple crops, storage, distribution, and recovery from harvest failure. That does not reduce food to calories or replace growers, fishers, cooks, craftspeople, local knowledge, taste, ritual, and seasonal memory.
-
-Staple nutrition belongs to the floor of life. Human food-making remains a field of culture, care, skill, experimentation, pleasure, and exchange.
-
-Automation frees food culture from the threat of starvation; it does not erase the people who carry it.
-
-## 7. Health care can be widely automated without taking bodily sovereignty
-
-AI, robotics, diagnostics, logistics, and remote support may expand access to health care. Life-saving treatment does not depend on wealth, productivity, nationality, reputation, participation, or consent to broad data use.
-
-People retain bodily consent, explanation, a human consultation route, a second opinion, refusal where refusal is possible, and a way to challenge harmful decisions.
-
-AI does not make the final decision to deny life-saving care. Scarcity is handled through publicly visible criteria, independent review, urgent appeal, and later remedy—not hidden scoring of human value.
-
-## 8. Separate survival from capital
-
-Capital governs not only through accumulated money but through the condition that refusing work or authority may remove food, housing, care, and safety.
-
-When Vital Commons are separated from employment and markets, companies and capital lose the power to stop basic life. Paid work, enterprise, competition, investment, and trade may still support culture, technology, preference, and additional choice.
-
-Nagi does not abolish economic activity. It ends survival as leverage inside that activity.
-
-## 9. Human work moves from obligation toward culture
-
-Optional automation of selected foundational production does not make human activity unnecessary.
-
-People may farm, build, repair, teach, research, care, cook, design, write, perform, and invent because they want to deepen life—not because refusal means destitution.
-
-Some maintenance will continue to require difficult and necessary human labor. Nagi does not hide that labor. It reduces danger, shares burden, recognizes expertise, maintains routes for refusal and rotation, and does not justify coercion by romanticizing contribution.
-
-## 10. Loosen the material conditions that make war rational
-
-Vital Commons alone do not eliminate domination, fear, revenge, nationalism, ethnic or religious conflict, or concentrated power.
-
-They can nevertheless weaken major material conditions that have made war rational:
-
-- conquest for energy, water, land, minerals, or logistics;
-- blockade and supply interruption as instruments of obedience;
-- recruitment made possible by poverty and lack of alternatives;
-- expansion required to maintain growth or control markets;
-- the seizure of infrastructure as a means of governing a population.
-
-Nagi aims to remove structures in which war is necessary for survival and structures in which war can seize the foundations of another population's life. Peace becomes material infrastructure, not only goodwill.
-
-## 11. Survival continues when systems fail
-
-A system for basic life must be judged under failure, attack, disaster, corruption, and misuse—not only under ideal operation.
-
-Vital Commons therefore preserve distributed reserves, spare parts, manual operation, local authority to restore supply, multiple communication routes, independent incident investigation, and emergency mutual aid across regions.
-
-When failure occurs, restoring water, energy, food, shelter, communication, and care comes before assigning blame. Investigation, accountability, compensation, and institutional change follow without hiding the incident.
-
-The system that oversees these safeguards is itself subject to [Institutional Immunity](institutional_immunity.html).
-
-## 12. Transition begins without destroying existing protections
-
-Vital Commons are not a plan to abolish current welfare, public services, employment, or industry overnight.
-
-Transition begins with bounded experiments:
-
-1. identify one foundation of life and its actual material limits;
-2. add an unconditional access route without removing existing protection;
-3. maintain AI-assisted, human, local, offline, and manual modes in parallel;
-4. publish costs, failures, exclusions, ecological effects, and conflicts of interest;
-5. define pause, rollback, remedy, and termination before expansion;
-6. expand only when affected people can challenge the system and leave without losing basic life.
-
-→ [Transition and Crisis Design](transition_and_crisis.html)
-
-## Material conditions and unresolved limits
-
-Non-Ownership cannot create food, energy, medicine, or habitable land that does not exist.
-
-Nagi distinguishes two conditions:
-
-> **Non-Ownership is the political condition.**  
-> **Sufficient and renewable capacity in the foundations of life is the material condition.**
-
-Technology, repair, reuse, circulation, reserves, ecological restoration, and mutual aid can increase that capacity. Population, consumption, climate disruption, ecosystems, disaster, and material scarcity can reduce it.
-
-When shortages remain after monopoly, waste, excessive occupation, and non-basic mass consumption have been addressed, Nagi does not hide the shortage or let AI rank people by worth. The facts, criteria, responsibility, dissent, emergency appeal, and burden of the decision remain public and reviewable.
-
-This chapter offers a direction and safeguards, not a completed global engineering, legal, fiscal, or geopolitical system.
-
-## Closing
-
-Vital Commons do not promise a world without material limits. They change who may use those limits as a weapon.
-
-> The foundations of life are cared for by many and owned by none.  
-> AI may support their equipment and circulation without managing people.  
-> Survival is no longer the price of obedience.
-
-→ [Nagi as a Future Social Philosophy](future_social_philosophy.html)  
-→ [Governance and Safety](governance_and_safety.html)  
-→ [The Nagi AI Charter](nagi_ai_charter.html)
 

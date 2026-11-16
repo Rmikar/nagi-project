@@ -3,9 +3,12 @@ layout: default
 title: "凪における未来の教育"
 status: current
 lang: ja
-description: "倫理哲学、社会構造、人の営みと一生、自然の循環を学び、教育の場も共に生きるための約束を問い直す凪の教育構想。"
-last_updated: 2026-11-13
+description: "凪の第二の中心提案。世界の循環を支える倫理の育成へ教育資源を重点配分し、相互依存、支配の害、判断の見直しを学ぶ。"
+last_updated: 2026-11-16
 permalink: /education.html
+keywords:
+  - ethical education
+  - resource priorities
 ---
 
 # 凪における未来の教育

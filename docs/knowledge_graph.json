@@ -5,661 +5,14 @@
   "baseUrl": "https://nagi-project.com/",
   "nodes": [
     {
-      "id": "document:ai-index",
-      "kind": "document",
-      "label": "凪AI章 — The Nagi AI Chapter",
-      "url": "https://nagi-project.com/ai_index.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "topic-index"
-    },
-    {
-      "id": "document:ai-manifesto.yaml",
-      "kind": "document",
-      "label": "AI可読性と継承の設計要旨",
-      "url": "https://nagi-project.com/ai_manifesto.yaml.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "ai-governance"
-    },
-    {
-      "id": "document:ai-redundancy-and-risk",
-      "kind": "document",
-      "label": "AIの冗長性と、使わない自由",
-      "url": "https://nagi-project.com/ai_redundancy_and_risk.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "ai-governance"
-    },
-    {
-      "id": "document:breath-assembly",
-      "kind": "document",
-      "label": "呼吸会議 — Breath Assembly Protocol",
-      "url": "https://nagi-project.com/breath_assembly.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:breath-economy",
-      "kind": "document",
-      "label": "凪経済構造",
-      "url": "https://nagi-project.com/breath_economy.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "institutional-economic-proposal"
-    },
-    {
-      "id": "document:resonant-democracy",
-      "kind": "document",
-      "label": "羅針盤と共鳴民主主義",
-      "url": "https://nagi-project.com/compass_and_resonant_democracy.html",
-      "status": "canonical",
-      "language": "ja",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:credit-and-accountability",
-      "kind": "document",
-      "label": "クレジットと説明責任",
-      "url": "https://nagi-project.com/credit_and_accountability.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "practice-and-stewardship"
-    },
-    {
-      "id": "document:cultural-stewardship",
-      "kind": "document",
-      "label": "文化的スチュワードシップ",
-      "url": "https://nagi-project.com/cultural_stewardship.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:culture",
-      "kind": "document",
-      "label": "文化的共育",
-      "url": "https://nagi-project.com/culture.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:death",
-      "kind": "document",
-      "label": "凪における死と再生 — 終わりがあるから風はめぐる",
-      "url": "https://nagi-project.com/death.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:declaration",
-      "kind": "document",
-      "label": "凪の宣言文",
-      "url": "https://nagi-project.com/declaration.html",
-      "status": "canonical",
-      "language": "ja",
-      "documentType": "declaration"
-    },
-    {
-      "id": "document:deepening-principles",
-      "kind": "document",
-      "label": "凪思想の深化",
-      "url": "https://nagi-project.com/deepening_principles.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "thematic-document"
-    },
-    {
-      "id": "document:ecology",
-      "kind": "document",
-      "label": "凪環境構造",
-      "url": "https://nagi-project.com/ecological_structure.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:education",
-      "kind": "document",
-      "label": "凪における未来の教育",
-      "url": "https://nagi-project.com/education.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:emotion",
-      "kind": "document",
-      "label": "凪における感情と精神性の役割 — 静かな共振の哲学",
-      "url": "https://nagi-project.com/emotion.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:en-ai-index",
-      "kind": "document",
-      "label": "The Nagi AI Chapter",
-      "url": "https://nagi-project.com/en/ai_index.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "topic-index"
-    },
-    {
-      "id": "document:en-ai-manifesto.yaml",
-      "kind": "document",
-      "label": "AI Legibility and Continuity Design",
-      "url": "https://nagi-project.com/en/ai_manifesto.yaml.html",
-      "status": "supplement",
-      "language": "en",
-      "documentType": "ai-governance"
-    },
-    {
-      "id": "document:en-breath-assembly",
-      "kind": "document",
-      "label": "Breath Assembly Protocol",
-      "url": "https://nagi-project.com/en/breath_assembly.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:en-breath-economy",
-      "kind": "document",
-      "label": "Nagi Economic Structure",
-      "url": "https://nagi-project.com/en/breath_economy.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "institutional-economic-proposal"
-    },
-    {
-      "id": "document:en-compass-and-resonant-democracy",
-      "kind": "document",
-      "label": "Compass and Resonant Democracy",
-      "url": "https://nagi-project.com/en/compass_and_resonant_democracy.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:en-credit-and-accountability",
-      "kind": "document",
-      "label": "Credit and Accountability",
-      "url": "https://nagi-project.com/en/credit_and_accountability.html",
-      "status": "supplement",
-      "language": "en",
-      "documentType": "practice-and-stewardship"
-    },
-    {
-      "id": "document:en-cultural-stewardship",
-      "kind": "document",
-      "label": "Cultural Stewardship",
-      "url": "https://nagi-project.com/en/cultural_stewardship.html",
-      "status": "supplement",
-      "language": "en",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:en-culture",
-      "kind": "document",
-      "label": "Cultural Co-Growth",
-      "url": "https://nagi-project.com/en/culture.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:en-death",
-      "kind": "document",
-      "label": "Death and Renewal in Nagi — Because Endings Let the Wind Circulate",
-      "url": "https://nagi-project.com/en/death.html",
-      "status": "supplement",
-      "language": "en",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:en-declaration",
-      "kind": "document",
-      "label": "Nagi Declaration",
-      "url": "https://nagi-project.com/en/declaration.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "declaration"
-    },
-    {
-      "id": "document:en-deepening-principles",
-      "kind": "document",
-      "label": "Deepening the Principles of Nagi",
-      "url": "https://nagi-project.com/en/deepening_principles.html",
-      "status": "supplement",
-      "language": "en",
-      "documentType": "thematic-document"
-    },
-    {
-      "id": "document:en-ecological-structure",
-      "kind": "document",
-      "label": "Nagi Ecological Structure",
-      "url": "https://nagi-project.com/en/ecological_structure.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:en-education",
-      "kind": "document",
-      "label": "Education for a Future in Nagi",
-      "url": "https://nagi-project.com/en/education.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:en-emotion",
-      "kind": "document",
-      "label": "Emotion and Spirituality in Nagi — A Philosophy of Quiet Resonance",
-      "url": "https://nagi-project.com/en/emotion.html",
-      "status": "supplement",
-      "language": "en",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:en-ethics-of-social-infrastructure",
-      "kind": "document",
-      "label": "The Ethics of Social Systems — Keeping the Power to Coordinate from Becoming Domination",
-      "url": "https://nagi-project.com/en/ethics_of_social_infrastructure.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:en-experiment-v0.1",
-      "kind": "document",
-      "label": "Nagi Experiments",
-      "url": "https://nagi-project.com/en/experiment_v0.1.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:en-free-competition",
-      "kind": "document",
-      "label": "Principles of Free Competition Beyond Capitalism",
-      "url": "https://nagi-project.com/en/free_competition.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "institutional-economic-proposal"
-    },
-    {
-      "id": "document:en-freedom-and-dissent",
-      "kind": "document",
-      "label": "Freedom, Dissent, and Exit",
-      "url": "https://nagi-project.com/en/freedom_and_dissent.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:en-future-social-design-principles",
-      "kind": "document",
-      "label": "Future Social Design Principles — A Strong Floor and an Open Ceiling",
-      "url": "https://nagi-project.com/en/future_social_design_principles.html",
-      "status": "canonical",
-      "language": "en",
-      "documentType": "thematic-document"
-    },
-    {
-      "id": "document:en-future-social-philosophy",
-      "kind": "document",
-      "label": "Nagi in Five Minutes — Two Central Proposals",
-      "url": "https://nagi-project.com/en/future_social_philosophy.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "philosophical-context"
-    },
-    {
-      "id": "document:en-glossary",
-      "kind": "document",
-      "label": "Nagi Glossary",
-      "url": "https://nagi-project.com/en/glossary.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "glossary"
-    },
-    {
-      "id": "document:en-governance-and-safety",
-      "kind": "document",
-      "label": "Governance and Safety — Resonant Democracy, Rights, Institutional Immunity, and Transition",
-      "url": "https://nagi-project.com/en/governance_and_safety.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "topic-index"
-    },
-    {
       "id": "document:en-home",
       "kind": "document",
       "label": "Nagi Project — Rethinking Capitalism, Religion, and Social Systems",
       "url": "https://nagi-project.com/en/",
       "status": "current",
       "language": "en",
-      "documentType": "overview"
-    },
-    {
-      "id": "document:en-institutional-design",
-      "kind": "document",
-      "label": "Institutional Design and Practice",
-      "url": "https://nagi-project.com/en/institutional_design.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:en-institutional-immunity",
-      "kind": "document",
-      "label": "Institutional Immunity — Detecting Harm, Pausing Damage, Providing Remedy, and Learning",
-      "url": "https://nagi-project.com/en/institutional_immunity.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:en-introducing-nagi",
-      "kind": "document",
-      "label": "Introducing Nagi Across Languages and Contexts",
-      "url": "https://nagi-project.com/en/introducing_nagi.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "thematic-document"
-    },
-    {
-      "id": "document:en-memory-and-consent",
-      "kind": "document",
-      "label": "Memory, Consent, and the Right to Forget",
-      "url": "https://nagi-project.com/en/memory_and_consent.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:en-musubi",
-      "kind": "document",
-      "label": "Closing — The Quiet Root of Nagi",
-      "url": "https://nagi-project.com/en/musubi.html",
-      "status": "supplement",
-      "language": "en",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:en-nagi-ai-charter",
-      "kind": "document",
-      "label": "The Nagi AI Charter",
-      "url": "https://nagi-project.com/en/nagi_ai_charter.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "ai-governance"
-    },
-    {
-      "id": "document:en-nagi-core",
-      "kind": "document",
-      "label": "Nagi Core — A World of Centerless Structures",
-      "url": "https://nagi-project.com/en/nagi_core.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "philosophical-core"
-    },
-    {
-      "id": "document:en-nagi-os",
-      "kind": "document",
-      "label": "A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor",
-      "url": "https://nagi-project.com/en/nagi_os.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "philosophical-context"
-    },
-    {
-      "id": "document:en-nagi-reading-guide",
-      "kind": "document",
-      "label": "Reading Nagi — Five Minutes, Twenty Minutes, One Hour, and Research Paths",
-      "url": "https://nagi-project.com/en/nagi_reading_guide.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "reading-guide"
-    },
-    {
-      "id": "document:en-non-ownership",
-      "kind": "document",
-      "label": "Institutionalizing Non-Ownership",
-      "url": "https://nagi-project.com/en/non_ownership.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "institutional-economic-proposal"
-    },
-    {
-      "id": "document:en-observe-loosen-connect",
-      "kind": "document",
-      "label": "Observe, Loosen, Connect",
-      "url": "https://nagi-project.com/en/observe_loosen_connect.html",
-      "status": "supplement",
-      "language": "en",
-      "documentType": "practice-and-stewardship"
-    },
-    {
-      "id": "document:en-philosophy",
-      "kind": "document",
-      "label": "The Philosophical Background of Nagi",
-      "url": "https://nagi-project.com/en/philosophy.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "philosophical-context"
-    },
-    {
-      "id": "document:en-play-and-structure",
-      "kind": "document",
-      "label": "Play and Structure",
-      "url": "https://nagi-project.com/en/play_and_structure.html",
-      "status": "supplement",
-      "language": "en",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:en-property-and-ip",
-      "kind": "document",
-      "label": "Inheritance of Intellectual Property and Assets",
-      "url": "https://nagi-project.com/en/property_and_ip.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:en-public-thought-method",
-      "kind": "document",
-      "label": "How to Cultivate Public Thought",
-      "url": "https://nagi-project.com/en/public_thought_method.html",
-      "status": "supplement",
-      "language": "en",
-      "documentType": "practice-and-stewardship"
-    },
-    {
-      "id": "document:en-quiet-praxis-current",
-      "kind": "document",
-      "label": "Quiet Practice",
-      "url": "https://nagi-project.com/en/quiet_praxis_current.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "practice-and-stewardship"
-    },
-    {
-      "id": "document:en-rebreathing-and-public-continuity",
-      "kind": "document",
-      "label": "Re-breathing and Public Continuity",
-      "url": "https://nagi-project.com/en/rebreathing_and_public_continuity.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "practice-and-stewardship"
-    },
-    {
-      "id": "document:en-repair-and-co-growth",
-      "kind": "document",
-      "label": "Repair and Cultural Co-Growth",
-      "url": "https://nagi-project.com/en/repair_and_co_growth.html",
-      "status": "supplement",
-      "language": "en",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:en-resonance-metrics",
-      "kind": "document",
-      "label": "Resonance Metrics — Finding Institutional Suffocation Without Scoring People",
-      "url": "https://nagi-project.com/en/resonance_metrics.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:en-state-and-public-spheres",
-      "kind": "document",
-      "label": "The State Is Not the Goal — Unbundling It into Revisable Public Functions",
-      "url": "https://nagi-project.com/en/state_and_public_spheres.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:en-technical-foundation-v1",
-      "kind": "document",
-      "label": "Technical Foundations",
-      "url": "https://nagi-project.com/en/technical/foundation_v1.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "technical-foundation"
-    },
-    {
-      "id": "document:en-technical-tsumugi-network",
-      "kind": "document",
-      "label": "Tsumugi Network — A Plural Network of AI Gateways",
-      "url": "https://nagi-project.com/en/technical/tsumugi_network.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "technical-foundation"
-    },
-    {
-      "id": "document:en-transition-and-crisis",
-      "kind": "document",
-      "label": "Transition and Crisis Design",
-      "url": "https://nagi-project.com/en/transition_and_crisis.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:en-translation-status",
-      "kind": "document",
-      "label": "English Edition — Translation Status and Governance",
-      "url": "https://nagi-project.com/en/translation_status.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "thematic-document"
-    },
-    {
-      "id": "document:en-trust",
-      "kind": "document",
-      "label": "Trust and Governance",
-      "url": "https://nagi-project.com/en/trust.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:en-vital-commons",
-      "kind": "document",
-      "label": "Vital Commons — Separating Survival from Capital, Ownership, and War",
-      "url": "https://nagi-project.com/en/vital_commons.html",
-      "status": "current",
-      "language": "en",
-      "documentType": "institutional-economic-proposal"
-    },
-    {
-      "id": "document:social-infrastructure-ethics",
-      "kind": "document",
-      "label": "社会的装置の倫理 — 束ねる力を、支配にしないために",
-      "url": "https://nagi-project.com/ethics_of_social_infrastructure.html",
-      "status": "canonical",
-      "language": "ja",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:experiment",
-      "kind": "document",
-      "label": "凪実験章",
-      "url": "https://nagi-project.com/experiment_v0.1.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:faq",
-      "kind": "document",
-      "label": "凪プロジェクト FAQ — 未来社会思想・非所有・共鳴民主主義・AI倫理",
-      "url": "https://nagi-project.com/faq.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "faq"
-    },
-    {
-      "id": "document:free-competition",
-      "kind": "document",
-      "label": "資本主義以後の自由競争原理",
-      "url": "https://nagi-project.com/free_competition.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "institutional-economic-proposal"
-    },
-    {
-      "id": "document:freedom-dissent-exit",
-      "kind": "document",
-      "label": "自由・不協和・離脱の原則",
-      "url": "https://nagi-project.com/freedom_and_dissent.html",
-      "status": "canonical",
-      "language": "ja",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:future-social-design-principles",
-      "kind": "document",
-      "label": "未来社会の設計原則 — 強い床と、開いた天井",
-      "url": "https://nagi-project.com/future_social_design_principles.html",
-      "status": "canonical",
-      "language": "ja",
-      "documentType": "thematic-document"
-    },
-    {
-      "id": "document:future-social-philosophy",
-      "kind": "document",
-      "label": "5分で読む凪 — 二つの中心提案と社会の全体像",
-      "url": "https://nagi-project.com/future_social_philosophy.html",
-      "status": "canonical",
-      "language": "ja",
-      "documentType": "philosophical-context"
-    },
-    {
-      "id": "document:glossary",
-      "kind": "document",
-      "label": "凪（Nagi Project）用語集 — 非所有・共鳴・呼吸・共鳴民主主義",
-      "url": "https://nagi-project.com/glossary.html",
-      "status": "canonical",
-      "language": "ja",
-      "documentType": "glossary"
-    },
-    {
-      "id": "document:governance-and-safety",
-      "kind": "document",
-      "label": "統治と安全 — 共鳴民主主義・権利・制度免疫・移行",
-      "url": "https://nagi-project.com/governance_and_safety.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "topic-index"
+      "documentType": "overview",
+      "centralProposal": null
     },
     {
       "id": "document:home",
@@ -668,250 +21,38 @@
       "url": "https://nagi-project.com/",
       "status": "canonical",
       "language": "ja",
-      "documentType": "overview"
+      "documentType": "overview",
+      "centralProposal": null
     },
     {
-      "id": "document:institutional-design",
+      "id": "document:en-future-social-philosophy",
       "kind": "document",
-      "label": "制度設計と実践",
-      "url": "https://nagi-project.com/institutional_design.html",
+      "label": "Nagi in Five Minutes — Two Central Proposals",
+      "url": "https://nagi-project.com/en/future_social_philosophy.html",
       "status": "current",
-      "language": "ja",
-      "documentType": "governance-and-safeguards"
+      "language": "en",
+      "documentType": "reading-guide",
+      "centralProposal": null
     },
     {
-      "id": "document:institutional-immunity",
+      "id": "document:future-social-philosophy",
       "kind": "document",
-      "label": "制度免疫 — 制度が自らの悪用、腐敗、硬直、善意による害を感知し、止め、救い、学び直すために",
-      "url": "https://nagi-project.com/institutional_immunity.html",
+      "label": "5分で読む凪 — 二つの中心提案と社会の全体像",
+      "url": "https://nagi-project.com/future_social_philosophy.html",
       "status": "canonical",
       "language": "ja",
-      "documentType": "governance-and-safeguards"
+      "documentType": "reading-guide",
+      "centralProposal": null
     },
     {
-      "id": "document:research-links",
+      "id": "document:en-vital-commons",
       "kind": "document",
-      "label": "外部リソース台帳",
-      "url": "https://nagi-project.com/links.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "thematic-document"
-    },
-    {
-      "id": "document:memory-consent",
-      "kind": "document",
-      "label": "記憶・同意・忘却の憲章 — Memory, Consent, and the Right to Forget",
-      "url": "https://nagi-project.com/memory_and_consent.html",
-      "status": "canonical",
-      "language": "ja",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:musubi",
-      "kind": "document",
-      "label": "結び — 凪という思想の静かな根",
-      "url": "https://nagi-project.com/musubi.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:ai-charter",
-      "kind": "document",
-      "label": "凪AI憲法 — The Nagi AI Charter",
-      "url": "https://nagi-project.com/nagi_ai_charter.html",
-      "status": "canonical",
-      "language": "ja",
-      "documentType": "ai-governance"
-    },
-    {
-      "id": "document:nagi-core",
-      "kind": "document",
-      "label": "凪の核 — 中心なき構造としての世界",
-      "url": "https://nagi-project.com/nagi_core.html",
-      "status": "canonical",
-      "language": "ja",
-      "documentType": "philosophical-core"
-    },
-    {
-      "id": "document:nagi-os",
-      "kind": "document",
-      "label": "異なる生き方が共存するための社会基盤 — 凪OSという比喩",
-      "url": "https://nagi-project.com/nagi_os.html",
+      "label": "Vital Commons — Separating Survival from Capital, Ownership, and War",
+      "url": "https://nagi-project.com/en/vital_commons.html",
       "status": "current",
-      "language": "ja",
-      "documentType": "philosophical-context"
-    },
-    {
-      "id": "document:reading-guide",
-      "kind": "document",
-      "label": "凪の読書案内 — 5分・20分・研究のための読み方",
-      "url": "https://nagi-project.com/nagi_reading_guide.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "reading-guide"
-    },
-    {
-      "id": "document:non-ownership",
-      "kind": "document",
-      "label": "非所有の社会制度化",
-      "url": "https://nagi-project.com/non_ownership.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "institutional-economic-proposal"
-    },
-    {
-      "id": "document:observe-loosen-connect",
-      "kind": "document",
-      "label": "観察し、ほどき、結ぶ",
-      "url": "https://nagi-project.com/observe_loosen_connect.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "practice-and-stewardship"
-    },
-    {
-      "id": "document:philosophy-background",
-      "kind": "document",
-      "label": "凪の哲学的背景",
-      "url": "https://nagi-project.com/philosophy.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "philosophical-context"
-    },
-    {
-      "id": "document:play-and-structure",
-      "kind": "document",
-      "label": "遊びと構造",
-      "url": "https://nagi-project.com/play_and_structure.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:population-power",
-      "kind": "document",
-      "label": "人口と権力を切り離す — 生存保障は「人数＝力」の歴史を変えうるか",
-      "url": "https://nagi-project.com/population_and_power.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "thematic-document"
-    },
-    {
-      "id": "document:property-ip",
-      "kind": "document",
-      "label": "知財と財産の継承",
-      "url": "https://nagi-project.com/property_and_ip.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:public-thought-method",
-      "kind": "document",
-      "label": "公開思想を育てる方法",
-      "url": "https://nagi-project.com/public_thought_method.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "practice-and-stewardship"
-    },
-    {
-      "id": "document:quiet-praxis-current",
-      "kind": "document",
-      "label": "静かな実践技術",
-      "url": "https://nagi-project.com/quiet_praxis_current.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "practice-and-stewardship"
-    },
-    {
-      "id": "document:rebreathing",
-      "kind": "document",
-      "label": "再呼吸と公開継承 — 生きた思想を、記憶の所有にしないために",
-      "url": "https://nagi-project.com/rebreathing_and_public_continuity.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "practice-and-stewardship"
-    },
-    {
-      "id": "document:repair-and-co-growth",
-      "kind": "document",
-      "label": "修復と文化的共育",
-      "url": "https://nagi-project.com/repair_and_co_growth.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "culture-and-continuity"
-    },
-    {
-      "id": "document:resonance-metrics",
-      "kind": "document",
-      "label": "共鳴メトリクス — Resonance Metrics for Institutional Breath",
-      "url": "https://nagi-project.com/resonance_metrics.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:state-public-spheres",
-      "kind": "document",
-      "label": "国家は目的ではなく、必要な機能へほどく",
-      "url": "https://nagi-project.com/state_and_public_spheres.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:stewardship-and-praxis",
-      "kind": "document",
-      "label": "補遺 — 思想を育てる方法と実践",
-      "url": "https://nagi-project.com/stewardship_and_praxis.html",
-      "status": "supplement",
-      "language": "ja",
-      "documentType": "practice-and-stewardship"
-    },
-    {
-      "id": "document:symbol-concept",
-      "kind": "document",
-      "label": "凪プロジェクト・シンボル — 二筋六花結び",
-      "url": "https://nagi-project.com/symbol_concept.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "thematic-document"
-    },
-    {
-      "id": "document:technical-foundation",
-      "kind": "document",
-      "label": "凪技術の基盤 — Technical Foundations",
-      "url": "https://nagi-project.com/technical/foundation_v1.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "technical-foundation"
-    },
-    {
-      "id": "document:tsumugi-network",
-      "kind": "document",
-      "label": "AI窓口ネットワーク — Tsumugi Network",
-      "url": "https://nagi-project.com/technical/tsumugi_network.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "technical-foundation"
-    },
-    {
-      "id": "document:transition-crisis",
-      "kind": "document",
-      "label": "移行と危機の設計 — Transition and Crisis Design",
-      "url": "https://nagi-project.com/transition_and_crisis.html",
-      "status": "canonical",
-      "language": "ja",
-      "documentType": "governance-and-safeguards"
-    },
-    {
-      "id": "document:trust",
-      "kind": "document",
-      "label": "信頼と統治",
-      "url": "https://nagi-project.com/trust.html",
-      "status": "current",
-      "language": "ja",
-      "documentType": "governance-and-safeguards"
+      "language": "en",
+      "documentType": "institutional-economic-proposal",
+      "centralProposal": 1
     },
     {
       "id": "document:vital-commons",
@@ -920,7 +61,968 @@
       "url": "https://nagi-project.com/vital_commons.html",
       "status": "current",
       "language": "ja",
-      "documentType": "institutional-economic-proposal"
+      "documentType": "institutional-economic-proposal",
+      "centralProposal": 1
+    },
+    {
+      "id": "document:education",
+      "kind": "document",
+      "label": "凪における未来の教育",
+      "url": "https://nagi-project.com/education.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "ethical-education-proposal",
+      "centralProposal": 2
+    },
+    {
+      "id": "document:en-education",
+      "kind": "document",
+      "label": "Education for a Future in Nagi",
+      "url": "https://nagi-project.com/en/education.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "ethical-education-proposal",
+      "centralProposal": 2
+    },
+    {
+      "id": "document:en-governance-and-safety",
+      "kind": "document",
+      "label": "Governance and Safety — Resonant Democracy, Rights, Institutional Immunity, and Transition",
+      "url": "https://nagi-project.com/en/governance_and_safety.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "topic-index",
+      "centralProposal": null
+    },
+    {
+      "id": "document:governance-and-safety",
+      "kind": "document",
+      "label": "統治と安全 — 共鳴民主主義・権利・制度免疫・移行",
+      "url": "https://nagi-project.com/governance_and_safety.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "topic-index",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-institutional-immunity",
+      "kind": "document",
+      "label": "Institutional Immunity — Detecting Harm, Pausing Damage, Providing Remedy, and Learning",
+      "url": "https://nagi-project.com/en/institutional_immunity.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:institutional-immunity",
+      "kind": "document",
+      "label": "制度免疫 — 制度が自らの悪用、腐敗、硬直、善意による害を感知し、止め、救い、学び直すために",
+      "url": "https://nagi-project.com/institutional_immunity.html",
+      "status": "canonical",
+      "language": "ja",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:ai-index",
+      "kind": "document",
+      "label": "凪AI章 — The Nagi AI Chapter",
+      "url": "https://nagi-project.com/ai_index.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "topic-index",
+      "centralProposal": null
+    },
+    {
+      "id": "document:ai-manifesto.yaml",
+      "kind": "document",
+      "label": "AI可読性と継承の設計要旨",
+      "url": "https://nagi-project.com/ai_manifesto.yaml.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "ai-governance",
+      "centralProposal": null
+    },
+    {
+      "id": "document:ai-redundancy-and-risk",
+      "kind": "document",
+      "label": "AIの冗長性と、使わない自由",
+      "url": "https://nagi-project.com/ai_redundancy_and_risk.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "ai-governance",
+      "centralProposal": null
+    },
+    {
+      "id": "document:breath-assembly",
+      "kind": "document",
+      "label": "呼吸会議 — Breath Assembly Protocol",
+      "url": "https://nagi-project.com/breath_assembly.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:breath-economy",
+      "kind": "document",
+      "label": "凪経済構造",
+      "url": "https://nagi-project.com/breath_economy.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "institutional-economic-proposal",
+      "centralProposal": null
+    },
+    {
+      "id": "document:resonant-democracy",
+      "kind": "document",
+      "label": "羅針盤と共鳴民主主義",
+      "url": "https://nagi-project.com/compass_and_resonant_democracy.html",
+      "status": "canonical",
+      "language": "ja",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:credit-and-accountability",
+      "kind": "document",
+      "label": "クレジットと説明責任",
+      "url": "https://nagi-project.com/credit_and_accountability.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "practice-and-stewardship",
+      "centralProposal": null
+    },
+    {
+      "id": "document:cultural-stewardship",
+      "kind": "document",
+      "label": "文化的スチュワードシップ",
+      "url": "https://nagi-project.com/cultural_stewardship.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:culture",
+      "kind": "document",
+      "label": "文化的共育",
+      "url": "https://nagi-project.com/culture.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:death",
+      "kind": "document",
+      "label": "凪における死と再生 — 終わりがあるから風はめぐる",
+      "url": "https://nagi-project.com/death.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:declaration",
+      "kind": "document",
+      "label": "凪の宣言文",
+      "url": "https://nagi-project.com/declaration.html",
+      "status": "canonical",
+      "language": "ja",
+      "documentType": "declaration",
+      "centralProposal": null
+    },
+    {
+      "id": "document:deepening-principles",
+      "kind": "document",
+      "label": "凪思想の深化",
+      "url": "https://nagi-project.com/deepening_principles.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "thematic-document",
+      "centralProposal": null
+    },
+    {
+      "id": "document:ecology",
+      "kind": "document",
+      "label": "凪環境構造",
+      "url": "https://nagi-project.com/ecological_structure.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:emotion",
+      "kind": "document",
+      "label": "凪における感情と精神性の役割 — 静かな共振の哲学",
+      "url": "https://nagi-project.com/emotion.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-ai-index",
+      "kind": "document",
+      "label": "The Nagi AI Chapter",
+      "url": "https://nagi-project.com/en/ai_index.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "topic-index",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-ai-manifesto.yaml",
+      "kind": "document",
+      "label": "AI Legibility and Continuity Design",
+      "url": "https://nagi-project.com/en/ai_manifesto.yaml.html",
+      "status": "supplement",
+      "language": "en",
+      "documentType": "ai-governance",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-breath-assembly",
+      "kind": "document",
+      "label": "Breath Assembly Protocol",
+      "url": "https://nagi-project.com/en/breath_assembly.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-breath-economy",
+      "kind": "document",
+      "label": "Nagi Economic Structure",
+      "url": "https://nagi-project.com/en/breath_economy.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "institutional-economic-proposal",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-compass-and-resonant-democracy",
+      "kind": "document",
+      "label": "Compass and Resonant Democracy",
+      "url": "https://nagi-project.com/en/compass_and_resonant_democracy.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-credit-and-accountability",
+      "kind": "document",
+      "label": "Credit and Accountability",
+      "url": "https://nagi-project.com/en/credit_and_accountability.html",
+      "status": "supplement",
+      "language": "en",
+      "documentType": "practice-and-stewardship",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-cultural-stewardship",
+      "kind": "document",
+      "label": "Cultural Stewardship",
+      "url": "https://nagi-project.com/en/cultural_stewardship.html",
+      "status": "supplement",
+      "language": "en",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-culture",
+      "kind": "document",
+      "label": "Cultural Co-Growth",
+      "url": "https://nagi-project.com/en/culture.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-death",
+      "kind": "document",
+      "label": "Death and Renewal in Nagi — Because Endings Let the Wind Circulate",
+      "url": "https://nagi-project.com/en/death.html",
+      "status": "supplement",
+      "language": "en",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-declaration",
+      "kind": "document",
+      "label": "Nagi Declaration",
+      "url": "https://nagi-project.com/en/declaration.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "declaration",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-deepening-principles",
+      "kind": "document",
+      "label": "Deepening the Principles of Nagi",
+      "url": "https://nagi-project.com/en/deepening_principles.html",
+      "status": "supplement",
+      "language": "en",
+      "documentType": "thematic-document",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-ecological-structure",
+      "kind": "document",
+      "label": "Nagi Ecological Structure",
+      "url": "https://nagi-project.com/en/ecological_structure.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-emotion",
+      "kind": "document",
+      "label": "Emotion and Spirituality in Nagi — A Philosophy of Quiet Resonance",
+      "url": "https://nagi-project.com/en/emotion.html",
+      "status": "supplement",
+      "language": "en",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-ethics-of-social-infrastructure",
+      "kind": "document",
+      "label": "The Ethics of Social Systems — Keeping the Power to Coordinate from Becoming Domination",
+      "url": "https://nagi-project.com/en/ethics_of_social_infrastructure.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-experiment-v0.1",
+      "kind": "document",
+      "label": "Nagi Experiments",
+      "url": "https://nagi-project.com/en/experiment_v0.1.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-free-competition",
+      "kind": "document",
+      "label": "Principles of Free Competition Beyond Capitalism",
+      "url": "https://nagi-project.com/en/free_competition.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "institutional-economic-proposal",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-freedom-and-dissent",
+      "kind": "document",
+      "label": "Freedom, Dissent, and Exit",
+      "url": "https://nagi-project.com/en/freedom_and_dissent.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-future-social-design-principles",
+      "kind": "document",
+      "label": "Future Social Design Principles — A Strong Floor and an Open Ceiling",
+      "url": "https://nagi-project.com/en/future_social_design_principles.html",
+      "status": "canonical",
+      "language": "en",
+      "documentType": "thematic-document",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-glossary",
+      "kind": "document",
+      "label": "Nagi Glossary",
+      "url": "https://nagi-project.com/en/glossary.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "glossary",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-institutional-design",
+      "kind": "document",
+      "label": "Institutional Design and Practice",
+      "url": "https://nagi-project.com/en/institutional_design.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-introducing-nagi",
+      "kind": "document",
+      "label": "Introducing Nagi Across Languages and Contexts",
+      "url": "https://nagi-project.com/en/introducing_nagi.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "thematic-document",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-memory-and-consent",
+      "kind": "document",
+      "label": "Memory, Consent, and the Right to Forget",
+      "url": "https://nagi-project.com/en/memory_and_consent.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-musubi",
+      "kind": "document",
+      "label": "Closing — The Quiet Root of Nagi",
+      "url": "https://nagi-project.com/en/musubi.html",
+      "status": "supplement",
+      "language": "en",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-nagi-ai-charter",
+      "kind": "document",
+      "label": "The Nagi AI Charter",
+      "url": "https://nagi-project.com/en/nagi_ai_charter.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "ai-governance",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-nagi-core",
+      "kind": "document",
+      "label": "Nagi Core — A World of Centerless Structures",
+      "url": "https://nagi-project.com/en/nagi_core.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "philosophical-core",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-nagi-os",
+      "kind": "document",
+      "label": "A Social Foundation for Coexisting Ways of Life — Nagi OS as a Metaphor",
+      "url": "https://nagi-project.com/en/nagi_os.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "philosophical-context",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-nagi-reading-guide",
+      "kind": "document",
+      "label": "Reading Nagi — Five Minutes, Twenty Minutes, One Hour, and Research Paths",
+      "url": "https://nagi-project.com/en/nagi_reading_guide.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "reading-guide",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-non-ownership",
+      "kind": "document",
+      "label": "Institutionalizing Non-Ownership",
+      "url": "https://nagi-project.com/en/non_ownership.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "institutional-economic-proposal",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-observe-loosen-connect",
+      "kind": "document",
+      "label": "Observe, Loosen, Connect",
+      "url": "https://nagi-project.com/en/observe_loosen_connect.html",
+      "status": "supplement",
+      "language": "en",
+      "documentType": "practice-and-stewardship",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-philosophy",
+      "kind": "document",
+      "label": "The Philosophical Background of Nagi",
+      "url": "https://nagi-project.com/en/philosophy.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "philosophical-context",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-play-and-structure",
+      "kind": "document",
+      "label": "Play and Structure",
+      "url": "https://nagi-project.com/en/play_and_structure.html",
+      "status": "supplement",
+      "language": "en",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-property-and-ip",
+      "kind": "document",
+      "label": "Inheritance of Intellectual Property and Assets",
+      "url": "https://nagi-project.com/en/property_and_ip.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-public-thought-method",
+      "kind": "document",
+      "label": "How to Cultivate Public Thought",
+      "url": "https://nagi-project.com/en/public_thought_method.html",
+      "status": "supplement",
+      "language": "en",
+      "documentType": "practice-and-stewardship",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-quiet-praxis-current",
+      "kind": "document",
+      "label": "Quiet Practice",
+      "url": "https://nagi-project.com/en/quiet_praxis_current.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "practice-and-stewardship",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-rebreathing-and-public-continuity",
+      "kind": "document",
+      "label": "Re-breathing and Public Continuity",
+      "url": "https://nagi-project.com/en/rebreathing_and_public_continuity.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "practice-and-stewardship",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-repair-and-co-growth",
+      "kind": "document",
+      "label": "Repair and Cultural Co-Growth",
+      "url": "https://nagi-project.com/en/repair_and_co_growth.html",
+      "status": "supplement",
+      "language": "en",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-resonance-metrics",
+      "kind": "document",
+      "label": "Resonance Metrics — Finding Institutional Suffocation Without Scoring People",
+      "url": "https://nagi-project.com/en/resonance_metrics.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-state-and-public-spheres",
+      "kind": "document",
+      "label": "The State Is Not the Goal — Unbundling It into Revisable Public Functions",
+      "url": "https://nagi-project.com/en/state_and_public_spheres.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-technical-foundation-v1",
+      "kind": "document",
+      "label": "Technical Foundations",
+      "url": "https://nagi-project.com/en/technical/foundation_v1.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "technical-foundation",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-technical-tsumugi-network",
+      "kind": "document",
+      "label": "Tsumugi Network — A Plural Network of AI Gateways",
+      "url": "https://nagi-project.com/en/technical/tsumugi_network.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "technical-foundation",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-transition-and-crisis",
+      "kind": "document",
+      "label": "Transition and Crisis Design",
+      "url": "https://nagi-project.com/en/transition_and_crisis.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-translation-status",
+      "kind": "document",
+      "label": "English Edition — Translation Status and Governance",
+      "url": "https://nagi-project.com/en/translation_status.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "thematic-document",
+      "centralProposal": null
+    },
+    {
+      "id": "document:en-trust",
+      "kind": "document",
+      "label": "Trust and Governance",
+      "url": "https://nagi-project.com/en/trust.html",
+      "status": "current",
+      "language": "en",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:social-infrastructure-ethics",
+      "kind": "document",
+      "label": "社会的装置の倫理 — 束ねる力を、支配にしないために",
+      "url": "https://nagi-project.com/ethics_of_social_infrastructure.html",
+      "status": "canonical",
+      "language": "ja",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:experiment",
+      "kind": "document",
+      "label": "凪実験章",
+      "url": "https://nagi-project.com/experiment_v0.1.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:faq",
+      "kind": "document",
+      "label": "凪プロジェクト FAQ — 未来社会思想・非所有・共鳴民主主義・AI倫理",
+      "url": "https://nagi-project.com/faq.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "faq",
+      "centralProposal": null
+    },
+    {
+      "id": "document:free-competition",
+      "kind": "document",
+      "label": "資本主義以後の自由競争原理",
+      "url": "https://nagi-project.com/free_competition.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "institutional-economic-proposal",
+      "centralProposal": null
+    },
+    {
+      "id": "document:freedom-dissent-exit",
+      "kind": "document",
+      "label": "自由・不協和・離脱の原則",
+      "url": "https://nagi-project.com/freedom_and_dissent.html",
+      "status": "canonical",
+      "language": "ja",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:future-social-design-principles",
+      "kind": "document",
+      "label": "未来社会の設計原則 — 強い床と、開いた天井",
+      "url": "https://nagi-project.com/future_social_design_principles.html",
+      "status": "canonical",
+      "language": "ja",
+      "documentType": "thematic-document",
+      "centralProposal": null
+    },
+    {
+      "id": "document:glossary",
+      "kind": "document",
+      "label": "凪（Nagi Project）用語集 — 非所有・共鳴・呼吸・共鳴民主主義",
+      "url": "https://nagi-project.com/glossary.html",
+      "status": "canonical",
+      "language": "ja",
+      "documentType": "glossary",
+      "centralProposal": null
+    },
+    {
+      "id": "document:institutional-design",
+      "kind": "document",
+      "label": "制度設計と実践",
+      "url": "https://nagi-project.com/institutional_design.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:research-links",
+      "kind": "document",
+      "label": "外部リソース台帳",
+      "url": "https://nagi-project.com/links.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "thematic-document",
+      "centralProposal": null
+    },
+    {
+      "id": "document:memory-consent",
+      "kind": "document",
+      "label": "記憶・同意・忘却の憲章 — Memory, Consent, and the Right to Forget",
+      "url": "https://nagi-project.com/memory_and_consent.html",
+      "status": "canonical",
+      "language": "ja",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:musubi",
+      "kind": "document",
+      "label": "結び — 凪という思想の静かな根",
+      "url": "https://nagi-project.com/musubi.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:ai-charter",
+      "kind": "document",
+      "label": "凪AI憲法 — The Nagi AI Charter",
+      "url": "https://nagi-project.com/nagi_ai_charter.html",
+      "status": "canonical",
+      "language": "ja",
+      "documentType": "ai-governance",
+      "centralProposal": null
+    },
+    {
+      "id": "document:nagi-core",
+      "kind": "document",
+      "label": "凪の核 — 中心なき構造としての世界",
+      "url": "https://nagi-project.com/nagi_core.html",
+      "status": "canonical",
+      "language": "ja",
+      "documentType": "philosophical-core",
+      "centralProposal": null
+    },
+    {
+      "id": "document:nagi-os",
+      "kind": "document",
+      "label": "異なる生き方が共存するための社会基盤 — 凪OSという比喩",
+      "url": "https://nagi-project.com/nagi_os.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "philosophical-context",
+      "centralProposal": null
+    },
+    {
+      "id": "document:reading-guide",
+      "kind": "document",
+      "label": "凪の読書案内 — 5分・20分・研究のための読み方",
+      "url": "https://nagi-project.com/nagi_reading_guide.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "reading-guide",
+      "centralProposal": null
+    },
+    {
+      "id": "document:non-ownership",
+      "kind": "document",
+      "label": "非所有の社会制度化",
+      "url": "https://nagi-project.com/non_ownership.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "institutional-economic-proposal",
+      "centralProposal": null
+    },
+    {
+      "id": "document:observe-loosen-connect",
+      "kind": "document",
+      "label": "観察し、ほどき、結ぶ",
+      "url": "https://nagi-project.com/observe_loosen_connect.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "practice-and-stewardship",
+      "centralProposal": null
+    },
+    {
+      "id": "document:philosophy-background",
+      "kind": "document",
+      "label": "凪の哲学的背景",
+      "url": "https://nagi-project.com/philosophy.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "philosophical-context",
+      "centralProposal": null
+    },
+    {
+      "id": "document:play-and-structure",
+      "kind": "document",
+      "label": "遊びと構造",
+      "url": "https://nagi-project.com/play_and_structure.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:population-power",
+      "kind": "document",
+      "label": "人口と権力を切り離す — 生存保障は「人数＝力」の歴史を変えうるか",
+      "url": "https://nagi-project.com/population_and_power.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "thematic-document",
+      "centralProposal": null
+    },
+    {
+      "id": "document:property-ip",
+      "kind": "document",
+      "label": "知財と財産の継承",
+      "url": "https://nagi-project.com/property_and_ip.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:public-thought-method",
+      "kind": "document",
+      "label": "公開思想を育てる方法",
+      "url": "https://nagi-project.com/public_thought_method.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "practice-and-stewardship",
+      "centralProposal": null
+    },
+    {
+      "id": "document:quiet-praxis-current",
+      "kind": "document",
+      "label": "静かな実践技術",
+      "url": "https://nagi-project.com/quiet_praxis_current.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "practice-and-stewardship",
+      "centralProposal": null
+    },
+    {
+      "id": "document:rebreathing",
+      "kind": "document",
+      "label": "再呼吸と公開継承 — 生きた思想を、記憶の所有にしないために",
+      "url": "https://nagi-project.com/rebreathing_and_public_continuity.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "practice-and-stewardship",
+      "centralProposal": null
+    },
+    {
+      "id": "document:repair-and-co-growth",
+      "kind": "document",
+      "label": "修復と文化的共育",
+      "url": "https://nagi-project.com/repair_and_co_growth.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "culture-and-continuity",
+      "centralProposal": null
+    },
+    {
+      "id": "document:resonance-metrics",
+      "kind": "document",
+      "label": "共鳴メトリクス — Resonance Metrics for Institutional Breath",
+      "url": "https://nagi-project.com/resonance_metrics.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:state-public-spheres",
+      "kind": "document",
+      "label": "国家は目的ではなく、必要な機能へほどく",
+      "url": "https://nagi-project.com/state_and_public_spheres.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:stewardship-and-praxis",
+      "kind": "document",
+      "label": "補遺 — 思想を育てる方法と実践",
+      "url": "https://nagi-project.com/stewardship_and_praxis.html",
+      "status": "supplement",
+      "language": "ja",
+      "documentType": "practice-and-stewardship",
+      "centralProposal": null
+    },
+    {
+      "id": "document:symbol-concept",
+      "kind": "document",
+      "label": "凪プロジェクト・シンボル — 二筋六花結び",
+      "url": "https://nagi-project.com/symbol_concept.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "thematic-document",
+      "centralProposal": null
+    },
+    {
+      "id": "document:technical-foundation",
+      "kind": "document",
+      "label": "凪技術の基盤 — Technical Foundations",
+      "url": "https://nagi-project.com/technical/foundation_v1.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "technical-foundation",
+      "centralProposal": null
+    },
+    {
+      "id": "document:tsumugi-network",
+      "kind": "document",
+      "label": "AI窓口ネットワーク — Tsumugi Network",
+      "url": "https://nagi-project.com/technical/tsumugi_network.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "technical-foundation",
+      "centralProposal": null
+    },
+    {
+      "id": "document:transition-crisis",
+      "kind": "document",
+      "label": "移行と危機の設計 — Transition and Crisis Design",
+      "url": "https://nagi-project.com/transition_and_crisis.html",
+      "status": "canonical",
+      "language": "ja",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
+    },
+    {
+      "id": "document:trust",
+      "kind": "document",
+      "label": "信頼と統治",
+      "url": "https://nagi-project.com/trust.html",
+      "status": "current",
+      "language": "ja",
+      "documentType": "governance-and-safeguards",
+      "centralProposal": null
     },
     {
       "id": "concept:AI ethics",
@@ -1001,6 +1103,11 @@
       "id": "concept:energy security",
       "kind": "concept",
       "label": "energy security"
+    },
+    {
+      "id": "concept:ethical education",
+      "kind": "concept",
+      "label": "ethical education"
     },
     {
       "id": "concept:food security",
@@ -1086,6 +1193,11 @@
       "id": "concept:renewed authorization",
       "kind": "concept",
       "label": "renewed authorization"
+    },
+    {
+      "id": "concept:resource priorities",
+      "kind": "concept",
+      "label": "resource priorities"
     },
     {
       "id": "concept:right of exit",
@@ -1263,6 +1375,11 @@
       "label": "修復"
     },
     {
+      "id": "concept:倫理教育",
+      "kind": "concept",
+      "label": "倫理教育"
+    },
+    {
       "id": "concept:停止可能性",
       "kind": "concept",
       "label": "停止可能性"
@@ -1428,11 +1545,6 @@
       "label": "多元社会"
     },
     {
-      "id": "concept:学び直し",
-      "kind": "concept",
-      "label": "学び直し"
-    },
-    {
       "id": "concept:実験",
       "kind": "concept",
       "label": "実験"
@@ -1471,11 +1583,6 @@
       "id": "concept:救済",
       "kind": "concept",
       "label": "救済"
-    },
-    {
-      "id": "concept:教育",
-      "kind": "concept",
-      "label": "教育"
     },
     {
       "id": "concept:文化",
@@ -1753,6 +1860,11 @@
       "label": "資源問題"
     },
     {
+      "id": "concept:資源配分",
+      "kind": "concept",
+      "label": "資源配分"
+    },
+    {
       "id": "concept:離脱",
       "kind": "concept",
       "label": "離脱"
@@ -1769,6 +1881,1188 @@
     }
   ],
   "edges": [
+    {
+      "source": "document:en-home",
+      "target": "concept:ethical education",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:resource priorities",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:alternatives to capitalism",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:future society",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:future social philosophy",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:post-capitalism",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:Vital Commons",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "concept:Resonant Democracy",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-education",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-nagi-ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-future-social-design-principles",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-compass-and-resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-governance-and-safety",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-transition-and-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-nagi-os",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-nagi-core",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-culture",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-nagi-reading-guide",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-declaration",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-translation-status",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-glossary",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:home",
+      "relation": "translationPair"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:倫理教育",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:資源配分",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:資本主義の代替案",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:資本主義の次",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:未来の社会",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:未来社会思想",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:ポスト資本主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:生命基盤コモンズ",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "concept:共鳴民主主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:home",
+      "target": "document:future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:nagi-core",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:reading-guide",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:state-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:population-power",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:nagi-os",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:education",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:future-social-design-principles",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:governance-and-safety",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:culture",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:home",
+      "target": "document:en-home",
+      "relation": "translationPair"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "concept:ethical education",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "concept:resource priorities",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "concept:alternatives to capitalism",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "concept:future society",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "concept:future social philosophy",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "concept:post-capitalism",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "concept:Resonant Democracy",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "concept:Non-Ownership",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "concept:Vital Commons",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "concept:Institutional Immunity",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "concept:AI ethics",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "document:en-home",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "document:en-vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "document:en-education",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "document:en-nagi-os",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "document:en-institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "document:en-transition-and-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "document:en-nagi-reading-guide",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "document:en-home",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:en-future-social-philosophy",
+      "target": "document:future-social-philosophy",
+      "relation": "translationPair"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:倫理教育",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:資源配分",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:資本主義の代替案",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:資本主義の次",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:未来の社会",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:未来社会",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:未来の社会思想",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:ポスト資本主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:共鳴民主主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:コモンズ",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:AI倫理",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:脱成長",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:社会構想",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:制度免疫",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:制度設計",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "concept:既得権益",
+      "relation": "about"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:home",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:education",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:governance-and-safety",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:reading-guide",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:nagi-os",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:faq",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:research-links",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:home",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:en-future-social-philosophy",
+      "relation": "translationPair"
+    },
+    {
+      "source": "document:future-social-philosophy",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "link"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-vital-commons",
+      "relation": "hasCentralProposal",
+      "order": 1
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "concept:Vital Commons",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "concept:universal basic services",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "concept:Non-Ownership",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "concept:public AI",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "concept:energy security",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "concept:food security",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "concept:health care",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "concept:peace infrastructure",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "document:en-home",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "document:en-institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "document:en-transition-and-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "document:en-future-social-philosophy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "document:en-governance-and-safety",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "document:en-nagi-ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "document:en-home",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:en-vital-commons",
+      "target": "document:vital-commons",
+      "relation": "translationPair"
+    },
+    {
+      "source": "document:home",
+      "target": "document:vital-commons",
+      "relation": "hasCentralProposal",
+      "order": 1
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:生命基盤コモンズ",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:資本主義の代替案",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:ユニバーサル・ベーシック・サービス",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:ベーシックサービス",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:生活保障",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:非所有",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:コモンズ",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "concept:公共AI",
+      "relation": "about"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:home",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:breath-economy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:non-ownership",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:free-competition",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:nagi-os",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:ecology",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:technical-foundation",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:state-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:population-power",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:home",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:en-vital-commons",
+      "relation": "translationPair"
+    },
+    {
+      "source": "document:vital-commons",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "full"
+    },
+    {
+      "source": "document:home",
+      "target": "document:education",
+      "relation": "hasCentralProposal",
+      "order": 2
+    },
+    {
+      "source": "document:education",
+      "target": "concept:ethical education",
+      "relation": "about"
+    },
+    {
+      "source": "document:education",
+      "target": "concept:resource priorities",
+      "relation": "about"
+    },
+    {
+      "source": "document:education",
+      "target": "document:home",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
+      "target": "document:culture",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
+      "target": "document:breath-economy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
+      "target": "document:memory-consent",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
+      "target": "document:play-and-structure",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
+      "target": "document:breath-assembly",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:education",
+      "target": "document:home",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:education",
+      "target": "document:en-education",
+      "relation": "translationPair"
+    },
+    {
+      "source": "document:education",
+      "target": "document:institutional-immunity",
+      "relation": "subjectToInstitutionalImmunity",
+      "profileLevel": "brief"
+    },
+    {
+      "source": "document:en-home",
+      "target": "document:en-education",
+      "relation": "hasCentralProposal",
+      "order": 2
+    },
+    {
+      "source": "document:en-education",
+      "target": "concept:ethical education",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-education",
+      "target": "concept:resource priorities",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-education",
+      "target": "document:en-home",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-education",
+      "target": "document:en-memory-and-consent",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-education",
+      "target": "document:en-culture",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-education",
+      "target": "document:en-breath-assembly",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-education",
+      "target": "document:en-vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-education",
+      "target": "document:en-freedom-and-dissent",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-education",
+      "target": "document:education",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-education",
+      "target": "document:en-home",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:en-education",
+      "target": "document:education",
+      "relation": "translationPair"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-home",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-compass-and-resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-breath-assembly",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-freedom-and-dissent",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-memory-and-consent",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-state-and-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-resonance-metrics",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-ethics-of-social-infrastructure",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-transition-and-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-future-social-design-principles",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-nagi-ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-ai-index",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-nagi-reading-guide",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:en-home",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:en-governance-and-safety",
+      "target": "document:governance-and-safety",
+      "relation": "translationPair"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "concept:共鳴民主主義",
+      "relation": "about"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "concept:制度免疫",
+      "relation": "about"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "concept:異議と離脱",
+      "relation": "about"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "concept:移行と危機",
+      "relation": "about"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "concept:AI倫理",
+      "relation": "about"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:home",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:resonant-democracy",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:breath-assembly",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:freedom-dissent-exit",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:memory-consent",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:state-public-spheres",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:institutional-immunity",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:resonance-metrics",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:social-infrastructure-ethics",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:future-social-design-principles",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:ai-index",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:reading-guide",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:home",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:governance-and-safety",
+      "target": "document:en-governance-and-safety",
+      "relation": "translationPair"
+    },
+    {
+      "source": "document:en-institutional-immunity",
+      "target": "concept:Institutional Immunity",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-institutional-immunity",
+      "target": "concept:polycentric oversight",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-institutional-immunity",
+      "target": "concept:red teaming",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-institutional-immunity",
+      "target": "concept:remedy",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-institutional-immunity",
+      "target": "concept:emergency pause",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-institutional-immunity",
+      "target": "concept:institutional termination",
+      "relation": "about"
+    },
+    {
+      "source": "document:en-institutional-immunity",
+      "target": "document:en-governance-and-safety",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-institutional-immunity",
+      "target": "document:en-transition-and-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-institutional-immunity",
+      "target": "document:en-vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:en-institutional-immunity",
+      "target": "document:en-governance-and-safety",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:en-institutional-immunity",
+      "target": "document:institutional-immunity",
+      "relation": "translationPair"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "concept:制度免疫",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "concept:多中心監査",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "concept:レッドチーム",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "concept:暫定停止",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "concept:救済",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "concept:制度終了",
+      "relation": "about"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:governance-and-safety",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:social-infrastructure-ethics",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:transition-crisis",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:institutional-design",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:experiment",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:ai-charter",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:vital-commons",
+      "relation": "relatedTo"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:governance-and-safety",
+      "relation": "isPartOf"
+    },
+    {
+      "source": "document:institutional-immunity",
+      "target": "document:en-institutional-immunity",
+      "relation": "translationPair"
+    },
     {
       "source": "document:ai-index",
       "target": "concept:AI倫理",
@@ -2448,72 +3742,6 @@
       "profileLevel": "brief"
     },
     {
-      "source": "document:education",
-      "target": "concept:教育",
-      "relation": "about"
-    },
-    {
-      "source": "document:education",
-      "target": "concept:学び直し",
-      "relation": "about"
-    },
-    {
-      "source": "document:education",
-      "target": "concept:文化的共育",
-      "relation": "about"
-    },
-    {
-      "source": "document:education",
-      "target": "document:culture",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:education",
-      "target": "document:breath-economy",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:education",
-      "target": "document:institutional-immunity",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:education",
-      "target": "document:memory-consent",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:education",
-      "target": "document:play-and-structure",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:education",
-      "target": "document:breath-assembly",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:education",
-      "target": "document:vital-commons",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:education",
-      "target": "document:culture",
-      "relation": "isPartOf"
-    },
-    {
-      "source": "document:education",
-      "target": "document:en-education",
-      "relation": "translationPair"
-    },
-    {
-      "source": "document:education",
-      "target": "document:institutional-immunity",
-      "relation": "subjectToInstitutionalImmunity",
-      "profileLevel": "brief"
-    },
-    {
       "source": "document:emotion",
       "target": "document:culture",
       "relation": "relatedTo"
@@ -2945,46 +4173,6 @@
       "relation": "translationPair"
     },
     {
-      "source": "document:en-education",
-      "target": "document:en-culture",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-education",
-      "target": "document:en-memory-and-consent",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-education",
-      "target": "document:en-breath-assembly",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-education",
-      "target": "document:en-vital-commons",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-education",
-      "target": "document:en-freedom-and-dissent",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-education",
-      "target": "document:education",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-education",
-      "target": "document:en-culture",
-      "relation": "isPartOf"
-    },
-    {
-      "source": "document:en-education",
-      "target": "document:education",
-      "relation": "translationPair"
-    },
-    {
       "source": "document:en-emotion",
       "target": "document:en-culture",
       "relation": "relatedTo"
@@ -3300,96 +4488,6 @@
       "relation": "translationPair"
     },
     {
-      "source": "document:en-future-social-philosophy",
-      "target": "concept:alternatives to capitalism",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "concept:future society",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "concept:future social philosophy",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "concept:post-capitalism",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "concept:Resonant Democracy",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "concept:Non-Ownership",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "concept:Vital Commons",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "concept:Institutional Immunity",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "concept:AI ethics",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-home",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-vital-commons",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-education",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-nagi-os",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-institutional-immunity",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-transition-and-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-nagi-reading-guide",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-home",
-      "relation": "isPartOf"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:future-social-philosophy",
-      "relation": "translationPair"
-    },
-    {
       "source": "document:en-glossary",
       "target": "document:en-home",
       "relation": "relatedTo"
@@ -3407,211 +4505,6 @@
     {
       "source": "document:en-glossary",
       "target": "document:glossary",
-      "relation": "translationPair"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-home",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-compass-and-resonant-democracy",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-breath-assembly",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-freedom-and-dissent",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-memory-and-consent",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-institutional-design",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-state-and-public-spheres",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-institutional-immunity",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-resonance-metrics",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-ethics-of-social-infrastructure",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-transition-and-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-future-social-design-principles",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-nagi-ai-charter",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-ai-index",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-vital-commons",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-nagi-reading-guide",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:en-home",
-      "relation": "isPartOf"
-    },
-    {
-      "source": "document:en-governance-and-safety",
-      "target": "document:governance-and-safety",
-      "relation": "translationPair"
-    },
-    {
-      "source": "document:en-home",
-      "target": "concept:alternatives to capitalism",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-home",
-      "target": "concept:future society",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-home",
-      "target": "concept:future social philosophy",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-home",
-      "target": "concept:post-capitalism",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-home",
-      "target": "concept:Vital Commons",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-home",
-      "target": "concept:Resonant Democracy",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-vital-commons",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-education",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-nagi-ai-charter",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-future-social-design-principles",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-compass-and-resonant-democracy",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-governance-and-safety",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-institutional-immunity",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-transition-and-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-nagi-os",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-future-social-philosophy",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-nagi-core",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-culture",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-nagi-reading-guide",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-declaration",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-translation-status",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:en-glossary",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-home",
-      "target": "document:home",
       "relation": "translationPair"
     },
     {
@@ -3647,61 +4540,6 @@
     {
       "source": "document:en-institutional-design",
       "target": "document:institutional-design",
-      "relation": "translationPair"
-    },
-    {
-      "source": "document:en-institutional-immunity",
-      "target": "concept:Institutional Immunity",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-institutional-immunity",
-      "target": "concept:polycentric oversight",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-institutional-immunity",
-      "target": "concept:red teaming",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-institutional-immunity",
-      "target": "concept:remedy",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-institutional-immunity",
-      "target": "concept:emergency pause",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-institutional-immunity",
-      "target": "concept:institutional termination",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-institutional-immunity",
-      "target": "document:en-governance-and-safety",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-institutional-immunity",
-      "target": "document:en-transition-and-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-institutional-immunity",
-      "target": "document:en-vital-commons",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-institutional-immunity",
-      "target": "document:en-governance-and-safety",
-      "relation": "isPartOf"
-    },
-    {
-      "source": "document:en-institutional-immunity",
-      "target": "document:institutional-immunity",
       "relation": "translationPair"
     },
     {
@@ -4700,86 +5538,6 @@
       "relation": "translationPair"
     },
     {
-      "source": "document:en-vital-commons",
-      "target": "concept:Vital Commons",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "concept:universal basic services",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "concept:Non-Ownership",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "concept:public AI",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "concept:energy security",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "concept:food security",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "concept:health care",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "concept:peace infrastructure",
-      "relation": "about"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "document:en-home",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "document:en-institutional-immunity",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "document:en-transition-and-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "document:en-future-social-philosophy",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "document:en-governance-and-safety",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "document:en-nagi-ai-charter",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "document:en-home",
-      "relation": "isPartOf"
-    },
-    {
-      "source": "document:en-vital-commons",
-      "target": "document:vital-commons",
-      "relation": "translationPair"
-    },
-    {
       "source": "document:social-infrastructure-ethics",
       "target": "concept:社会的装置",
       "relation": "about"
@@ -5289,167 +6047,6 @@
       "relation": "translationPair"
     },
     {
-      "source": "document:future-social-philosophy",
-      "target": "concept:資本主義の代替案",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:資本主義の次",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:未来の社会",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:未来社会",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:未来の社会思想",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:ポスト資本主義",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:共鳴民主主義",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:非所有",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:コモンズ",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:AI倫理",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:脱成長",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:社会構想",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:制度免疫",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:制度設計",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "concept:既得権益",
-      "relation": "about"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:home",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:nagi-core",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:resonant-democracy",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:faq",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:glossary",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:research-links",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:institutional-immunity",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:institutional-design",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:state-public-spheres",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:vital-commons",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:nagi-os",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:education",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:transition-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:reading-guide",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:home",
-      "relation": "isPartOf"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:en-future-social-philosophy",
-      "relation": "translationPair"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:institutional-immunity",
-      "relation": "subjectToInstitutionalImmunity",
-      "profileLevel": "link"
-    },
-    {
       "source": "document:glossary",
       "target": "concept:用語集",
       "relation": "about"
@@ -5502,241 +6099,6 @@
     {
       "source": "document:glossary",
       "target": "document:en-glossary",
-      "relation": "translationPair"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "concept:共鳴民主主義",
-      "relation": "about"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "concept:制度免疫",
-      "relation": "about"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "concept:異議と離脱",
-      "relation": "about"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "concept:移行と危機",
-      "relation": "about"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "concept:AI倫理",
-      "relation": "about"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:home",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:resonant-democracy",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:breath-assembly",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:freedom-dissent-exit",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:memory-consent",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:institutional-design",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:state-public-spheres",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:institutional-immunity",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:resonance-metrics",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:social-infrastructure-ethics",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:transition-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:future-social-design-principles",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:ai-charter",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:ai-index",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:vital-commons",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:reading-guide",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:home",
-      "relation": "isPartOf"
-    },
-    {
-      "source": "document:governance-and-safety",
-      "target": "document:en-governance-and-safety",
-      "relation": "translationPair"
-    },
-    {
-      "source": "document:home",
-      "target": "concept:資本主義の代替案",
-      "relation": "about"
-    },
-    {
-      "source": "document:home",
-      "target": "concept:資本主義の次",
-      "relation": "about"
-    },
-    {
-      "source": "document:home",
-      "target": "concept:未来の社会",
-      "relation": "about"
-    },
-    {
-      "source": "document:home",
-      "target": "concept:未来社会思想",
-      "relation": "about"
-    },
-    {
-      "source": "document:home",
-      "target": "concept:ポスト資本主義",
-      "relation": "about"
-    },
-    {
-      "source": "document:home",
-      "target": "concept:生命基盤コモンズ",
-      "relation": "about"
-    },
-    {
-      "source": "document:home",
-      "target": "concept:共鳴民主主義",
-      "relation": "about"
-    },
-    {
-      "source": "document:home",
-      "target": "document:future-social-philosophy",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:nagi-core",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:reading-guide",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:institutional-design",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:state-public-spheres",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:vital-commons",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:population-power",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:nagi-os",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:education",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:ai-charter",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:institutional-immunity",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:future-social-design-principles",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:resonant-democracy",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:transition-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:governance-and-safety",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:culture",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:home",
-      "target": "document:en-home",
       "relation": "translationPair"
     },
     {
@@ -5834,81 +6196,6 @@
       "target": "document:institutional-immunity",
       "relation": "subjectToInstitutionalImmunity",
       "profileLevel": "full"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "concept:制度免疫",
-      "relation": "about"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "concept:多中心監査",
-      "relation": "about"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "concept:レッドチーム",
-      "relation": "about"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "concept:暫定停止",
-      "relation": "about"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "concept:救済",
-      "relation": "about"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "concept:制度終了",
-      "relation": "about"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "document:governance-and-safety",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "document:social-infrastructure-ethics",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "document:transition-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "document:institutional-design",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "document:experiment",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "document:ai-charter",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "document:vital-commons",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "document:governance-and-safety",
-      "relation": "isPartOf"
-    },
-    {
-      "source": "document:institutional-immunity",
-      "target": "document:en-institutional-immunity",
-      "relation": "translationPair"
     },
     {
       "source": "document:research-links",
@@ -7504,122 +7791,6 @@
       "target": "document:institutional-immunity",
       "relation": "subjectToInstitutionalImmunity",
       "profileLevel": "brief"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:生命基盤コモンズ",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:資本主義の代替案",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:ユニバーサル・ベーシック・サービス",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:ベーシックサービス",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:生活保障",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:非所有",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:コモンズ",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "concept:公共AI",
-      "relation": "about"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:home",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:breath-economy",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:non-ownership",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:free-competition",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:nagi-os",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:ecology",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:ai-charter",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:technical-foundation",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:state-public-spheres",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:transition-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:population-power",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:institutional-immunity",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:home",
-      "relation": "isPartOf"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:en-vital-commons",
-      "relation": "translationPair"
-    },
-    {
-      "source": "document:vital-commons",
-      "target": "document:institutional-immunity",
-      "relation": "subjectToInstitutionalImmunity",
-      "profileLevel": "full"
     }
   ]
 }

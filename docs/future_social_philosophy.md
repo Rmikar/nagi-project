@@ -8,6 +8,8 @@ permalink: /future_social_philosophy.html
 status: canonical
 last_updated: 2026-11-16
 keywords:
+  - 倫理教育
+  - 資源配分
   - 資本主義の代替案
   - 資本主義の次
   - 未来の社会

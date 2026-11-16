@@ -2,14 +2,17 @@
 layout: default
 lang: en
 status: current
-last_updated: 2026-11-13
+last_updated: 2026-11-16
 title: "Education for a Future in Nagi"
-description: "Nagi’s approach to learning about ethics, social structures, human life, and natural cycles, and to making education a place where people can rethink how they live together."
+description: "Nagi’s second central proposal: prioritize ethical education and resources for understanding interdependence, questioning domination, and revising judgments."
 permalink: /en/education.html
 source_language: ja
 source_url: /education.html
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-11-13
+translation_last_reviewed: 2026-11-16
+keywords:
+  - ethical education
+  - resource priorities
 ---
 
 # Education for a Future in Nagi
