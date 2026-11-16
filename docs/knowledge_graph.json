@@ -313,7 +313,7 @@
     {
       "id": "document:en-future-social-philosophy",
       "kind": "document",
-      "label": "Nagi as a Future Social Philosophy — Post-Capitalism, Resonant Democracy, and AI Ethics",
+      "label": "Nagi in Five Minutes — Two Central Proposals",
       "url": "https://nagi-project.com/en/future_social_philosophy.html",
       "status": "current",
       "language": "en",
@@ -637,7 +637,7 @@
     {
       "id": "document:future-social-philosophy",
       "kind": "document",
-      "label": "未来の社会思想としての凪 — ポスト資本主義・共鳴民主主義・AI倫理",
+      "label": "5分で読む凪 — 二つの中心提案と社会の全体像",
       "url": "https://nagi-project.com/future_social_philosophy.html",
       "status": "canonical",
       "language": "ja",
@@ -3351,17 +3351,7 @@
     },
     {
       "source": "document:en-future-social-philosophy",
-      "target": "document:en-nagi-os",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
       "target": "document:en-vital-commons",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-institutional-design",
       "relation": "relatedTo"
     },
     {
@@ -3371,27 +3361,7 @@
     },
     {
       "source": "document:en-future-social-philosophy",
-      "target": "document:en-nagi-core",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-declaration",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-compass-and-resonant-democracy",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-freedom-and-dissent",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-governance-and-safety",
+      "target": "document:en-nagi-os",
       "relation": "relatedTo"
     },
     {
@@ -3402,11 +3372,6 @@
     {
       "source": "document:en-future-social-philosophy",
       "target": "document:en-transition-and-crisis",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:en-future-social-philosophy",
-      "target": "document:en-nagi-ai-charter",
       "relation": "relatedTo"
     },
     {
@@ -5460,22 +5425,12 @@
     },
     {
       "source": "document:future-social-philosophy",
-      "target": "document:population-power",
+      "target": "document:transition-crisis",
       "relation": "relatedTo"
     },
     {
       "source": "document:future-social-philosophy",
-      "target": "document:declaration",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:freedom-dissent-exit",
-      "relation": "relatedTo"
-    },
-    {
-      "source": "document:future-social-philosophy",
-      "target": "document:social-infrastructure-ethics",
+      "target": "document:reading-guide",
       "relation": "relatedTo"
     },
     {
