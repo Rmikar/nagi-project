@@ -6,12 +6,12 @@ title: "Nagi Project — Rethinking Capitalism, Religion, and Social Systems"
 seo_title: "Rethinking Capitalism, Religion, and Social Systems"
 short_title: "Nagi Project"
 description: "A philosophy for those questioning capitalism, religion, and today's social systems. Nagi rethinks survival, coexistence, concentrated power, and shared responsibility."
-last_updated: 2026-11-13
+last_updated: 2026-11-16
 permalink: /en/
 source_language: ja
 source_url: /
 translation_status: "maintained translation"
-translation_last_reviewed: 2026-11-13
+translation_last_reviewed: 2026-11-16
 keywords:
   - alternatives to capitalism
   - future society
@@ -57,6 +57,8 @@ Nagi is not a finished system that simply rejects capitalism. It is one social p
 ---
 
 ## Nagi’s two central proposals
+
+Nagi gives the highest priority to making the foundations of life non-owned in its social systems, and to cultivating the ethics that sustain the world’s cycles in its education systems. It directs funding, human resources, technology, and time for learning toward these two priorities, continually strengthening the foundations of a society where people can live with greater ease.
 
 1. [**Free survival from ownership**](#free-survival-from-ownership)
 2. [**Make the ethics that sustain the world’s cycles the highest priority in education**](#make-the-ethics-that-sustain-the-worlds-cycles-the-highest-priority-in-education)
