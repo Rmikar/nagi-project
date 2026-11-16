@@ -1,6 +1,6 @@
 {
   "name": "Nagi Project complete public document registry",
-  "dateModified": "2026-11-13",
+  "dateModified": "2026-11-16",
   "baseUrl": "https://nagi-project.com/",
   "documents": [
     {
@@ -1359,7 +1359,7 @@
       "role": "Reference overview",
       "summary": "A philosophy for those questioning capitalism, religion, and today's social systems. Nagi rethinks survival, coexistence, concentrated power, and shared responsibility.",
       "language": "en",
-      "last_updated": "2026-11-13",
+      "last_updated": "2026-11-16",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
@@ -1392,8 +1392,8 @@
       "translation_of": "home",
       "translation": "home",
       "translation_status": "maintained translation",
-      "translation_last_reviewed": "2026-11-13",
-      "source_last_updated": "2026-11-13",
+      "translation_last_reviewed": "2026-11-16",
+      "source_last_updated": "2026-11-16",
       "translation_needs_review": false
     },
     {
@@ -2862,7 +2862,7 @@
       "role": "思想上の正本・全体像",
       "summary": "資本主義や宗教など、今の社会の仕組みに限界を感じたときに読む思想。生存と自由、価値観、権力と責任の集中を問い直し、生命基盤コモンズから未来社会の設計を探求する凪プロジェクト。",
       "language": "ja",
-      "last_updated": "2026-11-13",
+      "last_updated": "2026-11-16",
       "indexable": true,
       "robots": "index, follow",
       "topics": [
