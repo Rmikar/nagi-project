@@ -89,9 +89,39 @@ Basic access does not depend on payment capacity, work capacity, reputation, par
 ### Proposal 2 | Make the ethics that sustain the world’s cycles the highest priority in education
 {: #make-the-ethics-that-sustain-the-worlds-cycles-the-highest-priority-in-education .central-proposal-heading }
 
-We learn how human lives unfold and how natural and social cycles sustain everyday life. With that understanding, we ask how to live, how to support one another, and what to pass on to future generations. Nagi puts this ethical inquiry at the heart of education and cultivates it in everyday conduct and social institutions.
+**Education centers on understanding how people, society, and nature sustain one another, and on developing the judgment to nurture those connections without damaging them.**
 
-We ask which technologies serve that purpose, then learn and use them. Educational institutions also respond to learners’ questions by reviewing their own rules and examining the effects of changes together.
+Creating institutions alone cannot sustain a society. If those responsible for allocation and maintenance use their positions for their own benefit or to dominate others, even non-owned foundations of life can become a new source of power over people.
+
+Nagi therefore pursues both the transformation of the foundations of life and the cultivation of the ethics that sustain them.
+
+#### 1. Learn how everyday life connects to the wider world
+
+Food, water, energy, shelter, and health care. Everyday life depends on natural cycles and on the work and care of many people.
+
+Where does what we receive come from? Who benefits from our choices, and who bears the burdens? How do those effects reach distant communities and future generations?
+
+**We develop a foundation for judging how to live together by understanding connections that remain invisible when we consider only our own interests.**
+
+#### 2. Cultivate shared norms that do not take domination for granted
+
+Practices once taken for granted can become socially unacceptable as understanding of their harms and injustice spreads.
+
+How many people have lost what, in the name of protecting someone else's interests or position? We learn both from the experiences of individual people harmed and from the wider effects across society. We also ask why people at the time accepted those practices and what made them difficult to change.
+
+**A role in sustaining people's lives does not confer a right to demand their obedience.**
+
+We cultivate this understanding not merely as knowledge to remember, but by connecting it to situations in which we hold authority and to decisions made in the groups around us.
+
+#### 3. Direct educational resources toward learning and practicing ethics
+
+Nagi gives priority to this learning in the allocation of educational time, people, and funding.
+
+It makes time for studying history and philosophy, for dialogue with people in different positions, and for encounters with local production, maintenance, and care. Schools themselves become places where learners can question the reasons for rules, try changes, and examine their effects together.
+
+Science and technology are also studied as ways to address the problems discovered through this learning. Alongside what a technology can do, we consider why to use it and whose lives it will change, and how.
+
+Education does not aim to make everyone conform to a single model of a good person. **It develops the capacity to consider and reconsider how our judgments affect other people and the future, while respecting different ways of life.**
 
 → [Education for a Future in Nagi](education.html)
 
