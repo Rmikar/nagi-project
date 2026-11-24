@@ -1,6 +1,6 @@
 {
   "name": "Nagi Project complete public document registry",
-  "dateModified": "2026-11-16",
+  "dateModified": "2026-11-25",
   "baseUrl": "https://nagi-project.com/",
   "documents": [
     {
@@ -1190,7 +1190,7 @@
       "translation": "freedom-dissent-exit",
       "translation_status": "working translation",
       "translation_last_reviewed": "2026-07-12",
-      "source_last_updated": "2026-07-16",
+      "source_last_updated": "2026-11-25",
       "translation_needs_review": true
     },
     {
@@ -2658,7 +2658,7 @@
       "role": "統治・権利・安全設計",
       "summary": "凪の中心なき構造を守るため、異議、沈黙、拒否、非参加、離脱、役割から降りる自由を保障する原則。",
       "language": "ja",
-      "last_updated": "2026-07-16",
+      "last_updated": "2026-11-25",
       "indexable": true,
       "robots": "index, follow",
       "topics": [

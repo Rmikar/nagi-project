@@ -28,7 +28,7 @@
 - Creator: 紬実花（TsumugiMika）
 - Reference language: Japanese
 - License: CC BY-SA 4.0
-- Registry updated: 2026-11-16
+- Registry updated: 2026-11-25
 - English maintained edition: https://nagi-project.com/en/
 
 ## 正本

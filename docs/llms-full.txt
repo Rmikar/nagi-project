@@ -3,7 +3,7 @@
 Creator: 紬実花（TsumugiMika）
 Reference language: Japanese
 License: CC BY-SA 4.0
-Updated: 2026-11-16
+Updated: 2026-11-25
 Canonical site: https://nagi-project.com/
 
 READMEと公開トップを思想上の正本とし、正本、現行、補遺の順に解釈する。
@@ -3022,7 +3022,7 @@ Source: https://nagi-project.com/freedom_and_dissent.html
 Status: canonical
 Type: governance-and-safeguards
 Role: 統治・権利・安全設計
-Updated: 2026-07-16
+Updated: 2026-11-25
 Summary: 凪の中心なき構造を守るため、異議、沈黙、拒否、非参加、離脱、役割から降りる自由を保障する原則。
 
 
@@ -3065,6 +3065,10 @@ Summary: 凪の中心なき構造を守るため、異議、沈黙、拒否、�
 社会が役割の継続を望む場合も、本人の明確な同意、撤回、辞任、私生活、安全を守る。
 
 役割から降りた人の生活、家族関係、尊厳、社会参加を損なってはならない。
+
+権力は、行使される側の自由を狭めるだけでなく、持つ側を期待、責任、代替不能性へ固定し、役割から降りる自由を狭めることがある。
+
+だから権力の制御は、行使される側を守るだけでなく、担い手を神格化・固定化せず、交代可能にすることでもある。ただし、持つ側の拘束を理由に、権力行使による害や責任の非対称性を打ち消してはならない。
 
 ## 5. 観測されない自由
 
